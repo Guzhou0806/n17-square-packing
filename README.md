@@ -61,7 +61,7 @@ clean checkout. No fake `verify_all` command is supplied.
 
 ## Attribution and publication
 
-The supplied proof credits Joshua Levy's `squares` project for the atom measure and
+The supplied proof credits [Joshua Levy's `squares`](https://github.com/jlevy/squares)) project for the atom measure and
 source coverage algorithms, pinned to commit
 `035d84c655b4047bc9986c9a3db5106780d92f77`, and credits T-022/M14 for the dilation-limit
 argument. M19's stated increment is the nonuniform 197-direction evidence and its

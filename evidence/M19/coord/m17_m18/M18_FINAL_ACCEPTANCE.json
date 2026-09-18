@@ -1,0 +1,12 @@
+{
+  "status": "ACCEPTED_FINITE_NEGATIVE_EXPERIMENT",
+  "milestone": "M18",
+  "record_improvement": false,
+  "project_best_improvement": false,
+  "feasible_repaired_candidates": 2,
+  "raw_generic_exact_binary_geometry": "FAIL",
+  "portable_replay": "PASS",
+  "independent_scope": "Final candidate geometry and length comparisons only; not a new independent audit of every optimizer call or repair threshold.",
+  "reported_optimizer_calls": 2,
+  "certificate_sha256": "85270033f95ee388642c997c6cb2f4c65d348e05acc64c124a97774fc1f10119"
+}

@@ -1,0 +1,24 @@
+{
+  "authorization_sha256": "4e584e474d7f3b4f590877aeaa467d1f403bd5fb077c9a8b9ab81be8e758d79e",
+  "bindings": {
+    ".deps\\m2\\site-packages\\numpy-2.5.3.dist-info\\METADATA": "451a9b8028000588e66b0b415587b6aef0bbc51a96d8e8a0cba0dc23acf64f99",
+    ".deps\\m2\\site-packages\\numpy\\__init__.py": "a6958cb364663b7acce81ccfd58eeb65a2b34d5376157f924777b97211a73be4",
+    "research\\m17_work\\run_001\\DIRECTIONS.jsonl": "c4898a550541964260091bdf6a79a9483832d412cbfa5a8d734de2fe0fc62b77",
+    "workers\\T1\\outputs\\m10_m11\\global_followup\\certificate.json": "461cb731917bdaf7a58f54be651ca2c782bc519790d79d0fe4941c24fdd4c652",
+    "workers\\T1\\outputs\\m10_m11\\global_followup\\m12\\source\\src\\sqpack\\fractional\\model.py": "2ef606e89a77f703041e5397d6f34ebb76289adfd2876c80abae868b081b6696",
+    "workers\\T1\\outputs\\m10_m11\\global_followup\\m12\\source\\src\\sqpack\\fractional\\sweep.py": "b6b5f016a8d6ab632e0ea8ee30effa75d4bf11ca9acece72e2e933048b5714ee"
+  },
+  "completed": 17,
+  "expected": 17,
+  "failing_rows": 1,
+  "namespace_shim": true,
+  "numpy_path": "C:\\Users\\25852\\Documents\\n17 square problem\\.deps\\m2\\site-packages\\numpy\\__init__.py",
+  "numpy_version": "2.5.3",
+  "passing_rows": 16,
+  "scope": "exactly the 17 rows already produced by M17; no unswept direction",
+  "seconds": 3.6047356000635773,
+  "soft_seconds": 30.0,
+  "status": "PASS_EXACT_MATCH_17",
+  "threshold": "423327/425000",
+  "weight_scale": 200000
+}

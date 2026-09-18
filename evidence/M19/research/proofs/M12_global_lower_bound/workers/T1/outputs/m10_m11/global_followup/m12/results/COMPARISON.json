@@ -1,0 +1,15 @@
+{
+  "all_equal": true,
+  "direction_count": 181,
+  "directions_jsonl_sha256": "f639e8464feb88c86b1f051018d5b72156295d604d98583264842f663b096be1",
+  "mismatch_indices": [],
+  "scaled_accepted": true,
+  "scaled_minimum": "200009/200000",
+  "scaled_result_sha256": "d0725160831f743e967083054dac76a5d49ce01577d32404c055e0f8662aee02",
+  "scaled_worst_direction": "0",
+  "schema_version": "n17.m12.exact-comparison.v1",
+  "source_accepted": true,
+  "source_minimum": "200009/200000",
+  "source_result_sha256": "4ad6d4fff965e014a1aba2947ee404eb0987fca2606a7125a58286cf8971e3e0",
+  "source_worst_direction": "0"
+}

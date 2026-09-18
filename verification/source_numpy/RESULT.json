@@ -1,0 +1,41 @@
+{
+  "schema": "n17.release.source-crosscheck.v1",
+  "status": "PASS_SOURCE_CROSSCHECK_198",
+  "started_at_utc": "2026-09-18T03:51:22.016164+00:00",
+  "python": "3.13.5 (main, Jul 15 2026, 20:25:40) [GCC 14.2.0]",
+  "platform": "Linux-6.18.44-x86_64-with-glibc2.41",
+  "adapter_sha256": "a975814ee7851990e81a97d9a5ab94cd656a5b6a4a800291b75ce1f04b2b26c5",
+  "scope": "Fresh retained-source NumPy sweep on 181 old + 17 M17 directions; not a recreation of historical NumPy 2.5.3.",
+  "integrity": {
+    "status": "PASS",
+    "frozen_files_checked": 131,
+    "original_manifest_entries_checked": {
+      "evidence/M19": 128,
+      "evidence/M19/research/proofs/M12_global_lower_bound": 56
+    },
+    "acceptance_certificate_and_audit_bound": true,
+    "evidence_manifest_sha256": "2caaea2ce5c690e471edb199089585b8ca783cae3e038f36600f22bd8d4cb935"
+  },
+  "numpy_version": "2.3.5",
+  "frozen_model_sha256": "2ef606e89a77f703041e5397d6f34ebb76289adfd2876c80abae868b081b6696",
+  "frozen_sweep_sha256": "b6b5f016a8d6ab632e0ea8ee30effa75d4bf11ca9acece72e2e933048b5714ee",
+  "completed": 198,
+  "certified_net_nodes": 197,
+  "retained_failure_witnesses": 1,
+  "all_exact_minima_match": true,
+  "exact_direct_witness_checks": 198,
+  "failed_captured_atoms": 125,
+  "weight_scale": 200000,
+  "integrity_after_replay": {
+    "status": "PASS",
+    "frozen_files_checked": 131,
+    "original_manifest_entries_checked": {
+      "evidence/M19": 128,
+      "evidence/M19/research/proofs/M12_global_lower_bound": 56
+    },
+    "acceptance_certificate_and_audit_bound": true,
+    "evidence_manifest_sha256": "2caaea2ce5c690e471edb199089585b8ca783cae3e038f36600f22bd8d4cb935"
+  },
+  "seconds": 39.927509756999996,
+  "finished_at_utc": "2026-09-18T03:52:01.943958+00:00"
+}

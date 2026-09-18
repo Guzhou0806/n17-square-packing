@@ -1,0 +1,35 @@
+{
+  "status": "PASS_REGISTERED_GLOBAL_LOWER_BOUND",
+  "claim": {
+    "claim_id": "CL-M12-001",
+    "status": "RIGOROUSLY_CERTIFIED",
+    "kind": "GLOBAL_LOWER_BOUND_FIXED_DILATION_COROLLARY",
+    "statement": "No packing of 17 interior-disjoint unit squares exists in a square of side 459000459/100000000; hence s(17) >= 459000459/100000000.",
+    "lower_bound": "459000459/100000000",
+    "lower_bound_decimal": "4.59000459",
+    "scale": "1000001/1000000",
+    "source_id": "S16",
+    "source_commit": "035d84c655b4047bc9986c9a3db5106780d92f77",
+    "original_certificate_sha256": "461cb731917bdaf7a58f54be651ca2c782bc519790d79d0fe4941c24fdd4c652",
+    "scaled_certificate_sha256": "6979561eb5137270f7baabc782cafc0580f3483a9bfcdf47fef427484285980c",
+    "proof_path": "research/proofs/M12_global_lower_bound/PROOF.md",
+    "independent_directions": 181,
+    "minimum_mass": "200009/200000",
+    "total_mass": "423327/25000",
+    "comparison_baseline": "459/100",
+    "improvement_over_locked_source": "459/100000000",
+    "method_novelty": false,
+    "external_priority": "UNKNOWN",
+    "accepted_at": "2026-09-17T11:45:08.058742+00:00",
+    "not_claimed": [
+      "global optimum",
+      "world record",
+      "new dilation method",
+      "first discovery"
+    ]
+  },
+  "portable_replay": "t0_portable_replay/REPLAY.json",
+  "audit_sha256": "939e841ab51e6a4b7f6bf5f04a27be3ba6f3f242ea5cbceba9946ce4288700db",
+  "tests": 13,
+  "source_environment_qualification": "Python3.12, one worker, documented CPU-count API shim; independent replay standard-library only."
+}

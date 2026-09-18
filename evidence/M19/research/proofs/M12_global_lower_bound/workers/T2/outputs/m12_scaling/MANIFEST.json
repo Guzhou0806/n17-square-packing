@@ -1,0 +1,44 @@
+{
+  "schema": "n17.m12.t2-delivery.v1",
+  "status": "PASS_FOR_REGISTRATION",
+  "files": [
+    {
+      "path": "audit_m12.py",
+      "sha256": "1858a6fef3537dbba004eccf7fdf39b1c923a31e203433de6e7eac2d9cb7d81c"
+    },
+    {
+      "path": "SOURCE_MANIFEST_PRE_RUN.json",
+      "sha256": "35e8ef4b6078f2e28af5cfe99fbdfea10249a73a8f956c413ae254eebfd88a0d"
+    },
+    {
+      "path": "ATTEMPT_001_AUDIT.json",
+      "sha256": "b5c2bb56ad69d0e21895797be4e4cb13435826953da282515da40083e58fc9af"
+    },
+    {
+      "path": "verify_certificate_scaling.py",
+      "sha256": "9a0d907cc01afb7198144d0babfb3b39c8e29f47fa9eb10a412ae2563e12eaa9"
+    },
+    {
+      "path": "SCALING_BINDING_SOURCE_MANIFEST_PRE_RUN.json",
+      "sha256": "1fb1f6936aa732c407ae38ab8451f973456925f4a2eeae39988fdefee5102f52"
+    },
+    {
+      "path": "ATTEMPT_001_SCALING_BINDING.json",
+      "sha256": "cc33c64e74331888acfd38ac581790819efbea095dd864778094fd1d45bbc7a6"
+    },
+    {
+      "path": "M12_CODE_MATH_AUDIT.md",
+      "sha256": "939e841ab51e6a4b7f6bf5f04a27be3ba6f3f242ea5cbceba9946ce4288700db"
+    },
+    {
+      "path": "HANDOFF.md",
+      "sha256": "f81f14f30706cab31a9e1a64ab45a2bd980712f3a685be4798f904bce5789957"
+    }
+  ],
+  "locked_claim": {
+    "lower_bound": "459000459/100000000",
+    "decimal": "4.59000459",
+    "minimum_net_mass": "200009/200000",
+    "strict_containment_margin": "2793464693461/900000000000000000"
+  }
+}

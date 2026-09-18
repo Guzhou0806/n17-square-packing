@@ -1,0 +1,97 @@
+{
+  "bindings": {
+    "audit_source_sha256": "1858a6fef3537dbba004eccf7fdf39b1c923a31e203433de6e7eac2d9cb7d81c",
+    "fixed_input_sha256": "461cb731917bdaf7a58f54be651ca2c782bc519790d79d0fe4941c24fdd4c652",
+    "t0_source": "research/m12_work/independent_sweep.py",
+    "t0_source_sha256": "1ddb94bb2a1a0350489752c44a5e9c4622c247f0142570fa5b622675ca652b38"
+  },
+  "schema": "n17.m12.t2-independent-audit.v1",
+  "scope": "Code/math audit and exact verification only; no packing optimization.",
+  "status": "PASS",
+  "test_count": 13,
+  "tests": [
+    {
+      "name": "range_tree_all_subranges",
+      "operations": 5,
+      "queries": 140,
+      "status": "PASS"
+    },
+    {
+      "minimum": "0",
+      "name": "coincident_start_end_events",
+      "non_midpoint_cells": 0,
+      "oracle_cells": 9,
+      "status": "PASS"
+    },
+    {
+      "minimum": "0",
+      "name": "outside_atom_event_zero_region",
+      "non_midpoint_cells": 4,
+      "oracle_cells": 25,
+      "status": "PASS"
+    },
+    {
+      "minimum": "0",
+      "name": "full_strip_projection_not_midpoint",
+      "non_midpoint_cells": 4,
+      "oracle_cells": 25,
+      "status": "PASS"
+    },
+    {
+      "minimum": "0",
+      "name": "direction_endpoint_t0",
+      "non_midpoint_cells": 0,
+      "oracle_cells": 49,
+      "status": "PASS"
+    },
+    {
+      "minimum": "0",
+      "name": "direction_endpoint_over_pi_over_4",
+      "non_midpoint_cells": 16,
+      "oracle_cells": 153,
+      "status": "PASS"
+    },
+    {
+      "minimum": "0",
+      "name": "independent_scaling_bijection",
+      "status": "PASS"
+    },
+    {
+      "D": "207107/90000000",
+      "margin": "89792802792893/180000000000000",
+      "name": "valid_D4_endpoint_and_lambda",
+      "status": "PASS"
+    },
+    {
+      "name": "D4_missing_orbit_rejected",
+      "rejection": "D4 rotation failed",
+      "status": "PASS"
+    },
+    {
+      "name": "negative_weight_rejected",
+      "rejection": "",
+      "status": "PASS"
+    },
+    {
+      "name": "short_direction_arc_rejected",
+      "rejection": "arc endpoint failed",
+      "status": "PASS"
+    },
+    {
+      "name": "lambda_containment_failure_rejected",
+      "rejection": "strict containment failed",
+      "status": "PASS"
+    },
+    {
+      "directions": 181,
+      "minimum": "200009/200000",
+      "name": "full_181_direction_three_way_comparison",
+      "status": "PASS",
+      "t0_directions_sha256": "2883a709797923e7ce0b9889ab946e7399e52d7db5c866ba3faf71f3ca712fa4",
+      "t0_result_sha256": "5fa6210087f3e2c2ac8bb98053f88358051fdfdc4ccc2e6301661648edffc7b0",
+      "t1_comparison_sha256": "f45ad7ef4131198621ea76e2982b3db58032da83921c86b8dfffca4454fcc347",
+      "t1_scaled_result_sha256": "d0725160831f743e967083054dac76a5d49ce01577d32404c055e0f8662aee02",
+      "t1_source_result_sha256": "4ad6d4fff965e014a1aba2947ee404eb0987fca2606a7125a58286cf8971e3e0"
+    }
+  ]
+}

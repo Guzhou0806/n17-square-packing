@@ -1,0 +1,4 @@
+# Only for scripts/source_crosscheck.py. The default verify.py needs no packages.
+# This is the NumPy version used for the packaging-time optional cross-check,
+# not the upstream historical environment (2.5.3).
+numpy==2.3.5

@@ -1,0 +1,23 @@
+{
+  "status": "AUTHORIZED",
+  "authorized_at": "2026-09-17T12:51:16.534958+00:00",
+  "question": "Does the fixed T019 measure cover all 180 new midpoint directions above M/17?",
+  "maximum_new_directions": 180,
+  "pilot_old_interval_indices": [
+    0,
+    89,
+    179
+  ],
+  "continuation": "remaining ascending unused old interval indices only if all pilot rows pass",
+  "strict_threshold": "423327/425000",
+  "seconds_soft_limit": 120,
+  "failure_stop": "first exact row <= threshold; preserve counterexample",
+  "bindings": {
+    "coord/m17_m18/PLAN.md": "413a6e22f5eed846c5a73ef0831d5d7e9b8d6257fc52a6c84d33083368bc2ee2",
+    "research/m17_work/run_refined_net.py": "b83f57b9288f4a2a2857a72e9ab37736cebeb446341f8e314af28b27924f16ed",
+    "research/m17_work/THEOREM_DRAFT.md": "8daf02231120921095f3fae6467b08a7cd58aee28692ac7b34f7443cf60bd383",
+    "research/m12_work/independent_sweep.py": "1ddb94bb2a1a0350489752c44a5e9c4622c247f0142570fa5b622675ca652b38",
+    "workers/T1/outputs/m17_m18/PRE_REVIEW.md": "5df5b0b0ff0ef7fe26817bb363e30b6f0a5d276cb4525250c9426b9b4b2863dd",
+    "workers/T2/outputs/m17_lower/STAGE_A_STATIC_AUDIT.json": "a337c686c8213b2ce0faa7b4ca3d348e8d0aedfc017aa05e92d0b126e9718aa7"
+  }
+}

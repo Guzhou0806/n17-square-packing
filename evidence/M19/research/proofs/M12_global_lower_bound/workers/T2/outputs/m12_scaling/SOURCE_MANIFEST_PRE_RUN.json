@@ -1,0 +1,51 @@
+{
+  "schema": "n17.m12.t2-audit-freeze.v1",
+  "created_local": "2026-09-17",
+  "scope": "Independent code/math audit and exact fixture tests; no packing optimization.",
+  "audit_source": {
+    "path": "workers/T2/outputs/m12_scaling/audit_m12.py",
+    "sha256": "1858a6fef3537dbba004eccf7fdf39b1c923a31e203433de6e7eac2d9cb7d81c"
+  },
+  "frozen_inputs": [
+    {
+      "path": "research/m12_work/independent_sweep.py",
+      "sha256": "1ddb94bb2a1a0350489752c44a5e9c4622c247f0142570fa5b622675ca652b38"
+    },
+    {
+      "path": "research/m12_work/run_001/RESULT.json",
+      "sha256": "5fa6210087f3e2c2ac8bb98053f88358051fdfdc4ccc2e6301661648edffc7b0"
+    },
+    {
+      "path": "research/m12_work/run_001/DIRECTIONS.jsonl",
+      "sha256": "2883a709797923e7ce0b9889ab946e7399e52d7db5c866ba3faf71f3ca712fa4"
+    },
+    {
+      "path": "workers/T1/outputs/m10_m11/global_followup/m12/results/source_result.json",
+      "sha256": "4ad6d4fff965e014a1aba2947ee404eb0987fca2606a7125a58286cf8971e3e0"
+    },
+    {
+      "path": "workers/T1/outputs/m10_m11/global_followup/m12/results/scaled_result.json",
+      "sha256": "d0725160831f743e967083054dac76a5d49ce01577d32404c055e0f8662aee02"
+    },
+    {
+      "path": "workers/T1/outputs/m10_m11/global_followup/m12/results/COMPARISON.json",
+      "sha256": "f45ad7ef4131198621ea76e2982b3db58032da83921c86b8dfffca4454fcc347"
+    },
+    {
+      "path": "workers/T1/outputs/m10_m11/global_followup/m12/results/DIRECTIONS_COMPARISON.jsonl",
+      "sha256": "f639e8464feb88c86b1f051018d5b72156295d604d98583264842f663b096be1"
+    },
+    {
+      "path": "workers/T1/outputs/m10_m11/global_followup/m12/results/scaled_certificate.json",
+      "sha256": "6979561eb5137270f7baabc782cafc0580f3483a9bfcdf47fef427484285980c"
+    },
+    {
+      "path": "coord/m12_scaling/PROTOCOL.md",
+      "sha256": "01ecce41ac8f56e93fb5204d778b23d7387ec5c9f678ded153fdb5bff4545950"
+    },
+    {
+      "path": "research/m12_work/PROOF.md",
+      "sha256": "dfdda65f264f64e2ed47339887d6c1ac31937a8823282708a3177c79d66619ff"
+    }
+  ]
+}

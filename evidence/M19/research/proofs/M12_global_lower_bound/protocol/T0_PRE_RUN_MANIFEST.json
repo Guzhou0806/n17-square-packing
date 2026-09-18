@@ -1,0 +1,9 @@
+{
+  "source": "research\\m12_work\\independent_sweep.py",
+  "sha256": "1ddb94bb2a1a0350489752c44a5e9c4622c247f0142570fa5b622675ca652b38",
+  "protocol_sha256": "01ecce41ac8f56e93fb5204d778b23d7387ec5c9f678ded153fdb5bff4545950",
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "smoke_cases": 4,
+  "input_sha256": "461cb731917bdaf7a58f54be651ca2c782bc519790d79d0fe4941c24fdd4c652",
+  "budget_seconds": 600
+}

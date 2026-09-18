@@ -1,0 +1,40 @@
+{
+  "schema": "n17.m17.fixed-pilot-proposal.v1",
+  "status": "DESIGN_ONLY_NOT_AUTHORIZED_NOT_RUN",
+  "threshold": "423327/425000",
+  "threshold_comparison": "strict_greater_than",
+  "directions": [
+    {
+      "grid_index": 1,
+      "t": "207107/180000000",
+      "reason": "first interval and maximum angular-gap endpoint"
+    },
+    {
+      "grid_index": 199,
+      "t": "41214293/180000000",
+      "reason": "midpoint across inherited minimum transition 99/100"
+    },
+    {
+      "grid_index": 335,
+      "t": "13876169/36000000",
+      "reason": "midpoint across inherited minimum transition 167/168"
+    },
+    {
+      "grid_index": 359,
+      "t": "74351413/180000000",
+      "reason": "terminal-adjacent midpoint"
+    }
+  ],
+  "call_budget": {
+    "directions": 4,
+    "retries": 0,
+    "adaptive_reselection": false,
+    "full_sweep": false
+  },
+  "interpretation": {
+    "all_pass": "only four rows pass; 176 odd rows remain unknown",
+    "row_minimum_between_threshold_and_one": "generalized certificate row passes",
+    "row_minimum_at_or_below_threshold": "exact counterexample to this fixed-measure uniform-minimum certificate",
+    "timeout_or_error": "inconclusive"
+  }
+}

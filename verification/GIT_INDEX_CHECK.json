@@ -1,0 +1,8 @@
+{
+  "status": "PASS_GIT_INDEX_BYTES",
+  "files_checked": 131,
+  "core_autocrlf_during_add": true,
+  "gitattributes": "* -text -ident",
+  "scope": "Local throwaway Git index only; no commit or remote push",
+  "git_version": "git version 2.47.3"
+}

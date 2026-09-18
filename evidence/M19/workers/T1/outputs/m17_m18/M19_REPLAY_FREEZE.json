@@ -1,0 +1,26 @@
+{
+  "schema": "n17.m19.source-replay-freeze.v1",
+  "status": "SUPERSEDED_PRE_EXECUTION",
+  "execution_gate": "coord/m17_m18/M19_COMPUTE_AUTHORIZATION.json with status AUTHORIZED",
+  "scope": "exactly 17 M17-produced midpoint rows: 16 passing rows and the retained failing row; no other direction",
+  "soft_seconds": 30,
+  "output": "workers/T1/outputs/m17_m18/m19_replay",
+  "harness": {
+    "path": "workers/T1/outputs/m17_m18/m19_source_replay.py",
+    "sha256": "92f51dec0cd427430edb3dcde7b0330ee8d15fc363cfd679778b64088aa10870"
+  },
+  "bindings": {
+    "workers/T1/outputs/m10_m11/global_followup/certificate.json": "461cb731917bdaf7a58f54be651ca2c782bc519790d79d0fe4941c24fdd4c652",
+    "research/m17_work/run_001/DIRECTIONS.jsonl": "c4898a550541964260091bdf6a79a9483832d412cbfa5a8d734de2fe0fc62b77",
+    "workers/T1/outputs/m10_m11/global_followup/m12/source/src/sqpack/fractional/sweep.py": "b6b5f016a8d6ab632e0ea8ee30effa75d4bf11ca9acece72e2e933048b5714ee",
+    "workers/T1/outputs/m10_m11/global_followup/m12/source/src/sqpack/fractional/model.py": "2ef606e89a77f703041e5397d6f34ebb76289adfd2876c80abae868b081b6696"
+  },
+  "expected_old_interval_order": [0, 89, 179, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+  "api": "minimum_covered_mass_integer with weight_scale(atoms)",
+  "notes": [
+    "Superseded by M19_REPLAY_FREEZE_V2.json before execution because importing sqpack.fractional directly would execute unrelated sqpack package initialization.",
+    "The harness refuses to run before the M19 authorization file exists and is active.",
+    "The harness was syntax-parsed only; no direction sweep was executed during preparation.",
+    "The failing M17 row is replayed and numerically compared rather than removed."
+  ]
+}

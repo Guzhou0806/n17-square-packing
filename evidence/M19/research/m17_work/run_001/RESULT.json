@@ -1,0 +1,30 @@
+{
+  "status": "FAIL_FIXED_REFINED_NET_COVERAGE",
+  "source_sha256": "461cb731917bdaf7a58f54be651ca2c782bc519790d79d0fe4941c24fdd4c652",
+  "sweep_sha256": "1ddb94bb2a1a0350489752c44a5e9c4622c247f0142570fa5b622675ca652b38",
+  "driver_sha256": "b83f57b9288f4a2a2857a72e9ab37736cebeb446341f8e314af28b27924f16ed",
+  "authorization_sha256": "b82a62f527432432d722ccfe47e60049636ab7e16d19a77112efc772d5b2052b",
+  "completed": 17,
+  "old_nodes_inherited": 181,
+  "planned_new_nodes": 180,
+  "new_half_tangent_step": "207107/180000000",
+  "minimum": "197153/200000",
+  "strict_mass_threshold": "423327/425000",
+  "seconds": 2.834450999973342,
+  "static": {
+    "total_mass": "423327/25000",
+    "mass_margin": "1673/25000",
+    "atoms": 1184,
+    "sites": 1184,
+    "D4": true,
+    "arc_endpoint": "207107/500000",
+    "arc_polynomial": "309449/250000000000",
+    "D": "207107/90000000",
+    "scale": "1000001/1000000",
+    "new_side": "459000459/100000000",
+    "new_probe_side": "9977009977/10000000000",
+    "strict_containment_margin": "2793464693461/900000000000000000",
+    "inverse_scaling_checked_atoms": 1184
+  },
+  "final_claim": "PENDING_INDEPENDENT_AUDIT"
+}

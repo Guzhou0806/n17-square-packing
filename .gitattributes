@@ -1,0 +1,2 @@
+# Proof artifacts are byte-frozen. Do not normalize line endings or expand ident.
+* -text -ident

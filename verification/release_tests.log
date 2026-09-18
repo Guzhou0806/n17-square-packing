@@ -1,0 +1,20 @@
+test_byte_mutation_rejected (test_release.ReleaseTests.test_byte_mutation_rejected) ... ok
+test_duplicate_json_keys_rejected (test_release.ReleaseTests.test_duplicate_json_keys_rejected) ... ok
+test_existing_output_not_overwritten (test_release.ReleaseTests.test_existing_output_not_overwritten) ... ok
+test_frozen_manifest_and_acceptance (test_release.ReleaseTests.test_frozen_manifest_and_acceptance) ... ok
+test_missing_file_rejected (test_release.ReleaseTests.test_missing_file_rejected) ... ok
+test_new_output_accepted (test_release.ReleaseTests.test_new_output_accepted) ... ok
+test_nonfinite_json_constant_rejected (test_release.ReleaseTests.test_nonfinite_json_constant_rejected) ... ok
+test_optimized_python_refused (test_release.ReleaseTests.test_optimized_python_refused) ... ok
+test_original_m19_archive_matches_every_extracted_file (test_release.ReleaseTests.test_original_m19_archive_matches_every_extracted_file) ... ok
+test_protected_output_rejected (test_release.ReleaseTests.test_protected_output_rejected) ... ok
+test_separate_m12_archive_matches_nested_dependency (test_release.ReleaseTests.test_separate_m12_archive_matches_nested_dependency) ... ok
+test_symlink_rejected (test_release.ReleaseTests.test_symlink_rejected) ... ok
+test_unsafe_manifest_paths_rejected (test_release.ReleaseTests.test_unsafe_manifest_paths_rejected) ... ok
+test_uploaded_input_map (test_release.ReleaseTests.test_uploaded_input_map) ... ok
+test_wrong_length_rejected (test_release.ReleaseTests.test_wrong_length_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 15 tests in 1.974s
+
+OK

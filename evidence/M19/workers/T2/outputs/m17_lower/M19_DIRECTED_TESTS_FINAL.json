@@ -1,0 +1,50 @@
+{
+  "certificate_sha256": "4326a84caec0a60c0f70226c7a79bf4bbede2d1c032af8ca2aef319d2c91c806",
+  "checker_sha256": "5facec6e4d8837027ca6c45ffa1fb1df2602d4f0be571bcc2c52811623ff20c3",
+  "schema": "n17.m19.t2-directed-tests.v1",
+  "status": "PASS",
+  "sweep_executed": false,
+  "test_count": 8,
+  "tests": [
+    {
+      "evidence": "17 exact atom-by-atom recounts equal the saved minima",
+      "name": "all_T0_witnesses_recount",
+      "status": "PASS"
+    },
+    {
+      "evidence": "17 independent replay witnesses exactly recount",
+      "name": "all_T1_witnesses_recount",
+      "status": "PASS"
+    },
+    {
+      "evidence": "14 row(s) use different centres while all minima agree",
+      "name": "witness_coordinates_need_not_match",
+      "status": "PASS"
+    },
+    {
+      "evidence": "strict > threshold keeps 16 rows and retains the k=14 failure",
+      "name": "strict_threshold_partition",
+      "status": "PASS"
+    },
+    {
+      "evidence": "adding failed refined index 29 would visibly change the certificate node count",
+      "name": "failed_direction_is_not_silently_selected",
+      "status": "PASS"
+    },
+    {
+      "evidence": "enumeration finds one maximum at the first unrefined interval",
+      "name": "all_gap_max_not_hardcoded",
+      "status": "PASS"
+    },
+    {
+      "evidence": "20-place neighboring decimals strictly bracket the positive root",
+      "name": "exact_decimal_bracket",
+      "status": "PASS"
+    },
+    {
+      "evidence": "M19 is an ordinary >= implication and does not repair M17",
+      "name": "claim_boundary_preserved",
+      "status": "PASS"
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "bindings": {
+    "m12_audit": {
+      "path": "workers/T2/outputs/m12_scaling/ATTEMPT_001_AUDIT.json",
+      "sha256": "b5c2bb56ad69d0e21895797be4e4cb13435826953da282515da40083e58fc9af"
+    },
+    "m14_certificate": {
+      "path": "research/m14_work/CERTIFICATE.json",
+      "sha256": "0e3f8b840924c382a8a76009a1987d9c97dc9184f41ba3e3bc7d40ca9d3b09d1"
+    },
+    "m14_report": {
+      "path": "workers/T2/outputs/m14_m15/M14_FORMAL_REPORT.json",
+      "sha256": "32e7827975e37ab9e18299bb77e22c42026a53d851641e49497c46640ba06389"
+    },
+    "m17_authorization": {
+      "path": "coord/m17_m18/M17_COMPUTE_AUTHORIZATION.json",
+      "sha256": "b82a62f527432432d722ccfe47e60049636ab7e16d19a77112efc772d5b2052b"
+    },
+    "m17_driver": {
+      "path": "research/m17_work/run_refined_net.py",
+      "sha256": "b83f57b9288f4a2a2857a72e9ab37736cebeb446341f8e314af28b27924f16ed"
+    },
+    "m17_failure_audit": {
+      "path": "workers/T2/outputs/m17_lower/M17_FAILURE_AUDIT_ATTEMPT_002.json",
+      "sha256": "982bf9a69797343d64eecec920ebd38b196912745760e682e3b8c2ccea20f38a"
+    },
+    "m17_plan": {
+      "path": "coord/m17_m18/PLAN.md",
+      "sha256": "413a6e22f5eed846c5a73ef0831d5d7e9b8d6257fc52a6c84d33083368bc2ee2"
+    },
+    "m17_result": {
+      "path": "research/m17_work/run_001/RESULT.json",
+      "sha256": "da21090426dfb196e6697d07c8c560dc5820bba34158ab3b83eaf3f6f5a54898"
+    },
+    "m17_rows": {
+      "path": "research/m17_work/run_001/DIRECTIONS.jsonl",
+      "sha256": "c4898a550541964260091bdf6a79a9483832d412cbfa5a8d734de2fe0fc62b77"
+    },
+    "m17_sweep": {
+      "path": "research/m12_work/independent_sweep.py",
+      "sha256": "1ddb94bb2a1a0350489752c44a5e9c4622c247f0142570fa5b622675ca652b38"
+    },
+    "m17_theorem": {
+      "path": "research/m17_work/THEOREM_DRAFT.md",
+      "sha256": "8daf02231120921095f3fae6467b08a7cd58aee28692ac7b34f7443cf60bd383"
+    },
+    "m19_authorization": {
+      "path": "coord/m17_m18/M19_COMPUTE_AUTHORIZATION.json",
+      "sha256": "4e584e474d7f3b4f590877aeaa467d1f403bd5fb077c9a8b9ab81be8e758d79e"
+    },
+    "m19_certificate": {
+      "path": "research/m19_work/CERTIFICATE.json",
+      "sha256": "4326a84caec0a60c0f70226c7a79bf4bbede2d1c032af8ca2aef319d2c91c806"
+    },
+    "m19_plan": {
+      "path": "coord/m17_m18/M19_PLAN.md",
+      "sha256": "701339de47b7ee0fcd16d51cca1ce8ea078228f4cd7ce0d33c21e60a31d9e684"
+    },
+    "m19_precheck": {
+      "path": "workers/T2/outputs/m17_lower/M19_STATIC_PRECHECK_ATTEMPT_002.json",
+      "sha256": "d05a523c6a6c62ee8ccc81dd77c1ed63ae20c157a0c28e6af2239fd08cdbc2be"
+    },
+    "m19_producer": {
+      "path": "research/m19_work/produce_certificate.py",
+      "sha256": "1e8519922c57e6c016616d63f00d5e4dd332a067c1051916c414f847cc704533"
+    },
+    "old_result": {
+      "path": "research/m12_work/run_001/RESULT.json",
+      "sha256": "5fa6210087f3e2c2ac8bb98053f88358051fdfdc4ccc2e6301661648edffc7b0"
+    },
+    "old_rows": {
+      "path": "research/m12_work/run_001/DIRECTIONS.jsonl",
+      "sha256": "2883a709797923e7ce0b9889ab946e7399e52d7db5c866ba3faf71f3ca712fa4"
+    },
+    "source": {
+      "path": "coord/m14_m15/inputs/SOURCE_T019.json",
+      "sha256": "461cb731917bdaf7a58f54be651ca2c782bc519790d79d0fe4941c24fdd4c652"
+    },
+    "t1_freeze": {
+      "path": "workers/T1/outputs/m17_m18/M19_REPLAY_FREEZE_V2.json",
+      "sha256": "452d0c472c0784a48fd0101e0cea56acf338dded8d20069adc3ee15e73ad3a68"
+    },
+    "t1_harness": {
+      "path": "workers/T1/outputs/m17_m18/m19_source_replay_v2.py",
+      "sha256": "61bf58e4f6d64c9ef016dfe1ee3c53ea1182f93b91be390181876847b4ba6e8d"
+    },
+    "t1_result": {
+      "path": "workers/T1/outputs/m17_m18/m19_replay/RESULT.json",
+      "sha256": "052b4dbbacdc0ddf5c08c569516d90cf7e7238deb9919e8e02d518e705f0a3fe"
+    },
+    "t1_review": {
+      "path": "workers/T1/outputs/m17_m18/M19_REVIEW.md",
+      "sha256": "a61c3ea70e9883afb6871a172664156058ec5de919906f0980bbc787a8378e56"
+    },
+    "t1_rows": {
+      "path": "workers/T1/outputs/m17_m18/m19_replay/ROWS.jsonl",
+      "sha256": "f480412ee29b4da83141a8666f96161a10d96868cc5ed612050b350b5c4eed8f"
+    }
+  },
+  "certificate_sha256": "4326a84caec0a60c0f70226c7a79bf4bbede2d1c032af8ca2aef319d2c91c806",
+  "checker_sha256": "5facec6e4d8837027ca6c45ffa1fb1df2602d4f0be571bcc2c52811623ff20c3",
+  "claim": "s(17) >= sqrt(153929043486937667513210640333717690000/7306125452971863634008322287539081521)",
+  "claim_boundary": "An ordinary >= lower bound obtained by the inherited strict-dilation argument. It is not endpoint infeasibility, does not repair M17, and adds no searched direction.",
+  "claims_strict_endpoint_infeasibility": false,
+  "coverage": {
+    "new_full_domain_rows_replayed": 17,
+    "old_full_domain_rows": 181,
+    "rejected_new_rows": 1,
+    "retained_new_rows": 16,
+    "t0_t1_exact_minima_match": true,
+    "t0_witnesses_independently_recounted": [
+      {
+        "captured_atoms": 25,
+        "mass": "200009/200000",
+        "refined_index": 1
+      },
+      {
+        "captured_atoms": 25,
+        "mass": "200009/200000",
+        "refined_index": 179
+      },
+      {
+        "captured_atoms": 25,
+        "mass": "200009/200000",
+        "refined_index": 359
+      },
+      {
+        "captured_atoms": 25,
+        "mass": "200009/200000",
+        "refined_index": 3
+      },
+      {
+        "captured_atoms": 25,
+        "mass": "200009/200000",
+        "refined_index": 5
+      },
+      {
+        "captured_atoms": 25,
+        "mass": "200009/200000",
+        "refined_index": 7
+      },
+      {
+        "captured_atoms": 25,
+        "mass": "200009/200000",
+        "refined_index": 9
+      },
+      {
+        "captured_atoms": 25,
+        "mass": "200009/200000",
+        "refined_index": 11
+      },
+      {
+        "captured_atoms": 25,
+        "mass": "200009/200000",
+        "refined_index": 13
+      },
+      {
+        "captured_atoms": 25,
+        "mass": "200009/200000",
+        "refined_index": 15
+      },
+      {
+        "captured_atoms": 25,
+        "mass": "200009/200000",
+        "refined_index": 17
+      },
+      {
+        "captured_atoms": 25,
+        "mass": "200009/200000",
+        "refined_index": 19
+      },
+      {
+        "captured_atoms": 25,
+        "mass": "200009/200000",
+        "refined_index": 21
+      },
+      {
+        "captured_atoms": 25,
+        "mass": "200009/200000",
+        "refined_index": 23
+      },
+      {
+        "captured_atoms": 25,
+        "mass": "200009/200000",
+        "refined_index": 25
+      },
+      {
+        "captured_atoms": 25,
+        "mass": "200009/200000",
+        "refined_index": 27
+      },
+      {
+        "captured_atoms": 125,
+        "mass": "197153/200000",
+        "refined_index": 29
+      }
+    ],
+    "t1_witnesses_independently_recounted": [
+      {
+        "captured_atoms": 25,
+        "mass": "200009/200000",
+        "refined_index": 1
+      },
+      {
+        "captured_atoms": 25,
+        "mass": "200009/200000",
+        "refined_index": 179
+      },
+      {
+        "captured_atoms": 25,
+        "mass": "200009/200000",
+        "refined_index": 359
+      },
+      {
+        "captured_atoms": 25,
+        "mass": "200009/200000",
+        "refined_index": 3
+      },
+      {
+        "captured_atoms": 25,
+        "mass": "200009/200000",
+        "refined_index": 5
+      },
+      {
+        "captured_atoms": 25,
+        "mass": "200009/200000",
+        "refined_index": 7
+      },
+      {
+        "captured_atoms": 25,
+        "mass": "200009/200000",
+        "refined_index": 9
+      },
+      {
+        "captured_atoms": 25,
+        "mass": "200009/200000",
+        "refined_index": 11
+      },
+      {
+        "captured_atoms": 25,
+        "mass": "200009/200000",
+        "refined_index": 13
+      },
+      {
+        "captured_atoms": 25,
+        "mass": "200009/200000",
+        "refined_index": 15
+      },
+      {
+        "captured_atoms": 25,
+        "mass": "200009/200000",
+        "refined_index": 17
+      },
+      {
+        "captured_atoms": 25,
+        "mass": "200009/200000",
+        "refined_index": 19
+      },
+      {
+        "captured_atoms": 25,
+        "mass": "200009/200000",
+        "refined_index": 21
+      },
+      {
+        "captured_atoms": 25,
+        "mass": "200009/200000",
+        "refined_index": 23
+      },
+      {
+        "captured_atoms": 25,
+        "mass": "200009/200000",
+        "refined_index": 25
+      },
+      {
+        "captured_atoms": 25,
+        "mass": "200009/200000",
+        "refined_index": 27
+      },
+      {
+        "captured_atoms": 125,
+        "mass": "197153/200000",
+        "refined_index": 29
+      }
+    ]
+  },
+  "endpoint": {
+    "decimal_bracket_20": [
+      "4.59004266897263595052",
+      "4.59004266897263595053"
+    ],
+    "old_m14_side_square": "17065251368053280247690000/809993351783841654158521",
+    "side_square": "153929043486937667513210640333717690000/7306125452971863634008322287539081521",
+    "squared_improvement": "6374181197835380510488868123495443861260000000000/59452296503325978850007695366435645237662915950591929"
+  },
+  "endpoint_certificate": false,
+  "grid": {
+    "D": "621321000000/270300253166143",
+    "D_strictly_smaller": true,
+    "adjacent_gaps": 196,
+    "maximum_gap_pair": [
+      "1449749/45000000",
+      "207107/6000000"
+    ],
+    "nodes": 197,
+    "old_D": "207107/90000000",
+    "unique_maximum_gap_index": 28
+  },
+  "independence": {
+    "coverage_sweep_run_by_checker": false,
+    "producer_imported_by_checker": false,
+    "t0_and_t1_witness_coordinates_required_equal": false,
+    "t1_harness_imported_by_checker": false
+  },
+  "mass": {
+    "17_minimum_minus_total": "13537/200000",
+    "retained_minimum": "200009/200000",
+    "threshold": "423327/425000",
+    "total": "423327/25000"
+  },
+  "schema": "n17.m19.t2-independent-verification.v1",
+  "status": "PASS_M19_NONUNIFORM_GRID_LOWER_BOUND"
+}

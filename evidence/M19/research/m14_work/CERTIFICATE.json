@@ -1,0 +1,112 @@
+{
+  "schema_version": "n17.m14.endpoint-limit-certificate.v1",
+  "claim_id": "CL-M14-001",
+  "scope": {
+    "statement": "s(17) >= positive_root(endpoint.primitive_polynomial)",
+    "relation": ">=",
+    "endpoint_certificate": false,
+    "claims_endpoint_infeasible": false,
+    "claims_strict_greater": false,
+    "method": "strict rational dilation family plus rational density and upward embedding"
+  },
+  "bindings": {
+    "m12_final_acceptance": {
+      "path": "research/proofs/M12_global_lower_bound/FINAL_ACCEPTANCE.json",
+      "sha256": "47557b76ff2548188ba49f0fda45c74a52ca1eca7d41faefd12d7c66c5dd21a0"
+    },
+    "m12_manifest": {
+      "path": "research/proofs/M12_global_lower_bound/MANIFEST.json",
+      "sha256": "6aa6daa34e7a2647974ec828493a480780283709d34f04da31eb7739c88ce1f9"
+    },
+    "t019_certificate": {
+      "path": "research/proofs/M12_global_lower_bound/workers/T1/outputs/m10_m11/global_followup/certificate.json",
+      "sha256": "461cb731917bdaf7a58f54be651ca2c782bc519790d79d0fe4941c24fdd4c652"
+    },
+    "directions": {
+      "path": "research/proofs/M12_global_lower_bound/research/m12_work/run_001/DIRECTIONS.jsonl",
+      "sha256": "2883a709797923e7ce0b9889ab946e7399e52d7db5c866ba3faf71f3ca712fa4"
+    },
+    "coverage_result": {
+      "path": "research/proofs/M12_global_lower_bound/research/m12_work/run_001/RESULT.json",
+      "sha256": "5fa6210087f3e2c2ac8bb98053f88358051fdfdc4ccc2e6301661648edffc7b0"
+    },
+    "t2_m12_audit": {
+      "path": "research/proofs/M12_global_lower_bound/workers/T2/outputs/m12_scaling/ATTEMPT_001_AUDIT.json",
+      "sha256": "b5c2bb56ad69d0e21895797be4e4cb13435826953da282515da40083e58fc9af"
+    },
+    "t022_limit_proof": {
+      "path": "research/proofs/M12_global_lower_bound/workers/T1/outputs/m10_m11/global_followup/s16-t022-dilation-limit-proof.md",
+      "sha256": "a9eca4eb6b938e692f9c61f0adb9da2d2f7948f461b6a791066bd9c5e8a13462"
+    }
+  },
+  "premise": {
+    "n": 17,
+    "L": "459/100",
+    "B": "9977/10000",
+    "D": "207107/90000000",
+    "direction_count": 181,
+    "minimum_mass": "200009/200000",
+    "total_mass": "423327/25000",
+    "coverage_complete": true,
+    "d4": true
+  },
+  "support_lemma": {
+    "variable": "t=tan(abs(delta))",
+    "domain": [
+      "0",
+      "207107/90000000"
+    ],
+    "D_less_than_one": true,
+    "identity_lhs": "(1+D)^2*(1+t^2)-(1+t)^2*(1+D^2)",
+    "identity_coefficients_ascending": [
+      "207107/45000000",
+      "-8100042893309449/4050000000000000",
+      "207107/45000000"
+    ],
+    "factorization": "2*(D-t)*(1-D*t)",
+    "conclusion": "(1+t)/sqrt(1+t^2) <= (1+D)/sqrt(1+D^2)"
+  },
+  "endpoint": {
+    "A": 8100042893309449,
+    "A_identity": "90000000^2+207107^2",
+    "A_is_square": false,
+    "sqrt_branch": "positive",
+    "lambda_expression": "10000*sqrt(A)/899996306539",
+    "lambda_square": "810004289330944900000000/809993351783841654158521",
+    "side_expression": "45900*sqrt(A)/899996306539",
+    "side_square": "17065251368053280247690000/809993351783841654158521",
+    "primitive_polynomial": {
+      "x2": 809993351783841654158521,
+      "x1": 0,
+      "x0": -17065251368053280247690000
+    },
+    "root_relation": "positive root only"
+  },
+  "decimal_bracket": {
+    "places": 20,
+    "lower": "4.59003098986653245118",
+    "upper": "4.59003098986653245119",
+    "lower_relation": "lower <= endpoint",
+    "upper_relation": "endpoint < upper"
+  },
+  "strict_family": {
+    "parameter_domain": "q in Q, q>0, q^2<lambda_square",
+    "scaled_side": "q*L",
+    "strict_containment_test": "q^2*B^2*(1+D)^2 < 1+D^2",
+    "coverage_transport": "common dilation bijection preserves every net-direction captured mass",
+    "density_step": "for every real x below endpoint choose rational q with x/L<q<lambda",
+    "embedding_step": "a packing at x embeds in the larger q*L container",
+    "conclusion": "s(17) >= endpoint",
+    "uses_compactness": false,
+    "uses_endpoint_attainment": false
+  },
+  "fixed_control": {
+    "q": "500003/500000",
+    "scaled_side": "229501377/50000000",
+    "q_square_below_lambda_square": true,
+    "coarse_slack": "-853258419617/450000000000000000",
+    "sharp_slack": "33822158946641039188838841479/22500000000000000000000000000000000",
+    "coarse_condition_passes": false,
+    "sharp_condition_passes": true
+  }
+}

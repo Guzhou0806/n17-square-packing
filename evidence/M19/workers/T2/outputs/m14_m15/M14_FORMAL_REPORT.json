@@ -1,0 +1,21 @@
+{
+  "certificate_sha256": "0e3f8b840924c382a8a76009a1987d9c97dc9184f41ba3e3bc7d40ca9d3b09d1",
+  "checker_sha256": "129daa2baed5e1d2a8d579ac78db2f61baaaeface5d7029aa55ea488560d363b",
+  "claim": "s(17) >= 45900*sqrt(8100042893309449)/899996306539",
+  "decimal_lower_20": "4.59003098986653245118",
+  "decimal_upper_20": "4.59003098986653245119",
+  "endpoint_certificate": false,
+  "endpoint_square": "17065251368053280247690000/809993351783841654158521",
+  "fixed_control_sharp_slack": "33822158946641039188838841479/22500000000000000000000000000000000",
+  "fixed_control_side": "229501377/50000000",
+  "inherited": {
+    "atoms": 1184,
+    "directions": 181,
+    "minimum_mass": "200009/200000",
+    "sites": 1184,
+    "total_mass": "423327/25000"
+  },
+  "schema": "n17.m14.endpoint-limit-verification.v1",
+  "status": "PASS_ENDPOINT_LIMIT_LOWER_BOUND",
+  "strict_greater_claim": false
+}

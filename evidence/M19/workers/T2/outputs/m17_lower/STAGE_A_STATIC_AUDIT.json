@@ -1,0 +1,113 @@
+{
+  "bindings": {
+    "m12_audit": {
+      "path": "C:\\Users\\25852\\Documents\\n17 square problem\\workers\\T2\\outputs\\m12_scaling\\ATTEMPT_001_AUDIT.json",
+      "sha256": "b5c2bb56ad69d0e21895797be4e4cb13435826953da282515da40083e58fc9af"
+    },
+    "m14_certificate": {
+      "path": "C:\\Users\\25852\\Documents\\n17 square problem\\research\\m14_work\\CERTIFICATE.json",
+      "sha256": "0e3f8b840924c382a8a76009a1987d9c97dc9184f41ba3e3bc7d40ca9d3b09d1"
+    },
+    "m14_report": {
+      "path": "C:\\Users\\25852\\Documents\\n17 square problem\\workers\\T2\\outputs\\m14_m15\\M14_FORMAL_REPORT.json",
+      "sha256": "32e7827975e37ab9e18299bb77e22c42026a53d851641e49497c46640ba06389"
+    },
+    "old_directions": {
+      "path": "C:\\Users\\25852\\Documents\\n17 square problem\\research\\m12_work\\run_001\\DIRECTIONS.jsonl",
+      "sha256": "2883a709797923e7ce0b9889ab946e7399e52d7db5c866ba3faf71f3ca712fa4"
+    },
+    "source": {
+      "path": "C:\\Users\\25852\\Documents\\n17 square problem\\coord\\m14_m15\\inputs\\SOURCE_T019.json",
+      "sha256": "461cb731917bdaf7a58f54be651ca2c782bc519790d79d0fe4941c24fdd4c652"
+    }
+  },
+  "checker_sha256": "d285b9f2ef6de99e0c12dd5802968e67253485a053b0797472f546e6731614dd",
+  "claim_boundary": "Static and conditional theorem audit only. No odd direction was swept, so no M17 lower bound is certified. Old rows are inherited only under exact byte/data bindings.",
+  "conditional_endpoint": {
+    "D": "207107/180000000",
+    "S_radical": "45900*sqrt(32400042893309449)/1797926306539",
+    "S_square": "68260734368053280247690000/3232539003744970194158521",
+    "claim_if_condition_holds": "s(17) >= S",
+    "condition": "all 180 odd-row exact minima are strictly greater than 423327/425000",
+    "decimal_bracket_20": [
+      "4.59529705908773749818",
+      "4.59529705908773749819"
+    ],
+    "endpoint_strict_certificate": false,
+    "lambda_square": "3240004289330944900000000/3232539003744970194158521",
+    "positive_root_polynomial": {
+      "constant": -68260734368053280247690000,
+      "x2": 3232539003744970194158521
+    }
+  },
+  "frozen_pilot_proposal": {
+    "directions": [
+      {
+        "grid_index": 1,
+        "reason": "first interval and maximum angular-gap endpoint",
+        "t": "207107/180000000"
+      },
+      {
+        "grid_index": 199,
+        "reason": "midpoint across old minimum transition 99/100",
+        "t": "41214293/180000000"
+      },
+      {
+        "grid_index": 335,
+        "reason": "midpoint across old minimum transition 167/168",
+        "t": "13876169/36000000"
+      },
+      {
+        "grid_index": 359,
+        "reason": "terminal-adjacent midpoint",
+        "t": "74351413/180000000"
+      }
+    ],
+    "interpretation": "A passing pilot proves only those rows. A row minimum <= threshold is an exact counterexample to this fixed-measure uniform-minimum certificate, not a global failure of all refinements. A timeout or checker error is inconclusive.",
+    "status": "NOT_AUTHORIZED_NOT_RUN"
+  },
+  "generalized_mass_counting": {
+    "equality_is_insufficient": true,
+    "identity": "17*m > total_mass",
+    "strict_acceptance": "global_minimum > total_mass/17",
+    "threshold": "423327/425000"
+  },
+  "inherited": {
+    "B": "9977/10000",
+    "L": "459/100",
+    "atoms": 1184,
+    "old_direction_count": 181,
+    "old_global_minimum": "200009/200000",
+    "old_rows_above_generalized_threshold": true,
+    "sites": 1184,
+    "symmetry": "D4",
+    "total_mass": "423327/25000"
+  },
+  "refined_grid": {
+    "D": "207107/180000000",
+    "D4_fundamental_arc_covered": true,
+    "D_equals_h_over_2": true,
+    "count": 361,
+    "endpoint_polynomial": "309449/250000000000",
+    "first": "0",
+    "inherited_even_rows": 181,
+    "last": "207107/500000",
+    "maximum_D_interval": [
+      0,
+      1
+    ],
+    "new_odd_rows": 180,
+    "new_step": "207107/180000000",
+    "old_step_h": "207107/90000000"
+  },
+  "schema": "n17.m17.t2-stage-a-static-audit.v1",
+  "static_feasibility": {
+    "coverage_quality_of_odd_rows": "UNKNOWN_UNTIL_EXACT_SWEEP",
+    "minimum_L_over_2_minus_probe_radius": "9311192913081773/5857866188980000",
+    "nonempty_feasible_centre_domains": 361,
+    "obvious_structural_impossibility_found": false,
+    "rational_unit_directions_checked": 361
+  },
+  "status": "GO_CONDITIONAL_180_ODD_ROWS_UNCHECKED",
+  "sweep_executed": false
+}

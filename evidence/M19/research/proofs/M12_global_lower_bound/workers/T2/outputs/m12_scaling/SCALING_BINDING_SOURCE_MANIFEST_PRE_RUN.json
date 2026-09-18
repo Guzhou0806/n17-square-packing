@@ -1,0 +1,18 @@
+{
+  "schema": "n17.m12.t2-scaling-binding-freeze.v1",
+  "source": {
+    "path": "workers/T2/outputs/m12_scaling/verify_certificate_scaling.py",
+    "sha256": "9a0d907cc01afb7198144d0babfb3b39c8e29f47fa9eb10a412ae2563e12eaa9"
+  },
+  "inputs": {
+    "original_certificate": {
+      "path": "workers/T1/outputs/m10_m11/global_followup/certificate.json",
+      "sha256": "461cb731917bdaf7a58f54be651ca2c782bc519790d79d0fe4941c24fdd4c652"
+    },
+    "scaled_certificate": {
+      "path": "workers/T1/outputs/m10_m11/global_followup/m12/results/scaled_certificate.json",
+      "sha256": "6979561eb5137270f7baabc782cafc0580f3483a9bfcdf47fef427484285980c"
+    },
+    "lambda": "1000001/1000000"
+  }
+}

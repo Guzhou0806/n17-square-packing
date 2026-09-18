@@ -1,0 +1,100 @@
+{
+  "schema": "n17.release.inputs.v1",
+  "scope": "M19 with M12 dependency; no M20 evidence asserted",
+  "inputs": [
+    {
+      "uploaded_filename": "M19_nonuniform_direction_lower_bound.zip",
+      "sha256": "104893aec8bea763edb97737c15380aeb13c6186ed328634d88ed45fb777e34c",
+      "bytes": 502315,
+      "retained_as": "archives/M19_nonuniform_direction_lower_bound.zip",
+      "byte_identical": true
+    },
+    {
+      "uploaded_filename": "M12_global_lower_bound.zip",
+      "sha256": "cc24b3fcf46cd0b45faca916f666222aae176bd40d891ff1e5ca672cfc3170b6",
+      "bytes": 268490,
+      "retained_as": "archives/M12_global_lower_bound.zip",
+      "byte_identical": true
+    },
+    {
+      "uploaded_filename": "M19_FINAL_ACCEPTANCE.json",
+      "sha256": "2b91faeffcf6800c67433ad667175ccf2df3816562a2ae75f54af8db32e80edd",
+      "bytes": 1694,
+      "retained_as": "evidence/M19/FINAL_ACCEPTANCE.json",
+      "byte_identical": true
+    },
+    {
+      "uploaded_filename": "certificate.json",
+      "sha256": "461cb731917bdaf7a58f54be651ca2c782bc519790d79d0fe4941c24fdd4c652",
+      "bytes": 61985,
+      "retained_as": "evidence/M19/workers/T1/outputs/m10_m11/global_followup/certificate.json",
+      "byte_identical": true
+    },
+    {
+      "uploaded_filename": "m17_DIRECTIONS.jsonl",
+      "sha256": "c4898a550541964260091bdf6a79a9483832d412cbfa5a8d734de2fe0fc62b77",
+      "bytes": 15102,
+      "retained_as": "evidence/M19/research/m17_work/run_001/DIRECTIONS.jsonl",
+      "byte_identical": true
+    },
+    {
+      "uploaded_filename": "m17_RESULT.json",
+      "sha256": "da21090426dfb196e6697d07c8c560dc5820bba34158ab3b83eaf3f6f5a54898",
+      "bytes": 1188,
+      "retained_as": "evidence/M19/research/m17_work/run_001/RESULT.json",
+      "byte_identical": true
+    },
+    {
+      "uploaded_filename": "m12_DIRECTIONS.jsonl",
+      "sha256": "2883a709797923e7ce0b9889ab946e7399e52d7db5c866ba3faf71f3ca712fa4",
+      "bytes": 136292,
+      "retained_as": "evidence/M19/research/m12_work/run_001/DIRECTIONS.jsonl",
+      "byte_identical": true
+    },
+    {
+      "uploaded_filename": "M19_PROOF.md",
+      "sha256": "45ca1b2217c9ab39b652fba34132a358fbe9df10a627af29faa5a779c6fe888a",
+      "bytes": 4492,
+      "retained_as": "evidence/M19/PROOF.md",
+      "byte_identical": true
+    },
+    {
+      "uploaded_filename": "M19_CERTIFICATE.json",
+      "sha256": "4326a84caec0a60c0f70226c7a79bf4bbede2d1c032af8ca2aef319d2c91c806",
+      "bytes": 14296,
+      "retained_as": "evidence/M19/research/m19_work/CERTIFICATE.json",
+      "byte_identical": true
+    },
+    {
+      "uploaded_filename": "produce_certificate.py",
+      "sha256": "1e8519922c57e6c016616d63f00d5e4dd332a067c1051916c414f847cc704533",
+      "bytes": 3606,
+      "retained_as": "evidence/M19/research/m19_work/produce_certificate.py",
+      "byte_identical": true
+    },
+    {
+      "uploaded_filename": "M12_PROOF.md",
+      "sha256": "15fa5083a6416c4d871e517f2e55498d0732dcf28a49f51a0cc6dee24eccfce9",
+      "bytes": 5271,
+      "retained_as": "evidence/M19/research/proofs/M12_global_lower_bound/PROOF.md",
+      "byte_identical": true
+    },
+    {
+      "uploaded_filename": "M17_THEOREM_DRAFT.md",
+      "sha256": "8daf02231120921095f3fae6467b08a7cd58aee28692ac7b34f7443cf60bd383",
+      "bytes": 2015,
+      "retained_as": "evidence/M19/research/m17_work/THEOREM_DRAFT.md",
+      "byte_identical": true
+    },
+    {
+      "uploaded_filename": "M17_M19_LOWER_BOUND_REPORT.md",
+      "sha256": "520c04e5a6425f8050a35e54a191476948f928cd7ac6ac0151d6a241458770ee",
+      "bytes": 1872,
+      "retained_as": "evidence/M19/REPORT.md",
+      "byte_identical": true
+    }
+  ],
+  "m12_nested_matches_separate_archive": true,
+  "m12_files_compared": 57,
+  "frozen_m19_files": 129
+}

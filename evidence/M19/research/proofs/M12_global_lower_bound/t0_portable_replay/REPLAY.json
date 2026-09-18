@@ -1,0 +1,94 @@
+{
+  "status": "PASS",
+  "coverage_directions": 181,
+  "tests": [
+    {
+      "name": "range_tree_all_subranges",
+      "status": "PASS",
+      "operations": 5,
+      "queries": 140
+    },
+    {
+      "name": "coincident_start_end_events",
+      "status": "PASS",
+      "minimum": "0",
+      "oracle_cells": 9,
+      "non_midpoint_cells": 0
+    },
+    {
+      "name": "outside_atom_event_zero_region",
+      "status": "PASS",
+      "minimum": "0",
+      "oracle_cells": 25,
+      "non_midpoint_cells": 4
+    },
+    {
+      "name": "full_strip_projection_not_midpoint",
+      "status": "PASS",
+      "minimum": "0",
+      "oracle_cells": 25,
+      "non_midpoint_cells": 4
+    },
+    {
+      "name": "direction_endpoint_t0",
+      "status": "PASS",
+      "minimum": "0",
+      "oracle_cells": 49,
+      "non_midpoint_cells": 0
+    },
+    {
+      "name": "direction_endpoint_over_pi_over_4",
+      "status": "PASS",
+      "minimum": "0",
+      "oracle_cells": 153,
+      "non_midpoint_cells": 16
+    },
+    {
+      "name": "independent_scaling_bijection",
+      "status": "PASS",
+      "minimum": "0"
+    },
+    {
+      "name": "valid_D4_endpoint_and_lambda",
+      "status": "PASS",
+      "D": "207107/90000000",
+      "margin": "89792802792893/180000000000000"
+    },
+    {
+      "name": "D4_missing_orbit_rejected",
+      "status": "PASS",
+      "rejection": "D4 rotation failed"
+    },
+    {
+      "name": "negative_weight_rejected",
+      "status": "PASS",
+      "rejection": ""
+    },
+    {
+      "name": "short_direction_arc_rejected",
+      "status": "PASS",
+      "rejection": "arc endpoint failed"
+    },
+    {
+      "name": "lambda_containment_failure_rejected",
+      "status": "PASS",
+      "rejection": "strict containment failed"
+    },
+    {
+      "name": "full_181_direction_three_way_comparison",
+      "status": "PASS",
+      "directions": 181,
+      "minimum": "200009/200000",
+      "t0_directions_sha256": "2883a709797923e7ce0b9889ab946e7399e52d7db5c866ba3faf71f3ca712fa4",
+      "t0_result_sha256": "5fa6210087f3e2c2ac8bb98053f88358051fdfdc4ccc2e6301661648edffc7b0",
+      "t1_source_result_sha256": "4ad6d4fff965e014a1aba2947ee404eb0987fca2606a7125a58286cf8971e3e0",
+      "t1_scaled_result_sha256": "d0725160831f743e967083054dac76a5d49ce01577d32404c055e0f8662aee02",
+      "t1_comparison_sha256": "f45ad7ef4131198621ea76e2982b3db58032da83921c86b8dfffca4454fcc347"
+    }
+  ],
+  "scaled_atoms_bound": 1184,
+  "new_lower_bound": "459000459/100000000",
+  "standard_library_only": true,
+  "source_solver_reexecuted": false,
+  "meaning": "Full independent coverage replay, archived source/scaled comparison, exact scaling and geometry edge-case tests."
+}

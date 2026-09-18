@@ -1,0 +1,79 @@
+{
+  "schema": "n17.release.replay.v1",
+  "status": "PASS_FULL_REPLAY",
+  "mode": "full",
+  "started_at_utc": "2026-09-18T05:00:19.424810+00:00",
+  "python": "3.13.14 (tags/v3.13.14:fd17997, Jun 10 2026, 13:03:48) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "driver_sha256": "64daece82f91acc0a8cfdcfd38963f376a87c27231360ecfe9f92873de0222a7",
+  "stages": [
+    {
+      "label": "M12_full_181",
+      "script": "evidence/M19/research/proofs/M12_global_lower_bound/replay.py",
+      "script_sha256": "9514459735bbeb105560f060e4eae99350036444fd1302b5916cead0370388c8",
+      "returncode": 0,
+      "seconds": 28.18732269999964,
+      "log": "M12_full_181.log",
+      "standard_library_mode": true
+    },
+    {
+      "label": "M19_full_17_and_endpoint",
+      "script": "evidence/M19/replay.py",
+      "script_sha256": "67cd9d856892947e798d1faeee9cd61bee2e4c1c2d8872979e508aac9242c129",
+      "returncode": 0,
+      "seconds": 2.9341320999992604,
+      "log": "M19_full_17_and_endpoint.log",
+      "standard_library_mode": true
+    }
+  ],
+  "trust_scope": "Re-execution of supplied exact programs; not a newly authored geometric verifier, proof-assistant formalization, or peer review.",
+  "upstream_numpy_sweep_reexecuted_in_this_run": false,
+  "packing_optimization_calls": 0,
+  "integrity": {
+    "status": "PASS",
+    "frozen_files_checked": 131,
+    "original_manifest_entries_checked": {
+      "evidence/M19": 128,
+      "evidence/M19/research/proofs/M12_global_lower_bound": 56
+    },
+    "acceptance_certificate_and_audit_bound": true,
+    "evidence_manifest_sha256": "2caaea2ce5c690e471edb199089585b8ca783cae3e038f36600f22bd8d4cb935"
+  },
+  "coverage": {
+    "old_directions_recomputed": 181,
+    "additional_directions_recomputed": 17,
+    "unique_coverage_directions_recomputed": 198,
+    "retained_certified_directions": 197,
+    "retained_counterexamples": 1,
+    "failed_refined_index": 29,
+    "failed_mass": "197153/200000",
+    "retained_minimum": "200009/200000",
+    "old_minimum_counts": {
+      "200009/200000": 113,
+      "50003/50000": 68
+    },
+    "fresh_M19_audit_matches_accepted_bytes": true
+  },
+  "integrity_after_replay": {
+    "status": "PASS",
+    "frozen_files_checked": 131,
+    "original_manifest_entries_checked": {
+      "evidence/M19": 128,
+      "evidence/M19/research/proofs/M12_global_lower_bound": 56
+    },
+    "acceptance_certificate_and_audit_bound": true,
+    "evidence_manifest_sha256": "2caaea2ce5c690e471edb199089585b8ca783cae3e038f36600f22bd8d4cb935"
+  },
+  "claim": {
+    "statement": "s(17) >= 45900*sqrt(73062612901466039895961496449)/2702984545455608711",
+    "side_square": "153929043486937667513210640333717690000/7306125452971863634008322287539081521",
+    "decimal_bracket_20": [
+      "4.59004266897263595052",
+      "4.59004266897263595053"
+    ],
+    "endpoint_certificate": false,
+    "external_priority": "NOT_ESTABLISHED"
+  },
+  "finished_at_utc": "2026-09-18T05:00:51.078974+00:00",
+  "seconds": 31.57598600000074
+}

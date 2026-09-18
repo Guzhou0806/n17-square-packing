@@ -1,0 +1,38 @@
+{
+  "status": "PASS_CERTIFIED_NEW_GLOBAL_LOWER_BOUND",
+  "claim": {
+    "claim_id": "CL-M19-001",
+    "status": "RIGOROUSLY_CERTIFIED",
+    "kind": "GLOBAL_LOWER_BOUND_NONUNIFORM_DIRECTION_NET",
+    "statement": "s(17) >= 45900*sqrt(73062612901466039895961496449)/2702984545455608711",
+    "expression": "45900*sqrt(73062612901466039895961496449)/2702984545455608711",
+    "side_square": "153929043486937667513210640333717690000/7306125452971863634008322287539081521",
+    "decimal_bracket_20": [
+      "4.59004266897263595052",
+      "4.59004266897263595053"
+    ],
+    "maximum_half_gap_tangent": "621321000000/270300253166143",
+    "grid_nodes": 197,
+    "old_certified_nodes": 181,
+    "new_certified_nodes": 16,
+    "strict_counting_slack": "13537/200000",
+    "endpoint_certificate": false,
+    "parent": "CL-M14-001",
+    "data_origin": "M17 retained passed rows; M17 full refinement remains failed",
+    "certificate": "research/m19_work/CERTIFICATE.json",
+    "certificate_sha256": "4326a84caec0a60c0f70226c7a79bf4bbede2d1c032af8ca2aef319d2c91c806",
+    "independent_audit": "workers/T2/outputs/m17_lower/M19_FORMAL_REPORT.json",
+    "independent_audit_sha256": "a6f6e5efcedd468d217a25ee2e3795ca048152bba95e79e3f8bea11471797a74",
+    "method_novelty": false,
+    "external_priority": "NOT_ESTABLISHED",
+    "accepted_at": "2026-09-17T13:10:38.167984+00:00"
+  },
+  "M17_failed_preserved": true,
+  "source_replay_rows": 17,
+  "source_replay_exact_matches": 17,
+  "T2_direct_witness_recounts": 34,
+  "directed_checks_passed": 8,
+  "portable_replay": "PASS",
+  "new_search_directions_after_M17": 0,
+  "accepted_at": "2026-09-17T13:10:38.167984+00:00"
+}

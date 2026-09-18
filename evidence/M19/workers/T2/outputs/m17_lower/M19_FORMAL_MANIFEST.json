@@ -1,0 +1,46 @@
+{
+  "schema": "n17.m19.t2-independent-manifest.v1",
+  "status": "PASS_M19_NONUNIFORM_GRID_LOWER_BOUND",
+  "sweep_executed_by_t2": false,
+  "outputs": {
+    "checker": {
+      "path": "workers/T2/outputs/m17_lower/check_m19.py",
+      "sha256": "5facec6e4d8837027ca6c45ffa1fb1df2602d4f0be571bcc2c52811623ff20c3"
+    },
+    "formal_report": {
+      "path": "workers/T2/outputs/m17_lower/M19_FORMAL_REPORT.json",
+      "sha256": "a6f6e5efcedd468d217a25ee2e3795ca048152bba95e79e3f8bea11471797a74"
+    },
+    "directed_test_source": {
+      "path": "workers/T2/outputs/m17_lower/test_m19_checker.py",
+      "sha256": "d46c102280fa60fc2acc5768dc43f5b53a31117f27d4a7fe7171ae5d8958308d"
+    },
+    "directed_test_report": {
+      "path": "workers/T2/outputs/m17_lower/M19_DIRECTED_TESTS_FINAL.json",
+      "sha256": "cd3156aeac33484162d4cf155b2bf5890a11acc49cf2999d14c54d0d41e6e433"
+    },
+    "results_report": {
+      "path": "workers/T2/outputs/m17_lower/reports/RESULTS_REPORT.md",
+      "sha256": "07bdc1b40c26af84e14f1904ca122dd7ff5e7c1c404d4c022cb8a97a8a470df5"
+    },
+    "handoff": {
+      "path": "workers/T2/outputs/m17_lower/M19_FORMAL_HANDOFF.md",
+      "sha256": "156b032226a8b2a5b123f0eec1343bade4b3f2ba86a539754774540d13848a50"
+    }
+  },
+  "primary_inputs": {
+    "certificate": {
+      "path": "research/m19_work/CERTIFICATE.json",
+      "sha256": "4326a84caec0a60c0f70226c7a79bf4bbede2d1c032af8ca2aef319d2c91c806"
+    },
+    "t1_result": {
+      "path": "workers/T1/outputs/m17_m18/m19_replay/RESULT.json",
+      "sha256": "052b4dbbacdc0ddf5c08c569516d90cf7e7238deb9919e8e02d518e705f0a3fe"
+    },
+    "t1_rows": {
+      "path": "workers/T1/outputs/m17_m18/m19_replay/ROWS.jsonl",
+      "sha256": "f480412ee29b4da83141a8666f96161a10d96868cc5ed612050b350b5c4eed8f"
+    }
+  },
+  "claim_boundary": "Ordinary >= lower bound only; no endpoint infeasibility, no M17 repair, and no new searched direction."
+}

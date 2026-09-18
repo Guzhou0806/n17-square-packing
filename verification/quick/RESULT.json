@@ -1,0 +1,56 @@
+{
+  "schema": "n17.release.replay.v1",
+  "status": "PASS_QUICK_CHECK_ONLY",
+  "mode": "quick",
+  "started_at_utc": "2026-09-18T03:50:29.408447+00:00",
+  "python": "3.13.5 (main, Jul 15 2026, 20:25:40) [GCC 14.2.0]",
+  "platform": "Linux-6.18.44-x86_64-with-glibc2.41",
+  "driver_sha256": "64daece82f91acc0a8cfdcfd38963f376a87c27231360ecfe9f92873de0222a7",
+  "stages": [
+    {
+      "label": "saved_evidence_audit",
+      "script": "evidence/M19/workers/T2/outputs/m17_lower/check_m19.py",
+      "script_sha256": "5facec6e4d8837027ca6c45ffa1fb1df2602d4f0be571bcc2c52811623ff20c3",
+      "returncode": 0,
+      "seconds": 0.36504192699999294,
+      "log": "saved_evidence_audit.log",
+      "standard_library_mode": true
+    }
+  ],
+  "trust_scope": "Re-execution of supplied exact programs; not a newly authored geometric verifier, proof-assistant formalization, or peer review.",
+  "upstream_numpy_sweep_reexecuted_in_this_run": false,
+  "packing_optimization_calls": 0,
+  "integrity": {
+    "status": "PASS",
+    "frozen_files_checked": 131,
+    "original_manifest_entries_checked": {
+      "evidence/M19": 128,
+      "evidence/M19/research/proofs/M12_global_lower_bound": 56
+    },
+    "acceptance_certificate_and_audit_bound": true,
+    "evidence_manifest_sha256": "2caaea2ce5c690e471edb199089585b8ca783cae3e038f36600f22bd8d4cb935"
+  },
+  "coverage_sweeps_performed": 0,
+  "integrity_after_replay": {
+    "status": "PASS",
+    "frozen_files_checked": 131,
+    "original_manifest_entries_checked": {
+      "evidence/M19": 128,
+      "evidence/M19/research/proofs/M12_global_lower_bound": 56
+    },
+    "acceptance_certificate_and_audit_bound": true,
+    "evidence_manifest_sha256": "2caaea2ce5c690e471edb199089585b8ca783cae3e038f36600f22bd8d4cb935"
+  },
+  "claim": {
+    "statement": "s(17) >= 45900*sqrt(73062612901466039895961496449)/2702984545455608711",
+    "side_square": "153929043486937667513210640333717690000/7306125452971863634008322287539081521",
+    "decimal_bracket_20": [
+      "4.59004266897263595052",
+      "4.59004266897263595053"
+    ],
+    "endpoint_certificate": false,
+    "external_priority": "NOT_ESTABLISHED"
+  },
+  "finished_at_utc": "2026-09-18T03:50:29.943173+00:00",
+  "seconds": 0.5332640459999993
+}

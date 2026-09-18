@@ -1,0 +1,17 @@
+{
+  "atoms_checked": 1184,
+  "invariant_fields_checked": [
+    "angle_limit",
+    "direction_steps",
+    "least_cell_mass",
+    "n",
+    "symmetry",
+    "total_mass"
+  ],
+  "lambda": "1000001/1000000",
+  "original_sha256": "461cb731917bdaf7a58f54be651ca2c782bc519790d79d0fe4941c24fdd4c652",
+  "scaled_sha256": "6979561eb5137270f7baabc782cafc0580f3483a9bfcdf47fef427484285980c",
+  "schema": "n17.m12.t2-scaling-binding.v1",
+  "source_sha256": "9a0d907cc01afb7198144d0babfb3b39c8e29f47fa9eb10a412ae2563e12eaa9",
+  "status": "PASS"
+}

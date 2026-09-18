@@ -1,0 +1,21 @@
+{
+  "status": "AUTHORIZED",
+  "authorized_at": "2026-09-17T13:00:13.074003+00:00",
+  "source_replay_rows": 17,
+  "new_search_directions": 0,
+  "source_replay_soft_seconds": 30,
+  "T1_harness": "workers/T1/outputs/m17_m18/m19_source_replay_v2.py",
+  "T0_producer": "research/m19_work/produce_certificate.py",
+  "selection": "all 16 M17 passed rows plus all 181 inherited rows; failure retained",
+  "acceptance": "T1 full-domain minima match 17 rows; witnesses individually valid, need not share coordinates; T2 independent certificate acceptance",
+  "bindings": {
+    "coord/m17_m18/M19_PLAN.md": "701339de47b7ee0fcd16d51cca1ce8ea078228f4cd7ce0d33c21e60a31d9e684",
+    "research/m17_work/run_001/DIRECTIONS.jsonl": "c4898a550541964260091bdf6a79a9483832d412cbfa5a8d734de2fe0fc62b77",
+    "research/m17_work/run_001/RESULT.json": "da21090426dfb196e6697d07c8c560dc5820bba34158ab3b83eaf3f6f5a54898",
+    "research/m19_work/produce_certificate.py": "1e8519922c57e6c016616d63f00d5e4dd332a067c1051916c414f847cc704533",
+    "workers/T1/outputs/m17_m18/M19_REVIEW.md": "a61c3ea70e9883afb6871a172664156058ec5de919906f0980bbc787a8378e56",
+    "workers/T1/outputs/m17_m18/m19_source_replay_v2.py": "61bf58e4f6d64c9ef016dfe1ee3c53ea1182f93b91be390181876847b4ba6e8d",
+    "workers/T2/outputs/m17_lower/M19_DETERMINISTIC_PRE_REVIEW.md": "991b455527820655521532eba0855f271cd31d3fbef92dafa8985f087fa20538",
+    "workers/T2/outputs/m17_lower/M19_STATIC_PRECHECK_ATTEMPT_002.json": "d05a523c6a6c62ee8ccc81dd77c1ed63ae20c157a0c28e6af2239fd08cdbc2be"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "status": "AUTHORIZED_TWO_FIXED_TRIALS",
+  "authorized_at": "2026-09-17T12:52:57.345384+00:00",
+  "order": [
+    "BURNS",
+    "GENERIC"
+  ],
+  "released_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "delta": "1/20",
+  "solver": "SLSQP",
+  "maxiter": 2000,
+  "ftol": 1e-12,
+  "analytic_jacobian": true,
+  "smooth_rows": 816,
+  "calls": 2,
+  "restarts": 0,
+  "extra_position_LP": 0,
+  "parameter_tuning": false,
+  "source_preservation": "Freeze production source and manifest before calls. Never overwrite an executed version.",
+  "rounding": "format(value,'.15f') then Fraction",
+  "repair": "one uniform exact same-directed-branch expansion",
+  "certification": "Independent full Fraction SAT and exact comparison with M16 alpha; solver status alone irrelevant.",
+  "bindings": {
+    "coord/m17_m18/PLAN.md": "413a6e22f5eed846c5a73ef0831d5d7e9b8d6257fc52a6c84d33083368bc2ee2",
+    "workers/T1/outputs/m17_m18/PRE_REVIEW.md": "5df5b0b0ff0ef7fe26817bb363e30b6f0a5d276cb4525250c9426b9b4b2863dd",
+    "workers/T3/outputs/m18_wide_angles/INPUTS_DRAFT.json": "5c1368e8228e8591e30d246c26688ed5c680d8c194a9aaf98c07add1573b8bcf",
+    "workers/T3/outputs/m18_wide_angles/precheck_m18.py": "aa150078a1051e6422cac44d4be584bdb84a60490390f14228950d64664f4bfb",
+    "workers/T3/outputs/m18_wide_angles/PRECHECK_REPORT.json": "80e40863643d2376ce15f3db75d90f0d33fc0c7ee6d6497e944416b2ccd585b2",
+    "workers/T3/outputs/m15_smooth_upper/precheck_m15.py": "a730b37c727c94f8e6702e277450e74bd7c298345992021f2fb60d0cb7ff26a9",
+    "research/stages/M16_record_comparison/EXACT_COMPARISON.json": "6d1d3d2361ee193f6422e691f9e1b96ed2154b8307ac3adf0a146d9f4960dbff"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema": "n17.m12.independent-coverage.v1",
+  "status": "PASS_EXACT_COVERAGE_AND_FIXED_SCALING",
+  "input_sha256": "461cb731917bdaf7a58f54be651ca2c782bc519790d79d0fe4941c24fdd4c652",
+  "source_sha256": "1ddb94bb2a1a0350489752c44a5e9c4622c247f0142570fa5b622675ca652b38",
+  "python": "3.13.5 (main, Jul 15 2026, 20:25:40) [GCC 14.2.0]",
+  "static": {
+    "total_mass": "423327/25000",
+    "mass_margin": "1673/25000",
+    "atoms": 1184,
+    "sites": 1184,
+    "D4": true,
+    "arc_endpoint": "207107/500000",
+    "arc_polynomial": "309449/250000000000",
+    "D": "207107/90000000",
+    "scale": "1000001/1000000",
+    "new_side": "459000459/100000000",
+    "new_probe_side": "9977009977/10000000000",
+    "strict_containment_margin": "2793464693461/900000000000000000",
+    "inverse_scaling_checked_atoms": 1184
+  },
+  "directions_completed": 181,
+  "minimum": "200009/200000",
+  "declared_minimum": "200009/200000",
+  "matches_declared_minimum": true,
+  "seconds": 34.69661753600002,
+  "claim": "Independent exact finite coverage plus fixed scaling; final registration requires external review."
+}

@@ -1,0 +1,72 @@
+{
+  "schema": "n17.release.packaging-report.v1",
+  "status": "PASS_PACKAGING_REPLAYS_AND_TESTS",
+  "created_at_utc": "2026-09-18T03:56:22.717486+00:00",
+  "scope": "M19 with full M12 dependency; no new packing search or M20 verification",
+  "python": "3.13.5 (main, Jul 15 2026, 20:25:40) [GCC 14.2.0]",
+  "platform": "Linux-6.18.44-x86_64-with-glibc2.41",
+  "original_extracted_files_preserved": 129,
+  "standalone_M12_nested_equivalence_files": 57,
+  "evidence_manifest_sha256": "2caaea2ce5c690e471edb199089585b8ca783cae3e038f36600f22bd8d4cb935",
+  "quick": {
+    "status": "PASS_QUICK_CHECK_ONLY",
+    "seconds": 0.5332640459999993,
+    "report": "verification/quick/RESULT.json"
+  },
+  "standard_library": {
+    "status": "PASS_FULL_REPLAY",
+    "seconds": 40.32567933500002,
+    "report": "verification/standard_library/RESULT.json",
+    "old_directions": 181,
+    "additional_directions": 17,
+    "M19_certified_net_nodes": 197,
+    "retained_failed_directions": 1,
+    "fresh_audit_hash_matches_original_acceptance": true
+  },
+  "source_numpy": {
+    "status": "PASS_SOURCE_CROSSCHECK_198",
+    "seconds": 39.927509756999996,
+    "report": "verification/source_numpy/RESULT.json",
+    "numpy_version": "2.3.5",
+    "directions": 198,
+    "retained_failed_directions": 1,
+    "exact_direct_recounts": 198
+  },
+  "tests": {
+    "command": "python -X utf8 -B -S -m unittest discover -s tests -v",
+    "count": 15,
+    "passed": 15,
+    "log": "verification/release_tests.log",
+    "scope": "Release integrity/refusal behavior, not an additional covering theorem"
+  },
+  "credential_pattern_scan": {
+    "files_scope": "evidence/",
+    "patterns": [
+      "github_token",
+      "github_pat",
+      "api_key",
+      "private_key",
+      "aws_key"
+    ],
+    "matches": [],
+    "limitation": "Limited pattern scan, not a guarantee of absence of every secret or personal identifier"
+  },
+  "original_producer_and_acceptance_bytes_unchanged": true,
+  "remote_repository_created": false,
+  "remote_content_uploaded": false,
+  "github_actions_executed": false,
+  "claims_not_made": [
+    "newly authored independent geometry checker",
+    "proof-assistant formalization",
+    "external expert peer review",
+    "world record or priority",
+    "infeasibility at the exact endpoint",
+    "verification of M20"
+  ],
+  "git_index_byte_check": {
+    "status": "PASS_GIT_INDEX_BYTES",
+    "files_checked": 131,
+    "core_autocrlf": true,
+    "report": "verification/GIT_INDEX_CHECK.json"
+  }
+}

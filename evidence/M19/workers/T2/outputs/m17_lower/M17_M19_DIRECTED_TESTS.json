@@ -1,0 +1,32 @@
+{
+  "outcomes": [
+    {
+      "status": "PASS",
+      "test": "all_four_failing_probe_corners_strictly_inside"
+    },
+    {
+      "captured_atoms": 125,
+      "status": "PASS",
+      "test": "alternate_xy_relative_atom_recount"
+    },
+    {
+      "status": "PASS",
+      "test": "exact_threshold_deficit"
+    },
+    {
+      "status": "PASS",
+      "test": "m17_failure_preserved_and_m19_passed_set_fixed"
+    },
+    {
+      "status": "PASS",
+      "test": "all_196_m19_gaps_and_unique_maximum"
+    },
+    {
+      "status": "PASS",
+      "test": "m19_acceptance_remains_pending_full_replay"
+    }
+  ],
+  "schema": "n17.m17-m19.t2-directed-tests.v1",
+  "status": "PASS",
+  "tests": 6
+}

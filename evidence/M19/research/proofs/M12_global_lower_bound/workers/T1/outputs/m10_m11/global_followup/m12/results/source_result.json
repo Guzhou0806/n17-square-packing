@@ -1,0 +1,794 @@
+{
+  "certificate": {
+    "accepted": true,
+    "atom_count": 1184,
+    "direction_count": 181,
+    "minimum_cell_mass": "200009/200000",
+    "n": 17,
+    "outer_side": "459/100",
+    "square_side": "9977/10000",
+    "total_mass": "423327/25000",
+    "worst_direction": "0"
+  },
+  "commit": "035d84c655b4047bc9986c9a3db5106780d92f77",
+  "conditions": [
+    {
+      "detail": "1184 atoms closed under D4 about the centre",
+      "holds": true,
+      "name": "Condition 1 atoms carry the declared symmetry"
+    },
+    {
+      "detail": "total 423327/25000 against n = 17",
+      "holds": true,
+      "name": "Condition 2 total mass below n"
+    },
+    {
+      "detail": "final half-tangent 207107/500000, t^2 + 2t - 1 = 309449/250000000000",
+      "holds": true,
+      "name": "Condition 3 net reaches pi/4"
+    },
+    {
+      "detail": "B = 9977/10000, D = 207107/90000000, B(1 + D) = 899996306539/900000000000",
+      "holds": true,
+      "name": "Condition 4 containment B(1 + D) < 1"
+    },
+    {
+      "detail": "least cell mass 200009/200000 at direction 0",
+      "holds": true,
+      "name": "Condition 5 every reachable cell carries mass 1"
+    }
+  ],
+  "environment": {
+    "MKL_NUM_THREADS": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "namespace_shim": true,
+    "numpy": "2.5.3",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "project_requires_python": ">=3.14,<3.15",
+    "python": "3.12.13 (main, Jun  3 2026, 21:22:12) [MSC v.1944 64 bit (AMD64)]",
+    "workers": 1
+  },
+  "input": {
+    "certificate_module_sha256": "174ae7c3f6081684afd2cbaa6459211bf05971755df753359064a540a84ab1ba",
+    "certificate_path": "C:\\Users\\25852\\Documents\\n17 square problem\\workers\\T1\\outputs\\m10_m11\\global_followup\\certificate.json",
+    "certificate_sha256": "461cb731917bdaf7a58f54be651ca2c782bc519790d79d0fe4941c24fdd4c652",
+    "model_module_sha256": "2ef606e89a77f703041e5397d6f34ebb76289adfd2876c80abae868b081b6696",
+    "sweep_module_sha256": "b6b5f016a8d6ab632e0ea8ee30effa75d4bf11ca9acece72e2e933048b5714ee",
+    "workers_module_sha256": "e326bad4e493a801a90549e2d5953315a02a5bf0010c34197c0d6b45760249a6"
+  },
+  "lambda": "1",
+  "mode": "source",
+  "per_direction": [
+    {
+      "label": "0",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "1",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "2",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "3",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "4",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "5",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "6",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "7",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "8",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "9",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "10",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "11",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "12",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "13",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "14",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "15",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "16",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "17",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "18",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "19",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "20",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "21",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "22",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "23",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "24",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "25",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "26",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "27",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "28",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "29",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "30",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "31",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "32",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "33",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "34",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "35",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "36",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "37",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "38",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "39",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "40",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "41",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "42",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "43",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "44",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "45",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "46",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "47",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "48",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "49",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "50",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "51",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "52",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "53",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "54",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "55",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "56",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "57",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "58",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "59",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "60",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "61",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "62",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "63",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "64",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "65",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "66",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "67",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "68",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "69",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "70",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "71",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "72",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "73",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "74",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "75",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "76",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "77",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "78",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "79",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "80",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "81",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "82",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "83",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "84",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "85",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "86",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "87",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "88",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "89",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "90",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "91",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "92",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "93",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "94",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "95",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "96",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "97",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "98",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "99",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "100",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "101",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "102",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "103",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "104",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "105",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "106",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "107",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "108",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "109",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "110",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "111",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "112",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "113",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "114",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "115",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "116",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "117",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "118",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "119",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "120",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "121",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "122",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "123",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "124",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "125",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "126",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "127",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "128",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "129",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "130",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "131",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "132",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "133",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "134",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "135",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "136",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "137",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "138",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "139",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "140",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "141",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "142",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "143",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "144",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "145",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "146",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "147",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "148",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "149",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "150",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "151",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "152",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "153",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "154",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "155",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "156",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "157",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "158",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "159",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "160",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "161",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "162",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "163",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "164",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "165",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "166",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "167",
+      "minimum_cell_mass": "50003/50000"
+    },
+    {
+      "label": "168",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "169",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "170",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "171",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "172",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "173",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "174",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "175",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "176",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "177",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "178",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "179",
+      "minimum_cell_mass": "200009/200000"
+    },
+    {
+      "label": "180",
+      "minimum_cell_mass": "200009/200000"
+    }
+  ],
+  "schema_version": "n17.m12.source-faithful-replay.v1",
+  "timing": {
+    "cpu_seconds": 38.78125,
+    "peak_working_set_bytes": null,
+    "wall_seconds": 38.84918190003373
+  }
+}

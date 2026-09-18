@@ -1,0 +1,575 @@
+{
+  "bindings": {
+    "authorization": {
+      "path": "C:\\Users\\25852\\Documents\\n17 square problem\\coord\\m17_m18\\M17_COMPUTE_AUTHORIZATION.json",
+      "sha256": "b82a62f527432432d722ccfe47e60049636ab7e16d19a77112efc772d5b2052b"
+    },
+    "directions": {
+      "path": "C:\\Users\\25852\\Documents\\n17 square problem\\research\\m17_work\\run_001\\DIRECTIONS.jsonl",
+      "sha256": "c4898a550541964260091bdf6a79a9483832d412cbfa5a8d734de2fe0fc62b77"
+    },
+    "driver": {
+      "path": "C:\\Users\\25852\\Documents\\n17 square problem\\research\\m17_work\\run_refined_net.py",
+      "sha256": "b83f57b9288f4a2a2857a72e9ab37736cebeb446341f8e314af28b27924f16ed"
+    },
+    "plan": {
+      "path": "C:\\Users\\25852\\Documents\\n17 square problem\\coord\\m17_m18\\PLAN.md",
+      "sha256": "413a6e22f5eed846c5a73ef0831d5d7e9b8d6257fc52a6c84d33083368bc2ee2"
+    },
+    "result": {
+      "path": "C:\\Users\\25852\\Documents\\n17 square problem\\research\\m17_work\\run_001\\RESULT.json",
+      "sha256": "da21090426dfb196e6697d07c8c560dc5820bba34158ab3b83eaf3f6f5a54898"
+    },
+    "source": {
+      "path": "C:\\Users\\25852\\Documents\\n17 square problem\\coord\\m14_m15\\inputs\\SOURCE_T019.json",
+      "sha256": "461cb731917bdaf7a58f54be651ca2c782bc519790d79d0fe4941c24fdd4c652"
+    },
+    "sweep": {
+      "path": "C:\\Users\\25852\\Documents\\n17 square problem\\research\\m12_work\\independent_sweep.py",
+      "sha256": "1ddb94bb2a1a0350489752c44a5e9c4622c247f0142570fa5b622675ca652b38"
+    },
+    "theorem": {
+      "path": "C:\\Users\\25852\\Documents\\n17 square problem\\research\\m17_work\\THEOREM_DRAFT.md",
+      "sha256": "8daf02231120921095f3fae6467b08a7cd58aee28692ac7b34f7443cf60bd383"
+    }
+  },
+  "checker_sha256": "fbdbfb35e7a31b201277439f589a5eadce5a849ac8547352b244e2ac402ace11",
+  "claim_boundary": "Rejects only the fixed T-019 measure, B, full midpoint grid and uniform-minimum certificate. It does not reject other measures, grids, B values, or lower-bound methods.",
+  "counterexample": {
+    "17_mass_minus_total_mass": "-7003/40000",
+    "captured_atom_count": 125,
+    "captured_atoms": [
+      {
+        "atom_index": 152,
+        "weight": "1249/200000"
+      },
+      {
+        "atom_index": 168,
+        "weight": "2001/200000"
+      },
+      {
+        "atom_index": 188,
+        "weight": "133/200000"
+      },
+      {
+        "atom_index": 190,
+        "weight": "133/200000"
+      },
+      {
+        "atom_index": 196,
+        "weight": "169/200000"
+      },
+      {
+        "atom_index": 198,
+        "weight": "169/200000"
+      },
+      {
+        "atom_index": 204,
+        "weight": "169/200000"
+      },
+      {
+        "atom_index": 206,
+        "weight": "169/200000"
+      },
+      {
+        "atom_index": 212,
+        "weight": "1709/200000"
+      },
+      {
+        "atom_index": 214,
+        "weight": "1709/200000"
+      },
+      {
+        "atom_index": 220,
+        "weight": "5493/100000"
+      },
+      {
+        "atom_index": 222,
+        "weight": "5493/100000"
+      },
+      {
+        "atom_index": 228,
+        "weight": "191/200000"
+      },
+      {
+        "atom_index": 230,
+        "weight": "191/200000"
+      },
+      {
+        "atom_index": 236,
+        "weight": "87/25000"
+      },
+      {
+        "atom_index": 238,
+        "weight": "87/25000"
+      },
+      {
+        "atom_index": 244,
+        "weight": "93/200000"
+      },
+      {
+        "atom_index": 246,
+        "weight": "93/200000"
+      },
+      {
+        "atom_index": 252,
+        "weight": "833/100000"
+      },
+      {
+        "atom_index": 254,
+        "weight": "833/100000"
+      },
+      {
+        "atom_index": 260,
+        "weight": "851/100000"
+      },
+      {
+        "atom_index": 262,
+        "weight": "851/100000"
+      },
+      {
+        "atom_index": 268,
+        "weight": "673/25000"
+      },
+      {
+        "atom_index": 270,
+        "weight": "673/25000"
+      },
+      {
+        "atom_index": 284,
+        "weight": "441/200000"
+      },
+      {
+        "atom_index": 286,
+        "weight": "441/200000"
+      },
+      {
+        "atom_index": 300,
+        "weight": "407/12500"
+      },
+      {
+        "atom_index": 344,
+        "weight": "89/20000"
+      },
+      {
+        "atom_index": 346,
+        "weight": "89/20000"
+      },
+      {
+        "atom_index": 352,
+        "weight": "6319/200000"
+      },
+      {
+        "atom_index": 354,
+        "weight": "6319/200000"
+      },
+      {
+        "atom_index": 360,
+        "weight": "27/5000"
+      },
+      {
+        "atom_index": 362,
+        "weight": "27/5000"
+      },
+      {
+        "atom_index": 368,
+        "weight": "2089/200000"
+      },
+      {
+        "atom_index": 370,
+        "weight": "2089/200000"
+      },
+      {
+        "atom_index": 376,
+        "weight": "427/40000"
+      },
+      {
+        "atom_index": 378,
+        "weight": "427/40000"
+      },
+      {
+        "atom_index": 424,
+        "weight": "177/40000"
+      },
+      {
+        "atom_index": 426,
+        "weight": "177/40000"
+      },
+      {
+        "atom_index": 432,
+        "weight": "1017/50000"
+      },
+      {
+        "atom_index": 440,
+        "weight": "1337/100000"
+      },
+      {
+        "atom_index": 442,
+        "weight": "1337/100000"
+      },
+      {
+        "atom_index": 448,
+        "weight": "1683/100000"
+      },
+      {
+        "atom_index": 450,
+        "weight": "1683/100000"
+      },
+      {
+        "atom_index": 456,
+        "weight": "1801/200000"
+      },
+      {
+        "atom_index": 458,
+        "weight": "1801/200000"
+      },
+      {
+        "atom_index": 464,
+        "weight": "151/20000"
+      },
+      {
+        "atom_index": 466,
+        "weight": "151/20000"
+      },
+      {
+        "atom_index": 472,
+        "weight": "1371/40000"
+      },
+      {
+        "atom_index": 474,
+        "weight": "1371/40000"
+      },
+      {
+        "atom_index": 480,
+        "weight": "681/50000"
+      },
+      {
+        "atom_index": 482,
+        "weight": "681/50000"
+      },
+      {
+        "atom_index": 488,
+        "weight": "597/100000"
+      },
+      {
+        "atom_index": 490,
+        "weight": "597/100000"
+      },
+      {
+        "atom_index": 500,
+        "weight": "263/50000"
+      },
+      {
+        "atom_index": 502,
+        "weight": "263/50000"
+      },
+      {
+        "atom_index": 508,
+        "weight": "33/25000"
+      },
+      {
+        "atom_index": 510,
+        "weight": "33/25000"
+      },
+      {
+        "atom_index": 516,
+        "weight": "61/50000"
+      },
+      {
+        "atom_index": 520,
+        "weight": "169/50000"
+      },
+      {
+        "atom_index": 522,
+        "weight": "169/50000"
+      },
+      {
+        "atom_index": 528,
+        "weight": "1483/200000"
+      },
+      {
+        "atom_index": 530,
+        "weight": "1483/200000"
+      },
+      {
+        "atom_index": 536,
+        "weight": "2437/200000"
+      },
+      {
+        "atom_index": 538,
+        "weight": "2437/200000"
+      },
+      {
+        "atom_index": 588,
+        "weight": "19/50000"
+      },
+      {
+        "atom_index": 590,
+        "weight": "19/50000"
+      },
+      {
+        "atom_index": 596,
+        "weight": "583/200000"
+      },
+      {
+        "atom_index": 598,
+        "weight": "583/200000"
+      },
+      {
+        "atom_index": 604,
+        "weight": "27/20000"
+      },
+      {
+        "atom_index": 606,
+        "weight": "27/20000"
+      },
+      {
+        "atom_index": 684,
+        "weight": "3259/100000"
+      },
+      {
+        "atom_index": 692,
+        "weight": "4893/200000"
+      },
+      {
+        "atom_index": 694,
+        "weight": "4893/200000"
+      },
+      {
+        "atom_index": 732,
+        "weight": "1413/200000"
+      },
+      {
+        "atom_index": 734,
+        "weight": "1413/200000"
+      },
+      {
+        "atom_index": 740,
+        "weight": "19/5000"
+      },
+      {
+        "atom_index": 742,
+        "weight": "19/5000"
+      },
+      {
+        "atom_index": 748,
+        "weight": "57/200000"
+      },
+      {
+        "atom_index": 750,
+        "weight": "57/200000"
+      },
+      {
+        "atom_index": 756,
+        "weight": "663/100000"
+      },
+      {
+        "atom_index": 760,
+        "weight": "21/20000"
+      },
+      {
+        "atom_index": 762,
+        "weight": "21/20000"
+      },
+      {
+        "atom_index": 768,
+        "weight": "491/200000"
+      },
+      {
+        "atom_index": 776,
+        "weight": "1753/200000"
+      },
+      {
+        "atom_index": 816,
+        "weight": "277/40000"
+      },
+      {
+        "atom_index": 818,
+        "weight": "277/40000"
+      },
+      {
+        "atom_index": 832,
+        "weight": "3/1000"
+      },
+      {
+        "atom_index": 834,
+        "weight": "3/1000"
+      },
+      {
+        "atom_index": 848,
+        "weight": "1/10000"
+      },
+      {
+        "atom_index": 850,
+        "weight": "1/10000"
+      },
+      {
+        "atom_index": 856,
+        "weight": "261/200000"
+      },
+      {
+        "atom_index": 858,
+        "weight": "261/200000"
+      },
+      {
+        "atom_index": 880,
+        "weight": "179/50000"
+      },
+      {
+        "atom_index": 882,
+        "weight": "179/50000"
+      },
+      {
+        "atom_index": 888,
+        "weight": "19/50000"
+      },
+      {
+        "atom_index": 890,
+        "weight": "19/50000"
+      },
+      {
+        "atom_index": 896,
+        "weight": "3853/200000"
+      },
+      {
+        "atom_index": 904,
+        "weight": "379/100000"
+      },
+      {
+        "atom_index": 912,
+        "weight": "483/100000"
+      },
+      {
+        "atom_index": 928,
+        "weight": "407/25000"
+      },
+      {
+        "atom_index": 936,
+        "weight": "337/200000"
+      },
+      {
+        "atom_index": 938,
+        "weight": "337/200000"
+      },
+      {
+        "atom_index": 944,
+        "weight": "1/10000"
+      },
+      {
+        "atom_index": 946,
+        "weight": "1/10000"
+      },
+      {
+        "atom_index": 952,
+        "weight": "97/100000"
+      },
+      {
+        "atom_index": 954,
+        "weight": "97/100000"
+      },
+      {
+        "atom_index": 960,
+        "weight": "413/200000"
+      },
+      {
+        "atom_index": 962,
+        "weight": "413/200000"
+      },
+      {
+        "atom_index": 968,
+        "weight": "873/40000"
+      },
+      {
+        "atom_index": 1076,
+        "weight": "9/50000"
+      },
+      {
+        "atom_index": 1078,
+        "weight": "9/50000"
+      },
+      {
+        "atom_index": 1100,
+        "weight": "1/10000"
+      },
+      {
+        "atom_index": 1102,
+        "weight": "1/10000"
+      },
+      {
+        "atom_index": 1108,
+        "weight": "19/50000"
+      },
+      {
+        "atom_index": 1110,
+        "weight": "19/50000"
+      },
+      {
+        "atom_index": 1116,
+        "weight": "199/200000"
+      },
+      {
+        "atom_index": 1118,
+        "weight": "199/200000"
+      },
+      {
+        "atom_index": 1124,
+        "weight": "21/200000"
+      },
+      {
+        "atom_index": 1126,
+        "weight": "21/200000"
+      },
+      {
+        "atom_index": 1140,
+        "weight": "1041/50000"
+      },
+      {
+        "atom_index": 1142,
+        "weight": "1041/50000"
+      },
+      {
+        "atom_index": 1148,
+        "weight": "337/200000"
+      },
+      {
+        "atom_index": 1164,
+        "weight": "31/40000"
+      },
+      {
+        "atom_index": 1166,
+        "weight": "31/40000"
+      }
+    ],
+    "centre_uv": [
+      "1292601960409875467/810901831831165225",
+      "903250983714872542493/648721465464932180000"
+    ],
+    "centre_xy": [
+      "39392416834193716019390011879408597/26302471234685574692915583249972025",
+      "31468636800336462073873533995579343763/21041976987748459754332466599977620000"
+    ],
+    "closed_boundary_atom_hits": [],
+    "direct_captured_mass": "197153/200000",
+    "inside_reported_open_cell": true,
+    "mass_minus_threshold": "-7003/680000",
+    "probe_radius_xy": "344467137219978582007/648721465464932180000",
+    "strictly_inside_feasible_centre_domain": true,
+    "t": "6006103/180000000",
+    "threshold": "423327/425000"
+  },
+  "logic": "One legal centre with captured mass <= total_mass/17 disproves the universal row condition. The reported point is sufficient even without proving it is the global minimum of that direction.",
+  "run_protocol": {
+    "completed_rows": 17,
+    "first_failed_old_interval_index": 14,
+    "first_failed_refined_index": 29,
+    "passed_rows_before_failure": 16,
+    "pilot_old_interval_indices": [
+      0,
+      89,
+      179
+    ]
+  },
+  "schema": "n17.m17.t2-exact-counterexample-audit.v1",
+  "status": "PASS_M17_FIXED_361_NET_REJECTED_BY_EXACT_COUNTEREXAMPLE",
+  "sweep_rerun": false
+}

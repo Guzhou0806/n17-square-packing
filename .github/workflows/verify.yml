@@ -1,0 +1,28 @@
+name: M19 evidence replay
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  exact-replay:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out this snapshot
+        uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - name: Show Python version
+        run: python3 --version
+      - name: Release adapter tests
+        run: python3 -X utf8 -B -S -m unittest discover -s tests -v
+      - name: Full standard-library coverage and endpoint replay
+        run: python3 -X utf8 -B verify.py --output .replay-runs/ci-full
+      - name: Show result scope
+        if: always()
+        run: |
+          if [ -f .replay-runs/ci-full/RESULT.json ]; then
+            cat .replay-runs/ci-full/RESULT.json
+          fi

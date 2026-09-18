@@ -3,7 +3,7 @@
 A research evidence snapshot for packing seventeen rotatable unit squares into a square.
 **This release concerns M19, not a claim of the strongest currently known bound.**
 
-[中文使用说明](START_HERE.zh-CN.md) · [English proof](docs/M19_PROOF_EN.md) ·
+[English proof](docs/M19_PROOF_EN.md) ·
 [Results](RESULTS.md) · [Reproduction](docs/REPRODUCIBILITY.md) ·
 [Evidence map](docs/EVIDENCE_MAP.md) · [Attribution](NOTICE.md)
 

@@ -1,4 +1,18 @@
 {
+  "derived_from": {
+    "commit": "11013c722aac7c4bd9ae81d313d9b7b8edaea842",
+    "frozen_evidence_changed": false,
+    "modified_presentation_documents": [
+      "README.md",
+      "CHANGELOG.md"
+    ],
+    "release_manifest_sha256": "edb1de6dc9535d098dbc5d84938bd50f71c3545f96cb06c7f640d301eb029b71",
+    "removed_maintainer_documents": [
+      "START_HERE.zh-CN.md",
+      "docs/T0_PUBLISH_HANDOFF.md",
+      "communication/X_DM_EN.txt"
+    ]
+  },
   "files": {
     ".gitattributes": {
       "bytes": 97,
@@ -17,8 +31,8 @@
       "sha256": "da1d34a4e8942d246692ad40733fe2c4e9bed573894c49ba8e9b270037ea2dac"
     },
     "CHANGELOG.md": {
-      "bytes": 726,
-      "sha256": "431da35c0fb85f86f7a7fe4e8f71c2fe60f2ebf5d6480940cd24c0fd43f27c4e"
+      "bytes": 1553,
+      "sha256": "2047c1f0359eb0b16765c18dbd63e1314847cc431effe0a5685100b98a1e8fdb"
     },
     "CITATION.cff": {
       "bytes": 680,
@@ -33,16 +47,12 @@
       "sha256": "c8937576163eb3b37c24d129fe528d80e4e4c46eeb4f1d7c7f82cad9d04ea031"
     },
     "README.md": {
-      "bytes": 4818,
-      "sha256": "0547faf2cbb4a90603c47549c35b6e2df7ba90f1aed8123320c28279e21d38dd"
+      "bytes": 4773,
+      "sha256": "c3e2a3c17b95a048b881d9375fca3002b24ddd9f0e7df715ce713a4a39da5aaa"
     },
     "RESULTS.md": {
       "bytes": 2093,
       "sha256": "9292c2a15cc36379746198aa63a6f405c573645e392edad923e7b82b6c6a9c45"
-    },
-    "START_HERE.zh-CN.md": {
-      "bytes": 4781,
-      "sha256": "208ebcbf915891e666d1fdf29443a7a5cb5cb6ce1fa6203a05ab83fd0fdb6179"
     },
     "archives/M12_global_lower_bound.zip": {
       "bytes": 268490,
@@ -51,10 +61,6 @@
     "archives/M19_nonuniform_direction_lower_bound.zip": {
       "bytes": 502315,
       "sha256": "104893aec8bea763edb97737c15380aeb13c6186ed328634d88ed45fb777e34c"
-    },
-    "communication/X_DM_EN.txt": {
-      "bytes": 1371,
-      "sha256": "04cd3dae0bd67a07472b49629a8862fe507351cd0ad201e118cf2f97329509a1"
     },
     "docs/EVIDENCE_MAP.md": {
       "bytes": 2904,
@@ -75,10 +81,6 @@
     "docs/REPRODUCIBILITY.md": {
       "bytes": 4396,
       "sha256": "5871fc49ffcf470d2f2547a444af7f63c720da8ae76acf7ae06c753b92373eb7"
-    },
-    "docs/T0_PUBLISH_HANDOFF.md": {
-      "bytes": 1252,
-      "sha256": "fa2b72bf83eda9d889041fcbdb1e8f5c40ae3c85fa3bff2ee57a21d5f950fd80"
     },
     "evidence/M19/FINAL_ACCEPTANCE.json": {
       "bytes": 1694,
@@ -705,7 +707,8 @@
       "sha256": "64daece82f91acc0a8cfdcfd38963f376a87c27231360ecfe9f92873de0222a7"
     }
   },
+  "revision": "docs-cleanup-1",
   "schema": "n17.release.as-exported.v1",
-  "scope": "All exported files except this manifest itself; byte integrity only",
+  "scope": "Retained original-export files after documentation-only cleanup; excludes this manifest and later added verification runs. Byte integrity only.",
   "version": "0.1.0-m19"
 }

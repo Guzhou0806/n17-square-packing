@@ -1,0 +1,15 @@
+{
+  "schema": "n17.r012.public.sha256.v1",
+  "files": {
+    "ATTRIBUTION.md": "5e300ec2ae60838b22fb185604f6ccbc10c7ab3a9982e7668079a47d1fca5900",
+    "LICENSE-MIT.txt": "134d213f268cce96daf2099396d727c38efd705bcc1613497d62c21f53d19c75",
+    "PROOF.md": "4a53362d6624bebe064ac6c7c1fcf29e8f7ad2847263e5d92ae7a0be2ba07194",
+    "README.md": "8919d963cd680c76ca2c8f61293c08a5d4982e9e2a787adea45c59f80e9ff701",
+    "catalogue.json": "4d2a89e87f838c385b02ba9fa0fb06c2fd36eb5d85668fb119db31c3dcc96ee1",
+    "counterexamples.json": "ff4214a6139394ccd6f26c4490f03ede535382ac6e78dcfe8b8eca8b32c26848",
+    "orbits.json": "97d2d227a6578a30276e43b10be5e57ae49a1d3e8def699bf01de96fa3785e60",
+    "sweep.py": "96efe91895ab14d80c6b7162aee91d4687e5d11a60093a9935043a88d4713965",
+    "test_verify.py": "26987b54b6f51a7a72fda4591fd8621bd15f8d4723dd2a61bdf1f89229b47099",
+    "verify.py": "c85c9d8f90c6bf9d3cc294ea4c8b4135725f8698774fb21f1c90b950c25a33e6"
+  }
+}

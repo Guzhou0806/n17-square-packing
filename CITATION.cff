@@ -1,15 +1,15 @@
 cff-version: 1.2.0
-title: "M19: A nonuniform-direction-net lower bound for 17 unit squares in a square"
-message: "Please cite a fixed commit or release of this evidence snapshot; see NOTICE.md for upstream attribution."
+title: "R012: A parent-angle lower-bound certificate for seventeen unit squares / 十七单位正方形的父角目录下界证书"
+message: "Please cite a fixed commit and credit the upstream work listed in NOTICE.md. 请引用固定提交并保留来源署名。"
 type: software
-version: "0.1.0-m19"
+version: "r012-public-python-1"
 authors:
   - name: "Guzhou0806"
+repository-code: "https://github.com/Guzhou0806/n17-square-packing"
 abstract: >-
-  Evidence, exact coverage replays and proof of the M19 lower-bound constant
-  4.59004266897263595052... for seventeen rotatable unit squares in a square.
-  Based on Joshua Levy's weighted-atom certificate and dilation-limit method.
-  No external-priority or optimality claim is made.
+  An exact computer-assisted certificate for s(17) >= 461300/99999,
+  with a complete parent-angle selector and all-translation Python replay.
+  包含完整父角选择目录与连续中心精确复验。不主张最优或公开首发。
 keywords:
   - square packing
   - computer-assisted proof

@@ -1,106 +1,68 @@
-# n = 17 square packing — M19 lower-bound evidence
+# Seventeen unit squares / 十七个单位正方形
 
-A research evidence snapshot for packing seventeen rotatable unit squares into a square.
-**This release concerns M19, not a claim of the strongest currently known bound.**
+## R012: a parent-angle lower-bound certificate / 父角目录下界证书
 
-[English proof](docs/M19_PROOF_EN.md) ·
-[Results](RESULTS.md) · [Reproduction](docs/REPRODUCIBILITY.md) ·
-[Evidence map](docs/EVIDENCE_MAP.md) · [Attribution](NOTICE.md)
+Let $s(17)$ be the infimum side of a square containing seventeen arbitrarily rotated unit squares with pairwise disjoint interiors. Boundary contact is allowed.
 
-## Result
+记 $s(17)$ 为容纳十七个可任意旋转、内部两两不交的单位正方形时，正方形容器边长的下确界，允许边界接触。
 
-Let $s(17)$ be the infimum of container side lengths that can hold 17 unit squares
-with arbitrary rotations and disjoint interiors; boundary contact is allowed.
-The released M19 statement is
-
-$$
-s(17)\ge S_{19}:=
-\frac{45900\sqrt{73062612901466039895961496449}}
-{2702984545455608711}.
-$$
-
-The exact enclosure of **the constant $S_{19}$**, not of $s(17)$, is
+$$\boxed{s(17)\ge S_{12}:=\frac{461300}{99999}}$$
 
 ```text
-4.59004266897263595052 <= S19 < 4.59004266897263595053.
+4.61304613046130461304 <= S12 < 4.61304613046130461305
 ```
 
-The project acceptance is [CL-M19-001](evidence/M19/FINAL_ACCEPTANCE.json).
-It binds the [original certificate](evidence/M19/research/m19_work/CERTIFICATE.json)
-to the accepted audit. The certificate's older producer-stage status is intentionally
-unchanged. No endpoint infeasibility, global optimality, external priority, or
-new general method is asserted.
+**The bracket encloses the lower-bound constant, not the unknown optimum s(17).** This is a computer-assisted result with reproducible exact arithmetic, not a claim of peer review, global optimality or established public priority.
 
-## Reproduce from a clean checkout
+**夹逼对象是下界常数，不是未知的 s(17)。**本仓库提供可复验的精确计算证据，不以程序通过替代外部审稿、全局最优或首发确认。
 
-Python **3.10+**; the standard path uses **no third-party package, network access,
-model call, optimizer, or original workspace**. Python 3.13.5 is the version
-actually tested when this release was assembled; other versions are not claimed
-to have been tested here. Run from this directory:
+[Proof / 证明](certificates/R012/PROOF.md) · [Replay / 复验](certificates/R012/README.md) · [Results / 结果登记](RESULTS.md) · [Attribution / 来源](certificates/R012/ATTRIBUTION.md)
+
+## Reproduce R012 / 复验 R012
+
+Python **3.10+**, standard library only. No account, model, optimizer, compiler or network is needed after checkout. Run from the repository root:
 
 ```bash
-python -X utf8 -B verify.py --output .replay-runs/full-001
+python -X utf8 -B -S certificates/R012/test_verify.py
+python -X utf8 -B -S certificates/R012/verify.py --workers 4 --output .replay-runs/r012-001
 ```
 
-The default command recomputes **all 181 inherited directions**, then **all 17
-M17 trial directions**. The latter contain 16 accepted directions and one retained
-counterexample: **198 coverage checks, 197 directions in the certified M19 net**.
-It then checks the exact gap/endpoint calculations and the acceptance binding.
-The expected final status is `PASS_FULL_REPLAY`.
+The output directory must be new. Reduce `--workers` for smaller machines. The public replay recomputes every one of **2925 continuous parent-angle intervals**, each over its **entire legal parent-center envelope**. Allow several minutes; these are not 2925 sampled placements.
 
-The output directory must not already exist. Choose `full-002` on a second run.
-Do not run with `python -O`, `python -OO`, or `PYTHONOPTIMIZE`; the supplied programs
-use assertions, and the release adapter rejects optimized execution.
+输出目录必须尚不存在。完整入口重算 **2925 个连续父角区间**及各自的**全部合法父中心域**，不是角度或位置抽样。计算只使用 Python 标准库，应预留数分钟或更长。
 
-For a quick integrity and saved-evidence check **without recomputing coverage**:
+The complete success marker is / 完整成功标记为：
+
+```text
+PASS_COMPLETE_PARENT_CATALOGUE_GLOBAL_LOWER_BOUND
+```
+
+`--records` produces `PASS_RECORDS_ONLY` and does **not** recompute coverage. Do not use `-O`, `-OO` or `PYTHONOPTIMIZE`.
+
+## What changed / 贡献范围
+
+The certificate keeps one fixed nonnegative measure: **1616 atoms in 206 D4 orbits**, at base side $L=4.613$. For every legal parent square of side $A=0.99999$, a complete catalogue selects one concentric closed core strictly inside it. Different parent-angle ranges can use different core directions and sizes, but all consume the same total mass. The exact contradiction gives $L/A=461300/99999$.
+
+证书固定同一份非负测度：**1616 个原子、206 个 D4 轨道**。改进在于为每个真实父方块选择一个严格内部核，而非要求所有辅助小核都成功。不同角区间可以使用不同方向和大小的核，但没有另开或重复使用质量预算。
+
+Relative to the pinned Mira endpoint $4.61302863588611076617\ldots$, the constant increases by approximately $0.00001749457519384687$; the proof checks a strictly positive rational squared difference. This comparison is with a specified source, not an exhaustive world-record survey.
+
+相对锁定 Mira 端点的改进由精确正平方差验证；并不由此宣布穷尽公开纪录。加权测度、事件几何、内部核计数和父中心限制继承已有工作，具体选择目录及 N17 推论是本项目的增量。
+
+## Earlier milestone / 历史里程碑
+
+[M19](docs/M19_PROOF_EN.md) and its frozen evidence remain unchanged. Its original standard-library command still works:
 
 ```bash
-python -X utf8 -B verify.py --quick --output .replay-runs/quick-001
+python -X utf8 -B verify.py --output .replay-runs/m19-001
 ```
 
-Its status is deliberately `PASS_QUICK_CHECK_ONLY`, never a full-replay success.
+M19 retains its own `PASS_FULL_REPLAY` marker. It is distinct from R012 and does not verify R012. / M19 原证据与命令保留；其通过标记不代表 R012 已复验。
 
-An optional second implementation is available through
-[scripts/source_crosscheck.py](scripts/source_crosscheck.py). It loads the
-retained upstream NumPy sweep unchanged and rechecks all 198 directions;
-see [reproduction instructions](docs/REPRODUCIBILITY.md). It is not required
-by the default standard-library command.
+## Credit and verification scope / 署名与可信边界
 
-## What changed mathematically
+**Guzhou0806 / N17 project, with AI assistance.** The mathematical lineage includes **Mira's 17squares** and **Joshua Levy, the squares project**. See [source versions and transformations](certificates/R012/ATTRIBUTION.md) and [repository notices](NOTICE.md).
 
-The 1,184 atoms, their weights, and probe side $B=9977/10000$ are unchanged.
-M19 combines the original 181-direction net with 16 completely checked midpoints,
-forming a 197-node nonuniform net. Its maximum adjacent half-angle tangent is
+The public Python implementation rechecks the unchanged R012 data; it does not copy the original C++ distribution. Exact-program replay and witness cross-checks are not an independently designed second full geometric proof. No upstream endorsement, external peer review, formalization or priority is implied.
 
-$$D=\frac{621321000000}{270300253166143}.$$
-
-The smaller angular gap strengthens the inherited dilation-limit bound.
-The earlier full 361-node refinement, **M17, failed** and remains recorded as
-failed. M19 is a separately documented reuse of its passed directions, not a
-rewrite of that failed experiment. See the [failure record](docs/M17_FAILURE.md).
-
-## Evidence and verification status
-
-The supplied M19 archive and its nested M12 dependency are retained byte-for-byte
-under [evidence/M19](evidence/M19/). Both original ZIP files are also retained in
-[archives](archives/); separately supplied duplicates are mapped in
-[provenance/INPUTS.json](provenance/INPUTS.json), not silently replaced.
-
-[verification/PACKAGING_REPORT.md](verification/PACKAGING_REPORT.md) records the
-checks actually executed during assembly, with fresh outputs kept separate from
-the project's historic acceptance. Running supplied exact programs again is not
-a proof-assistant formalization or a newly authored independent geometric verifier.
-It does not establish peer review or priority.
-
-## Credit and reuse
-
-Research project: **Guzhou0806 / N17 project**, with AI assistance.
-The weighted certificate, source coverage algorithm, and dilation argument derive
-from **Joshua Levy, the squares project**. The supplied work pins upstream commit
-`035d84c655b4047bc9986c9a3db5106780d92f77`.
-
-See [NOTICE.md](NOTICE.md) for the original MIT/CC BY 4.0 notices, transformations,
-and the distinction between upstream and incremental contributions. No endorsement
-or coauthorship by Joshua Levy is implied. Cite a fixed commit or release of this
-snapshot; [CITATION.cff](CITATION.cff) provides metadata without inventing a DOI or
-a public repository URL.
+公开 Python 入口重新检查同一数学对象，不分发原 C++ 包。程序复演与见证交叉检查不等于第二份独立全几何证明；来源署名不暗示作者背书、共同署名或外部验收。

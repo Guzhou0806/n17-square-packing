@@ -1,100 +1,40 @@
-# Reproducing M19
+# Reproducibility / 可复验性
 
-## Environment and trust boundary
+## R012 — current milestone / 当前里程碑
 
-The main entry point requires Python 3.10 or newer and only the standard library.
-It launches frozen programs with `-B -S`, UTF-8 mode and assertions enabled.
-The driver rejects optimized execution. No original workspace, online lookup,
-model access, optimizer, or credential is needed.
+[Full instructions / 完整说明](../certificates/R012/README.md) · [Proof / 证明](../certificates/R012/PROOF.md)
 
-The adapter is newly added packaging code. It is not a third geometric algorithm.
-The original standard-library sweep and the different retained upstream NumPy
-sweep remain separately attributable. All input files are immutable in this
-snapshot; outputs go to a **new** directory outside frozen evidence.
-
-## A. Quick check — no coverage recomputation
+Requirements: Python 3.10+, no third-party modules. From the repository root:
 
 ```bash
-python -X utf8 -B verify.py --quick --output .replay-runs/quick-001
+python -X utf8 -B -S certificates/R012/test_verify.py
+python -X utf8 -B -S certificates/R012/verify.py --workers 4 --output .replay-runs/r012-001
 ```
 
-Checks the new evidence manifest, both original manifests, the final-acceptance
-bindings, all saved witness counts and the exact M19 arithmetic. Expected status:
-`PASS_QUICK_CHECK_ONLY`. This mode performs zero full-center coverage sweeps.
+The output must be new. The public replay expands 206 integer D4 orbit rows, checks exact measure identity, builds all 2925 parent-angle entries, proves interval containment/closure, and scans each complete parent-center envelope. Every returned minimum is directly recounted. Five unsuccessful core recipes are independently checked as controls. Only completion of every obligation produces `PASS_COMPLETE_PARENT_CATALOGUE_GLOBAL_LOWER_BOUND`.
 
-## B. Full standard-library replay — default
+输出目录必须尚不存在。公开入口重建原子、目录、严格包含及接缝，扫描每项完整连续父中心域，并逐原子核对最小见证。五个失败配方作为控制保留，全部完成后才输出全局证明标记。
+
+`--records` checks metadata, arithmetic and witnesses only; it is never equivalent to full replay. Numerical search and optimization are not part of acceptance. Multiple computation workers do not constitute independent research reviewers.
+
+records 没有几何覆盖重算；计算进程数量不代表独立审查人数。新公开入口只用 Python，不能沿用原 C++ 耗时或把两者误称为不同理论证明。
+
+## M19 — unchanged historical entry / 未改动的历史入口
 
 ```bash
-python -X utf8 -B verify.py --output .replay-runs/full-001
+python -X utf8 -B verify.py --output .replay-runs/m19-001
 ```
 
-It performs the following, in order:
-
-1. Integrity and acceptance-binding checks before execution.
-2. Nested M12 replay: all 181 old directions, geometric/static fixtures, the
-   1,184-atom scaling binding, and comparison with saved source/scaled outputs.
-3. Original M19 replay: complete center-domain sweeps for all 17 M17 trial
-   directions (16 passes and one expected failure), then exact 197-node and
-   endpoint checks.
-4. Comparison of all 198 fresh direction records with the supplied records and
-   of the fresh M19 audit bytes with the hash named by final acceptance.
-5. Integrity checks again after execution.
-
-Expected status: `PASS_FULL_REPLAY`.
-
-The console includes `FAIL_FIXED_REFINED_NET_COVERAGE` in the **M17** child log.
-This is intentional: it is the retained counterexample to a different experiment.
-The wrapper only passes when that expected failure and the valid M19 subset both
-match. A process timeout or incomplete direction set is never interpreted as a
-mathematical success.
-
-Outputs include `RESULT.json`, `M12/coverage/DIRECTIONS.jsonl`,
-`M19/new_coverage/DIRECTIONS.jsonl`, `M19/M19_AUDIT.json`, and execution logs.
-
-## C. Optional second-implementation replay
-
-The pinned upstream `model.py` and `sweep.py` are already bundled. Only NumPy is
-optional. In a separate environment with NumPy available, run:
+This separately recomputes 181 old directions and 17 trial directions, preserving 197 certified directions and one exact failure. Its marker is `PASS_FULL_REPLAY`. The optional source implementation uses NumPy:
 
 ```bash
-python -X utf8 -B scripts/source_crosscheck.py --output .replay-runs/source-001
+python scripts/source_crosscheck.py --help
 ```
 
-Do not add `-S` to this optional command: it needs to import NumPy.
-The release's optional environment specification is `requirements-optional.txt`.
-Installing it is an explicit user action; no replay command installs anything.
+M19 仍独立重算旧方向和新增试验方向，保留失败；原科学文件、哈希和默认入口不变。
 
-The adapter installs namespace packages to avoid unrelated upstream initialization,
-then calls the **unchanged** retained integer two-dimensional difference sweep on
-all 181 old plus 17 M17 directions. It compares exact minima, independently recounts
-each returned witness, and checks legal centers. Expected status:
-`PASS_SOURCE_CROSSCHECK_198`.
+## Trust / 可信边界
 
-This adapter records the actual NumPy version. It does not claim to recreate the
-original project's NumPy 2.5.3 environment. The two algorithms still share the
-underlying covering theorem, so agreement is not a substitute for reviewing that
-theorem.
+File hashes establish identity, not mathematical validity. Exact program execution is not external peer review or a proof-assistant formalization. Review strict interior containment, complete center enumeration and use of a common measure in the proofs.
 
-## Tests and repeatability
-
-```bash
-python -X utf8 -B -S -m unittest discover -s tests -v
-```
-
-Those tests check the release adapter, byte preservation and refusal behavior;
-they do not independently establish universal geometric coverage.
-Use a different output directory for every replay. Do not remove old reports just
-to rerun the same command.
-
-The programs have historical limits: M12 checks a 600-second budget between
-directions; M17 uses a 120-second limit. The wrapper has a 750-second subprocess
-limit. On a sufficiently slow machine this may fail as incomplete. Do not change
-frozen code or call partial output a certificate; document any separate budget-only
-adapter before using it.
-
-## Publication scope
-
-The recorded acceptance is the originating project's result. Fresh execution in
-this release is a reproducibility check, not an expert endorsement, formal-kernel
-proof, priority search, or proof of an optimal packing. The interval in the README
-bounds $S_{19}$, not $s(17)$.
+哈希只绑定文件，不能替代数学检查；审查重点包括严格内部核、连续中心完备性与共同质量预算。

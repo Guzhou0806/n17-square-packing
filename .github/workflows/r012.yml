@@ -1,0 +1,28 @@
+name: R012 exact public replay
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  parent-catalogue:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Check out the committed scientific files
+        uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - name: Show Python version
+        run: python3 --version
+      - name: R012 exact controls
+        run: python3 -X utf8 -B -S certificates/R012/test_verify.py
+      - name: Complete parent-angle and continuous-center replay
+        run: python3 -X utf8 -B -S certificates/R012/verify.py --workers 2 --output .replay-runs/r012-ci
+      - name: Show actual result
+        if: always()
+        run: |
+          if [ -f .replay-runs/r012-ci/RESULT.json ]; then
+            cat .replay-runs/r012-ci/RESULT.json
+          fi

@@ -1,49 +1,17 @@
-# Evidence map
+# Evidence map / 证据入口
 
-## Minimal reading path
+## R012
 
-1. [English theorem](M19_PROOF_EN.md).
-2. [Original final acceptance](../evidence/M19/FINAL_ACCEPTANCE.json) and
-   [machine certificate](../evidence/M19/research/m19_work/CERTIFICATE.json).
-3. [Full reproduction guide](REPRODUCIBILITY.md), then `verify.py` at the root.
-4. [Fresh assembly-time records](../verification/PACKAGING_REPORT.md).
+`certificates/R012/orbits.json` + `catalogue.json` define the exact mathematical object. `verify.py` checks identity, full interval assembly, geometry, coverage and the bound. `sweep.py` enumerates all continuous center cells. `counterexamples.json` contains five scientific negative controls. `PROOF.md` connects the computations to the packing statement. `MANIFEST.json` binds only this scientific package.
 
-## Exact file map
+整数轨道与目录定义数学对象；验证入口和有理扫描承担全部检查；五个失败见证防止误把原配方宣称成功；证明说明将计算连接至全局下界。科学清单不依赖协调或授权文件。
 
-| Purpose | Frozen location |
-|---|---|
-| 1,184 atoms and rational weights | `evidence/M19/workers/T1/outputs/m10_m11/global_followup/certificate.json` |
-| Same source bound into formal audit | `evidence/M19/coord/m14_m15/inputs/SOURCE_T019.json` |
-| 181 old-direction records | `evidence/M19/research/m12_work/run_001/DIRECTIONS.jsonl` |
-| M17's 17 additional records | `evidence/M19/research/m17_work/run_001/DIRECTIONS.jsonl` |
-| M17 failure summary | `evidence/M19/research/m17_work/run_001/RESULT.json` |
-| M19 gap and endpoint certificate | `evidence/M19/research/m19_work/CERTIFICATE.json` |
-| Original certificate producer | `evidence/M19/research/m19_work/produce_certificate.py` |
-| Standard-library full coverage implementation | `evidence/M19/research/m12_work/independent_sweep.py` |
-| M19 saved-evidence arithmetic/witness checker | `evidence/M19/workers/T2/outputs/m17_lower/check_m19.py` |
-| Accepted M19 audit | `evidence/M19/workers/T2/outputs/m17_lower/M19_FORMAL_REPORT.json` |
-| 17-row historical source replay | `evidence/M19/workers/T1/outputs/m17_m18/m19_replay/` |
-| Complete M12 dependency | `evidence/M19/research/proofs/M12_global_lower_bound/` |
-| Preserved upstream license | `evidence/M19/research/proofs/M12_global_lower_bound/UPSTREAM_LICENSE.txt` |
-| Original upload mapping | `provenance/INPUTS.json` |
-| New frozen-evidence inventory | `EVIDENCE_MANIFEST.json` |
-| Original ZIPs | `archives/` |
+The public implementation path differs from the original mixed Python/C++ replay, but the exact atoms and catalogue geometry are unchanged. No original C++ source is required or redistributed.
 
-The separately uploaded M12 ZIP contains the same 57 files, with identical bytes,
-as the M12 package nested inside M19. It is not copied to a second expanded location.
-The separately uploaded atom certificate, M12/M17 rows, M17 result and final
-acceptance also match the existing M19 files exactly.
+## M19
 
-## Why the historical paths are retained
+[Proof / 证明](M19_PROOF_EN.md), [original package / 原包](../evidence/M19/README.md), [machine certificate / 机器证书](../evidence/M19/research/m19_work/CERTIFICATE.json), [acceptance record / 验收记录](../evidence/M19/FINAL_ACCEPTANCE.json).
 
-The original checkers infer their package root from their own locations and bind
-many paths by SHA-256. Flattening those folders or rewriting their files would
-break that provenance. The new root entry point provides a simple interface while
-keeping all 129 extracted M19 files intact. Some retained protocol documents refer
-to the wider private research project; only M12/M17/M19 coverage and M19's endpoint
-are part of this release's replay claim. Incidental M18 receipts are not an M18
-proof package.
+The historical package is unchanged; its producer statuses and later acceptance have not been rewritten. The root `EVIDENCE_MANIFEST.json` continues to bind M19's frozen inputs. R012 has a separate scientific manifest and never inherits M19's PASS.
 
-A hash proves byte identity relative to the chosen manifest, not mathematical
-correctness or an authenticated publication date. A record stating `PASS` is not
-used in place of actually rerunning the default coverage path.
+M19 原科学包保持不变，旧生产状态与后续验收不重写。R012 使用独立清单，不能继承 M19 的 PASS 作为新覆盖证明。

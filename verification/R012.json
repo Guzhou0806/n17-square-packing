@@ -1,0 +1,41 @@
+{
+  "claim": "s(17) >= 461300/99999",
+  "lower_bound": "461300/99999",
+  "decimal_bracket_20": [
+    "4.61304613046130461304",
+    "4.61304613046130461305"
+  ],
+  "mass": "424969/25000",
+  "common_gamma": "250023/250000",
+  "mass_gap": "701/250000",
+  "atoms": 1616,
+  "orbits": 206,
+  "parent_angle_intervals": 2925,
+  "off_net_core_entries": 48,
+  "minimum_containment_margin": "9246825470492230950855738842503/4032079239528994151028755999277446450000",
+  "squared_improvement": "1338724704271950594905978540377600/8294131309963187985770427210937705041",
+  "expanded_measure_sha256": "ae469399ced8580ddddcef6edc234cf9becd7e94df7752aa8b4f9cefcbaf3643",
+  "negative_controls": 5,
+  "mode": "full",
+  "python": "3.13.5",
+  "system": "Linux",
+  "started_at_utc": "2026-09-19T20:09:24.124009+00:00",
+  "workers": 4,
+  "integrity_before": {
+    "status": "PASS",
+    "files": 10,
+    "manifest_sha256": "9ad92ab5b80a9de54c1d84661c4753a5800e25ef90b02577ee405e51a1ad294d"
+  },
+  "coverage_entries_recomputed": 2925,
+  "actual_catalogue_minimum": "250023/250000",
+  "center_strips": 9231165,
+  "coverage_log_sha256": "f67378638a63701760756851d9046e0b810733fda301b52099a86c9d95c0f125",
+  "integrity_after": {
+    "status": "PASS",
+    "files": 10,
+    "manifest_sha256": "9ad92ab5b80a9de54c1d84661c4753a5800e25ef90b02577ee405e51a1ad294d"
+  },
+  "status": "PASS_COMPLETE_PARENT_CATALOGUE_GLOBAL_LOWER_BOUND",
+  "seconds": 208.030154309,
+  "scope": "Supplied exact programs; same event geometry; no independent external review or formalization. Records mode does not establish coverage."
+}

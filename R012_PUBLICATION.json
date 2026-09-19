@@ -1,0 +1,101 @@
+{
+  "schema": "n17.publication.v1",
+  "result": "N17-R012",
+  "publication_version": "r012-public-python-1",
+  "base_commit": "9c813a586e920dbff17e1e56190fd0774a0196b7",
+  "scope": "Changed public presentation and added scientific files. Historical M19 manifest and frozen evidence remain unchanged.",
+  "files": {
+    ".github/workflows/r012.yml": {
+      "bytes": 865,
+      "sha256": "a7157da58c6f266a8b6d74b8bbdb16a6369954a9c38d04ddea686e3c5714ca0a"
+    },
+    "CHANGELOG.md": {
+      "bytes": 1566,
+      "sha256": "59846e06711781fe7df207b89c8bc6f5a056555986bc1782c8cdd346096c422d"
+    },
+    "CITATION.cff": {
+      "bytes": 778,
+      "sha256": "436fb67abf0e03b1e5be3873861eaa462c22b35b13b3297d1ed3da5cfcda0d26"
+    },
+    "NOTICE.md": {
+      "bytes": 2139,
+      "sha256": "00853d3221d51aae4cd384fde3d068a6097abe2665cb23fd29b2e66eb6cfc3a3"
+    },
+    "README.md": {
+      "bytes": 4755,
+      "sha256": "2fbf78f0c435a7070e9f240cac00643cea29a9912b3879001b66d36ea2cccbee"
+    },
+    "RESULTS.md": {
+      "bytes": 2604,
+      "sha256": "9bf9a071b59fff771b89721953d39e4aa2677627c2f32c3227adbfecb0d7b2e4"
+    },
+    "certificates/R012/ATTRIBUTION.md": {
+      "bytes": 4330,
+      "sha256": "5e300ec2ae60838b22fb185604f6ccbc10c7ab3a9982e7668079a47d1fca5900"
+    },
+    "certificates/R012/LICENSE-MIT.txt": {
+      "bytes": 1068,
+      "sha256": "134d213f268cce96daf2099396d727c38efd705bcc1613497d62c21f53d19c75"
+    },
+    "certificates/R012/MANIFEST.json": {
+      "bytes": 943,
+      "sha256": "9ad92ab5b80a9de54c1d84661c4753a5800e25ef90b02577ee405e51a1ad294d"
+    },
+    "certificates/R012/PROOF.md": {
+      "bytes": 8931,
+      "sha256": "4a53362d6624bebe064ac6c7c1fcf29e8f7ad2847263e5d92ae7a0be2ba07194"
+    },
+    "certificates/R012/README.md": {
+      "bytes": 2554,
+      "sha256": "8919d963cd680c76ca2c8f61293c08a5d4982e9e2a787adea45c59f80e9ff701"
+    },
+    "certificates/R012/catalogue.json": {
+      "bytes": 7764,
+      "sha256": "4d2a89e87f838c385b02ba9fa0fb06c2fd36eb5d85668fb119db31c3dcc96ee1"
+    },
+    "certificates/R012/counterexamples.json": {
+      "bytes": 2427,
+      "sha256": "ff4214a6139394ccd6f26c4490f03ede535382ac6e78dcfe8b8eca8b32c26848"
+    },
+    "certificates/R012/orbits.json": {
+      "bytes": 4849,
+      "sha256": "97d2d227a6578a30276e43b10be5e57ae49a1d3e8def699bf01de96fa3785e60"
+    },
+    "certificates/R012/sweep.py": {
+      "bytes": 5842,
+      "sha256": "96efe91895ab14d80c6b7162aee91d4687e5d11a60093a9935043a88d4713965"
+    },
+    "certificates/R012/test_verify.py": {
+      "bytes": 4496,
+      "sha256": "26987b54b6f51a7a72fda4591fd8621bd15f8d4723dd2a61bdf1f89229b47099"
+    },
+    "certificates/R012/verify.py": {
+      "bytes": 11612,
+      "sha256": "c85c9d8f90c6bf9d3cc294ea4c8b4135725f8698774fb21f1c90b950c25a33e6"
+    },
+    "docs/EVIDENCE_MAP.md": {
+      "bytes": 1545,
+      "sha256": "856ab215c842a8ad6a863b3f8c16a6017500a0ea0a6b6a7a946a9ab8244b08d3"
+    },
+    "docs/RELEASE_NOTES.md": {
+      "bytes": 1418,
+      "sha256": "f1e6ee1965771e8df157d821b94994355f0247d983f698b68209e110e042106b"
+    },
+    "docs/REPRODUCIBILITY.md": {
+      "bytes": 2497,
+      "sha256": "a6c15cd1acbd9edf74c4168185619f48fbe568e5baf6631769884069d35ac106"
+    },
+    "scripts/check_release_hashes.py": {
+      "bytes": 1063,
+      "sha256": "70bd6d7d619ad16b2fa39e1f0c1d2c46e4da15e769f6d354904ceb427c11da28"
+    },
+    "verification/R012.json": {
+      "bytes": 1580,
+      "sha256": "08895fdc933c50f913aea59ae4897683ef5278e8e946e831fbd51d61c5e397d5"
+    },
+    "RELEASE_MANIFEST.json": {
+      "bytes": 33270,
+      "sha256": "b25aad26c02e3518dcd1cb75b3eb05f4c3fd294996f7789685d57ad5eeffb5bd"
+    }
+  }
+}

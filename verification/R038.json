@@ -1,13 +1,28 @@
 {
-  "schema":"n17.public-verification.r038.v1",
-  "research_id":"N17-R038",
-  "source_session_status":"PASS_R038_COMPLETE_EXACT_SOURCE_SESSION_SCAN",
-  "strict_lower_bound":"461300000000/99974999999",
-  "strict_lower_bound_reduced":"65900000000/14282142857",
-  "source_certificate_sha256":"5ffb7746fb8aa8d436256710a035235436eecc5e6cfeca3d150dc01b18b801c3",
-  "source_commit":"ac464dd06ded72e2f6eb2c2f3d510b01391c056d",
-  "base_measure":{"rows":4391,"minimum_units":1000000030,"mass_units":16999991644,"surplus_units":8866,"center_slabs":27918671,"escape_rows":0},
-  "augmented_control":{"rows":4391,"minimum_units":1000000032,"mass_units":16999991652,"surplus_units":8892,"center_slabs":27967621,"escape_rows":0,"necessary_for_endpoint":false},
-  "publication_scope":"The source-session exact scans are frozen as public ledgers; CI and local full replay independently rerun them when the exact pinned upstream bytes are available. / 来源会话中的精确扫描以公开账本冻结；当精确锁定的上游字节可用时，CI 与本地完整复演可独立重新运行这些扫描。",
-  "review_status":"No external peer review or formal proof-assistant verification is claimed. / 不主张已完成外部同行审查或证明助理形式化验证。"
+  "schema": "n17.public-verification.r038.v1",
+  "research_id": "N17-R038",
+  "source_session_status": "PASS_R038_COMPLETE_EXACT_SOURCE_SESSION_SCAN",
+  "strict_lower_bound": "461300000000/99974999999",
+  "strict_lower_bound_reduced": "65900000000/14282142857",
+  "source_certificate_sha256": "5ffb7746fb8aa8d436256710a035235436eecc5e6cfeca3d150dc01b18b801c3",
+  "source_commit": "ac464dd06ded72e2f6eb2c2f3d510b01391c056d",
+  "base_measure": {
+    "rows": 4391,
+    "minimum_units": 1000000030,
+    "mass_units": 16999991644,
+    "surplus_units": 8866,
+    "center_slabs": 27918671,
+    "escape_rows": 0
+  },
+  "augmented_control": {
+    "rows": 4391,
+    "minimum_units": 1000000032,
+    "mass_units": 16999991652,
+    "surplus_units": 8892,
+    "center_slabs": 27967621,
+    "escape_rows": 0,
+    "necessary_for_endpoint": false
+  },
+  "publication_scope": "The source-session exact scans are frozen as public ledgers; CI and local full replay independently rerun them when the exact pinned upstream bytes are available. / 来源会话中的精确扫描以公开账本冻结；当精确锁定的上游字节可用时，CI 与本地完整复演可独立重新运行这些扫描。",
+  "review_status": "No external peer review or formal proof-assistant verification is claimed. / 不主张已完成外部同行审查或证明助理形式化验证。"
 }

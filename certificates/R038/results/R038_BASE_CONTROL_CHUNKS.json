@@ -1,0 +1,83 @@
+{
+  "schema": "n17.r038.exact-parent-side-base-control.v1",
+  "status": "PASS_R038_BASE_MEASURE_CONTROL_ALL_4391",
+  "source_certificate_sha256": "5ffb7746fb8aa8d436256710a035235436eecc5e6cfeca3d150dc01b18b801c3",
+  "source_commit": "ac464dd06ded72e2f6eb2c2f3d510b01391c056d",
+  "outer_side": "4613/1000",
+  "parent_side": "99974999999/100000000000",
+  "target": "65900000000/14282142857",
+  "candidate_orbit": null,
+  "rows": 4391,
+  "atoms": 3280,
+  "mass_units": 16999991644,
+  "global_minimum_units": 1000000030,
+  "counting_surplus_units": 8866,
+  "histogram": {
+    "1000000030": 2860,
+    "1000000032": 1428,
+    "1000000035": 103
+  },
+  "center_slabs": 27918671,
+  "escape_rows": 0,
+  "chunks": [
+    {
+      "range": [
+        0,
+        500
+      ],
+      "histogram": {
+        "1000000030": 500
+      },
+      "slabs": 2962804,
+      "escape_rows": 0
+    },
+    {
+      "range": [
+        500,
+        1500
+      ],
+      "histogram": {
+        "1000000030": 1000
+      },
+      "slabs": 6326516,
+      "escape_rows": 0
+    },
+    {
+      "range": [
+        1500,
+        2500
+      ],
+      "histogram": {
+        "1000000030": 722,
+        "1000000032": 278
+      },
+      "slabs": 6435520,
+      "escape_rows": 0
+    },
+    {
+      "range": [
+        2500,
+        3500
+      ],
+      "histogram": {
+        "1000000032": 1000
+      },
+      "slabs": 6447000,
+      "escape_rows": 0
+    },
+    {
+      "range": [
+        3500,
+        4391
+      ],
+      "histogram": {
+        "1000000030": 638,
+        "1000000032": 150,
+        "1000000035": 103
+      },
+      "slabs": 5746831,
+      "escape_rows": 0
+    }
+  ],
+  "interpretation": "The higher endpoint at this parent side does not require the augmented orbit because the pinned base measure already passes the enlarged legal-centre domains. / 该父边长上的更高端点不依赖增广轨道，因为锁定的基础测度已通过扩大的完整合法父中心域。"
+}

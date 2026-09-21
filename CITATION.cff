@@ -1,15 +1,16 @@
 cff-version: 1.2.0
-title: "R012: A parent-angle lower-bound certificate for seventeen unit squares / 十七单位正方形的父角目录下界证书"
-message: "Please cite a fixed commit and credit the upstream work listed in NOTICE.md. 请引用固定提交并保留来源署名。"
+title: "R038: A strict parent-side lower-bound certificate for seventeen unit squares / 十七单位正方形的严格父边长下界证书"
+message: "Please cite a fixed commit and retain the upstream credit listed in NOTICE.md. / 请引用固定提交并保留 NOTICE.md 中列出的上游署名。"
 type: software
-version: "r012-public-python-1"
+version: "r038-public-1"
 authors:
   - name: "Guzhou0806"
 repository-code: "https://github.com/Guzhou0806/n17-square-packing"
 abstract: >-
-  An exact computer-assisted certificate for s(17) >= 461300/99999,
-  with a complete parent-angle selector and all-translation Python replay.
-  包含完整父角选择目录与连续中心精确复验。不主张最优或公开首发。
+  An exact computer-assisted certificate proving s(17) > 461300000000/99974999999,
+  using a SHA-pinned upstream measure and complete expanded-domain event-cell replay.
+  / 一份精确的计算机辅助证书，证明 s(17) > 461300000000/99974999999，
+  使用 SHA 锁定的上游测度与完整扩域事件胞元复演。
 keywords:
   - square packing
   - computer-assisted proof

@@ -3,19 +3,75 @@
   "research_id": "N17-R038",
   "schema": "n17.r038.public.manifest.v1",
   "files": [
-    {"path":"ATTRIBUTION.md","sha256":"fbb381886deb10d1059cd6e9ad1800f7e8b9f5f1d15f7c78883d2ea2133c6418","bytes":2740},
-    {"path":"CLAIMS.json","sha256":"ec57d7b962c6b08d2b33026d0d72a1bd07d638da1fec531b57ee8acb7d5add39","bytes":1769},
-    {"path":"EXPERIMENTS.md","sha256":"d69bfe66235ad8ea1e95e8bf91d43426244a355be39b2a9161d84b03fdc0643c","bytes":1386},
-    {"path":"LICENSE_SCOPE.md","sha256":"16da95bd766adbe5c4b2ddea644e378299bc5eb6e5fb0b554d0d0d5687d46a9d","bytes":680},
-    {"path":"PROOF.md","sha256":"8bfb0b64825f0f8ac0ccdf6c25ce027e1db4deb7dd982b8107bbf3bc1e8e61a0","bytes":8090},
-    {"path":"README.md","sha256":"47397bc316b48a9bbb862ea2bedd0feda5a2339f9d5efd1029548ecb1dc4c618","bytes":3809},
-    {"path":"REPRODUCIBILITY.md","sha256":"be8bf75f61543fefb958da90ca4e244f4b561e561317bee01bd93cfcb8c4b76e","bytes":3071},
-    {"path":"SOURCE_PIN.json","sha256":"e7a6c0f7a665a8a44fecb411e1cb2146bf15b17824d236143446636acf4dc18f","bytes":467},
-    {"path":"fetch_and_replay.ps1","sha256":"5c83ee9cd58cbf1fc493913f00f38a8c7dd7c532e99d1686e160517cf04836b6","bytes":1243},
-    {"path":"results/R038_AUGMENTED_CONTROL_CHUNKS.json","sha256":"a9bb02ee202a0bb4d8dfdf82507fd3db5c18672e71f1cceb4b8a8914ffa8dd45","bytes":1992},
-    {"path":"results/R038_BASE_CONTROL_CHUNKS.json","sha256":"31ecfaedec812c1d295b4703c5d7639f8b1c5229123dad1efcca680bdde3bec1","bytes":1944},
-    {"path":"results/R038_CONTAINMENT.json","sha256":"53eacd9dd36992f785536e0b96799679ed8df6a6c24db81e7966fd945a492c30","bytes":1043},
-    {"path":"src/exact_parent_side_scan.js","sha256":"63e858e28c4dee40f5763a832e1cfdf1f1fce3a1e5c632d087525bf1ee20ed14","bytes":5594},
-    {"path":"verify.py","sha256":"dbc35a636a8df2d36985dd142df96f843d608ee4f0283ba49ee6b775799587d6","bytes":7636}
+    {
+      "path": "ATTRIBUTION.md",
+      "sha256": "fbb381886deb10d1059cd6e9ad1800f7e8b9f5f1d15f7c78883d2ea2133c6418",
+      "bytes": 2740
+    },
+    {
+      "path": "CLAIMS.json",
+      "sha256": "ec57d7b962c6b08d2b33026d0d72a1bd07d638da1fec531b57ee8acb7d5add39",
+      "bytes": 1769
+    },
+    {
+      "path": "EXPERIMENTS.md",
+      "sha256": "d69bfe66235ad8ea1e95e8bf91d43426244a355be39b2a9161d84b03fdc0643c",
+      "bytes": 1386
+    },
+    {
+      "path": "LICENSE_SCOPE.md",
+      "sha256": "16da95bd766adbe5c4b2ddea644e378299bc5eb6e5fb0b554d0d0d5687d46a9d",
+      "bytes": 680
+    },
+    {
+      "path": "PROOF.md",
+      "sha256": "8bfb0b64825f0f8ac0ccdf6c25ce027e1db4deb7dd982b8107bbf3bc1e8e61a0",
+      "bytes": 8090
+    },
+    {
+      "path": "README.md",
+      "sha256": "47397bc316b48a9bbb862ea2bedd0feda5a2339f9d5efd1029548ecb1dc4c618",
+      "bytes": 3809
+    },
+    {
+      "path": "REPRODUCIBILITY.md",
+      "sha256": "be8bf75f61543fefb958da90ca4e244f4b561e561317bee01bd93cfcb8c4b76e",
+      "bytes": 3071
+    },
+    {
+      "path": "SOURCE_PIN.json",
+      "sha256": "e7a6c0f7a665a8a44fecb411e1cb2146bf15b17824d236143446636acf4dc18f",
+      "bytes": 467
+    },
+    {
+      "path": "fetch_and_replay.ps1",
+      "sha256": "5c83ee9cd58cbf1fc493913f00f38a8c7dd7c532e99d1686e160517cf04836b6",
+      "bytes": 1243
+    },
+    {
+      "path": "results/R038_AUGMENTED_CONTROL_CHUNKS.json",
+      "sha256": "a9bb02ee202a0bb4d8dfdf82507fd3db5c18672e71f1cceb4b8a8914ffa8dd45",
+      "bytes": 1992
+    },
+    {
+      "path": "results/R038_BASE_CONTROL_CHUNKS.json",
+      "sha256": "31ecfaedec812c1d295b4703c5d7639f8b1c5229123dad1efcca680bdde3bec1",
+      "bytes": 1944
+    },
+    {
+      "path": "results/R038_CONTAINMENT.json",
+      "sha256": "53eacd9dd36992f785536e0b96799679ed8df6a6c24db81e7966fd945a492c30",
+      "bytes": 1043
+    },
+    {
+      "path": "src/exact_parent_side_scan.js",
+      "sha256": "63e858e28c4dee40f5763a832e1cfdf1f1fce3a1e5c632d087525bf1ee20ed14",
+      "bytes": 5594
+    },
+    {
+      "path": "verify.py",
+      "sha256": "dbc35a636a8df2d36985dd142df96f843d608ee4f0283ba49ee6b775799587d6",
+      "bytes": 7636
+    }
   ]
 }

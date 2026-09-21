@@ -1,13 +1,11 @@
-# R012 publication / R012 发布
+# R038 publication / R038 发布说明
 
-This milestone adds the complete parent-angle certificate for `s(17) >= 461300/99999`, together with bilingual proof, integer data, a standalone exact Python replay, negative controls and automated tests. The public adapter recomputes all 2925 parent-center envelopes without an optimizer, network or C++ compiler.
+This publication adds the strict bound `s(17) > 461300000000/99974999999`, together with bilingual proof, pinned provenance, exact expanded-domain replay code, frozen chunk ledgers, a Windows fetch helper, and CI. / 本次发布新增严格下界 `s(17) > 461300000000/99974999999`，并提供双语证明、锁定来源、精确扩域复演代码、冻结分块账本、Windows 获取辅助脚本与 CI。
 
-本次发布 R012 全局下界及其完整可复验科学材料。原子、权重和目录几何与研究结果一致；重新编码与纯 Python 入口属于发布适配，不是新数值研究结果。
+The theorem uses the pinned base measure and does not require the augmented orbit, even though the augmented control raises the recorded surplus from `8866` to `8892`. / 定理使用锁定的基础测度，并不需要增广轨道，尽管增广对照将记录余量从 `8866` 提高到 `8892`。
 
-M19 evidence and its original verifier remain byte-for-byte unchanged. This publication adds no coordination documents, private research archives or unconfirmed-source-license C++ files. It does not rewrite earlier Git history or assert that all historical metadata is private-information-free.
+The upstream Mira certificate is referenced by an exact commit and SHA-256 rather than copied into this repository. / 上游 Mira 证书通过精确提交与 SHA-256 引用，而不是复制进本仓库。
 
-M19 原证据与程序保持不变。本次不提交协调文档、私人研究归档或许可未明确的 C++；也没有重写 Git 历史，不能视为对全部历史元数据的隐私清除。
+R012 and M19 frozen scientific evidence remain unchanged. / R012 与 M19 的冻结科学证据保持不变。
 
-The bound improves the explicitly pinned Mira endpoint; no world-record, first-publication, external peer-review or formal-verification status is asserted. Source credit and scientific limitations are in the package's attribution and proof.
-
-下界提高相对明确锁定的 Mira 端点，不由此宣布世界纪录、首发、外部同行审稿或形式化证明。
+No world-record, first-publication, external-peer-review, formal-verification, or optimality status is asserted by this release. / 本发布不主张世界纪录、首发、外部同行审查、形式化验证或最优性状态。

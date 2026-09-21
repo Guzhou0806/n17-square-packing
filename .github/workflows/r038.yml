@@ -1,0 +1,47 @@
+name: R038 exact public replay / R038 精确公开复演
+on:
+  push:
+    paths:
+      - 'certificates/R038/**'
+      - '.github/workflows/r038.yml'
+  pull_request:
+    paths:
+      - 'certificates/R038/**'
+      - '.github/workflows/r038.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  parent-side-endpoint:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Check out committed files / 检出已提交文件
+        uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - name: Set up Node.js / 配置 Node.js
+        uses: actions/setup-node@v5
+        with:
+          node-version: '22'
+      - name: Show runtime versions / 显示运行时版本
+        run: |
+          python3 --version
+          node --version
+      - name: Check frozen R038 records / 检查冻结 R038 账本
+        run: python3 -X utf8 -B -S certificates/R038/verify.py --output .replay-runs/r038-records-ci
+      - name: Download SHA-pinned upstream certificate / 下载 SHA 锁定的上游证书
+        run: |
+          mkdir -p .replay-sources/r038
+          curl -L --fail --silent --show-error \
+            https://raw.githubusercontent.com/Mira-acc/17squares/ac464dd06ded72e2f6eb2c2f3d510b01391c056d/certificates/lower_bound_4p614153/certificate.json \
+            -o .replay-sources/r038/certificate.json
+          echo '5ffb7746fb8aa8d436256710a035235436eecc5e6cfeca3d150dc01b18b801c3  .replay-sources/r038/certificate.json' | sha256sum -c -
+      - name: Recompute all R038 geometric chunks / 重算全部 R038 几何分块
+        run: python3 -X utf8 -B -S certificates/R038/verify.py --certificate .replay-sources/r038/certificate.json --output .replay-runs/r038-full-ci
+      - name: Show actual result / 显示实际结果
+        if: always()
+        run: |
+          if [ -f .replay-runs/r038-full-ci/RESULT.json ]; then
+            cat .replay-runs/r038-full-ci/RESULT.json
+          fi

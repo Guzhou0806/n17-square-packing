@@ -1,0 +1,26 @@
+{
+  "schema":"n17.r038.exact-parent-side-combined.v1",
+  "status":"PASS_R038_COMBINED_EXACT_ALL_4391",
+  "source_certificate_sha256":"5ffb7746fb8aa8d436256710a035235436eecc5e6cfeca3d150dc01b18b801c3",
+  "source_commit":"ac464dd06ded72e2f6eb2c2f3d510b01391c056d",
+  "outer_side":"4613/1000",
+  "parent_side":"99974999999/100000000000",
+  "target":"65900000000/14282142857",
+  "candidate_orbit":[64477,68039,1],
+  "rows":4391,
+  "atoms":3288,
+  "mass_units":16999991652,
+  "global_minimum_units":1000000032,
+  "counting_surplus_units":8892,
+  "histogram":{"1000000032":2860,"1000000034":1428,"1000000037":103},
+  "center_slabs":27967621,
+  "escape_rows":0,
+  "chunks":[
+    {"range":[0,500],"histogram":{"1000000032":500},"slabs":2966804,"escape_rows":0},
+    {"range":[500,1500],"histogram":{"1000000032":1000},"slabs":6336774,"escape_rows":0},
+    {"range":[1500,2500],"histogram":{"1000000032":722,"1000000034":278},"slabs":6447520,"escape_rows":0},
+    {"range":[2500,3500],"histogram":{"1000000034":1000},"slabs":6459000,"escape_rows":0},
+    {"range":[3500,4391],"histogram":{"1000000032":638,"1000000034":150,"1000000037":103},"slabs":5757523,"escape_rows":0}
+  ],
+  "execution_scope":"An exact JavaScript/BigInt event-cell sweep was executed against the SHA-pinned upstream certificate; the upstream certificate bytes are intentionally not redistributed here. / 精确 JavaScript/BigInt 事件胞元扫描针对 SHA 锁定的上游证书执行；本目录有意不重新分发该上游证书字节。"
+}

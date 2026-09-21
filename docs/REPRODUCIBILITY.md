@@ -1,40 +1,48 @@
 # Reproducibility / 可复验性
 
-## R012 — current milestone / 当前里程碑
+## R038 — current milestone / R038：当前里程碑
 
-[Full instructions / 完整说明](../certificates/R012/README.md) · [Proof / 证明](../certificates/R012/PROOF.md)
+[Full instructions / 完整说明](../certificates/R038/REPRODUCIBILITY.md) · [Proof / 证明](../certificates/R038/PROOF.md)
 
-Requirements: Python 3.10+, no third-party modules. From the repository root:
+A records-only check requires Python 3.10 or later and no external source file. / 仅账本检查需要 Python 3.10 或更高版本，不需要外部来源文件。
+
+```bash
+python -X utf8 -B -S certificates/R038/verify.py --output .replay-runs/r038-records-001
+```
+
+A complete replay requires the pinned upstream certificate and Node.js. / 完整复演需要锁定的上游证书与 Node.js。
+
+```bash
+python -X utf8 -B -S certificates/R038/verify.py \
+  --certificate path/to/certificate.json \
+  --output .replay-runs/r038-full-001
+```
+
+The full path checks the upstream SHA, recomputes five exact chunks for the base measure and five exact chunks for the augmented control, and compares every chunk with the frozen ledgers. / 完整路径检查上游 SHA，为基础测度重算五个精确分块、为增广对照重算五个精确分块，并逐块与冻结账本比较。
+
+Only complete agreement produces `PASS_R038_COMPLETE_PARENT_CATALOGUE_GLOBAL_LOWER_BOUND`; the records-only marker never implies geometric coverage. / 只有全部一致时才输出 `PASS_R038_COMPLETE_PARENT_CATALOGUE_GLOBAL_LOWER_BOUND`；仅账本标记从不代表几何覆盖成立。
+
+## R012 — unchanged earlier milestone / R012：未改动的早期里程碑
+
+R012 remains fully self-contained and Python-only after checkout. / R012 在检出仓库后仍保持完全自包含且只需 Python。
 
 ```bash
 python -X utf8 -B -S certificates/R012/test_verify.py
 python -X utf8 -B -S certificates/R012/verify.py --workers 4 --output .replay-runs/r012-001
 ```
 
-The output must be new. The public replay expands 206 integer D4 orbit rows, checks exact measure identity, builds all 2925 parent-angle entries, proves interval containment/closure, and scans each complete parent-center envelope. Every returned minimum is directly recounted. Five unsuccessful core recipes are independently checked as controls. Only completion of every obligation produces `PASS_COMPLETE_PARENT_CATALOGUE_GLOBAL_LOWER_BOUND`.
+Its complete marker remains `PASS_COMPLETE_PARENT_CATALOGUE_GLOBAL_LOWER_BOUND`. / 其完整成功标记仍为 `PASS_COMPLETE_PARENT_CATALOGUE_GLOBAL_LOWER_BOUND`。
 
-输出目录必须尚不存在。公开入口重建原子、目录、严格包含及接缝，扫描每项完整连续父中心域，并逐原子核对最小见证。五个失败配方作为控制保留，全部完成后才输出全局证明标记。
-
-`--records` checks metadata, arithmetic and witnesses only; it is never equivalent to full replay. Numerical search and optimization are not part of acceptance. Multiple computation workers do not constitute independent research reviewers.
-
-records 没有几何覆盖重算；计算进程数量不代表独立审查人数。新公开入口只用 Python，不能沿用原 C++ 耗时或把两者误称为不同理论证明。
-
-## M19 — unchanged historical entry / 未改动的历史入口
+## M19 — unchanged historical entry / M19：未改动的历史入口
 
 ```bash
 python -X utf8 -B verify.py --output .replay-runs/m19-001
 ```
 
-This separately recomputes 181 old directions and 17 trial directions, preserving 197 certified directions and one exact failure. Its marker is `PASS_FULL_REPLAY`. The optional source implementation uses NumPy:
+M19 retains its original `PASS_FULL_REPLAY` path and frozen evidence. / M19 保留原 `PASS_FULL_REPLAY` 路径与冻结证据。
 
-```bash
-python scripts/source_crosscheck.py --help
-```
+## Trust boundary / 可信边界
 
-M19 仍独立重算旧方向和新增试验方向，保留失败；原科学文件、哈希和默认入口不变。
+File hashes establish byte identity and replay establishes the programmed obligations, but neither alone is external mathematical review. / 文件哈希建立字节身份，复演建立程序化义务，但二者都不能单独替代外部数学审查。
 
-## Trust / 可信边界
-
-File hashes establish identity, not mathematical validity. Exact program execution is not external peer review or a proof-assistant formalization. Review strict interior containment, complete center enumeration and use of a common measure in the proofs.
-
-哈希只绑定文件，不能替代数学检查；审查重点包括严格内部核、连续中心完备性与共同质量预算。
+Review the strict containment, complete continuous centre-domain enumeration, common-measure counting, rescaling, and compactness arguments in the proof documents. / 应审查证明文档中的严格内含、完整连续中心域枚举、共同测度计数、缩放与紧致性论证。

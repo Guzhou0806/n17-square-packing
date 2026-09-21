@@ -1,0 +1,13 @@
+{
+  "schema": "n17.r038.containment.v1",
+  "status": "PASS_R038_STRICT_CONTAINMENT_ALL_4391_BY_GLOBAL_MIN_MARGIN",
+  "old_parent_side": "3999/4000",
+  "new_parent_side": "99974999999/100000000000",
+  "epsilon": "1/100000000000",
+  "old_minimum_containment_margin": "1607618012893827523067050824831683950874799/160736546585949244179205669616483275355501572000000000",
+  "new_minimum_containment_margin_lower_bound": "3156837929188515937426608335639966497291/2009206832324365552240070870206040941943769650000000000",
+  "new_minimum_containment_margin_decimal": "0.0000000000000015711861409193522",
+  "critical_row_zero_based": 2698,
+  "strict_positive": true,
+  "argument": "Every old interval margin eta_i is reduced by exactly epsilon when A is replaced by A-epsilon; the old global minimum exceeds epsilon, so every selected core remains strictly contained. / 当 A 替换为 A-epsilon 时，每个旧区间余量 eta_i 恰减少 epsilon；旧全局最小余量大于 epsilon，因此每个选定内核仍严格位于父正方形内部。"
+}

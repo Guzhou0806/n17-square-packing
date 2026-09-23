@@ -1,0 +1,27 @@
+{
+  "schema": "n17.r042-candidate-diff.v1",
+  "baseline_sha256": "0288aaac680131aa675adb63ea6a67e3d363fcca6061d4c788301da7c5d69cec",
+  "candidate_sha256": "ad47686fdc49121d23b335a1d0cbfc8aa706a5d34bb0eb896aea6992db3d59de",
+  "baseline_A": "99853/100000",
+  "candidate_A": "24963/25000",
+  "baseline_bound": "461300/99853",
+  "candidate_bound": "115325/24963",
+  "point_orbits_byte_semantic_unchanged": true,
+  "threshold_orbit_changes": [
+    {
+      "index": 22,
+      "old_weight": 12202158,
+      "new_weight": 12402158,
+      "triples_unchanged": true
+    }
+  ],
+  "angle_catalogue_interval_and_orientation_unchanged": true,
+  "core_side_rows_changed": 7848,
+  "entries": 7853,
+  "baseline_budget_units": 16998427356,
+  "candidate_budget_units": 16999227356,
+  "budget_delta_units": 800000,
+  "baseline_declared_minimum_units": 1000020517,
+  "candidate_required_minimum_units": 999954551,
+  "scope": "Exact public delta from the pinned Kled v1.0.0 baseline to R042; exploratory failed candidates are not part of this record. / 从锁定的 Kled v1.0.0 基线到 R042 的精确公开差异；探索性失败候选不属于本记录。"
+}

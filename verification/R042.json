@@ -1,0 +1,32 @@
+{
+  "schema": "n17.public-verification.r042.v1",
+  "research_id": "N17-R042",
+  "source_session_status": "PASS_R042_ACCEPTED_TWO_COMPLETE_EXACT_REPLAYS",
+  "strict_lower_bound": "115325/24963",
+  "certificate_sha256": "ad47686fdc49121d23b335a1d0cbfc8aa706a5d34bb0eb896aea6992db3d59de",
+  "parent_side": "24963/25000",
+  "catalogue_rows": 7853,
+  "theorem_gate": {
+    "required_minimum_units": 999954551,
+    "budget_units": 16999227356,
+    "counting_margin_units": 11
+  },
+  "python_full_replay": {
+    "status": "PASS_FULL_EXACT_PYTHON_REPLAY",
+    "observed_minimum_units": 1000002306,
+    "observed_surplus_units": 811846,
+    "rows_sha256": "12ce705d27d5f88d5e935f3d87be5fdb31371f8a9783fe07c92b9f5353588068"
+  },
+  "bigint_full_replay": {
+    "status": "PASS_FULL_EXACT_BIGINT_REPLAY",
+    "observed_minimum_units": 1000002306,
+    "histogram_identical_to_python": true,
+    "reconstructed_checker_sha256": "b145b1ebbb2d3a0dccba62ee7b5ed64403bf0542ce5e8ee87113977df917faa4"
+  },
+  "independent_containment": {
+    "status": "PASS_INDEPENDENT_EXACT_CONTROLS",
+    "quadratic_inequalities": 31412
+  },
+  "publication_scope": "The frozen source-session results are public ledgers; CI and local commands independently rerun the selected obligations. / 冻结的来源会话结果作为公开账本；CI 与本地命令会独立重新运行所选义务。",
+  "review_status": "No maximality, global-optimality, established-priority, external-peer-review, or proof-assistant-formalization claim is asserted. / 不主张端点已达极限、全局最优、已确认首发、外部同行审查或证明助理形式化。"
+}

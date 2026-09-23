@@ -1,11 +1,11 @@
-# R038 publication / R038 发布说明
+# R042 publication / R042 发布说明
 
-This publication adds the strict bound `s(17) > 461300000000/99974999999`, together with bilingual proof, pinned provenance, exact expanded-domain replay code, frozen chunk ledgers, a Windows fetch helper, and CI. / 本次发布新增严格下界 `s(17) > 461300000000/99974999999`，并提供双语证明、锁定来源、精确扩域复演代码、冻结分块账本、Windows 获取辅助脚本与 CI。
+This publication adds the strict bound `s(17) > 115325/24963` together with the frozen mixed certificate, bilingual proof, pinned provenance, independent rational containment checker, two complete exact replay paths, and CI. / 本次发布新增严格下界 `s(17) > 115325/24963`，并提供冻结混合证书、双语证明、锁定来源、独立有理包含检查器、两条完整精确复演路径与 CI。
 
-The theorem uses the pinned base measure and does not require the augmented orbit, even though the augmented control raises the recorded surplus from `8866` to `8892`. / 定理使用锁定的基础测度，并不需要增广轨道，尽管增广对照将记录余量从 `8866` 提高到 `8892`。
+The theorem gate uses the conservative required minimum `999954551` and the exact 11-unit counting margin, while the completed full replays additionally record the stronger global minimum `1000002306` and 811,846-unit surplus. / 定理门槛使用保守的规定最低值 `999954551` 与精确 11 单位计数余量，而已完成的全量复演还记录更强的全局最低值 `1000002306` 与 811,846 单位余量。
 
-The upstream Mira certificate is referenced by an exact commit and SHA-256 rather than copied into this repository. / 上游 Mira 证书通过精确提交与 SHA-256 引用，而不是复制进本仓库。
+The accepted R042 certificate is committed in deterministic gzip form, and the secondary BigInt checker is reconstructed at replay time instead of being redistributed. / 已接受的 R042 证书以确定性 gzip 形式提交，第二套 BigInt 检查器则在复演时重建而不被重新分发。
 
-R012 and M19 frozen scientific evidence remain unchanged. / R012 与 M19 的冻结科学证据保持不变。
+R038, R012, and M19 frozen scientific evidence remain unchanged. / R038、R012 与 M19 的冻结科学证据保持不变。
 
-No world-record, first-publication, external-peer-review, formal-verification, or optimality status is asserted by this release. / 本发布不主张世界纪录、首发、外部同行审查、形式化验证或最优性状态。
+No maximality, global-optimality, established-priority, external-peer-review, or proof-assistant-formalization status is asserted by this release. / 本发布不主张端点已达极限、全局最优、已确认首发、外部同行审查或证明助理形式化状态。

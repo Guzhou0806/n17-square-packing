@@ -1,0 +1,132 @@
+{
+  "format": "n17-public-certificate-manifest-v1",
+  "research_id": "N17-R042",
+  "schema": "n17.r042.public.manifest.v1",
+  "files": [
+    {
+      "path": "ATTRIBUTION.md",
+      "sha256": "05479de727613ce29e9c0a9e4a0ad2110ba6de743bb994e8ffac3c8d1c1ae5ce",
+      "bytes": 3001
+    },
+    {
+      "path": "CLAIMS.json",
+      "sha256": "87bc2a6d14b66a6c4c60e42f7c0a0349ba6bb651a26b8ea9a6da0febdbcd165f",
+      "bytes": 1612
+    },
+    {
+      "path": "EXPERIMENTS.md",
+      "sha256": "f30e5e71379ba8c44fb8e0481619b211cbc534237e48e2145a519927650acb0a",
+      "bytes": 1566
+    },
+    {
+      "path": "KLED_MIT_LICENSE.zh-en.md",
+      "sha256": "b24a14a2fe57557710869a6147efe53982ea183940ef89bba85257681ff5b9f4",
+      "bytes": 2272
+    },
+    {
+      "path": "LICENSE_SCOPE.md",
+      "sha256": "afe28dc9e58c71b09e34fbc261b79b263756909c44f10e949d1eac7927c72ad3",
+      "bytes": 1116
+    },
+    {
+      "path": "PROOF.md",
+      "sha256": "8209a6068f7a0b017bcf7b783587bbd97aca37fb473141b019fcdf1611371dd0",
+      "bytes": 6496
+    },
+    {
+      "path": "README.md",
+      "sha256": "b88114550ca2890dfeec22ec5eca32e1f67ddd0f5536cdd4f7be7d9686d816b1",
+      "bytes": 3228
+    },
+    {
+      "path": "REPRODUCIBILITY.md",
+      "sha256": "0fbc89df78c96a26d0f0253d22f37fdc9cd1eabde354f8243837046c59df8e59",
+      "bytes": 3795
+    },
+    {
+      "path": "SOURCE_PIN.json",
+      "sha256": "5d35b0b39fcc63cae6c2ead498fbe30cd4c7cf21d7aafc213fba2d0c87290a9c",
+      "bytes": 1362
+    },
+    {
+      "path": "certificate/R042_CERTIFICATE.json.gz",
+      "sha256": "ec79424e30c65bbf31ad1f020b55cc8acebd0cb0f4fbea3e1841fa2b6dda8e28",
+      "bytes": 517733
+    },
+    {
+      "path": "fetch_and_replay.ps1",
+      "sha256": "ec0581fd95c79eae312995966f9df3ea28f40c2f2c39e51605596ccc15989031",
+      "bytes": 617
+    },
+    {
+      "path": "results/R042_ACCEPTANCE.json",
+      "sha256": "a024a879823d51d7670e2280493505114550392ba398a6d59528d34b4f8c18db",
+      "bytes": 1418
+    },
+    {
+      "path": "results/R042_BIGINT_FULL_REPLAY.json",
+      "sha256": "0b3e1763cff1d8c7deb27a81ba530e475876ba9a248caf30b9426640c5c55b87",
+      "bytes": 8039
+    },
+    {
+      "path": "results/R042_DIFF.json",
+      "sha256": "f053fc2eed252dd11739e880eb3a7cf93b8fff1e6012dcd45a1fb8b62d71d1ec",
+      "bytes": 1141
+    },
+    {
+      "path": "results/R042_INDEPENDENT_CONTAINMENT.json",
+      "sha256": "9ff404db0db51f9e1b1f701174bd86924c4587b546917bbeffaadb4797b5d4f8",
+      "bytes": 569
+    },
+    {
+      "path": "results/R042_PYTHON_FULL_REPLAY.json",
+      "sha256": "c663f481443f06f54fe9c0d8714f05e4a51c8bd0fd804fad81601aeeb5956877",
+      "bytes": 8170
+    },
+    {
+      "path": "results/R042_SCHEMA_AUDIT.json",
+      "sha256": "75e9f28ef65fdab1017c74e106b44a84d9639371dd683fe8395561be57236f0b",
+      "bytes": 595
+    },
+    {
+      "path": "results/R042_STATIC_VALIDATION.json",
+      "sha256": "257d4e8887c1552855215bdea4cd8299534dc1ee4cf4e83886f3af54f02eec79",
+      "bytes": 525
+    },
+    {
+      "path": "src/exact_mixed.py",
+      "sha256": "7e08ad62c1998e799d8cec3c8de6f90010f76d027a86b6bcca27feeb0e5ccd49",
+      "bytes": 6283
+    },
+    {
+      "path": "src/independent_controls.py",
+      "sha256": "600c28587f92f6b7092011836bf9b42dcab1dc53458698fbd0f1f69fbeff5724",
+      "bytes": 7065
+    },
+    {
+      "path": "src/integer_sweep.py",
+      "sha256": "3a2bfd8892a9693b4dfca72e4d8e547a7be8775b22306740f4e6b63d0928b34b",
+      "bytes": 1362
+    },
+    {
+      "path": "src/prepare_secondary.py",
+      "sha256": "fded50a7f51bdc882cf9b288d30700d0964ae2517b8d998f37ed07702ecac276",
+      "bytes": 3069
+    },
+    {
+      "path": "src/replay_parallel.py",
+      "sha256": "f15bc19ad09c9963840a7b887548d4b2db1c2b6ee0c7dbfbca02c3e32fb4283d",
+      "bytes": 1956
+    },
+    {
+      "path": "src/secondary-adaptation.json",
+      "sha256": "827116faf382449676bdeefafe83adac1d04b96c997a058c8868fdb0e4e4b211",
+      "bytes": 11220
+    },
+    {
+      "path": "verify.py",
+      "sha256": "26e91cde269283f2d651097dc5f67f4bfb981fed1cf4970b3c1418c2bdc65ff0",
+      "bytes": 11615
+    }
+  ]
+}

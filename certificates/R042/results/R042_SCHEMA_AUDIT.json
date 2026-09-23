@@ -1,0 +1,14 @@
+{
+  "status": "PASS_INDEPENDENT_CANDIDATE_SCHEMA_D4_BUDGET",
+  "certificate_sha256": "ad47686fdc49121d23b335a1d0cbfc8aa706a5d34bb0eb896aea6992db3d59de",
+  "A": "24963/25000",
+  "bound": "115325/24963",
+  "intervals": 7853,
+  "sites": 8988,
+  "physical_triples": 2008,
+  "minimum_units": 999954551,
+  "budget_units": 16999227356,
+  "counting_surplus_units": 11,
+  "absolute_signed_weight_units": 26435672460,
+  "scope": "Independent schema, D4 expansion, and global-budget audit for the frozen R042 certificate. / 对冻结 R042 证书进行独立的模式、D4 展开与全局预算审计。"
+}

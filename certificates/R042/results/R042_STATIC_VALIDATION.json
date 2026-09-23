@@ -1,0 +1,12 @@
+{
+  "status": "PASS_R042_CANDIDATE_STATIC_VALIDATE",
+  "sha256": "ad47686fdc49121d23b335a1d0cbfc8aa706a5d34bb0eb896aea6992db3d59de",
+  "A": "24963/25000",
+  "bound": "115325/24963",
+  "intervals": 7853,
+  "budget_units": 16999227356,
+  "required_minimum_units": 999954551,
+  "counting_margin_at_required": 11,
+  "minimum_strict_containment_margin": "1/1000000000000",
+  "scope": "Static arithmetic and strict-containment summary for the frozen R042 certificate. / 冻结 R042 证书的静态算术与严格包含汇总。"
+}

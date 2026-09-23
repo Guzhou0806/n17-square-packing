@@ -1,0 +1,29 @@
+{
+  "schema": "n17.r042.public-claims.v1",
+  "research_id": "N17-R042",
+  "claim": "s(17) > 115325/24963",
+  "strict_lower_bound": "115325/24963",
+  "strict_lower_bound_decimal": "4.6198373592917517926531266274085646757...",
+  "outer_side": "4613/1000",
+  "parent_side": "24963/25000",
+  "certificate_sha256": "ad47686fdc49121d23b335a1d0cbfc8aa706a5d34bb0eb896aea6992db3d59de",
+  "compressed_certificate_sha256": "ec79424e30c65bbf31ad1f020b55cc8acebd0cb0f4fbea3e1841fa2b6dda8e28",
+  "catalogue_rows": 7853,
+  "expanded_sites": 8988,
+  "physical_threshold_triples": 2008,
+  "budget_units": 16999227356,
+  "required_minimum_units": 999954551,
+  "counting_margin_at_required_units": 11,
+  "observed_global_minimum_units": 1000002306,
+  "observed_minimum_rows": [
+    7844,
+    7845,
+    7846
+  ],
+  "observed_counting_surplus_units": 811846,
+  "quadratic_containment_inequalities": 31412,
+  "baseline_kled_bound": "461300/99853",
+  "improvement_over_kled": "115325/2492630439",
+  "scope": "The theorem needs only the required minimum and its 11-unit counting margin; the larger 811,846-unit observed surplus is an additional full-replay result. / 定理只需要规定最低值及其 11 单位计数余量；更大的 811,846 单位观测余量属于额外的全量复演结果。",
+  "review_status": "Computer-assisted exact replay; no maximality, global-optimality, established-priority, external-peer-review, or proof-assistant-formalization claim is asserted. / 这是计算机辅助精确复演；不主张端点已达极限、全局最优、已确认首发、外部同行审查或证明助理形式化。"
+}

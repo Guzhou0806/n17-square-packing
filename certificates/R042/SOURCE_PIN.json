@@ -1,0 +1,27 @@
+{
+  "schema": "n17.r042.public-source-pin.v1",
+  "kled": {
+    "repository": "Kleddamag/17-squares-certified-bound",
+    "release": "v1.0.0",
+    "commit": "a499e2c739ce7853fa04c8bcdc85caf1c2b01b37",
+    "baseline_certificate_sha256": "0288aaac680131aa675adb63ea6a67e3d363fcca6061d4c788301da7c5d69cec"
+  },
+  "r042_certificate": {
+    "path": "certificate/R042_CERTIFICATE.json.gz",
+    "compressed_sha256": "ec79424e30c65bbf31ad1f020b55cc8acebd0cb0f4fbea3e1841fa2b6dda8e28",
+    "decompressed_sha256": "ad47686fdc49121d23b335a1d0cbfc8aa706a5d34bb0eb896aea6992db3d59de",
+    "decompressed_bytes": 1882160
+  },
+  "secondary_checker_source": {
+    "repository": "Guzhou0806/n17-square-packing",
+    "commit": "32edfd3da78bf80a309398f552b3b602b9c45d6c",
+    "path": "certificates/R038/src/exact_parent_side_scan.js",
+    "sha256": "63e858e28c4dee40f5763a832e1cfdf1f1fce3a1e5c632d087525bf1ee20ed14"
+  },
+  "secondary_checker_reconstruction": {
+    "recipe": "src/secondary-adaptation.json",
+    "result_sha256": "b145b1ebbb2d3a0dccba62ee7b5ed64403bf0542ce5e8ee87113977df917faa4",
+    "redistributed": false
+  },
+  "purpose": "Pins the public R042 certificate, Kled baseline identity, and runtime reconstruction chain for the source-distinct BigInt checker. / 锁定公开 R042 证书、Kled 基线身份以及不同源码 BigInt 检查器的运行时重建链。"
+}

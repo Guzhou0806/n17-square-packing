@@ -1,8 +1,5 @@
 #!/usr/bin/env python3
-"""Check current publication bytes / 核对当前发布字节。
-
-Historical M19 and R012 publication maps remain separate, while R038 overlays only files changed or added by the R038 publication. / 历史 M19 与 R012 发布映射保持独立，R038 只覆盖本次发布新增或修改的文件。
-"""
+"""Check current publication bytes / 核对当前发布字节。"""
 from pathlib import Path
 import sys
 ROOT = Path(__file__).resolve().parents[1]
@@ -15,9 +12,11 @@ def main():
         legacy = verify.read_json(ROOT / 'RELEASE_MANIFEST.json')
         r012 = verify.read_json(ROOT / 'R012_PUBLICATION.json')
         r038 = verify.read_json(ROOT / 'R038_PUBLICATION.json')
+        r042 = verify.read_json(ROOT / 'R042_PUBLICATION.json')
         expected = dict(legacy['files'])
         expected.update(r012['files'])
         expected.update(r038['files'])
+        expected.update(r042['files'])
         count = verify.check_file_map(ROOT, expected)
         print(f'PASS_RELEASE_BYTES: {count} current publication files match; no mathematics inferred. / 当前发布的 {count} 个文件字节匹配；此检查不推出数学正确性。')
         return 0

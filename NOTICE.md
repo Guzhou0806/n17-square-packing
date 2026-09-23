@@ -1,16 +1,22 @@
 # Attribution and licensing scope / 来源与许可范围
 
+## R042
+
+R042 is published by **Guzhou0806 / N17 project, with AI assistance**, and builds on the pinned **Kleddamag/17-squares-certified-bound** v1.0.0 architecture at commit `a499e2c739ce7853fa04c8bcdc85caf1c2b01b37`. / R042 由 **Guzhou0806 / N17 project（使用 AI 辅助）** 发布，并建立在锁定到提交 `a499e2c739ce7853fa04c8bcdc85caf1c2b01b37` 的 **Kleddamag/17-squares-certified-bound** v1.0.0 架构之上。
+
+The retained Kled-derived Python source files remain under the upstream MIT license reproduced in `certificates/R042/KLED_MIT_LICENSE.zh-en.md`. / 保留的 Kled 派生 Python 源文件继续受上游 MIT 许可约束，该许可复现于 `certificates/R042/KLED_MIT_LICENSE.zh-en.md`。
+
+The reconstructed secondary BigInt checker is not redistributed and is regenerated only from a SHA-pinned R038 source file plus a pinned byte-edit recipe. / 重建后的第二套 BigInt 检查器不被重新分发，而只从 SHA 锁定的 R038 源文件与锁定字节编辑配方现场生成。
+
+R042 contributes the new parent side, retargeted catalogue, threshold-weight update, frozen certificate, independent containment controls, and the resulting strict N17 rescaling corollary. / R042 的增量包括新的父边长、重新定向的目录、阈值权重更新、冻结证书、独立包含控制以及由此得到的严格 N17 缩放推论。
+
+See [R042 attribution / R042 来源](certificates/R042/ATTRIBUTION.md), [proof / 证明](certificates/R042/PROOF.md), and [license scope / 许可范围](certificates/R042/LICENSE_SCOPE.md). / 详细来源、证明与许可边界见对应文件。
+
 ## R038
 
-R038 is published by **Guzhou0806 / N17 project, with AI assistance**, and uses the pinned numerical certificate from **Mira-acc/17squares** commit `ac464dd06ded72e2f6eb2c2f3d510b01391c056d`. / R038 由 **Guzhou0806 / N17 project（使用 AI 辅助）** 发布，并使用 **Mira-acc/17squares** 提交 `ac464dd06ded72e2f6eb2c2f3d510b01391c056d` 中锁定的数值证书。
+R038 remains a separate strict parent-side publication based on SHA-pinned upstream numerical data, and its original attribution remains unchanged. / R038 继续作为独立的严格父边长发布成果，其基础为 SHA 锁定的上游数值数据，原有来源声明保持不变。
 
-Mira's mathematical lineage includes **Joshua Levy, the squares project**, while this repository's R012 is part of the parent-aware continuation. / Mira 的数学路线包含 **Joshua Levy, the squares project**，而本仓库的 R012 属于父感知方向的延续。
-
-R038 adds the smaller rational parent side, strict-containment transfer, exact expanded-domain replay, base and augmented controls, and the resulting N17 rescaling corollary. / R038 新增更小的有理父边长、严格内含转移、精确扩域复演、基础与增广对照，以及由此得到的 N17 缩放推论。
-
-The R038 directory does not redistribute Mira's certificate bytes or Mira source code, and no upstream endorsement or coauthorship is implied. / R038 目录不重新分发 Mira 的证书字节或 Mira 源代码，也不暗示上游作者背书或共同署名。
-
-See [R038 attribution / R038 来源](certificates/R038/ATTRIBUTION.md), [proof / 证明](certificates/R038/PROOF.md), and [license scope / 许可范围](certificates/R038/LICENSE_SCOPE.md). / 详细来源、证明与许可边界见对应文件。
+See [R038 attribution / R038 来源](certificates/R038/ATTRIBUTION.md). / 详细信息见 [R038 来源文件](certificates/R038/ATTRIBUTION.md)。
 
 ## R012
 
@@ -18,12 +24,8 @@ R012 remains a separate self-contained Python publication using the decimal meas
 
 Its original attribution and MIT-source notice remain unchanged. / 其原始署名文件与 MIT 来源声明保持不变。
 
-See [R012 attribution / R012 来源](certificates/R012/ATTRIBUTION.md) and [MIT source notice / MIT 来源声明](certificates/R012/LICENSE-MIT.txt). / 详细信息见相应文件。
-
 ## M19 retained attribution / M19 保留署名
 
 The original weighted certificate, source algorithm, and dilation argument are credited to **Joshua Levy, the squares project**, pinned at `035d84c655b4047bc9986c9a3db5106780d92f77`. / 原始加权证书、来源算法与缩放论证署名给 **Joshua Levy, the squares project**，锁定提交为 `035d84c655b4047bc9986c9a3db5106780d92f77`。
 
-M19 adds a certified nonuniform 197-direction net and preserves the failed M17 full-refinement witness. / M19 新增经过认证的非均匀 197 方向网，并保留 M17 全加密失败见证。
-
-The historical source notices distinguish MIT code from CC BY 4.0 documentation/data, and R038 does not broaden those third-party grants. / 历史来源声明区分 MIT 代码与 CC BY 4.0 文档/数据，R038 不扩展这些第三方授权。
+R042 does not broaden any historical or third-party grant. / R042 不扩展任何历史或第三方授权。

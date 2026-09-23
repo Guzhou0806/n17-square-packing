@@ -1,0 +1,29 @@
+{
+  "schema": "n17.r042.public-acceptance.v1",
+  "status": "PASS_R042_ACCEPTED_TWO_COMPLETE_EXACT_REPLAYS",
+  "research_id": "N17-R042",
+  "certificate_sha256": "ad47686fdc49121d23b335a1d0cbfc8aa706a5d34bb0eb896aea6992db3d59de",
+  "parent_side": "24963/25000",
+  "outer_side": "4613/1000",
+  "strict_lower_bound": "115325/24963",
+  "strict_lower_bound_decimal": "4.6198373592917517926531266274085646757...",
+  "baseline_kled_bound": "461300/99853",
+  "improvement_over_kled": "115325/2492630439",
+  "improvement_decimal": "0.0000462663851791308402617159887775887...",
+  "budget_units": 16999227356,
+  "required_minimum_units": 999954551,
+  "counting_margin_at_required_units": 11,
+  "observed_global_minimum_units": 1000002306,
+  "global_minimum_rows": [
+    7844,
+    7845,
+    7846
+  ],
+  "observed_counting_surplus_units": 811846,
+  "python_status": "PASS_FULL_EXACT_PYTHON_REPLAY",
+  "bigint_status": "PASS_FULL_EXACT_BIGINT_REPLAY",
+  "full_histograms_identical": true,
+  "independent_containment_status": "PASS_INDEPENDENT_EXACT_CONTROLS",
+  "quadratic_inequalities": 31412,
+  "claim_scope": "R042 proves the stated strict lower bound; it does not claim maximality, global optimality, established priority, external peer review, or proof-assistant formalization. / R042 证明所列严格下界；不主张该端点已达极限、全局最优、已确认首发、外部同行审查或证明助理形式化。"
+}

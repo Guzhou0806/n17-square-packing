@@ -1,0 +1,10 @@
+{
+  "status": "PASS_INDEPENDENT_EXACT_CONTROLS",
+  "certificate_sha256": "ad47686fdc49121d23b335a1d0cbfc8aa706a5d34bb0eb896aea6992db3d59de",
+  "scope": "Universal rational quadratic containment for all 7,853 catalogue rows, checked independently of the sweep implementation. / 对全部 7,853 个目录行进行普适有理二次包含检查，并与扫描实现相互独立。",
+  "containment": {
+    "intervals": 7853,
+    "quadratic_inequalities": 31412,
+    "minimum_positive_quadratic_numerator": "2123366400042893309449/2123366400000000000000000000000000"
+  }
+}

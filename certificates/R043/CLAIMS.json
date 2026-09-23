@@ -1,0 +1,58 @@
+{
+  "schema": "n17.r043.claims.v1",
+  "research_id": "N17-R043",
+  "claim": "s(17) > 461300/99851",
+  "strict_lower_bound": "461300/99851",
+  "strict_lower_bound_decimal": "4.6198836266036394227398824248129713272776436890967541637039188390702146197834774...",
+  "outer_side": "4613/1000",
+  "parent_side": "99851/100000",
+  "certificate_sha256": "f0995a8dc6a3a6399be0e9c20c92adf3bb4c247928ade063940d414bd89fcf4b",
+  "rows": 7853,
+  "minimum_units": 1000181993,
+  "budget_units": 17003093868,
+  "counting_surplus_units": 13,
+  "weight_denominator": 1000000000,
+  "activated_existing_point_orbits": [
+    {
+      "index": 71,
+      "prototype": [
+        112844000,
+        229387000
+      ],
+      "delta_weight_units": 297687,
+      "d4_orbit_size": 8
+    },
+    {
+      "index": 177,
+      "prototype": [
+        95239939,
+        152521502
+      ],
+      "delta_weight_units": 67695,
+      "d4_orbit_size": 8
+    },
+    {
+      "index": 490,
+      "prototype": [
+        96446359,
+        155955276
+      ],
+      "delta_weight_units": 56186,
+      "d4_orbit_size": 8
+    },
+    {
+      "index": 614,
+      "prototype": [
+        98600623,
+        199678931
+      ],
+      "delta_weight_units": 61746,
+      "d4_orbit_size": 8
+    }
+  ],
+  "threshold_orbits_changed": 0,
+  "point_support_coordinates_changed": 0,
+  "independent_containment_inequalities": 31412,
+  "scope": "Exact mixed point + two-of-three threshold certificate; no maximality or external-priority claim. / 精确 mixed point + two-of-three threshold 证书；不主张 maximality 或外部优先权。",
+  "external_priority": "NOT_ESTABLISHED"
+}

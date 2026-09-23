@@ -1,0 +1,15 @@
+{
+  "schema": "n17.public-verification.r043.v1",
+  "research_id": "N17-R043",
+  "status": "PASS_R043_ACCEPTED_TWO_COMPLETE_EXACT_REPLAYS",
+  "strict_lower_bound": "461300/99851",
+  "certificate_sha256": "f0995a8dc6a3a6399be0e9c20c92adf3bb4c247928ade063940d414bd89fcf4b",
+  "rows": 7853,
+  "budget_units": 17003093868,
+  "minimum_units": 1000181993,
+  "counting_surplus_units": 13,
+  "full_histograms_identical": true,
+  "independent_containment_inequalities": 31412,
+  "bigint_escape_rows": [],
+  "scope": "Final public verification summary only. / 仅记录最终公开复验汇总。"
+}

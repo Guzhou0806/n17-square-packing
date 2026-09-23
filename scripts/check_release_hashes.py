@@ -13,10 +13,12 @@ def main():
         r012 = verify.read_json(ROOT / 'R012_PUBLICATION.json')
         r038 = verify.read_json(ROOT / 'R038_PUBLICATION.json')
         r042 = verify.read_json(ROOT / 'R042_PUBLICATION.json')
+        r043 = verify.read_json(ROOT / 'R043_PUBLICATION.json')
         expected = dict(legacy['files'])
         expected.update(r012['files'])
         expected.update(r038['files'])
         expected.update(r042['files'])
+        expected.update(r043['files'])
         count = verify.check_file_map(ROOT, expected)
         print(f'PASS_RELEASE_BYTES: {count} current publication files match; no mathematics inferred. / 当前发布的 {count} 个文件字节匹配；此检查不推出数学正确性。')
         return 0

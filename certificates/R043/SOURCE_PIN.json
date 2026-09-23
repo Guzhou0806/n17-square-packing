@@ -1,0 +1,19 @@
+{
+  "schema": "n17.r043.source-pin.v1",
+  "parent_research_id": "N17-R042",
+  "parent_certificate_sha256": "ad47686fdc49121d23b335a1d0cbfc8aa706a5d34bb0eb896aea6992db3d59de",
+  "primary_upstream": {
+    "repository": "Kleddamag/17-squares-certified-bound",
+    "commit": "a499e2c739ce7853fa04c8bcdc85caf1c2b01b37",
+    "release": "v1.0.0"
+  },
+  "secondary_checker_source": {
+    "repository": "Guzhou0806/n17-square-packing",
+    "commit": "32edfd3da78bf80a309398f552b3b602b9c45d6c",
+    "path": "certificates/R038/src/exact_parent_side_scan.js",
+    "sha256": "63e858e28c4dee40f5763a832e1cfdf1f1fce3a1e5c632d087525bf1ee20ed14"
+  },
+  "secondary_reconstructed_sha256": "b145b1ebbb2d3a0dccba62ee7b5ed64403bf0542ce5e8ee87113977df917faa4",
+  "r043_certificate_sha256": "f0995a8dc6a3a6399be0e9c20c92adf3bb4c247928ade063940d414bd89fcf4b",
+  "external_priority": "NOT_ESTABLISHED"
+}

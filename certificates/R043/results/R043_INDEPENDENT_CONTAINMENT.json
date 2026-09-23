@@ -1,0 +1,11 @@
+{
+  "status": "PASS_INDEPENDENT_EXACT_CONTROLS",
+  "certificate_sha256": "f0995a8dc6a3a6399be0e9c20c92adf3bb4c247928ade063940d414bd89fcf4b",
+  "scope": "Universal rational quadratic containment plus selected direct logical boundary charges; not a replacement for all-centre sweep.",
+  "containment": {
+    "intervals": 7853,
+    "quadratic_inequalities": 31412,
+    "minimum_positive_quadratic_numerator": "2123366400042893309449/2123366400000000000000000000000000"
+  },
+  "seconds": 1.8064106850001735
+}

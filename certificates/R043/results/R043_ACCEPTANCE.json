@@ -1,0 +1,96 @@
+{
+  "schema": "n17.r043.public-acceptance.v1",
+  "status": "PASS_R043_ACCEPTED_TWO_COMPLETE_EXACT_REPLAYS",
+  "research_id": "N17-R043",
+  "certificate_sha256": "f0995a8dc6a3a6399be0e9c20c92adf3bb4c247928ade063940d414bd89fcf4b",
+  "parent_side": "99851/100000",
+  "outer_side": "4613/1000",
+  "strict_lower_bound": "461300/99851",
+  "strict_lower_bound_decimal": "4.619883626603639422739882424812971327277643689096754163703918839070215",
+  "previous_r042_bound": "115325/24963",
+  "improvement_over_r042": "115325/2492580513",
+  "improvement_decimal": "0.00004626731188763008675579740440665155757799186485094694311284620076783855",
+  "budget_units": 17003093868,
+  "observed_global_minimum_units": 1000181993,
+  "global_minimum_rows": [
+    2552
+  ],
+  "counting_surplus_units": 13,
+  "python": {
+    "rows": 7853,
+    "slabs": 124686295,
+    "cells": 1643587385429,
+    "status": "PASS_FULL_EXACT_PYTHON_REPLAY",
+    "seconds": 675.7589469540003,
+    "ledger_uncompressed_sha256": "e0291d3b8e004cba55bda22b53b09960f679df136cd80613d0f57e9f10f79d76",
+    "ledger_storage": "deterministic gzip / 确定性 gzip"
+  },
+  "bigint": {
+    "range": [
+      0,
+      7853
+    ],
+    "ranges": [
+      [
+        0,
+        1570
+      ],
+      [
+        1570,
+        3141
+      ],
+      [
+        3141,
+        4711
+      ],
+      [
+        4711,
+        6282
+      ],
+      [
+        6282,
+        7853
+      ]
+    ],
+    "slabs": 124670589,
+    "escape_rows": [],
+    "status": "PASS_FULL_EXACT_BIGINT_REPLAY",
+    "seconds": 308.9477710660003
+  },
+  "full_histograms_identical": true,
+  "independent_containment": {
+    "intervals": 7853,
+    "quadratic_inequalities": 31412,
+    "minimum_positive_quadratic_numerator": "2123366400042893309449/2123366400000000000000000000000000",
+    "status": "PASS_INDEPENDENT_EXACT_CONTROLS"
+  },
+  "certificate_delta": {
+    "activated_existing_zero_weight_point_orbits": [
+      {
+        "index": 71,
+        "delta_weight_units": 297687,
+        "d4_orbit_size": 8
+      },
+      {
+        "index": 177,
+        "delta_weight_units": 67695,
+        "d4_orbit_size": 8
+      },
+      {
+        "index": 490,
+        "delta_weight_units": 56186,
+        "d4_orbit_size": 8
+      },
+      {
+        "index": 614,
+        "delta_weight_units": 61746,
+        "d4_orbit_size": 8
+      }
+    ],
+    "threshold_orbits_changed": 0,
+    "point_support_coordinates_changed": 0,
+    "budget_delta_over_r042_units": 3866512
+  },
+  "scope": "Final theorem acceptance only. / 仅记录最终定理验收。",
+  "public_priority_claim": false
+}

@@ -1,13 +1,11 @@
-# R043 publication / R043 发布说明
+# R050 发布说明 / R050 publication
 
-This publication adds the strict bound `s(17) > 461300/99851` together with the frozen final certificate, bilingual proof, pinned provenance, independent rational containment checker, two complete exact replay paths, and CI. / 本次发布新增严格下界 `s(17) > 461300/99851`，并提供冻结最终证书、双语证明、锁定来源、独立有理包含检查器、两条完整精确复演路径与 CI。
+- 发布严格下界 `s(17)>4613000/998509`，提供冻结证书、双语证明、自足复验入口、118 个 BigInt 分块和完整 Python 账本。 / Publish the strict bound `s(17)>4613000/998509` with a frozen certificate, bilingual proof, self-contained replay entry, 118 BigInt blocks and the complete Python ledger.
+- 完整覆盖 15706 行，核查 62824 个严格包含不等式，计数余量为 1524845。 / Cover all 15706 rows, check 62824 strict-containment inequalities and establish surplus 1524845.
+- 明确尚未公开的 4.62001 下界归 Kleddamag 所有，R050 不再作为目前最优下界主张。 / Explicitly credit the unpublished 4.62001 lower bound to Kleddamag and no longer present R050 as the best currently known bound.
 
-The accepted certificate changes no point coordinates and no threshold orbit relative to R042; it activates four previously zero-weight point orbits on the existing support. / 相对 R042，已接受证书不改变 point 坐标或 threshold orbit，只在既有支撑上激活四个此前权重为零的 point orbit。
+**R050 已不是目前已知的最优下界：据维护者获知的信息，Kleddamag 已取得尚未公开的 4.62001 下界。该成果属于 Kleddamag，不属于本项目；其证明不包含在本发布中，本发布也未独立验证该证明。** / **R050 is no longer the best currently known lower bound: according to information received by the maintainer, Kleddamag has obtained an unpublished lower bound of 4.62001. That result belongs to Kleddamag, not this project; its proof is neither included nor independently verified in this release.**
 
-The complete replay minimum is `1000181993`, the global budget is `17003093868`, and the exact counting surplus is `13`. / 完整复演最低值为 `1000181993`，全局预算为 `17003093868`，精确计数余量为 `13`。
+保持早期科学证据不变，新增内容遵守来源锁定与独立复验要求。 / Earlier scientific evidence is preserved, and new content follows source-pinning and independent-replay requirements.
 
-The accepted R043 certificate is committed in deterministic gzip form, and the secondary BigInt checker is reconstructed at replay time instead of being redistributed. / 已接受的 R043 证书以确定性 gzip 形式提交，第二套 BigInt 检查器则在复演时重建而不被重新分发。
-
-R042, R038, R012, and M19 frozen scientific evidence remain unchanged. / R042、R038、R012 与 M19 的冻结科学证据保持不变。
-
-No maximality, global-optimality, established-priority, external-peer-review, or proof-assistant-formalization status is asserted by this release. / 本发布不主张端点已达极限、全局最优、已确认首发、外部同行审查或证明助理形式化状态。
+[证明 / Proof](../certificates/R050/PROOF.md) · [复验 / Replay](../certificates/R050/REPRODUCIBILITY.md) · [来源 / Sources](../certificates/R050/SOURCE_NOTICES.md)

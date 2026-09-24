@@ -1,0 +1,30 @@
+{
+  "schema": "n17.r050.source-pin.v1",
+  "parent_research_id": "N17-R043",
+  "certificate_sha256": "84283b2af955b85184dc4793ae2b65e08aae5f3817a611038598dd54f479f400",
+  "python_full_replay_sha256": "a7b256a6a7c0273f99977400915563ff6a7374d56a0701c490d384f4f7ef9ad1",
+  "primary_upstream": {
+    "repository": "Kleddamag/17-squares-certified-bound",
+    "commit": "a499e2c739ce7853fa04c8bcdc85caf1c2b01b37",
+    "release": "v1.0.0"
+  },
+  "r043_python_sources": {
+    "repository": "Guzhou0806/n17-square-packing",
+    "package_path": "certificates/R043/src",
+    "sha256": {
+      "exact_mixed.py": "7e08ad62c1998e799d8cec3c8de6f90010f76d027a86b6bcca27feeb0e5ccd49",
+      "integer_sweep.py": "3a2bfd8892a9693b4dfca72e4d8e547a7be8775b22306740f4e6b63d0928b34b",
+      "replay_parallel.py": "f15bc19ad09c9963840a7b887548d4b2db1c2b6ee0c7dbfbca02c3e32fb4283d",
+      "independent_controls.py": "600c28587f92f6b7092011836bf9b42dcab1dc53458698fbd0f1f69fbeff5724",
+      "prepare_secondary.py": "fded50a7f51bdc882cf9b288d30700d0964ae2517b8d998f37ed07702ecac276",
+      "secondary-adaptation.json": "827116faf382449676bdeefafe83adac1d04b96c997a058c8868fdb0e4e4b211"
+    }
+  },
+  "secondary_checker_source": {
+    "repository": "Guzhou0806/n17-square-packing",
+    "commit": "32edfd3da78bf80a309398f552b3b602b9c45d6c",
+    "path": "certificates/R038/src/exact_parent_side_scan.js",
+    "sha256": "63e858e28c4dee40f5763a832e1cfdf1f1fce3a1e5c632d087525bf1ee20ed14"
+  },
+  "secondary_reconstructed_sha256": "b145b1ebbb2d3a0dccba62ee7b5ed64403bf0542ce5e8ee87113977df917faa4"
+}

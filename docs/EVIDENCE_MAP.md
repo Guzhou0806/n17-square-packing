@@ -1,17 +1,17 @@
-# Evidence map / 证据入口
+# 证据入口 / Evidence map
 
-## R043
+## R050
 
-`certificates/R043/CLAIMS.json` states the public theorem ledger, while `SOURCE_PIN.json` binds the inherited architecture and the source-distinct checker reconstruction chain. / `certificates/R043/CLAIMS.json` 登记公开定理账本，而 `SOURCE_PIN.json` 锁定继承架构与不同源码检查器的重建链。
+[证书包 / Certificate package](../certificates/R050/README.md) 与 [证明 / proof](../certificates/R050/PROOF.md) 连接资源预算、连续覆盖和严格下界。 / The linked package and proof connect resource budgets, continuous coverage and the strict lower bound.
 
-`certificate/R043_CERTIFICATE.json.gz` contains the complete accepted certificate bytes in deterministic compressed form, and `verify.py` checks the decompressed SHA before use. / `certificate/R043_CERTIFICATE.json.gz` 以确定性压缩形式包含完整已接受证书字节，`verify.py` 在使用前会核验解压 SHA。
+`certificate/R050_CERTIFICATE.json.gz` 保存完整原证书，解压 SHA-256 为 84283b2af955b85184dc4793ae2b65e08aae5f3817a611038598dd54f479f400。 / `certificate/R050_CERTIFICATE.json.gz` preserves the original complete certificate, with decompressed SHA-256 84283b2af955b85184dc4793ae2b65e08aae5f3817a611038598dd54f479f400.
 
-`results/R043_PYTHON_FULL_REPLAY.json.gz` and `results/R043_BIGINT_FULL_REPLAY.json` record the two completed full exact replay ledgers, while `R043_INDEPENDENT_CONTAINMENT.json` records the independent rational containment audit. / `results/R043_PYTHON_FULL_REPLAY.json.gz` 与 `results/R043_BIGINT_FULL_REPLAY.json` 记录两次已完成的完整精确复演账本，而 `R043_INDEPENDENT_CONTAINMENT.json` 记录独立有理包含审计。
+`results/R050_PYTHON_FULL_REPLAY.json.gz` 保存完整 Python 行账本，`results/bigint-parts/` 保存 118 个完整连续分块，`verify.py` 核查每块完整直方图。 / `results/R050_PYTHON_FULL_REPLAY.json.gz` preserves the full Python row ledger, `results/bigint-parts/` preserves 118 complete contiguous blocks, and `verify.py` checks each full block histogram.
 
-`src/prepare_secondary.py` plus `secondary-adaptation.json` reconstructs the source-distinct BigInt checker from pinned public R038 source bytes without committing the derived checker. / `src/prepare_secondary.py` 与 `secondary-adaptation.json` 从锁定的公开 R038 源字节重建不同源码的 BigInt 检查器，而不提交派生检查器。
+`SOURCE_PIN.json` 锁定源码，`MANIFEST.json` 是显式允许文件及哈希表，`R050_PUBLICATION.json` 在仓库根登记本次集成发布字节。 / `SOURCE_PIN.json` pins source identities, `MANIFEST.json` lists allowed files and hashes, and root `R050_PUBLICATION.json` records this publication's integration bytes.
 
-`PROOF.md` connects the finite computations to the strict global lower bound, while `ATTRIBUTION.md` and `LICENSE_SCOPE.md` state provenance and redistribution boundaries. / `PROOF.md` 将有限计算连接到严格全局下界，而 `ATTRIBUTION.md` 与 `LICENSE_SCOPE.md` 说明来源与再分发边界。
+[来源 / Sources](../certificates/R050/SOURCE_NOTICES.md) 明确上游贡献与 Kleddamag 尚未公开的 4.62001 下界归属，该项未公开证明不属于本包。 / The source notice identifies upstream contributions and credits Kleddamag's unpublished 4.62001 lower bound, whose proof is not part of this package.
 
-## Earlier milestones / 早期里程碑
+## 历史证据 / Historical evidence
 
-R042, R038, R012, and M19 remain unchanged and retain their original evidence and replay paths. / R042、R038、R012 与 M19 保持不变，并继续保留各自原有的证据与复验路径。
+R043、R042、R038、R012 和 M19 的科学证据保持不变。 / Scientific evidence for R043, R042, R038, R012 and M19 is unchanged.

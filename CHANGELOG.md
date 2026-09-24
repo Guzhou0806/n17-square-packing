@@ -1,5 +1,11 @@
 # Changelog / 更新记录
 
+## R050 公开科学里程碑 / R050 public scientific milestone
+
+- 发布严格下界 `s(17)>4613000/998509`，提供冻结证书、双语证明、自足复验入口、118 个 BigInt 分块和完整 Python 账本。 / Publish the strict bound `s(17)>4613000/998509` with a frozen certificate, bilingual proof, self-contained replay entry, 118 BigInt blocks and the complete Python ledger.
+- 完整覆盖 15706 行，核查 62824 个严格包含不等式，计数余量为 1524845。 / Cover all 15706 rows, check 62824 strict-containment inequalities and establish surplus 1524845.
+- 明确尚未公开的 4.62001 下界归 Kleddamag 所有，R050 不再作为目前最优下界主张。 / Explicitly credit the unpublished 4.62001 lower bound to Kleddamag and no longer present R050 as the best currently known bound.
+
 ## R043 public scientific milestone / R043 公开科学里程碑
 
 - Publish the strict bound `s(17) > 461300/99851` with a frozen final certificate, two complete exact replay paths, and independent rational containment. / 发布严格下界 `s(17) > 461300/99851`，并提供冻结最终证书、两条完整精确复演路径与独立有理包含审计。

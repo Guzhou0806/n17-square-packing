@@ -1,19 +1,13 @@
 cff-version: 1.2.0
-title: "R043: A strict mixed-certificate lower bound for seventeen unit squares / R043：十七单位正方形的严格混合证书下界"
-message: "Please cite a fixed commit and retain the upstream credit listed in NOTICE.md. / 请引用固定提交并保留 NOTICE.md 中列出的上游署名。"
+title: "R050: Refined-angle strict lower bound for seventeen unit squares / R050：十七单位正方形的角区间细分严格下界"
+message: "Cite a fixed commit and retain the upstream attribution in NOTICE.md. / 请引用固定提交并保留 NOTICE.md 中的上游署名。"
 type: software
-version: "r043-public-1"
+version: "r050-public-1"
 authors:
   - name: "Guzhou0806"
 repository-code: "https://github.com/Guzhou0806/n17-square-packing"
-abstract: >-
-  An exact computer-assisted certificate proving s(17) > 461300/99851,
-  with two complete exact replay paths and independent rational containment.
-  / 一份精确的计算机辅助证书，证明 s(17) > 461300/99851，
-  包含两条完整精确复演路径与独立有理包含审计。
+abstract: "An exact certificate for s(17)>4613000/998509; the stronger unpublished 4.62001 bound is due to Kleddamag and is not part of this project's result. / 证明 s(17)>4613000/998509 的精确证书；更强的未公开 4.62001 下界属于 Kleddamag，不属于本项目成果。"
 keywords:
-  - square packing
-  - computer-assisted proof
-  - lower bound
-  - exact arithmetic
-  - mixed certificate
+  - "square packing / 正方形装填"
+  - "computer-assisted proof / 计算机辅助证明"
+  - "lower bound / 下界"

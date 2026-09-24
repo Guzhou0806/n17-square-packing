@@ -1,5 +1,13 @@
 # Attribution and licensing scope / 来源与许可范围
 
+## R050
+
+R050 由 Guzhou0806 / N17 project 在 AI 辅助下发布，延续 Kleddamag 的混合证书架构及 R043，以固定资源和权重、细分角区间与严格内核证明新端点。 / R050 is published by Guzhou0806 / N17 project with AI assistance, continuing Kleddamag's mixed-certificate architecture and R043 with fixed resources and weights, refined angular intervals and strict cores at a new endpoint.
+
+**R050 已不是目前已知的最优下界：据维护者获知的信息，Kleddamag 已取得尚未公开的 4.62001 下界。该成果属于 Kleddamag，不属于本项目；其证明不包含在本发布中，本发布也未独立验证该证明。** / **R050 is no longer the best currently known lower bound: according to information received by the maintainer, Kleddamag has obtained an unpublished lower bound of 4.62001. That result belongs to Kleddamag, not this project; its proof is neither included nor independently verified in this release.**
+
+详见 [R050 来源 / R050 sources](certificates/R050/SOURCE_NOTICES.md) 与 [许可边界 / licence scope](certificates/R050/LICENSE_SCOPE.md)。 / See the linked source and licensing records.
+
 ## R043
 
 R043 is published by **Guzhou0806 / N17 project, with AI assistance**, and directly continues the frozen R042 mixed-certificate architecture. / R043 由 **Guzhou0806 / N17 project（使用 AI 辅助）** 发布，并直接延续冻结的 R042 混合证书架构。
@@ -16,4 +24,4 @@ See [R043 attribution / R043 来源](certificates/R043/ATTRIBUTION.md), [proof /
 
 R042, R038, R012, and M19 retain their existing attribution and redistribution boundaries. / R042、R038、R012 与 M19 继续保留各自已有的来源与再分发边界。
 
-R043 does not broaden any historical or third-party grant. / R043 不扩展任何历史或第三方授权。
+R050 does not broaden any historical or third-party grant. / R050 不扩展任何历史或第三方授权。

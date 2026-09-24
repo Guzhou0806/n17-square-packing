@@ -1,36 +1,19 @@
-# Reproducibility / 可复验性
+# 可复验性 / Reproducibility
 
-## R043 — current milestone / R043：当前里程碑
+## R050 当前发布 / R050 current publication
 
-[Full instructions / 完整说明](../certificates/R043/REPRODUCIBILITY.md) · [Proof / 证明](../certificates/R043/PROOF.md)
-
-The fast package-local check requires Python 3.10 or later and no third-party modules. / 快速包内检查需要 Python 3.10 或更高版本，并且不需要第三方模块。
+完整命令、依赖、记录核查与重新扫描的区别，见 [R050 复验说明 / R050 reproduction instructions](../certificates/R050/REPRODUCIBILITY.md)。 / See the linked instructions for complete commands, dependencies and the distinction between recorded checks and rescans.
 
 ```bash
-python -X utf8 -B -S certificates/R043/verify.py --output .replay-runs/r043-recorded-001
+python -X utf8 -B -S certificates/R050/verify.py --output .replay-runs/r050-records-001
+python -X utf8 -B -S certificates/R050/verify.py --containment --output .replay-runs/r050-containment-001
+python -m pip install -r certificates/R050/requirements-full.txt
+python -X utf8 -B certificates/R050/verify.py --python-full --jobs 8 --output .replay-runs/r050-python-001
+python -X utf8 -B -S certificates/R050/verify.py --bigint-full --jobs 8 --output .replay-runs/r050-bigint-001
 ```
 
-The independent containment replay is standard-library-only and recomputes all 31,412 exact rational inequalities. / 独立包含复演只使用标准库，并重新计算全部 31,412 个精确有理不等式。
+## 历史入口 / Historical entry points
 
-```bash
-python -X utf8 -B -S certificates/R043/verify.py --containment --output .replay-runs/r043-containment-001
-```
+[R043](../certificates/R043/REPRODUCIBILITY.md) · [R042](../certificates/R042/REPRODUCIBILITY.md) · [R038](../certificates/R038/REPRODUCIBILITY.md) · [R012](../certificates/R012/README.md)
 
-The complete Python replay requires NumPy and Numba, and the complete BigInt replay requires Node.js plus network access to one SHA-pinned public R038 source file. / 完整 Python 复演需要 NumPy 与 Numba，完整 BigInt 复演需要 Node.js，并需要联网获取一个 SHA 锁定的公开 R038 源文件。
-
-```bash
-python -X utf8 -B certificates/R043/verify.py --python-full --jobs 4 --output .replay-runs/r043-python-001
-python -X utf8 -B -S certificates/R043/verify.py --bigint-full --jobs 5 --output .replay-runs/r043-bigint-001
-```
-
-Records-only success never inherits a geometric PASS from an earlier milestone. / 仅记录检查成功从不从更早里程碑继承几何 PASS。
-
-## Earlier milestones / 早期里程碑
-
-R042, R038, R012, and M19 retain their original replay entry points and frozen evidence. / R042、R038、R012 与 M19 保留各自原有的复验入口与冻结证据。
-
-## Trust boundary / 可信边界
-
-File hashes establish byte identity and replay establishes the programmed obligations, but neither alone is external mathematical review. / 文件哈希建立字节身份，复演建立程序化义务，但二者都不能单独替代外部数学审查。
-
-Review the mixed-charge counting rule, strict containment, complete continuous centre-domain enumeration, common budget, rescaling, and compactness arguments in the proof documents. / 应审查证明文档中的混合收费计数规则、严格包含、完整连续中心域枚举、共同预算、缩放与紧致性论证。
+历史证据保持原始字节。文件身份、程序复验与外部数学审查是不同层级。 / Historical evidence retains its original bytes. File identity, computational replay and external mathematical review are distinct levels.

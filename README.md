@@ -1,68 +1,46 @@
-# Seventeen unit squares / 十七个单位正方形
+# R050：十七单位正方形的严格下界 / R050: a strict lower bound for seventeen unit squares
 
-## R043: current strict lower bound / R043：当前严格下界
+本发布证明以下下界，其中正方形可任意旋转、内部两两不交，并允许边界接触。 / This release proves the following bound for arbitrarily rotated squares with pairwise disjoint interiors and permitted boundary contact.
 
-Let $s(17)$ be the infimum side length of a square containing seventeen arbitrarily rotated unit squares with pairwise disjoint interiors, with boundary contact allowed. / 记 $s(17)$ 为容纳十七个可任意旋转且内部两两不交的单位正方形时容器正方形边长的下确界，并允许边界接触。
+$$s(17)>\frac{4613000}{998509}=4.6198882533857982251537041729\ldots.$$
 
-$$\boxed{s(17)>\frac{461300}{99851}}$$
+**R050 已不是目前已知的最优下界：据维护者获知的信息，Kleddamag 已取得尚未公开的 4.62001 下界。该成果属于 Kleddamag，不属于本项目；其证明不包含在本发布中，本发布也未对其进行独立验证。** / **R050 is no longer the best currently known lower bound: according to information received by the maintainer, Kleddamag has obtained an unpublished lower bound of 4.62001. That result belongs to Kleddamag, not this project; its proof is not included or independently verified in this release.**
 
-```text
-4.61988362660363942273988242481297... < s(17)
-```
+本发布由 Guzhou0806 / N17 project 在 AI 辅助下整理，延续 Kleddamag 的公开混合证书架构及 R043。 / This release is prepared by Guzhou0806 / N17 project with AI assistance, continuing Kleddamag's public mixed-certificate architecture and R043.
 
-This is a computer-assisted exact lower bound, not a claim of maximality, global optimality, established public priority, external peer review, or proof-assistant formalization. / 这是计算机辅助的精确下界，不主张端点已达极限、全局最优、已确认公开首发、外部同行审查或证明助理形式化。
+[证明 / Proof](certificates/R050/PROOF.md) · [复验 / Reproduction](certificates/R050/REPRODUCIBILITY.md) · [来源 / Sources](certificates/R050/SOURCE_NOTICES.md) · [许可 / Licensing](certificates/R050/LICENSE_SCOPE.md)
 
-[Proof / 证明](certificates/R043/PROOF.md) · [Replay / 复验](certificates/R043/README.md) · [Results / 结果登记](RESULTS.md) · [Attribution / 来源](certificates/R043/ATTRIBUTION.md)
+## 数学变化 / Mathematical change
 
-## Reproduce R043 / 复验 R043
+保持 R043 的全部点资源、三取二阈值资源及权重不变，将父边长改为 998509/1000000，并将每个原角区间均分为二，重新构造严格内核。 / All R043 point resources, two-of-three threshold resources and weights are unchanged; the parent side becomes 998509/1000000, each original angular interval is bisected, and strict cores are reconstructed.
 
-A package-local recorded check requires Python 3.10 or later and no third-party modules or network access. / 包内记录检查需要 Python 3.10 或更高版本，不需要第三方模块或网络访问。
+15706 个角区间覆盖全部所需方向，62824 个有理包含不等式严格成立。每个父正方形的内核收费至少 1000271689，而全局预算为 17003093868 个整数单位。 / The 15706 angular intervals cover all required directions, and all 62824 rational containment inequalities hold strictly. Every parent square has a core charging at least 1000271689, while the global budget is 17003093868 integer units.
+
+$$17\times1000271689-17003093868=1524845>0.$$
+
+因此十七个父正方形的装填不可能存在；缩放与紧致性给出上述严格下界。 / Hence a packing of seventeen parent squares is impossible; scaling and compactness yield the stated strict lower bound.
+
+## 验证范围 / Verification scope
+
+已完成全部 15706 行的独立 Python 扫描，并将逐行账本与另一套 BigInt 实现的全部 118 个分块逐一对照完整直方图及最低值。BigInt 原件由先保存的 11400 行前缀与后补的 4306 行构成；不声称原始 BigInt 全目录来自一次新执行。 / A complete independent Python scan of all 15706 rows was completed, and its row ledger was compared against every complete histogram and minimum of the other BigInt implementation's 118 blocks. The original BigInt evidence consists of a previously saved 11400-row prefix and a subsequently completed 4306-row suffix; the original full BigInt coverage is not presented as one fresh execution.
+
+记录核查、重新计算包含、完整 Python 复演及完整 BigInt 复演是不同验证层级，具体命令和真实发布复验记录见复验说明。 / Recorded-evidence checks, recomputed containment, full Python replay and full BigInt replay are distinct verification levels; see the reproduction instructions for commands and actual publication-validation records.
+
+该计算机辅助证明没有主张全局最优、外部同行评审或证明助理形式化。 / This computer-assisted proof makes no claim of global optimality, external peer review or proof-assistant formalization.
+
+## 快速复验入口 / Quick replay entry
 
 ```bash
-python -X utf8 -B -S certificates/R043/verify.py --output .replay-runs/r043-recorded-001
+python -X utf8 -B -S certificates/R050/verify.py --output .replay-runs/r050-records-001
+python -X utf8 -B -S certificates/R050/verify.py --containment --output .replay-runs/r050-containment-001
 ```
 
-An independent standard-library containment replay recomputes all 31,412 exact rational inequalities. / 独立的纯标准库包含复演会重新计算全部 31,412 个精确有理不等式。
+完整重新扫描命令和依赖见 [R050 复验说明 / R050 reproduction instructions](certificates/R050/REPRODUCIBILITY.md)；快速记录核查不替代完整重新扫描。 / See the linked instructions for full rescans and dependencies; quick recorded-evidence checks do not replace full rescans.
 
-```bash
-python -X utf8 -B -S certificates/R043/verify.py --containment --output .replay-runs/r043-containment-001
-```
+## 已有公开证据 / Earlier public evidence
 
-The complete Python exact replay requires NumPy and Numba, while the source-distinct BigInt replay requires Node.js and reconstructs its checker from SHA-pinned public R038 source bytes. / 完整 Python 精确复演需要 NumPy 与 Numba，而不同源码的 BigInt 复演需要 Node.js，并从 SHA 锁定的公开 R038 源字节重建检查器。
+[R043](certificates/R043/README.md) · [R042](certificates/R042/README.md) · [R038](certificates/R038/README.md) · [R012](certificates/R012/README.md) · [M19 证明 / M19 proof](docs/M19_PROOF_EN.md)
 
-```bash
-python -X utf8 -B certificates/R043/verify.py --python-full --jobs 4 --output .replay-runs/r043-python-001
-python -X utf8 -B -S certificates/R043/verify.py --bigint-full --jobs 5 --output .replay-runs/r043-bigint-001
-```
+历史科学证据及其复验入口保持原样，完整结果表见 [RESULTS.md / 结果登记](RESULTS.md)。 / Historical scientific evidence and replay entry points are preserved; see the linked results register for the complete list.
 
-The reconstructed BigInt checker bytes are not committed to this repository. / 重建后的 BigInt 检查器字节不提交到本仓库。
-
-## What R043 proves / R043 证明了什么
-
-R043 fixes $L=4613/1000$ and $A=99851/100000$, hence $L/A=461300/99851$. / R043 固定 $L=4613/1000$ 与 $A=99851/100000$，因此 $L/A=461300/99851$。
-
-The accepted certificate changes no point coordinates and no threshold orbit relative to R042; it activates four previously zero-weight point orbits on the existing support. / 相对 R042，已接受证书不改变 point 坐标或 threshold orbit，只在既有支撑上激活四个此前权重为零的 point orbit。
-
-The global budget is `17003093868` units and both complete exact replay engines report the common minimum `1000181993` over all 7,853 catalogue rows. / 全局预算为 `17003093868` 单位，两套完整精确复演引擎都在全部 7,853 个目录行上得到共同最低值 `1000181993`。
-
-The exact counting surplus is `17 × 1000181993 − 17003093868 = 13 > 0`. / 精确计数余量为 `17 × 1000181993 − 17003093868 = 13 > 0`。
-
-The complete Python and BigInt row-minimum histograms are identical, and the BigInt replay has zero escape rows. / 完整 Python 与 BigInt 的逐行最低值直方图完全一致，并且 BigInt 复演的 escape rows 为零。
-
-An independent rational audit proves strict containment for all 31,412 catalogue inequalities. / 独立有理审计证明全部 31,412 个目录包含不等式均严格成立。
-
-## Earlier public milestones / 早期公开里程碑
-
-R042 remains unchanged and proves $s(17)>115325/24963$. / R042 保持不变，并证明 $s(17)>115325/24963$。
-
-R038 remains unchanged and proves $s(17)>65900000000/14282142857$. / R038 保持不变，并证明 $s(17)>65900000000/14282142857$。
-
-R012 remains unchanged and proves $s(17)\ge461300/99999$. / R012 保持不变，并证明 $s(17)\ge461300/99999$。
-
-M19 and its frozen evidence also remain unchanged. / M19 及其冻结证据同样保持不变。
-
-## Credit and verification scope / 署名与可信边界
-
-R043 is published by the Guzhou0806 / N17 project with AI assistance and continues the pinned Kleddamag v1.0.0 mixed-certificate architecture. / R043 由 Guzhou0806 / N17 project 在 AI 辅助下发布，并延续锁定的 Kleddamag v1.0.0 混合证书架构。
-
-Source attribution does not imply upstream endorsement or coauthorship, and exact replay does not replace independent mathematical review. / 来源署名不代表上游作者背书或共同署名，精确复演也不能替代独立数学审查。
+[发布前隔离复验记录 / Isolated pre-publication validation](verification/R050.json) 登记实际执行范围、环境与结果；GitHub Actions 状态另以对应提交为准。 / The linked record states the actual execution scope, environment and results; GitHub Actions status is tracked separately for the corresponding commit.

@@ -6,12 +6,19 @@ Decimal text describes the stated constants and does not provide a two-sided enc
 
 | Milestone / 里程碑 | Bound or outcome / 下界或结果 | Evidence / 证据 |
 |---|---|---|
+| **R050** | **$s(17)>4613000/998509=4.61988825338579822515\ldots$** | [角目录细分与严格内核证明 / Refined-angle strict-core proof](certificates/R050/README.md) |
 | **R043** | **$s(17)>461300/99851=4.61988362660363942273\ldots$** | [Point-weight continuation with two complete exact replay paths / 点权推进与两条完整精确复演路径](certificates/R043/README.md) |
 | **R042** | $s(17)>115325/24963=4.61983735929175179265\ldots$ | [Mixed-certificate proof and two complete exact replay paths / 混合证书证明与两条完整精确复演路径](certificates/R042/README.md) |
 | Kled v1.0.0 baseline / Kled v1.0.0 基线 | $461300/99853=4.61979109290657266181\ldots$ | [Pinned upstream source / 锁定上游来源](certificates/R042/ATTRIBUTION.md); not claimed as this project's result / 不作为本项目成果 |
 | **R038** | $s(17)>65900000000/14282142857=4.61415353843074922268\ldots$ | [Strict parent-side proof and exact expanded-domain replay / 严格父边长证明与精确扩域复演](certificates/R038/README.md) |
 | **R012** | $s(17)\ge461300/99999=4.61304613046130461304\ldots$ | [Complete parent-angle proof and exact Python replay / 完整父角证明与精确 Python 复验](certificates/R012/README.md) |
 | **M19** | $4.59004266897263595052\ldots$ | [Proof / 证明](docs/M19_PROOF_EN.md), [original certificate / 原证书](evidence/M19/research/m19_work/CERTIFICATE.json) |
+
+**R050 已不是目前已知的最优下界：据维护者获知的信息，Kleddamag 已取得尚未公开的 4.62001 下界。该成果属于 Kleddamag，不属于本项目；其证明不包含在本发布中，本发布也未独立验证该证明。** / **R050 is no longer the best currently known lower bound: according to information received by the maintainer, Kleddamag has obtained an unpublished lower bound of 4.62001. That result belongs to Kleddamag, not this project; its proof is neither included nor independently verified in this release.**
+
+## R050 范围 / R050 scope
+
+全部 15706 行与 62824 个严格包含不等式通过验证，统一最低收费 1000271689、预算 17003093868、计数余量 1524845。 / All 15706 rows and 62824 strict-containment inequalities pass verification, with universal minimum 1000271689, budget 17003093868 and surplus 1524845.
 
 ## R043 scope / R043 范围
 

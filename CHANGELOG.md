@@ -1,5 +1,11 @@
 # Changelog / 更新记录
 
+## R052 公开科学里程碑 / R052 public scientific milestone
+
+- 发布严格下界 s(17)>4.62002，提供原字节证书、123 个独立分块、完整行账本、双语证明及两条完整复验路径。 / Publish the strict bound s(17)>4.62002 with the original-byte certificate, 123 independent blocks, a complete row ledger, a bilingual proof and two full replay paths.
+- 新增资源字典与自适应内核完成全部 15721 行，精确计数盈余为 2；Kleddamag 的 4.62001 仍保留第三方归属。 / Enlarged resources and adaptive cores cover all 15721 rows with exact surplus 2; Kleddamag retains credit for the 4.62001 result.
+- 早期科学证据与发布清单保持原样，新清单只覆盖当前集成字节。 / Earlier scientific evidence and publication maps remain unchanged; the new map overrides only current integration bytes.
+
 ## R050 公开科学里程碑 / R050 public scientific milestone
 
 - 发布严格下界 `s(17)>4613000/998509`，提供冻结证书、双语证明、自足复验入口、118 个 BigInt 分块和完整 Python 账本。 / Publish the strict bound `s(17)>4613000/998509` with a frozen certificate, bilingual proof, self-contained replay entry, 118 BigInt blocks and the complete Python ledger.

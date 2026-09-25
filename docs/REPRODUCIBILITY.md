@@ -1,6 +1,10 @@
 # 可复验性 / Reproducibility
 
-## R050 当前发布 / R050 current publication
+## R052 当前发布 / R052 current publication
+
+标准库记录核查、包含重算及完整 Python/BigInt 命令见 [R052 复验说明 / R052 reproduction](../certificates/R052/REPRODUCIBILITY.md)。 / See the linked R052 instructions for standard-library recorded checks, containment recomputation and full Python/BigInt commands.
+
+## R050 历史发布 / R050 historical publication
 
 完整命令、依赖、记录核查与重新扫描的区别，见 [R050 复验说明 / R050 reproduction instructions](../certificates/R050/REPRODUCIBILITY.md)。 / See the linked instructions for complete commands, dependencies and the distinction between recorded checks and rescans.
 

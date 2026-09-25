@@ -12,7 +12,7 @@ $$17\times999426274093-16990246659579=2>0.$$
 
 所有收费均以 10^-12 为单位精确计数，上式的两个整数单位是严格盈余。 / All charges are counted exactly in units of 10^-12; the two integer units above form a strict surplus.
 
-[证明 / Proof](certificates/R052/PROOF.md) · [复验 / Reproduction](certificates/R052/REPRODUCIBILITY.md) · [来源 / Sources](certificates/R052/SOURCE_NOTICES.md) · [许可 / Licensing](certificates/R052/LICENSE_SCOPE.md)
+[证明 / Proof](PROOF.md) · [复验 / Reproduction](REPRODUCIBILITY.md) · [来源 / Sources](SOURCE_NOTICES.md) · [许可 / Licensing](LICENSE_SCOPE.md)
 
 维护者获知 Kleddamag 已取得内部严格下界 4.62001；该结果属于 Kleddamag，其未公开证明未包含或独立验证于本发布。R052 数值超过这一报告值，但不声明外部优先权、最优性或真人同行评审。 / The maintainer was informed that Kleddamag obtained an internal strict bound of 4.62001; that result belongs to Kleddamag, whose unpublished proof is neither included nor independently verified here. R052 exceeds that reported value numerically but makes no claim of external priority, optimality or human peer review.
 
@@ -24,9 +24,3 @@ python -X utf8 -B -S certificates/R052/verify.py --containment --output .replay-
 ```
 
 命令从仓库根目录运行；输出目录须尚不存在。完整扫描命令和依赖见复验说明。 / Run from the repository root with a nonexistent output directory; see the reproduction instructions for full scans and dependencies.
-
-## 历史证据与发布验证 / Historical evidence and publication validation
-
-[R050](certificates/R050/README.md) · [R043](certificates/R043/README.md) · [R042](certificates/R042/README.md) · [R038](certificates/R038/README.md) · [R012](certificates/R012/README.md) · [M19](docs/M19_PROOF_EN.md)
-
-[隔离验证记录 / Isolated validation record](verification/R052.json) 登记实际执行结果；历史科学证据保持原样。 / The linked record reports actual execution results; historical scientific evidence is preserved.

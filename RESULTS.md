@@ -6,6 +6,7 @@ Decimal text describes the stated constants and does not provide a two-sided enc
 
 | Milestone / 里程碑 | Bound or outcome / 下界或结果 | Evidence / 证据 |
 |---|---|---|
+| **R052** | **$s(17)>231001/50000=4.62002$** | [扩展资源与完整严格证明 / Enlarged resources and complete strict proof](certificates/R052/README.md) |
 | **R050** | **$s(17)>4613000/998509=4.61988825338579822515\ldots$** | [角目录细分与严格内核证明 / Refined-angle strict-core proof](certificates/R050/README.md) |
 | **R043** | **$s(17)>461300/99851=4.61988362660363942273\ldots$** | [Point-weight continuation with two complete exact replay paths / 点权推进与两条完整精确复演路径](certificates/R043/README.md) |
 | **R042** | $s(17)>115325/24963=4.61983735929175179265\ldots$ | [Mixed-certificate proof and two complete exact replay paths / 混合证书证明与两条完整精确复演路径](certificates/R042/README.md) |
@@ -15,6 +16,10 @@ Decimal text describes the stated constants and does not provide a two-sided enc
 | **M19** | $4.59004266897263595052\ldots$ | [Proof / 证明](docs/M19_PROOF_EN.md), [original certificate / 原证书](evidence/M19/research/m19_work/CERTIFICATE.json) |
 
 **R050 已不是目前已知的最优下界：据维护者获知的信息，Kleddamag 已取得尚未公开的 4.62001 下界。该成果属于 Kleddamag，不属于本项目；其证明不包含在本发布中，本发布也未独立验证该证明。** / **R050 is no longer the best currently known lower bound: according to information received by the maintainer, Kleddamag has obtained an unpublished lower bound of 4.62001. That result belongs to Kleddamag, not this project; its proof is neither included nor independently verified in this release.**
+
+## R052 范围 / R052 scope
+
+严格下界 s(17)>231001/50000=4.62002；15721 行和 62884 条严格包含全部闭合，最低收费 999426274093、预算 16990246659579、计数余量 2。 / Strict bound s(17)>231001/50000=4.62002; all 15721 rows and 62884 strict inequalities are covered, with minimum 999426274093, budget 16990246659579 and surplus 2.
 
 ## R050 范围 / R050 scope
 

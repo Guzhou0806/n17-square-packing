@@ -1,5 +1,13 @@
 # Attribution and licensing scope / 来源与许可范围
 
+## R052
+
+R052 由 Guzhou0806 / N17 project 在 AI 辅助下完成，延续 Kleddamag 的公开混合证书架构并扩大资源字典。 / R052 is produced by Guzhou0806 / N17 project with AI assistance, continuing Kleddamag's public mixed-certificate architecture with enlarged resources.
+
+Kleddamag 的内部 4.62001 结果仍归其所有，未包含或独验于本发布；R052 不声明外部优先权或真人同行评审。 / Kleddamag retains credit for the internal 4.62001 result, which is not included or independently verified here; R052 claims neither external priority nor human peer review.
+
+[来源 / Sources](certificates/R052/SOURCE_NOTICES.md) · [许可范围 / Licence scope](certificates/R052/LICENSE_SCOPE.md)
+
 ## R050
 
 R050 由 Guzhou0806 / N17 project 在 AI 辅助下发布，延续 Kleddamag 的混合证书架构及 R043，以固定资源和权重、细分角区间与严格内核证明新端点。 / R050 is published by Guzhou0806 / N17 project with AI assistance, continuing Kleddamag's mixed-certificate architecture and R043 with fixed resources and weights, refined angular intervals and strict cores at a new endpoint.

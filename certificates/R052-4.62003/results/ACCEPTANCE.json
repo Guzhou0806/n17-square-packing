@@ -1,0 +1,28 @@
+{
+  "status": "PASS_NEW_STRICT_BOUND",
+  "theorem": "s(17) > 462003/100000 = 4.62003",
+  "candidate_sha256": "74d884cbb1f9ca0c9684bb940ecd13781db53e6efe7a775d852e15ba618aafe3",
+  "primary_result_sha256": "7450dc8b4a2dce938e4d04844ffaa54c0b2454785a23ac2d068941ba8cf43a7e",
+  "independent_result_sha256": "ef0376bb97c06aa057fd0398c254ab37cda28ce64484fc17e018146e3e65555a",
+  "angular_rows": 15727,
+  "strict_containment_inequalities": 62908,
+  "source_rows": 15721,
+  "primary_scans": 15729,
+  "splits": 2,
+  "independent_chunks": 123,
+  "exact_primary_independent_agreements": 15727,
+  "minimum_units": 999426274093,
+  "minimum_rows": [
+    15560,
+    15561,
+    15562
+  ],
+  "budget_units": 16990246659579,
+  "surplus_units": 2,
+  "bounded_rows_replayed": [
+    15000,
+    15560
+  ],
+  "original_review_sha256": "f49994dd30c242f379e307b81c6b66c8e3b7957107676824e0a70c0d40614c6e",
+  "scope": "公开科学摘要；源自非提出者AI最终验收，不声称真人同行评审或形式化证明。 / Public scientific summary of non-proposer AI final acceptance; no claim of human peer review or formal proof."
+}

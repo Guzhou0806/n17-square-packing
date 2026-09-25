@@ -1,5 +1,13 @@
 # 证据入口 / Evidence map
 
+## R052 延续 / R052 continuation
+
+[证书及证明 / Certificate and proof](../certificates/R052-4.62003/README.md) · [复验 / Reproduction](../certificates/R052-4.62003/REPRODUCIBILITY.md)
+
+原字节证书、15727行完整账本、123个分块及公开科学验收摘要全部包含于新包。SOURCE_PIN.json绑定来源，MANIFEST.json列明允许文件。 / The new package contains the original-byte certificate, complete 15727-row ledger,123 chunks and a public scientific acceptance summary. SOURCE_PIN.json pins sources and MANIFEST.json lists allowed files.
+
+R052_4p62003_PUBLICATION.json绑定本次公开文件；verification/R052_4p62003.json记录真实隔离复验。 / R052_4p62003_PUBLICATION.json binds this publication; verification/R052_4p62003.json records actual isolated replay.
+
 ## R052
 
 [证书与证明 / Certificate and proof](../certificates/R052/README.md) · [复验 / Reproduction](../certificates/R052/REPRODUCIBILITY.md)

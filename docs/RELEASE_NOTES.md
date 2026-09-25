@@ -1,3 +1,15 @@
+# R052 延续发布说明 / R052 continuation publication
+
+## R052 延续：4.62003 / R052 continuation:4.62003
+
+- 从已发布4.62002资源出发，作精确最近墙点位平移与两处角区间四分，完整验证15727行。 / Starting from the published 4.62002 resources, apply exact nearest-wall site displacement and two four-way angular refinements, verifying all 15727 rows.
+- 新增独立证书包certificates/R052-4.62003；保留原R052与更早的全部证据，不另分配里程碑编号。 / Add the standalone certificates/R052-4.62003 package, preserving original R052 and all earlier evidence without allocating another milestone number.
+- 公开原字节证书、123个独立分块、行账本、双语证明和Python/BigInt两条完整复验路径；来源署名与许可边界保持。 / Publish original certificate bytes,123 independent chunks, a row ledger, bilingual proof and full Python/BigInt replay paths while retaining attribution and licence boundaries.
+
+## R052 延续当前发布 / R052 continuation current publication
+
+记录、包含及完整Python/BigInt命令见[4.62003复验说明 / 4.62003 reproduction](../certificates/R052-4.62003/REPRODUCIBILITY.md)。 / See the linked instructions for records, containment and complete Python/BigInt commands.
+
 # R052 发布说明 / R052 publication
 
 ## R052 公开科学里程碑 / R052 public scientific milestone

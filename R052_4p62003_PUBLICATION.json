@@ -1,0 +1,166 @@
+{
+  "schema": "n17.publication.v1",
+  "result": "N17-R052-continuation",
+  "publication_version": "r052-4p62003-public-1",
+  "base_commit": "3bf1095c68a28fb9b2750fb0bc99edd5c22b7a61",
+  "strict_lower_bound": "462003/100000",
+  "scope": "只发布4.62003完整严格下界及C++、Python、BigInt公开复验材料，保留原R052和历史证据。 / Publish only the complete 4.62003 strict bound and C++, Python and BigInt reproduction materials, preserving original R052 and historical evidence.",
+  "files": {
+    "certificates/R052-4.62003/certificate/R052_CERTIFICATE.json.gz": {
+      "bytes": 1223949,
+      "sha256": "8d19a1c4b7efa911857e9587d6bd18a1c46f1ded5e7e3eada6d5d267fd6b0bca"
+    },
+    "certificates/R052-4.62003/KLED_MIT_LICENSE.txt": {
+      "bytes": 1083,
+      "sha256": "3658a57c304f53d0c2be0009232e3622fab7013a13bebea180cfbe8c7608f31c"
+    },
+    "certificates/R052-4.62003/KLED_MIT_LICENSE.zh-en.md": {
+      "bytes": 2272,
+      "sha256": "b24a14a2fe57557710869a6147efe53982ea183940ef89bba85257681ff5b9f4"
+    },
+    "certificates/R052-4.62003/LICENSE_SCOPE.md": {
+      "bytes": 2612,
+      "sha256": "12a5365056f968881148626142d8054f302141661090943a49c7a393b9c826d4"
+    },
+    "certificates/R052-4.62003/NATIVE_REPRODUCTION.md": {
+      "bytes": 3932,
+      "sha256": "3a27a049bda1dde4ec1b35ef4d5f4705fb159ae734c51b39bec99ff2821fa720"
+    },
+    "certificates/R052-4.62003/PROOF.md": {
+      "bytes": 9200,
+      "sha256": "2b2080ab6591676423ff0fe1e2f5fedc948ad3d117c90fda10937af93069a2a9"
+    },
+    "certificates/R052-4.62003/README.md": {
+      "bytes": 4021,
+      "sha256": "3bb31d6741abeed95cc1a46913c192fdfa5e36e722ff73d5b206b2b54cdbc734"
+    },
+    "certificates/R052-4.62003/REPRODUCIBILITY.md": {
+      "bytes": 4316,
+      "sha256": "9c873d29267e32c4425c68335cf9a22c55369d640b114550b86cda37e4fe3196"
+    },
+    "certificates/R052-4.62003/requirements-full.txt": {
+      "bytes": 177,
+      "sha256": "1c395ff56bb6c8299070107b90e669a97b98d5eeaeb191e5f8de12c0fb894597"
+    },
+    "certificates/R052-4.62003/results/ACCEPTANCE.json": {
+      "bytes": 1112,
+      "sha256": "c21fb2d7dded283cf73f009f29fc489e2a402a257c4de44cf38a91431841f7fe"
+    },
+    "certificates/R052-4.62003/results/BIGINT_BLOCKS.zip": {
+      "bytes": 110843,
+      "sha256": "b3898d902c62a56c86db616b0cca4891998a7f9bff0110448c6a7fe085a4725e"
+    },
+    "certificates/R052-4.62003/results/BIGINT_RESULT.json": {
+      "bytes": 11939,
+      "sha256": "ef0376bb97c06aa057fd0398c254ab37cda28ce64484fc17e018146e3e65555a"
+    },
+    "certificates/R052-4.62003/results/BIGINT_ROWS.json.gz": {
+      "bytes": 41440,
+      "sha256": "15bb3173b9408cd63d30f2e234f7d4cdcd578d09939284a347beeb7aa7ed315c"
+    },
+    "certificates/R052-4.62003/SOURCE_NOTICES.md": {
+      "bytes": 3853,
+      "sha256": "80362f1dafb442ed2392f47d344ef68a76bb64e7d699f10cad1fb889c50f1eeb"
+    },
+    "certificates/R052-4.62003/SOURCE_PIN.json": {
+      "bytes": 2789,
+      "sha256": "bb0192437d5c99ef4f6efb2baa3fd333f2fc710d3f348d8406c695acab89b4ca"
+    },
+    "certificates/R052-4.62003/src/fast_ranges.py": {
+      "bytes": 2310,
+      "sha256": "11e17d25c51e96ab3336ccff9209e5b7c15847fae42f39218cc7d2049643aaac"
+    },
+    "certificates/R052-4.62003/src/geometry.py": {
+      "bytes": 10610,
+      "sha256": "f98b8690aaef397d6f088dda77e136826fb2882a85244ee5bc208d7a625fae5c"
+    },
+    "certificates/R052-4.62003/src/native_exact.cpp": {
+      "bytes": 9692,
+      "sha256": "ade0091aa238e2d6dd078f89c9877dce6e0d80f3bb22aedc7e19d6fd85a7ec22"
+    },
+    "certificates/R052-4.62003/src/native_exact.py": {
+      "bytes": 6005,
+      "sha256": "50a4892c0214b411134dd80eced8f2092974bb81f0c6c8e34aeb42eee9b593ff"
+    },
+    "certificates/R052-4.62003/src/native_geometry.py": {
+      "bytes": 4618,
+      "sha256": "8f75a6cd5ba834007693f2476b399e37b2d31304528449f8363b5e35ec06cb14"
+    },
+    "certificates/R052-4.62003/src/prepare_secondary.py": {
+      "bytes": 1707,
+      "sha256": "f82dc39134c712035fd1ca57e242ae4f9bef6a39139a73b1b207794fa951a10e"
+    },
+    "certificates/R052-4.62003/src/python_replay.py": {
+      "bytes": 1202,
+      "sha256": "c2a28b419e1c16b5fc34d53586c842da7700f8856f87b76db47959af464a20d9"
+    },
+    "certificates/R052-4.62003/src/r052-adaptation.json": {
+      "bytes": 5605,
+      "sha256": "c04451ca9d335dad64e7b5f956cd66be06981a52d7101adc2eaca04f7b93d9e4"
+    },
+    "certificates/R052-4.62003/src/secondary-adaptation.json": {
+      "bytes": 11220,
+      "sha256": "827116faf382449676bdeefafe83adac1d04b96c997a058c8868fdb0e4e4b211"
+    },
+    "certificates/R052-4.62003/src/structure.py": {
+      "bytes": 5555,
+      "sha256": "9f70173213e817b3875218fd17eb8a49048f8523db8abc1d79ce40a16334fde1"
+    },
+    "certificates/R052-4.62003/verify.py": {
+      "bytes": 10528,
+      "sha256": "d246781797cd30429ee24532bbc1d0f7e304ae98c9b0ad7ca07019a2807f326b"
+    },
+    "certificates/R052-4.62003/verify_native.py": {
+      "bytes": 4794,
+      "sha256": "7fe7c57306a03567c79a14b6289095c629bdd6580a125d75e8ec37035ff9f7bc"
+    },
+    "certificates/R052-4.62003/MANIFEST.json": {
+      "bytes": 4434,
+      "sha256": "2cdc6f04504c41f62e67d42befb3b23ef71971eb24886a6fc8cd0efb2ec42824"
+    },
+    ".github/workflows/r052-continuation.yml": {
+      "bytes": 2941,
+      "sha256": "4803ac57c7bd8fab1184c01adff46c7b71c501e4412c3a8d0c3ee9a2b9c7a18b"
+    },
+    "CHANGELOG.md": {
+      "bytes": 4106,
+      "sha256": "74ab56d63cc9ac4603fa365c9d485025db87431561da0a42d7c476bc09ce676f"
+    },
+    "CITATION.cff": {
+      "bytes": 944,
+      "sha256": "a44fb02654effa5891e12e3da9be527e15c27fc7631ef986f99774f2a005d395"
+    },
+    "docs/EVIDENCE_MAP.md": {
+      "bytes": 3353,
+      "sha256": "4b1f68fe7ff2f3bbf987c93e74281526ba0ba4577b702290868ed9896bc2c3ae"
+    },
+    "docs/RELEASE_NOTES.md": {
+      "bytes": 4270,
+      "sha256": "c96973e34a9730445496f5361a5fb3a928956454d46b6e49c44a0f5efdad4d29"
+    },
+    "docs/REPRODUCIBILITY.md": {
+      "bytes": 1977,
+      "sha256": "553a72a96741e195257744dafad794a1ffd79b482a670dae879dbdf6a4130732"
+    },
+    "NOTICE.md": {
+      "bytes": 4678,
+      "sha256": "2d434436bb670130f3b9f07e50db3fb853becf110abcc418abb058e5527f321f"
+    },
+    "README.md": {
+      "bytes": 4840,
+      "sha256": "9278b7a9285819d18f6ef76ae165338a8965211a8a95d32a71997296155b0107"
+    },
+    "RESULTS.md": {
+      "bytes": 5189,
+      "sha256": "b7afbc77b045475c1ab7d4a5a818d20fd172ace50ddc4a80d7f61f129b2c84c1"
+    },
+    "scripts/check_release_hashes.py": {
+      "bytes": 1591,
+      "sha256": "b5ce58311ab368538558e9d06940bf124c281ff34a0f9c6d6926de38e3d8bf34"
+    },
+    "verification/R052_4p62003.json": {
+      "bytes": 19664,
+      "sha256": "54a14d6f018805e648fe75a1c08344c77b2e43df2904abc3497a405cbcc30fcc"
+    }
+  }
+}

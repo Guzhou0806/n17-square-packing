@@ -1,0 +1,55 @@
+{
+  "certificate_sha256": "74d884cbb1f9ca0c9684bb940ecd13781db53e6efe7a775d852e15ba618aafe3",
+  "accepted_bound": "462003/100000",
+  "source_files": {
+    "src/structure.py": {
+      "source_sha256": "28417d6bb6e6a5eb3dd98dfaebd28923390a19a1ec3d0eb5c7ad52053f3e69aa",
+      "result_sha256": "9f70173213e817b3875218fd17eb8a49048f8523db8abc1d79ce40a16334fde1",
+      "adaptation": "Only exact target constant changed to 462003/100000 / 仅将精确目标常数改为462003/100000"
+    },
+    "src/fast_ranges.py": {
+      "source_sha256": "11e17d25c51e96ab3336ccff9209e5b7c15847fae42f39218cc7d2049643aaac",
+      "adaptation": "unchanged / 原样保留"
+    },
+    "src/geometry.py": {
+      "origin_sha256": "038c0575313c2d95379cb1c3612216498ef8b7a8f8a91371a8f844712fbf8b81",
+      "functions": [
+        "require",
+        "trig",
+        "_add",
+        "_query",
+        "sweep_argmin",
+        "physical_sites",
+        "weight_vectors",
+        "row_geometry",
+        "build_event_grid"
+      ],
+      "adaptation": "Functions extracted without changes; standalone imports / 函数原样提取，独立导入"
+    },
+    "src/native_exact.cpp": {
+      "source_sha256": "ade0091aa238e2d6dd078f89c9877dce6e0d80f3bb22aedc7e19d6fd85a7ec22",
+      "result_sha256": "ade0091aa238e2d6dd078f89c9877dce6e0d80f3bb22aedc7e19d6fd85a7ec22",
+      "adaptation": "原样 / Unchanged"
+    },
+    "src/native_exact.py": {
+      "source_sha256": "8e20f218d50c349ddd7c34d6501688440d34b848e9935581a358d37a1afb9f11",
+      "result_sha256": "50a4892c0214b411134dd80eced8f2092974bb81f0c6c8e34aeb42eee9b593ff",
+      "adaptation": "仅改为公开标准库几何导入 / Only standalone standard-library geometry import changed"
+    },
+    "src/native_geometry.py": {
+      "source_sha256": "f98b8690aaef397d6f088dda77e136826fb2882a85244ee5bc208d7a625fae5c",
+      "result_sha256": "8f75a6cd5ba834007693f2476b399e37b2d31304528449f8363b5e35ec06cb14",
+      "adaptation": "五个函数原样提取 / Five functions extracted unchanged"
+    }
+  },
+  "results/BIGINT_ROWS.json.gz": {
+    "decompressed_sha256": "0c74843a449db081177c15a325ed803c9ec7cb7ba95c41a995d084bee7da9ea8"
+  },
+  "results/BIGINT_RESULT.json": {
+    "decompressed_sha256": "ef0376bb97c06aa057fd0398c254ab37cda28ce64484fc17e018146e3e65555a"
+  },
+  "secondary_reconstructed_sha256": "82fad041d66bc7a0f14d9dfe9b9282d8562d50fc4844649d2e684414a7ba24b1",
+  "accepted_review_result_sha256": "f49994dd30c242f379e307b81c6b66c8e3b7957107676824e0a70c0d40614c6e",
+  "review_scope": "Non-proposer AI acceptance; no human peer-review claim / 非提出者 AI 验收，不声称真人同行评审",
+  "baseline_certificate_sha256": "d77743eadf7f4bf9c424549a37a4296ea3b23fceee4af8e3d774a5a07e62e825"
+}

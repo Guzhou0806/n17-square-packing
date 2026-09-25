@@ -1,0 +1,141 @@
+{
+  "schema": "n17.r052.public-package.manifest.v1",
+  "bound": "462003/100000",
+  "files": [
+    {
+      "path": "certificate/R052_CERTIFICATE.json.gz",
+      "bytes": 1223949,
+      "sha256": "8d19a1c4b7efa911857e9587d6bd18a1c46f1ded5e7e3eada6d5d267fd6b0bca"
+    },
+    {
+      "path": "KLED_MIT_LICENSE.txt",
+      "bytes": 1083,
+      "sha256": "3658a57c304f53d0c2be0009232e3622fab7013a13bebea180cfbe8c7608f31c"
+    },
+    {
+      "path": "KLED_MIT_LICENSE.zh-en.md",
+      "bytes": 2272,
+      "sha256": "b24a14a2fe57557710869a6147efe53982ea183940ef89bba85257681ff5b9f4"
+    },
+    {
+      "path": "LICENSE_SCOPE.md",
+      "bytes": 2612,
+      "sha256": "12a5365056f968881148626142d8054f302141661090943a49c7a393b9c826d4"
+    },
+    {
+      "path": "NATIVE_REPRODUCTION.md",
+      "bytes": 3932,
+      "sha256": "3a27a049bda1dde4ec1b35ef4d5f4705fb159ae734c51b39bec99ff2821fa720"
+    },
+    {
+      "path": "PROOF.md",
+      "bytes": 9200,
+      "sha256": "2b2080ab6591676423ff0fe1e2f5fedc948ad3d117c90fda10937af93069a2a9"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4021,
+      "sha256": "3bb31d6741abeed95cc1a46913c192fdfa5e36e722ff73d5b206b2b54cdbc734"
+    },
+    {
+      "path": "REPRODUCIBILITY.md",
+      "bytes": 4316,
+      "sha256": "9c873d29267e32c4425c68335cf9a22c55369d640b114550b86cda37e4fe3196"
+    },
+    {
+      "path": "requirements-full.txt",
+      "bytes": 177,
+      "sha256": "1c395ff56bb6c8299070107b90e669a97b98d5eeaeb191e5f8de12c0fb894597"
+    },
+    {
+      "path": "results/ACCEPTANCE.json",
+      "bytes": 1112,
+      "sha256": "c21fb2d7dded283cf73f009f29fc489e2a402a257c4de44cf38a91431841f7fe"
+    },
+    {
+      "path": "results/BIGINT_BLOCKS.zip",
+      "bytes": 110843,
+      "sha256": "b3898d902c62a56c86db616b0cca4891998a7f9bff0110448c6a7fe085a4725e"
+    },
+    {
+      "path": "results/BIGINT_RESULT.json",
+      "bytes": 11939,
+      "sha256": "ef0376bb97c06aa057fd0398c254ab37cda28ce64484fc17e018146e3e65555a"
+    },
+    {
+      "path": "results/BIGINT_ROWS.json.gz",
+      "bytes": 41440,
+      "sha256": "15bb3173b9408cd63d30f2e234f7d4cdcd578d09939284a347beeb7aa7ed315c"
+    },
+    {
+      "path": "SOURCE_NOTICES.md",
+      "bytes": 3853,
+      "sha256": "80362f1dafb442ed2392f47d344ef68a76bb64e7d699f10cad1fb889c50f1eeb"
+    },
+    {
+      "path": "SOURCE_PIN.json",
+      "bytes": 2789,
+      "sha256": "bb0192437d5c99ef4f6efb2baa3fd333f2fc710d3f348d8406c695acab89b4ca"
+    },
+    {
+      "path": "src/fast_ranges.py",
+      "bytes": 2310,
+      "sha256": "11e17d25c51e96ab3336ccff9209e5b7c15847fae42f39218cc7d2049643aaac"
+    },
+    {
+      "path": "src/geometry.py",
+      "bytes": 10610,
+      "sha256": "f98b8690aaef397d6f088dda77e136826fb2882a85244ee5bc208d7a625fae5c"
+    },
+    {
+      "path": "src/native_exact.cpp",
+      "bytes": 9692,
+      "sha256": "ade0091aa238e2d6dd078f89c9877dce6e0d80f3bb22aedc7e19d6fd85a7ec22"
+    },
+    {
+      "path": "src/native_exact.py",
+      "bytes": 6005,
+      "sha256": "50a4892c0214b411134dd80eced8f2092974bb81f0c6c8e34aeb42eee9b593ff"
+    },
+    {
+      "path": "src/native_geometry.py",
+      "bytes": 4618,
+      "sha256": "8f75a6cd5ba834007693f2476b399e37b2d31304528449f8363b5e35ec06cb14"
+    },
+    {
+      "path": "src/prepare_secondary.py",
+      "bytes": 1707,
+      "sha256": "f82dc39134c712035fd1ca57e242ae4f9bef6a39139a73b1b207794fa951a10e"
+    },
+    {
+      "path": "src/python_replay.py",
+      "bytes": 1202,
+      "sha256": "c2a28b419e1c16b5fc34d53586c842da7700f8856f87b76db47959af464a20d9"
+    },
+    {
+      "path": "src/r052-adaptation.json",
+      "bytes": 5605,
+      "sha256": "c04451ca9d335dad64e7b5f956cd66be06981a52d7101adc2eaca04f7b93d9e4"
+    },
+    {
+      "path": "src/secondary-adaptation.json",
+      "bytes": 11220,
+      "sha256": "827116faf382449676bdeefafe83adac1d04b96c997a058c8868fdb0e4e4b211"
+    },
+    {
+      "path": "src/structure.py",
+      "bytes": 5555,
+      "sha256": "9f70173213e817b3875218fd17eb8a49048f8523db8abc1d79ce40a16334fde1"
+    },
+    {
+      "path": "verify.py",
+      "bytes": 10528,
+      "sha256": "d246781797cd30429ee24532bbc1d0f7e304ae98c9b0ad7ca07019a2807f326b"
+    },
+    {
+      "path": "verify_native.py",
+      "bytes": 4794,
+      "sha256": "7fe7c57306a03567c79a14b6289095c629bdd6580a125d75e8ec37035ff9f7bc"
+    }
+  ]
+}

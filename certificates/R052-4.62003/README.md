@@ -12,7 +12,7 @@ $$17\times999426274093-16990246659579=2>0.$$
 
 所有收费均以 10^-12 为单位精确计数，上式的两个整数单位是严格盈余。 / All charges are counted exactly in units of 10^-12; the two integer units above form a strict surplus.
 
-[证明 / Proof](certificates/R052-4.62003/PROOF.md) · [复验 / Reproduction](certificates/R052-4.62003/REPRODUCIBILITY.md) · [来源 / Sources](certificates/R052-4.62003/SOURCE_NOTICES.md) · [许可 / Licensing](certificates/R052-4.62003/LICENSE_SCOPE.md)
+[证明 / Proof](PROOF.md) · [复验 / Reproduction](REPRODUCIBILITY.md) · [来源 / Sources](SOURCE_NOTICES.md) · [许可 / Licensing](LICENSE_SCOPE.md)
 
 维护者获知 Kleddamag 已取得内部严格下界 4.62001；该结果属于 Kleddamag，其未公开证明未包含或独立验证于本发布。R052 数值超过这一报告值，但不声明外部优先权、最优性或真人同行评审。 / The maintainer was informed that Kleddamag obtained an internal strict bound of 4.62001; that result belongs to Kleddamag, whose unpublished proof is neither included nor independently verified here. R052 exceeds that reported value numerically but makes no claim of external priority, optimality or human peer review.
 
@@ -25,17 +25,11 @@ python -X utf8 -B -S certificates/R052-4.62003/verify.py --containment --output 
 
 命令从仓库根目录运行；输出目录须尚不存在。完整扫描命令和依赖见复验说明。 / Run from the repository root with a nonexistent output directory; see the reproduction instructions for full scans and dependencies.
 
-本包是R052研究线的端点延续，原4.62002包保持不变；公开科学验收摘要见certificates/R052-4.62003/results/ACCEPTANCE.json。 / This package continues the R052 endpoint; the original 4.62002 package remains unchanged, and certificates/R052-4.62003/results/ACCEPTANCE.json records the public scientific acceptance summary.
-
-## 历史证据与发布验证 / Historical evidence and publication validation
-
-[R052 4.62002](certificates/R052/README.md) · [R050](certificates/R050/README.md) · [R043](certificates/R043/README.md) · [R042](certificates/R042/README.md) · [R038](certificates/R038/README.md) · [R012](certificates/R012/README.md) · [M19](docs/M19_PROOF_EN.md)
-
-[隔离发布复验 / Isolated publication replay](verification/R052_4p62003.json) 记录本版本的实际完整执行；既有证书保持原字节。 / The linked record documents fresh complete executions for this version; existing certificates retain their original bytes.
+本包是R052研究线的端点延续，原4.62002包保持不变；公开科学验收摘要见results/ACCEPTANCE.json。 / This package continues the R052 endpoint; the original 4.62002 package remains unchanged, and results/ACCEPTANCE.json records the public scientific acceptance summary.
 
 ## C++加速复验 / Accelerated C++ replay
 
-公开包另提供自动构建的任意精度C++全量入口，保留Python参考实现及独立Node/BigInt复验；构建条件与命令见[原生复验说明 / Native reproduction](certificates/R052-4.62003/NATIVE_REPRODUCTION.md)。 / The package also provides an automatically built arbitrary-precision C++ full entry, retaining the Python reference and independent Node/BigInt replay; see the linked build requirements and commands.
+公开包另提供自动构建的任意精度C++全量入口，保留Python参考实现及独立Node/BigInt复验；构建条件与命令见[原生复验说明 / Native reproduction](NATIVE_REPRODUCTION.md)。 / The package also provides an automatically built arbitrary-precision C++ full entry, retaining the Python reference and independent Node/BigInt replay; see the linked build requirements and commands.
 
 ```bash
 python -X utf8 -B -S certificates/R052-4.62003/verify_native.py --jobs 4 --output .replay-runs/r052-continuation-native

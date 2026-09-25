@@ -1,5 +1,13 @@
 # Attribution and licensing scope / 来源与许可范围
 
+## R052 延续 / R052 continuation
+
+4.62003延续由Guzhou0806 / N17 project在AI辅助下完成；通过已公开R052基线的精确点位变形推进端点，继续保留Kleddamag混合证书架构及上游来源的署名。 / The 4.62003 continuation is produced by Guzhou0806 / N17 project with AI assistance, improving the endpoint by exact site deformation of published R052 while retaining credit for Kleddamag's mixed-certificate architecture and upstream sources.
+
+Kleddamag的内部4.62001仍归Kleddamag，其未公开证明不在本包中，也未在此独验；本发布不声明全球最优、外部优先权或真人同行评审。 / Kleddamag retains credit for the internal 4.62001; its unpublished proof is neither included nor independently verified here. This release makes no claim of global optimality, external priority or human peer review.
+
+[来源 / Sources](certificates/R052-4.62003/SOURCE_NOTICES.md) · [许可范围 / Licence scope](certificates/R052-4.62003/LICENSE_SCOPE.md)
+
 ## R052
 
 R052 由 Guzhou0806 / N17 project 在 AI 辅助下完成，延续 Kleddamag 的公开混合证书架构并扩大资源字典。 / R052 is produced by Guzhou0806 / N17 project with AI assistance, continuing Kleddamag's public mixed-certificate architecture with enlarged resources.

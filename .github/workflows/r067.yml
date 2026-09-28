@@ -1,0 +1,33 @@
+name: R067 exact replay / R067 精确复验
+on:
+  push:
+    paths:
+      - 'certificates/R067-4.66018/**'
+      - '.github/workflows/r067.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  replay:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Install headers / 安装头文件
+        run: sudo apt-get update && sudo apt-get install -y g++ libboost-dev
+      - name: Records and build / 记录与构建
+        working-directory: certificates/R067-4.66018
+        run: |
+          node check_records.js
+          g++ -O3 -std=c++17 src/verify.cpp -o verify
+      - name: Complete C++ and BigInt replay / 完整双实现复验
+        working-directory: certificates/R067-4.66018
+        run: node src/replay.js certificate.json ci-replay ./verify 2
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: r067-replay
+          path: certificates/R067-4.66018/ci-replay

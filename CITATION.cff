@@ -1,13 +1,9 @@
 cff-version: 1.2.0
-title: "R052: Continuation: strict lower bound 4.62003 for seventeen unit squares / R052：十七单位正方形的延续严格下界 4.62003"
-message: "Cite a fixed commit and retain the upstream attribution in NOTICE.md. / 请引用固定提交并保留 NOTICE.md 中的上游署名。"
+title: "R067: strict lower bound 4.66018 / R067：严格下界4.66018"
+message: "Cite a fixed commit and preserve attribution. / 请引用固定提交并保留来源署名。"
 type: software
-version: "r052-4p62003-public-1"
+version: "r067-4p66018-public-1"
 authors:
   - name: "Guzhou0806"
 repository-code: "https://github.com/Guzhou0806/n17-square-packing"
-abstract: "Exact site deformation and angular refinement of R052 establish s(17)>4.62003; Kleddamag retains credit for the reported internal4.62001, whose unpublished proof is not included or verified here. / R052精确点位变形与角度细分证明s(17)>4.62003；报告中的内部4.62001仍归Kleddamag，其未公开证明未包含或独验于此。"
-keywords:
-  - "square packing / 正方形装填"
-  - "computer-assisted proof / 计算机辅助证明"
-  - "lower bound / 下界"
+abstract: "Strict-core and angular-catalogue continuation of Kleddamag's unchanged 4.66001 charge proves s(17)>4.66018. / 保持Kleddamag的4.66001收费，以严格核和角目录延续证明s(17)>4.66018。"

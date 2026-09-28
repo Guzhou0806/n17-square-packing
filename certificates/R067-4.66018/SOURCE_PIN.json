@@ -1,0 +1,20 @@
+{
+  "repository": "https://github.com/Kleddamag/17-squares-certified-bound",
+  "commit": "57519bb74085157cb7047ae94c599bce4a006430",
+  "baseline_certificate_sha256": "280af3d46150ca990917d714d83ee73baf4e6c45a0563090bf35588fb22de6e5",
+  "certificate_sha256": "101dd164906c7b71dc1397eaa32e25626548cd71995e532113823f434f8e5d26",
+  "unchanged_fields": [
+    "L",
+    "coordinate_denominator",
+    "weight_denominator",
+    "point_orbits",
+    "threshold_orbits",
+    "budget_units",
+    "minimum_units"
+  ],
+  "changed_scientific_fields": [
+    "A",
+    "normalized_target",
+    "entries"
+  ]
+}

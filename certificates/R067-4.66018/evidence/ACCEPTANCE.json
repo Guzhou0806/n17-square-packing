@@ -1,0 +1,27 @@
+{
+  "status": "PASS_NONPROPOSER_SCOPED_ACCEPTANCE",
+  "theorem": "s(17)>233009/50000=4.66018",
+  "certificate_sha256": "101dd164906c7b71dc1397eaa32e25626548cd71995e532113823f434f8e5d26",
+  "scope": "Complete supplied C++/BigInt ledgers and unchanged reviewed checker identities accepted; all premises independently checked locally; selected intervals recomputed. No fresh local full sweep; no CI job monitoring.",
+  "all_rows_compared": 2808,
+  "fresh_interval_indices": [
+    0,
+    849,
+    1404,
+    2807
+  ],
+  "fresh_full_sweep": false,
+  "all_geometric_premises_fresh": true,
+  "budget_units": 17000402008,
+  "minimum_units": 1000026844,
+  "surplus": 54340,
+  "minimum_strict_margin": "392478867597353819118463778084255632092881/392474616038972119614931587776706448092881000000000000",
+  "utc": "2026-09-28T07:38:10.925575+00:00",
+  "source_bindings": {
+    "verify.cpp": "3ba09554cef0ea0ee15444c4d30476f0e2435144e18b1ec2c908970ca306532c",
+    "native_geometry.hpp": "ade0091aa238e2d6dd078f89c9877dce6e0d80f3bb22aedc7e19d6fd85a7ec22",
+    "reference/verify_global_variable.js": "c22091862df631f8cfd1f1bb8e5013f0b9c216f20be268fcd7104768919c49b7",
+    "replay.js": "1125e5969fe0a22e92ea42845ac0dfe68aae5a2a0110550591a01fa43f297712"
+  },
+  "attribution": "Kleddamag supplied the 4.66001 charge; Guzhou0806 / N17 project with AI assistance continued its strict cores and angular catalogue to 4.66018."
+}

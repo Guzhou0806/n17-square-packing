@@ -10,7 +10,7 @@ $$M=17000402008,\qquad\Gamma=1000026844,\qquad17\Gamma-M=54340>0.$$
 
 完整C++与独立BigInt运行记录逐行一致。接收验收复用了这些完整记录和未改验证器，重新检查全部前提及4个区间，没有再次进行本地完整扫描。 / Complete C++ and independent BigInt run records agree row by row. Non-proposer acceptance reused these complete records and unchanged checkers, freshly checked every premise and four intervals, and did not repeat the full local sweep.
 
-[证明 / Proof](certificates/R067-4.66018/PROOF.md) · [复验 / Reproduction](certificates/R067-4.66018/REPRODUCIBILITY.md) · [来源和许可 / Sources and licensing](certificates/R067-4.66018/ATTRIBUTION.md) · [接受范围 / Acceptance scope](certificates/R067-4.66018/evidence/ACCEPTANCE.json)
+[证明 / Proof](PROOF.md) · [复验 / Reproduction](REPRODUCIBILITY.md) · [来源和许可 / Sources and licensing](ATTRIBUTION.md) · [接受范围 / Acceptance scope](evidence/ACCEPTANCE.json)
 
 ```sh
 node check_records.js
@@ -19,10 +19,6 @@ g++ -O3 -std=c++17 src/verify.cpp -o verify
 node src/replay.js certificate.json fresh-paired-run ./verify 2
 ```
 
-从certificates/R067-4.66018目录运行；需要C++17、Boost开发头文件和Node.js，证明复验不需要Python。输出文件或目录须为新的。 / Run from certificates/R067-4.66018 with C++17, Boost development headers and Node.js; proof replay does not require Python. Output files or directories must be new.
+从本目录运行；需要C++17、Boost开发头文件和Node.js，证明复验不需要Python。输出文件或目录须为新的。 / Run from this directory with C++17, Boost development headers and Node.js; proof replay does not require Python. Output files or directories must be new.
 
 只发布已完成的4.66018证明；4.6605探索失败，不是下界。未声明世界纪录、最优性、外部人类同行评审或证明助手形式化。 / Only the completed 4.66018 proof is published; the unsuccessful 4.6605 exploration is not a lower bound. No world-record, optimality, external human peer-review or proof-assistant formalization claim is made.
-
-## 历史发布 / Historical releases
-
-[R052 4.62003](certificates/R052-4.62003/README.md) · [R052 4.62002](certificates/R052/README.md) · [R050](certificates/R050/README.md) · [完整登记 / Full register](RESULTS.md)

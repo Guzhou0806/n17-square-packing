@@ -1,0 +1,70 @@
+{
+  "status": "PASS_TARGETED_CPP_CORRUPTION_CONTROLS",
+  "certificate_sha256": "101dd164906c7b71dc1397eaa32e25626548cd71995e532113823f434f8e5d26",
+  "executable_sha256": "8f4d59aca9b133efb8743643022eb592443068f65417373ea2042f0cd495aa42",
+  "controls_sha256": "7979c0a490c2dce8a383b14281dba7e7698659bfa80acc3994000fbcd7090b4f",
+  "checks": [
+    {
+      "name": "budget",
+      "exit": 1,
+      "reason": "REJECT: budget / accumulator bound"
+    },
+    {
+      "name": "zero_coefficient",
+      "exit": 1,
+      "reason": "REJECT: positive sorted coefficients"
+    },
+    {
+      "name": "wrong_coefficient",
+      "exit": 1,
+      "reason": "REJECT: budget / accumulator bound"
+    },
+    {
+      "name": "missing_image",
+      "exit": 1,
+      "reason": "REJECT: incomplete D4 feature orbit"
+    },
+    {
+      "name": "angle_gap",
+      "exit": 1,
+      "reason": "REJECT: interval chain/core"
+    },
+    {
+      "name": "non_strict_core",
+      "exit": 1,
+      "reason": "REJECT: interval chain/core"
+    },
+    {
+      "name": "false_target",
+      "exit": 1,
+      "reason": "REJECT: target identity"
+    },
+    {
+      "name": "disjoint_winners",
+      "exit": 1,
+      "reason": "REJECT: disjoint winning sets"
+    },
+    {
+      "name": "negative_weight",
+      "exit": 1,
+      "reason": "REJECT: weight/threshold"
+    },
+    {
+      "name": "missing_last_interval",
+      "exit": 1,
+      "reason": "REJECT: incomplete orientation coverage"
+    },
+    {
+      "name": "duplicate_site",
+      "exit": 1,
+      "reason": "REJECT: duplicate physical site"
+    },
+    {
+      "name": "zero_denominator",
+      "exit": 1,
+      "reason": "REJECT: zero denominator"
+    }
+  ],
+  "premise_only_status_checked": true,
+  "utc": "2026-09-28T06:55:50.284Z"
+}

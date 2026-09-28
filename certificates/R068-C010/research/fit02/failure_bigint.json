@@ -1,0 +1,23 @@
+{
+  "status": "PASS_EXACT_ACTUAL_PARENT_COUNTEREXAMPLE",
+  "scope": "Finite exact legal parents; not a nonpacking theorem",
+  "certificate_sha256": "b9d9ec28b5a56681e0b0d9f083d6f723cab700ccfedc9cca1ff0f0ce85318da4",
+  "spec_sha256": "419ef0b76474b1b29885353ce3c884302ec09473d17f9e6e6cb8a1ad7ad3bdbe",
+  "target": "9321/2000",
+  "A": "9226/9321",
+  "budget_units": "17000401055",
+  "physical_sites": 20949,
+  "column_count": 1114,
+  "rows": [
+    {
+      "pose_index": 0,
+      "open_fee": "999975439",
+      "closed_fee": "999975439",
+      "open_surplus": "-818592",
+      "boundary_sites": []
+    }
+  ],
+  "matrix_sha256": "623cf5e0160c5db828caa7e5edb86a27c0391d7a181a968e20817f79667fd682",
+  "cpp_matrix_agrees": null,
+  "dual": null
+}

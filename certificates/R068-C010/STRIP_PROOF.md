@@ -1,0 +1,17 @@
+# C010：移位核的局部连续覆盖 / C010: local continuous coverage using shifted cores
+
+范围仅为jobs列出的17个半角区间及各自近墙中心带；目标T=9321/2000=4.6605，P=L/T=9226/9321，W=1/100000。未覆盖所有角度或全部中心，不能据此排除17父装填。 / Coverage is limited to the 17 half-angle intervals listed in jobs and their near-wall centre strips, with T=9321/2000=4.6605, P=L/T=9226/9321 and W=1/100000. It does not cover all orientations or centres and cannot by itself exclude seventeen-parent packings.
+
+对u∈[a,b]，令r(u)=P(c(u)+s(u))/2，考虑合法父中心r(u)≤x≤L−r(u)、r(u)≤y≤r(u)+W。取有理外包r₋≤r(u)≤r₊：端点给出最小值，未跨π/4时端点给出最大值，临界处用P·707107/10⁶作上界；上下界分别向外取整到10⁻¹²网格。 / For u∈[a,b], let r(u)=P(c(u)+s(u))/2 and consider legal parent centres satisfying r(u)≤x≤L−r(u) and r(u)≤y≤r(u)+W. Rational bounds r₋≤r(u)≤r₊ use endpoint minima and, away from π/4, endpoint maxima; near π/4 use P·707107/10⁶ as an upper bound, rounding outwards to the 10⁻¹² grid.
+
+固定核中心(x,y₀)，y₀=(r₋+r₊+W)/2，Δ=(r₊−r₋+W)/2，则|y−y₀|≤Δ。代表角t由区间中点及代码的近π/4上限确定。令h为完整证明中同样的端点旋转支撑界，检查dot>0、|cross|≤dot。 / Fix the core centre at (x,y₀), where y₀=(r₋+r₊+W)/2 and Δ=(r₊−r₋+W)/2, so |y−y₀|≤Δ. The representative t uses the interval midpoint with the code's cap near π/4. Let h be the same endpoint rotation support bound as in the full proof, checking dot>0 and |cross|≤dot.
+
+位移在父任一单位轴上的投影至多Δ，因此P−Bh−2Δ>0保证整个闭核严格位于每个对应父的开内部。取Bmax=min((P−2Δ)/h,2r₋/(c(t)+s(t)))及B=(floor(10¹²Bmax)−1)/10¹²，并精确检查B>0、严格余量和核中心线合法性。 / The displacement projects by at most Δ onto either parent unit axis, so P−Bh−2Δ>0 places the entire closed core strictly inside every corresponding parent's open interior. Choose Bmax=min((P−2Δ)/h,2r₋/(c(t)+s(t))) and B=(floor(10¹²Bmax)−1)/10¹², checking B>0, strict slack and legality of the core centre line exactly.
+
+在固定线段x∈[r₋,L−r₋]上，每个站点的两个严格投影不等式给出一个有理开捕获区间。扫描全部端点和邻侧开单元；同时退出与进入的站点在事件点均不属于开核，故不得忽略端点状态。 / On the fixed segment x∈[r₋,L−r₋], each site's two strict projection inequalities define a rational open capture interval. Sweep every endpoint and neighboring open cell; simultaneously exiting and entering sites both lie outside the open core at the event, so endpoint states cannot be omitted.
+
+开核费用≥Γ推出闭核费用≥Γ，后者严格位于父开内部。即使核与父不共心，不交父的严格核仍不交，资源预算仍有效；只有覆盖所有父后才能推全域矛盾。 / An open-core charge ≥Γ implies a closed-core charge ≥Γ, and the closed core lies strictly within the parent. Although core and parent need not be concentric, cores in disjoint parent interiors remain disjoint and satisfy the resource budget; a global contradiction requires coverage of every possible parent.
+
+C++通过站点事件更新捕获掩码；独立BigInt按资源构造局部排列，再汇总前/点/后费用跳变。保留FIT02记录报告17区域、258475状态、最低1000026908、预算17000401055、区域内余量56381。Actions重新计算局部扫描并比较事件身份、包含参数与最低费。 / C++ updates capture masks at site events; independent BigInt builds per-resource arrangements and aggregates before/at/after charge jumps. Retained FIT02 records report 17 regions, 258475 states, minimum 1000026908, budget 17000401055 and local surplus 56381. Actions recomputes the local sweeps and compares event identities, containment parameters and minima.
+
+同一模型存在内部实际父反例：t=90505759/819200000，开费与闭费均999975439，17F−M=−818592。完整中心有理坐标和双实现复验输入随包提供。这击败该固定费用，不否定整个方法或字典；局部连续覆盖也不因此升级为4.6605全域下界。 / The same model has an interior actual-parent counterexample at t=90505759/819200000, with open and closed charge both 999975439 and 17F−M=−818592. Exact rational centre coordinates and inputs for both replay implementations are supplied. This defeats the fixed charge, not the entire method or dictionary; local continuous coverage does not become a global 4.6605 lower bound.

@@ -1,9 +1,9 @@
 cff-version: 1.2.0
-title: "R067: strict lower bound 4.66018 / R067：严格下界4.66018"
-message: "Cite a fixed commit and preserve attribution. / 请引用固定提交并保留来源署名。"
+title: "R068: retained 4.66044 proof and C010 local methods / 保留证明与局部方法"
+message: "Cite a fixed commit and its verification status. / 请引用固定提交及其验证状态。"
 type: software
-version: "r067-4p66018-public-1"
+version: "r068-c010-ci-submission-1"
 authors:
   - name: "Guzhou0806"
 repository-code: "https://github.com/Guzhou0806/n17-square-packing"
-abstract: "Strict-core and angular-catalogue continuation of Kleddamag's unchanged 4.66001 charge proves s(17)>4.66018. / 保持Kleddamag的4.66001收费，以严格核和角目录延续证明s(17)>4.66018。"
+abstract: "Retained C009 proof and C010 local continuous results submitted for final CI replay; no additional local validation. / C009保留证明及C010局部连续结果交由CI最终复验，本次未额外本地验证。"

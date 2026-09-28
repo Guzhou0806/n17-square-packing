@@ -1,0 +1,9 @@
+{
+  "schema": "n17.r038.source-pin.v1",
+  "repository": "Mira-acc/17squares",
+  "commit": "ac464dd06ded72e2f6eb2c2f3d510b01391c056d",
+  "path": "certificates/lower_bound_4p614153/certificate.json",
+  "sha256": "5ffb7746fb8aa8d436256710a035235436eecc5e6cfeca3d150dc01b18b801c3",
+  "expected_bytes": 633482,
+  "purpose": "Pinned upstream numerical certificate used by the exact R038 geometric replay. / R038 精确几何复验所使用的锁定上游数值证书。"
+}

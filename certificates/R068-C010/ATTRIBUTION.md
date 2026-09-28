@@ -1,0 +1,9 @@
+# 来源与许可 / Attribution and licensing
+
+原4.66001收费构造、原证明和独立JavaScript检查器来自[Kleddamag/17-squares-certified-bound](https://github.com/Kleddamag/17-squares-certified-bound/tree/57519bb74085157cb7047ae94c599bce4a006430)。原证书SHA256为280af3d46150ca990917d714d83ee73baf4e6c45a0563090bf35588fb22de6e5。 / The original 4.66001 charge, proof and independent JavaScript checker come from the pinned Kleddamag repository linked above. Its original certificate SHA256 is 280af3d46150ca990917d714d83ee73baf4e6c45a0563090bf35588fb22de6e5.
+
+几何补偿及4.66044端点来自Guzhou/N17项目的C007–C009 AI辅助研究；C010携带该证明并新增局部连续工具和反例，不将继承成果认作本轮新发现。C++主检查器来自既有项目输入，独立BigInt来源和历史第三方贡献保留。 / Geometry compensation and the 4.66044 endpoint originate from the Guzhou/N17 project's AI-assisted C007–C009 research. C010 carries that proof and adds local continuous tools and counterexamples, without claiming inherited results as new discoveries. The C++ principal checker comes from earlier project inputs; independent BigInt provenance and earlier third-party contributions are preserved.
+
+源码、机器输入、历史收据及[上游声明](upstream/notices/README.md)按原字节保留，其原语言注释不改写。新增说明逐行中英双语。许可及历史署名见upstream/notices；重新封装不扩大任何第三方授权范围，署名不等于背书。 / Sources, machine inputs, historical receipts and upstream notices are preserved byte-for-byte, including original-language comments. New explanations are bilingual. Licensing and historical attribution are retained in upstream/notices; repackaging does not expand third-party permissions, and attribution is not endorsement.
+
+C010报告其收到的较早C009大包有缺尾，未完整恢复历史档案。本公开包只包含实际保留的证书、完整分区记录及所需源码和局部复验输入；不声称恢复全部旧实验。最终校验从这些公开输入重新计算。 / C010 reports that the earlier large C009 archive it received was truncated and that the complete historical archive was not recovered. This public package includes only retained certificates, complete partition records, required sources and local replay inputs; it does not claim to restore every old experiment. Final verification recomputes from these public inputs.

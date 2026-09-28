@@ -1,3 +1,11 @@
+# R068 / C010：提交最终CI复验 / Submitted for final CI replay
+
+公开C009保留的4.66044完整证明材料及C010的局部连续方法；C010没有新增更高全域下界。本次不做额外本地科学验证，最终复验交给Actions，尚未观察其结果；原R067的本地接受状态保持。 / This publishes C009's retained complete proof materials for4.66044 and C010's local continuous method; C010 adds no higher global bound. No additional local scientific validation was run; final replay is delegated to Actions and its outcome has not been observed. R067 retains its previous local acceptance status.
+
+[证明与复验 / Proof and replay](certificates/R068-C010/README.md) · [工作流 / Workflow](.github/workflows/r068-c010.yml)
+
+> 以下为此前发布内容，状态按各次发布当时解释。 / The following material belongs to earlier publications; status statements refer to those publication dates.
+
 # R067：4.66018 / R067: 4.66018
 
 Kleddamag4.66001收费保持不变，新的严格核与2808个角区间完成4.66018；旧证书包保留。 / Retaining Kleddamag's 4.66001 charge, new strict cores and2808 angular intervals establish4.66018; earlier certificate packages remain intact.

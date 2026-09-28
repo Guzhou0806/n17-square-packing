@@ -1,0 +1,13 @@
+{
+  "status": "PUBLISHED_FOR_CI_FINAL_VERIFICATION",
+  "local_scientific_validation_this_publication": false,
+  "independent_acceptance_this_publication": false,
+  "actions_status_observed": false,
+  "retained_bound": "116511/25000",
+  "decimal": "4.66044",
+  "retained_bound_origin": "C009; carried in C010",
+  "new_global_bound_in_C010": false,
+  "local_method": "17 continuous angle intervals and wall-adjacent centre strips; not global coverage",
+  "fit02": "Rejected by a supplied exact actual-parent witness; not awaiting completion of a global scan",
+  "source_zip_sha256": "dea464233e3275dc59c5f2d9530e891d3ddc0a323472d639927827ad76486731"
+}

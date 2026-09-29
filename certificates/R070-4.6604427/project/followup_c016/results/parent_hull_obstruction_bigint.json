@@ -1,0 +1,14 @@
+{
+  "status": "PASS_INDEPENDENT_BIGINT_PARENT_SEPARATION_COMPLETION_OBSTRUCTION",
+  "base_sha256": "ff183c5e0c14646ce06b07e0dcda075f09a9a34110e23daee27d16c4488edb13",
+  "pose_sha256": "c0ce9bfa6e93e279e01f64c74d6d712df517cb3e4b432f2777e0b0e14a058f8d",
+  "cpp_sha256": "60e0609d0a9ad0952963c76f621c9a7bcc613981e2e345e1b5423a762761cd9c",
+  "target": "186417711/40000000",
+  "fired_images": 474,
+  "blocked_losing_images": 6574,
+  "boundary_separations": 0,
+  "open_fee": "999880603",
+  "budget_units": "17000448944",
+  "surplus": "-2478693",
+  "scope": "unchanged primitive weights; each original winning subset remains sufficient; each primitive uses nonempty pairwise-intersecting winning convex hulls. Any extra sites allowed. Does NOT exclude reweighting, replacement dropping old triggers, new budget/resources, or other capacity arguments."
+}

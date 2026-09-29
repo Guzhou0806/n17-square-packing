@@ -1,0 +1,12 @@
+{
+  "status": "SUBMITTED_FOR_FINAL_CI_REPLAY",
+  "reported_bound": "46604427/10000000",
+  "decimal": "4.6604427",
+  "local_checks": "File identities and all 5107 saved paired rows only",
+  "fresh_local_geometry_replay": false,
+  "receiver_full_independent_acceptance": false,
+  "ci_observed": false,
+  "source_archive_sha256": "d46b3293d3419664990706dfc9b0d3de21b0238536df099450cc12dc0a4ce725",
+  "third_party_base": "Kleddamag public 4.66001",
+  "scope": "Original-charge global certificate; 319-rule monotone overlay; conditional parent-separation obstruction. Failed weights and discovery caches retained locally."
+}

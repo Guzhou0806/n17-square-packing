@@ -1,3 +1,11 @@
+# R070：4.6604427 / R070: 4.6604427
+
+最新公开完整证明材料为s(17)>4.6604427，附5107区间双实现记录、319同预算增强规则及限定的方法类障碍。接收仅核对身份和记录，最终几何复验交Actions，结果未观察。 / The latest published complete proof materials state s(17)>4.6604427, with5107 paired interval records,319 same-budget enhanced rules and a scoped method-class obstruction. Reception checked identities and records only; final geometry replay is delegated to Actions and outcomes are unobserved.
+
+[证明、数据与复验 / Proof, data and replay](certificates/R070-4.6604427/README.md)
+
+> 以下为历史发布内容，状态按各次发布时间解释。 / The following material is historical; status statements refer to each publication date.
+
 # R068 / C010：提交最终CI复验 / Submitted for final CI replay
 
 公开C009保留的4.66044完整证明材料及C010的局部连续方法；C010没有新增更高全域下界。本次不做额外本地科学验证，最终复验交给Actions，尚未观察其结果；原R067的本地接受状态保持。 / This publishes C009's retained complete proof materials for4.66044 and C010's local continuous method; C010 adds no higher global bound. No additional local scientific validation was run; final replay is delegated to Actions and its outcome has not been observed. R067 retains its previous local acceptance status.

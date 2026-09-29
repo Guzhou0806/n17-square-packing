@@ -1,0 +1,200 @@
+{
+  "files": {
+    "assert_results.js": {
+      "bytes": 1913,
+      "sha256": "87b296789886fa4988deae0446a0d947e17e845f49db444c11a4bd2f1dc0a9a8"
+    },
+    "ATTRIBUTION.md": {
+      "bytes": 1589,
+      "sha256": "8e73e918586fefba2542de73211490eeb8bf587bdf0c37d3abb08755b45f5fc7"
+    },
+    "check_package.js": {
+      "bytes": 441,
+      "sha256": "01ac189030289573f6a401aa1259c92ab68bc502c306af7e4d481bab983dbb76"
+    },
+    "GEOMETRIC_RESULTS.md": {
+      "bytes": 6592,
+      "sha256": "7be65390379aa4747ea7413c57d03f5b6dd2c9aae3acf0646bba8db00f76283b"
+    },
+    "project/base/upstream/cpp/native_geometry.hpp": {
+      "bytes": 9692,
+      "sha256": "ade0091aa238e2d6dd078f89c9877dce6e0d80f3bb22aedc7e19d6fd85a7ec22"
+    },
+    "project/base/upstream/cpp/reference/verify_global_variable.js": {
+      "bytes": 9991,
+      "sha256": "c22091862df631f8cfd1f1bb8e5013f0b9c216f20be268fcd7104768919c49b7"
+    },
+    "project/base/upstream/cpp/replay.js": {
+      "bytes": 5166,
+      "sha256": "1125e5969fe0a22e92ea42845ac0dfe68aae5a2a0110550591a01fa43f297712"
+    },
+    "project/base/upstream/cpp/verify.cpp": {
+      "bytes": 14133,
+      "sha256": "3ba09554cef0ea0ee15444c4d30476f0e2435144e18b1ec2c908970ca306532c"
+    },
+    "project/base/upstream/notices/ATTRIBUTION.md": {
+      "bytes": 5530,
+      "sha256": "b6f041d5ec47d076a9d1a629e203957c1f48a1f9b957afd96331474d183732bb"
+    },
+    "project/base/upstream/notices/AUTHORS.md": {
+      "bytes": 2786,
+      "sha256": "f762d47d1b3d06c02d06e2b4c4743584993e35c31f9f1dfd25b653a997eaa617"
+    },
+    "project/base/upstream/notices/LICENSE": {
+      "bytes": 1083,
+      "sha256": "3658a57c304f53d0c2be0009232e3622fab7013a13bebea180cfbe8c7608f31c"
+    },
+    "project/base/upstream/notices/LICENSING.md": {
+      "bytes": 2686,
+      "sha256": "4b16777736049d84fda497b8524d41bfdf38705353b5da77b7966e13c481079a"
+    },
+    "project/base/upstream/notices/NOTICES/Guzhou-NOTICE.md": {
+      "bytes": 3009,
+      "sha256": "489f1de680a1ff9fb46c06a64445b12ce1fc3fda1146d6c408614b3ba5f0c690"
+    },
+    "project/base/upstream/notices/NOTICES/Joshua-Levy-LICENSE-source.txt": {
+      "bytes": 21153,
+      "sha256": "7428341239cf4ee78c4b951b7fd8a2284b24835aeb0ede82f032b2e95e92cc00"
+    },
+    "project/base/upstream/notices/NOTICES/Joshua-Levy-MIT.txt": {
+      "bytes": 1068,
+      "sha256": "134d213f268cce96daf2099396d727c38efd705bcc1613497d62c21f53d19c75"
+    },
+    "project/base/upstream/notices/NOTICES/Mira-ATTRIBUTION.md": {
+      "bytes": 4427,
+      "sha256": "c0d09e0f0b4a12823a61003d2e3317b56010a020b4948f017aed90d029aa980a"
+    },
+    "project/base/upstream/notices/NOTICES/R038-ATTRIBUTION.md": {
+      "bytes": 2740,
+      "sha256": "fbb381886deb10d1059cd6e9ad1800f7e8b9f5f1d15f7c78883d2ea2133c6418"
+    },
+    "project/base/upstream/notices/NOTICES/R038-LICENSE_SCOPE.md": {
+      "bytes": 680,
+      "sha256": "16da95bd766adbe5c4b2ddea644e378299bc5eb6e5fb0b554d0d0d5687d46a9d"
+    },
+    "project/base/upstream/notices/NOTICES/R038-SOURCE_PIN.json": {
+      "bytes": 467,
+      "sha256": "e7a6c0f7a665a8a44fecb411e1cb2146bf15b17824d236143446636acf4dc18f"
+    },
+    "project/base/upstream/notices/NOTICES/README.md": {
+      "bytes": 1258,
+      "sha256": "f9bc19e134efd913c8fdbd8dc4453bea2636c02ac0f4d7f0fa0563528e1ef47e"
+    },
+    "project/followup_c015/data/lifted_accepted_model.json": {
+      "bytes": 1458345,
+      "sha256": "ff183c5e0c14646ce06b07e0dcda075f09a9a34110e23daee27d16c4488edb13"
+    },
+    "project/followup_c015/results/angular_cell/short_pose.json": {
+      "bytes": 149,
+      "sha256": "c0ce9bfa6e93e279e01f64c74d6d712df517cb3e4b432f2777e0b0e14a058f8d"
+    },
+    "project/followup_c016/data/geometric_overlay_all.json": {
+      "bytes": 287100,
+      "sha256": "5c10820e44a7a038dc717f0ca728f07c88b947a908f522ce480f19ada8f0bfa3"
+    },
+    "project/followup_c016/results/all_geometry_bigint.json": {
+      "bytes": 552,
+      "sha256": "30c6466397b6edeeb6759665e000db6cf95c79f602caa8c8260e4de5c48fa07c"
+    },
+    "project/followup_c016/results/all_geometry_cpp.json": {
+      "bytes": 410,
+      "sha256": "3df036121677f8ce0e33e4130f34f01bd89520915e3d17c7f2eb3e2abbfe2b93"
+    },
+    "project/followup_c016/results/parent_hull_obstruction_bigint.json": {
+      "bytes": 847,
+      "sha256": "14478328cf3da643124eebb267690093bf182519f36fb478f5d177121eb39e9f"
+    },
+    "project/followup_c016/results/parent_hull_obstruction_cpp.json": {
+      "bytes": 1979565,
+      "sha256": "60e0609d0a9ad0952963c76f621c9a7bcc613981e2e345e1b5423a762761cd9c"
+    },
+    "project/followup_c016/results/target_4.6604427/certificate.json": {
+      "bytes": 1511305,
+      "sha256": "8438cae4da93c98a92b0b96560f95d9da8d0ef47287783f3b18a9cb8208167b9"
+    },
+    "project/followup_c016/results/target_4.6604427/paired_replay/cpp-0.json": {
+      "bytes": 81059,
+      "sha256": "2e5374306e7316737f8312413799beae8bd1a9977f91fa09f9e3df65c2ff574c"
+    },
+    "project/followup_c016/results/target_4.6604427/paired_replay/cpp-1.json": {
+      "bytes": 82237,
+      "sha256": "a7e65d506c8c4dfcb2c0d374c9904ab3c5d3e0a07032f0a6d70049b6c1cb55bd"
+    },
+    "project/followup_c016/results/target_4.6604427/paired_replay/cpp-2.json": {
+      "bytes": 82237,
+      "sha256": "cd1f24776fe27f34e5709aa762504e30d3d3e3bd80f27dbf7d1b2b82eadeae6d"
+    },
+    "project/followup_c016/results/target_4.6604427/paired_replay/cpp-3.json": {
+      "bytes": 82237,
+      "sha256": "faacc4749997025a80dce69392f3980eae30800af79f19c3b60ce3f52605f591"
+    },
+    "project/followup_c016/results/target_4.6604427/paired_replay/INPUTS.json": {
+      "bytes": 364,
+      "sha256": "dec403f0a5257a10f3c10ac1f175a80bf78393cd60377071b72faf8be841927e"
+    },
+    "project/followup_c016/results/target_4.6604427/paired_replay/node-0.json": {
+      "bytes": 125609,
+      "sha256": "bdb68887a27cc5263270346bc1187d070b4753153cdc9a4915122eea301bc6f4"
+    },
+    "project/followup_c016/results/target_4.6604427/paired_replay/node-1.json": {
+      "bytes": 126821,
+      "sha256": "7f0fd09fa687e7c9061e07c397e989f3bace317d73cfd5e3e7dca6c753aed9c6"
+    },
+    "project/followup_c016/results/target_4.6604427/paired_replay/node-2.json": {
+      "bytes": 126821,
+      "sha256": "da743ccf691f9980ab1184e40100cf7cace597378b7bea3d11e3b6c8714a8e90"
+    },
+    "project/followup_c016/results/target_4.6604427/paired_replay/node-3.json": {
+      "bytes": 126821,
+      "sha256": "72a6da299375ac89873948124ea278cb0b6dd939361165bd9b3afbb818b6df9f"
+    },
+    "project/followup_c016/results/target_4.6604427/paired_replay/THEOREM.json": {
+      "bytes": 1612,
+      "sha256": "e5024fab2cd83fd6a6e2d42b37e0d95757f2ee67d108edecb0b1896a2ab367d7"
+    },
+    "project/followup_c016/src/exact_model.js": {
+      "bytes": 7797,
+      "sha256": "fe3a0eccf4c926898241e9fa5fd21a198cc3e4978a046695168640935a13a155"
+    },
+    "project/followup_c016/src/geometric_overlay.hpp": {
+      "bytes": 7893,
+      "sha256": "bcab81bb235f15599e10dac549f274ff6bca1da449ea6cf89c98a5c7435ddffe"
+    },
+    "project/followup_c016/src/geometric_rules.cpp": {
+      "bytes": 2007,
+      "sha256": "9200de19865fc7840a72db04660ffe9133641ae1e05c2a6a50dc089addb27b68"
+    },
+    "project/followup_c016/src/parent_hull_obstruction.cpp": {
+      "bytes": 3222,
+      "sha256": "76fe9ebed85ea8a0f0ef5a4a059d55c7071b89744a03e63ea4f9f47f2be394e0"
+    },
+    "project/followup_c016/src/verify_geometric_rules.js": {
+      "bytes": 1778,
+      "sha256": "ce1777d48672c45b3ac80a452c1afe217ebad41bf9ba1bc3533f162c46f1b407"
+    },
+    "project/followup_c016/src/verify_parent_hull_obstruction.js": {
+      "bytes": 3286,
+      "sha256": "a29019f1cd37cfe2835e89243cc077a893026a97d9fd54fc031b45ca2477b40f"
+    },
+    "project/work/src/adaptive_library.cpp": {
+      "bytes": 5848,
+      "sha256": "6706119bd6358749051f66a2b81cd6258392e99d6f1b3bad7d090ef8fa10e9f2"
+    },
+    "PROOF.md": {
+      "bytes": 4973,
+      "sha256": "dcd0fbb0b67386fa9191e6cf12fb04d4760a7103b3cc3c414465154621915ae8"
+    },
+    "PUBLICATION_STATUS.json": {
+      "bytes": 632,
+      "sha256": "8f5a91c69b5b60bb083f0ebd5527bdf9b9a7bc1fdeb3d989908c26e962022147"
+    },
+    "README.md": {
+      "bytes": 2484,
+      "sha256": "94bf596982dcae37d820f51420bafeebde7730706324c77f46850583583404b6"
+    },
+    "REPRODUCIBILITY.md": {
+      "bytes": 2279,
+      "sha256": "d8bbd8c8ebb95e462252f2954f60217ce16c91c244854f0aa98c9e9768b3807f"
+    }
+  }
+}

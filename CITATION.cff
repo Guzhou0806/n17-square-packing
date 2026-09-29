@@ -1,9 +1,8 @@
 cff-version: 1.2.0
-title: "R068: retained 4.66044 proof and C010 local methods / 保留证明与局部方法"
-message: "Cite a fixed commit and its verification status. / 请引用固定提交及其验证状态。"
+title: "R070: 4.6604427 and geometric rules / 下界与几何规则"
+message: "Cite a fixed commit and verification scope. / 请引用固定提交和验证范围。"
 type: software
-version: "r068-c010-ci-submission-1"
+version: "r070-4p6604427-ci-submission-1"
 authors:
   - name: "Guzhou0806"
 repository-code: "https://github.com/Guzhou0806/n17-square-packing"
-abstract: "Retained C009 proof and C010 local continuous results submitted for final CI replay; no additional local validation. / C009保留证明及C010局部连续结果交由CI最终复验，本次未额外本地验证。"

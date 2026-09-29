@@ -1,0 +1,66 @@
+name: R070 final exact replay / 最终精确复验
+on:
+  push:
+    paths:
+      - 'certificates/R070-4.6604427/**'
+      - '.github/workflows/r070.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  global:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Dependencies / 依赖
+        run: sudo apt-get update && sudo apt-get install -y g++ libboost-dev
+      - name: Exact replay / 精确复验
+        working-directory: certificates/R070-4.6604427
+        env:
+          N17_TIMEOUT_MINUTES: '110'
+        run: |
+          node check_package.js
+          mkdir -p .recheck/bin
+          g++ -O3 -std=c++17 project/base/upstream/cpp/verify.cpp -o .recheck/bin/verify
+          node project/base/upstream/cpp/replay.js project/followup_c016/results/target_4.6604427/certificate.json .recheck/global .recheck/bin/verify 2
+          node assert_results.js global
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: r070-global
+          path: certificates/R070-4.6604427/.recheck/**/*.json
+          include-hidden-files: true
+  geometry:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Dependencies / 依赖
+        run: sudo apt-get update && sudo apt-get install -y g++ libboost-dev
+      - name: Exact replay / 精确复验
+        working-directory: certificates/R070-4.6604427
+        env:
+          N17_TIMEOUT_MINUTES: '110'
+        run: |
+          node check_package.js
+          mkdir -p .recheck/bin
+          g++ -O3 -std=c++17 project/followup_c016/src/geometric_rules.cpp -o .recheck/bin/geometry
+          g++ -O3 -std=c++17 project/followup_c016/src/parent_hull_obstruction.cpp -o .recheck/bin/barrier
+          .recheck/bin/geometry project/followup_c015/data/lifted_accepted_model.json project/followup_c016/data/geometric_overlay_all.json .recheck/all-cpp.json
+          node project/followup_c016/src/verify_geometric_rules.js project/followup_c015/data/lifted_accepted_model.json project/followup_c016/data/geometric_overlay_all.json .recheck/all-cpp.json .recheck/all-bigint.json
+          .recheck/bin/barrier project/followup_c015/data/lifted_accepted_model.json project/followup_c015/results/angular_cell/short_pose.json 186417711/40000000 .recheck/barrier-cpp.json
+          node project/followup_c016/src/verify_parent_hull_obstruction.js project/followup_c015/data/lifted_accepted_model.json project/followup_c015/results/angular_cell/short_pose.json .recheck/barrier-cpp.json .recheck/barrier-bigint.json
+          node assert_results.js geometry
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: r070-geometry
+          path: certificates/R070-4.6604427/.recheck/**/*.json
+          include-hidden-files: true

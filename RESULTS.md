@@ -6,6 +6,7 @@ Decimal text describes the stated constants and does not provide a two-sided enc
 
 | Milestone / 里程碑 | Bound or outcome / 下界或结果 | Evidence / 证据 |
 |---|---|---|
+| **R070** | **4.6604427; final CI unobserved / 最终CI未观察** | [证明与几何方法 / Proof and geometric methods](certificates/R070-4.6604427/README.md) |
 | **R068 / C010** | **C009 retained 4.66044; final CI pending / C009保留4.66044，待最终CI** | [完整证明及局部方法 / Full proof and local method](certificates/R068-C010/README.md) |
 | **R067** | **$s(17)>233009/50000=4.66018$** | [严格核与角覆盖延续 / Strict-core and angular continuation](certificates/R067-4.66018/README.md) |
 | **R052 延续 / R052 continuation** | **$s(17)>462003/100000=4.62003$** | [点位变形与完整严格证明 / Site deformation and complete strict proof](certificates/R052-4.62003/README.md) |

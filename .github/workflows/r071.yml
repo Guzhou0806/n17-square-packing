@@ -1,0 +1,35 @@
+name: R071 exact replay / 精确复验
+on:
+  push:
+    paths:
+      - 'certificates/R071-C029/**'
+      - '.github/workflows/r071.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  replay:
+    strategy:
+      fail-fast: false
+      matrix:
+        scope: [bound, geometry]
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Dependencies / 依赖
+        run: sudo apt-get update && sudo apt-get install -y g++ libboost-dev
+      - name: Exact replay / 精确复验
+        working-directory: certificates/R071-C029
+        env:
+          N17_TIMEOUT_MINUTES: '165'
+        run: node run_public.js ${{ matrix.scope }} .recheck-${{ matrix.scope }}
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: r071-${{ matrix.scope }}
+          path: certificates/R071-C029/.recheck-${{ matrix.scope }}/**
+          include-hidden-files: true

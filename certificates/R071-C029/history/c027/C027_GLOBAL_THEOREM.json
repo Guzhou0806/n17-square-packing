@@ -1,0 +1,58 @@
+{
+  "status": "PASS_COMPLETE_CPP_AND_BIGINT_EXCLUSION",
+  "target": "18641771/4000000",
+  "intervals": 5114,
+  "budget_units": "17000448944",
+  "minimum_units": "1000026844",
+  "surplus": "7404",
+  "certificate_sha256": "15b6bf6a936eba71338c9ea3e3b9966ae21db8116a6f5a92a8b5da5ccabed469",
+  "executable_sha256": "8f4d59aca9b133efb8743643022eb592443068f65417373ea2042f0cd495aa42",
+  "reference_sha256": "c22091862df631f8cfd1f1bb8e5013f0b9c216f20be268fcd7104768919c49b7",
+  "launcher_sha256": "1125e5969fe0a22e92ea42845ac0dfe68aae5a2a0110550591a01fa43f297712",
+  "processes": [
+    {
+      "label": "cpp-0",
+      "exit": 0,
+      "signal": null,
+      "expired": false,
+      "error": null
+    },
+    {
+      "label": "node-0",
+      "exit": 0,
+      "signal": null,
+      "expired": false,
+      "error": null
+    },
+    {
+      "label": "cpp-1",
+      "exit": 0,
+      "signal": null,
+      "expired": false,
+      "error": null
+    },
+    {
+      "label": "node-1",
+      "exit": 0,
+      "signal": null,
+      "expired": false,
+      "error": null
+    },
+    {
+      "label": "cpp-2",
+      "exit": 0,
+      "signal": null,
+      "expired": false,
+      "error": null
+    },
+    {
+      "label": "node-2",
+      "exit": 0,
+      "signal": null,
+      "expired": false,
+      "error": null
+    }
+  ],
+  "seconds": 1694.142,
+  "verified_utc": "2026-09-30T18:01:29.899Z"
+}

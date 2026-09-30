@@ -1,0 +1,16 @@
+{
+  "status": "SUBMITTED_FOR_FINAL_CI_REPLAY",
+  "retained_c027_bound": "18641771/4000000",
+  "decimal": "4.66044275",
+  "previous_public_bound": "4.6604427",
+  "c029_new_global_bound": false,
+  "conditional_target": "9321/2000",
+  "scope": "C027 certificate plus C028 prerequisite cover and C029 conditional joint geometry",
+  "local_reception": "Member identities and saved deterministic result agreement only",
+  "fresh_local_geometry_replay": false,
+  "ci_observed": false,
+  "c027_original_partition_receipts_recovered": false,
+  "historical_c020_missing_files": 276,
+  "external_final_archive_audit_received": false,
+  "archive_sha256": "a7a5e0025c4ffd9a371d575c66c7b778ceff71f7905bbe8c4f85ca2628de5134"
+}

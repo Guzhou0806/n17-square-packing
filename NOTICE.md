@@ -1,3 +1,11 @@
+# R071：4.66044275证书与条件联合几何 / Certificate at4.66044275 and conditional joint geometry
+
+保留C027的4.66044275完整证书；C029新增固定锚点条件下17条冲突、2条强制空点及9≤Vmax≤11，不是4.6605全局下界。本次仅核对文件和已有记录，最终C++/BigInt复验交Actions，结果未观察。 / The retained C027 certificate states4.66044275. C029 adds17 conflicts,2 forced holes and9≤Vmax≤11 under a fixed-anchor condition, not a global bound of4.6605. Reception checked files and saved records only; final C++/BigInt replay is delegated to Actions and its outcome is unobserved.
+
+[证明、数据与复验 / Proof, data and replay](certificates/R071-C029/README.md)
+
+> 以下为历史发布记录，状态按其发布日期理解。 / Below are historical publications; status statements refer to their publication dates.
+
 # R070：4.6604427 / R070: 4.6604427
 
 最新公开完整证明材料为s(17)>4.6604427，附5107区间双实现记录、319同预算增强规则及限定的方法类障碍。接收仅核对身份和记录，最终几何复验交Actions，结果未观察。 / The latest published complete proof materials state s(17)>4.6604427, with5107 paired interval records,319 same-budget enhanced rules and a scoped method-class obstruction. Reception checked identities and records only; final geometry replay is delegated to Actions and outcomes are unobserved.

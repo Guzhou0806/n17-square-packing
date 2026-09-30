@@ -1,0 +1,175 @@
+{
+  "schema": "n17.c028.angular-predicates.v1",
+  "cases": [
+    {
+      "id": "interior_extremum_not_at_endpoints",
+      "dx": [
+        "1/1",
+        "1/1"
+      ],
+      "dy": [
+        "1/1",
+        "1/1"
+      ],
+      "t": [
+        "0/1",
+        "1/1"
+      ],
+      "bound": "6/5",
+      "expected": false
+    },
+    {
+      "id": "same_full_interval_safe",
+      "dx": [
+        "1/1",
+        "1/1"
+      ],
+      "dy": [
+        "1/1",
+        "1/1"
+      ],
+      "t": [
+        "0/1",
+        "1/1"
+      ],
+      "bound": "3/2",
+      "expected": true
+    },
+    {
+      "id": "strict_endpoint_equality",
+      "dx": [
+        "1/1",
+        "1/1"
+      ],
+      "dy": [
+        "0/1",
+        "0/1"
+      ],
+      "t": [
+        "0/1",
+        "1/1"
+      ],
+      "bound": "1/1",
+      "expected": false
+    },
+    {
+      "id": "strict_endpoint_margin",
+      "dx": [
+        "1/1",
+        "1/1"
+      ],
+      "dy": [
+        "0/1",
+        "0/1"
+      ],
+      "t": [
+        "0/1",
+        "1/1"
+      ],
+      "bound": "1001/1000",
+      "expected": true
+    },
+    {
+      "id": "zero_displacement",
+      "dx": [
+        "0/1",
+        "0/1"
+      ],
+      "dy": [
+        "0/1",
+        "0/1"
+      ],
+      "t": [
+        "0/1",
+        "1/1"
+      ],
+      "bound": "1/10",
+      "expected": true
+    },
+    {
+      "id": "center_rectangle_safe",
+      "dx": [
+        "-1/4",
+        "1/4"
+      ],
+      "dy": [
+        "-1/4",
+        "1/4"
+      ],
+      "t": [
+        "0/1",
+        "1/1"
+      ],
+      "bound": "2/5",
+      "expected": true
+    },
+    {
+      "id": "center_rectangle_unsafe",
+      "dx": [
+        "-2/5",
+        "2/5"
+      ],
+      "dy": [
+        "-2/5",
+        "2/5"
+      ],
+      "t": [
+        "0/1",
+        "1/1"
+      ],
+      "bound": "1/2",
+      "expected": false
+    },
+    {
+      "id": "no_stationary_point_in_short_interval",
+      "dx": [
+        "1/1",
+        "1/1"
+      ],
+      "dy": [
+        "1/1",
+        "1/1"
+      ],
+      "t": [
+        "0/1",
+        "1/10"
+      ],
+      "bound": "13/10",
+      "expected": true
+    },
+    {
+      "id": "negative_direction_stationary",
+      "dx": [
+        "-1/1",
+        "-1/1"
+      ],
+      "dy": [
+        "1/1",
+        "1/1"
+      ],
+      "t": [
+        "0/1",
+        "1/1"
+      ],
+      "bound": "6/5",
+      "expected": false
+    },
+    {
+      "id": "degenerate_angle_interval",
+      "dx": [
+        "1/1",
+        "1/1"
+      ],
+      "dy": [
+        "1/1",
+        "1/1"
+      ],
+      "t": [
+        "1/10",
+        "1/10"
+      ],
+      "bound": "13/10",
+      "expected": true
+    }
+  ]
+}

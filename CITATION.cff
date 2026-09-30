@@ -1,8 +1,8 @@
 cff-version: 1.2.0
-title: "R070: 4.6604427 and geometric rules / 下界与几何规则"
+title: "R071: retained 4.66044275 certificate and conditional joint geometry / 保留证书与条件联合几何"
 message: "Cite a fixed commit and verification scope. / 请引用固定提交和验证范围。"
 type: software
-version: "r070-4p6604427-ci-submission-1"
+version: "r071-c029-ci-submission-1"
 authors:
   - name: "Guzhou0806"
 repository-code: "https://github.com/Guzhou0806/n17-square-packing"

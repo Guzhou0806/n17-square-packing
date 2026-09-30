@@ -1,0 +1,41216 @@
+C028_ATLAS_V2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+C 0
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+W 0
+P 0
+P 0
+P 0
+P 0
+P 0
+S 2
+S 0
+S 1
+P 0
+S 2
+S 0
+W 0
+P 0
+S 0
+W 0
+S 1
+P 0
+S 2
+P 0
+U
+P 0
+S 0
+S 1
+P 0
+S 2
+S 0
+W 0
+S 1
+P 0
+S 2
+U
+U
+W 0
+S 1
+P 0
+S 2
+S 0
+S 1
+P 0
+S 2
+U
+U
+P 0
+S 0
+S 1
+P 0
+S 2
+U
+U
+S 1
+P 0
+P 4
+P 0
+S 0
+S 1
+P 0
+S 2
+S 0
+W 0
+S 1
+P 0
+S 2
+S 0
+S 1
+P 0
+S 2
+U
+U
+S 1
+P 0
+S 2
+P 4
+U
+S 0
+S 1
+P 0
+S 2
+U
+U
+S 1
+P 0
+S 2
+U
+U
+S 0
+W 0
+S 1
+P 0
+S 2
+S 0
+S 1
+P 0
+S 2
+U
+U
+S 1
+P 0
+S 2
+U
+U
+S 0
+W 0
+S 1
+P 0
+S 2
+U
+U
+P 0
+S 1
+A
+S 2
+S 0
+P 0
+J
+S 0
+P 0
+J
+S 0
+S 1
+C 0
+S 2
+S 0
+S 1
+P 0
+S 2
+S 0
+W 0
+S 1
+P 0
+S 2
+S 0
+W 0
+S 1
+P 0
+S 2
+U
+U
+S 0
+W 0
+S 1
+P 0
+S 2
+U
+U
+S 0
+W 0
+S 1
+P 0
+S 2
+S 0
+W 0
+S 1
+P 0
+S 2
+U
+U
+S 0
+W 0
+S 1
+P 0
+S 2
+U
+U
+P 0
+S 0
+S 1
+S 2
+P 0
+S 0
+W 0
+P 0
+S 2
+S 0
+W 0
+S 1
+P 0
+S 2
+S 0
+W 0
+S 1
+P 0
+S 2
+U
+U
+S 0
+W 0
+S 1
+P 0
+S 2
+U
+U
+S 0
+W 0
+S 1
+P 0
+S 2
+S 0
+W 0
+S 1
+P 0
+S 2
+U
+U
+S 0
+W 0
+S 1
+P 0
+S 2
+U
+U
+P 0
+S 1
+A
+S 2
+S 0
+P 0
+S 1
+A
+S 2
+S 0
+P 0
+A
+S 0
+P 0
+A
+S 0
+P 0
+S 1
+A
+S 2
+S 0
+S 1
+A
+S 2
+S 0
+P 0
+J
+S 0
+P 0
+J
+A
+S 0
+S 1
+A
+S 2
+S 0
+P 0
+J
+J
+A
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+W 0
+S 1
+S 2
+P 4
+U
+P 4
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+P 4
+U
+P 4
+S 0
+S 1
+S 2
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 0
+S 2
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 0
+S 1
+S 2
+S 0
+S 1
+S 2
+P 4
+U
+P 4
+P 4
+S 0
+S 1
+S 2
+U
+U
+S 2
+P 4
+U
+P 4
+P 4
+S 2
+S 0
+S 1
+S 2
+S 0
+W 0
+P 4
+S 0
+W 0
+P 4
+S 2
+S 0
+W 0
+P 4
+S 0
+W 0
+P 4
+P 4
+S 0
+S 1
+S 2
+S 0
+W 0
+P 4
+W 0
+S 2
+S 0
+W 0
+P 4
+W 0
+P 4
+P 4
+S 0
+S 1
+S 2
+S 0
+W 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 4
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 4
+P 4
+S 0
+W 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 4
+S 0
+W 0
+S 1
+S 2
+U
+U
+P 4
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 4
+P 4
+S 0
+W 0
+P 4
+S 2
+S 0
+W 0
+P 4
+S 0
+W 0
+P 4
+P 4
+S 2
+S 0
+S 1
+P 4
+S 2
+S 0
+S 1
+P 4
+S 2
+S 0
+W 0
+S 1
+P 4
+S 2
+U
+U
+S 0
+W 0
+S 1
+P 4
+S 2
+U
+U
+S 1
+P 4
+S 2
+S 0
+S 1
+P 4
+P 8
+P 4
+S 0
+S 1
+P 4
+P 8
+P 8
+S 0
+S 1
+P 4
+S 2
+S 0
+W 0
+S 1
+P 4
+S 2
+U
+U
+W 0
+S 1
+P 4
+S 2
+S 0
+S 1
+P 4
+S 2
+U
+U
+P 8
+S 0
+S 1
+P 4
+S 2
+U
+U
+P 8
+S 1
+P 4
+S 2
+P 4
+S 0
+S 1
+P 4
+S 2
+S 0
+P 8
+P 4
+P 8
+P 4
+S 0
+S 1
+P 4
+S 2
+S 0
+W 0
+S 1
+P 4
+S 2
+S 0
+S 1
+S 2
+P 4
+U
+S 2
+U
+U
+S 1
+P 4
+P 8
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 4
+S 2
+P 8
+U
+S 0
+W 0
+S 1
+P 4
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 4
+S 2
+U
+U
+S 0
+W 0
+S 1
+P 4
+S 2
+U
+U
+S 1
+P 4
+S 2
+S 0
+S 1
+P 4
+P 8
+P 4
+S 0
+S 1
+P 4
+S 2
+P 8
+S 0
+S 1
+P 4
+P 8
+P 4
+P 4
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+P 4
+S 1
+S 2
+P 4
+S 0
+P 4
+P 0
+P 4
+S 0
+P 4
+S 1
+P 0
+P 4
+P 4
+S 1
+S 2
+S 0
+S 1
+J
+P 4
+J
+S 0
+S 1
+J
+P 4
+S 1
+J
+P 4
+P 4
+S 0
+S 1
+S 2
+S 0
+P 4
+S 1
+P 0
+P 4
+S 0
+P 4
+S 1
+P 0
+P 4
+P 4
+S 1
+S 2
+S 0
+S 1
+P 0
+P 4
+S 1
+J
+P 4
+S 0
+S 1
+S 2
+S 0
+P 0
+S 1
+J
+S 2
+U
+U
+S 0
+P 0
+S 1
+J
+S 2
+U
+U
+P 4
+S 1
+J
+S 2
+S 0
+P 4
+S 1
+J
+P 4
+S 0
+P 4
+S 1
+S 2
+J
+U
+P 4
+P 4
+S 2
+S 0
+P 4
+S 1
+P 4
+S 2
+S 0
+P 4
+S 1
+P 4
+S 2
+P 4
+S 0
+P 4
+S 1
+P 4
+S 2
+P 4
+U
+S 0
+P 4
+S 1
+S 2
+P 4
+S 0
+P 4
+P 5
+S 2
+S 0
+P 4
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+P 4
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+P 4
+S 1
+P 4
+S 2
+S 0
+P 4
+S 1
+S 2
+S 0
+P 4
+S 1
+P 4
+S 2
+P 5
+U
+S 0
+P 4
+S 1
+P 4
+S 2
+U
+U
+S 2
+S 0
+P 4
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 4
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+P 4
+S 1
+S 2
+S 0
+P 4
+S 1
+P 4
+S 2
+U
+U
+S 0
+P 4
+S 1
+P 4
+S 2
+U
+U
+S 2
+S 0
+S 1
+P 4
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+P 4
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+W 0
+S 1
+S 2
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+P 4
+U
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+W 0
+P 4
+S 0
+W 0
+P 4
+S 0
+W 0
+S 1
+S 2
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+W 0
+P 4
+S 0
+W 0
+P 4
+S 2
+S 0
+W 0
+P 4
+S 0
+W 0
+P 4
+S 1
+S 2
+P 4
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+P 4
+U
+P 4
+P 4
+S 0
+S 1
+S 2
+U
+U
+P 4
+P 4
+P 4
+P 4
+P 4
+S 0
+S 1
+S 2
+S 0
+W 0
+S 1
+S 2
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+W 0
+P 4
+S 0
+W 0
+P 4
+S 0
+W 0
+S 1
+S 2
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+W 0
+P 4
+S 0
+W 0
+P 4
+S 2
+S 0
+W 0
+P 4
+S 0
+W 0
+P 4
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 4
+P 4
+S 0
+S 1
+S 2
+U
+U
+P 4
+P 4
+P 4
+P 4
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 4
+P 4
+S 0
+S 1
+S 2
+U
+U
+P 4
+P 4
+P 4
+P 4
+P 4
+S 2
+S 0
+S 1
+P 4
+S 2
+S 0
+W 0
+S 1
+P 4
+S 2
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+W 0
+S 1
+S 2
+P 4
+S 0
+W 0
+P 4
+S 2
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 4
+S 2
+S 0
+S 1
+P 4
+S 2
+S 0
+S 1
+P 4
+P 8
+P 4
+S 0
+S 1
+P 4
+S 2
+U
+U
+P 4
+P 4
+S 0
+S 1
+P 4
+S 2
+S 0
+S 1
+P 4
+S 2
+U
+U
+P 4
+S 0
+S 1
+P 4
+S 2
+U
+U
+P 4
+P 4
+S 0
+S 1
+S 2
+S 0
+W 0
+P 4
+S 0
+W 0
+P 4
+S 2
+S 0
+W 0
+S 1
+S 2
+S 0
+W 0
+P 4
+S 0
+W 0
+P 4
+S 2
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+W 0
+S 1
+S 2
+S 0
+W 0
+P 4
+S 0
+W 0
+P 4
+S 2
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 4
+S 2
+S 0
+S 1
+P 4
+S 2
+S 0
+S 1
+P 4
+S 2
+U
+U
+P 4
+S 0
+S 1
+P 4
+S 2
+U
+U
+P 4
+P 4
+S 0
+S 1
+P 4
+S 2
+S 0
+S 1
+P 4
+S 2
+U
+U
+P 4
+P 4
+P 4
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+P 4
+S 1
+P 0
+P 4
+P 4
+P 4
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+P 0
+S 1
+S 2
+J
+U
+S 2
+U
+U
+S 0
+S 1
+P 0
+P 4
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 4
+S 1
+S 2
+S 0
+S 1
+J
+S 2
+U
+U
+J
+S 0
+S 1
+J
+S 2
+U
+U
+S 1
+A
+S 2
+J
+U
+S 2
+S 0
+P 4
+S 1
+S 2
+U
+U
+P 4
+S 0
+P 4
+S 1
+S 2
+U
+U
+P 4
+S 0
+S 1
+S 2
+S 0
+S 1
+P 0
+P 4
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 0
+P 4
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 4
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+A
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+A
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 4
+S 1
+S 2
+U
+U
+P 4
+S 0
+S 1
+S 2
+U
+U
+P 4
+S 1
+S 2
+U
+U
+P 4
+P 4
+S 0
+P 4
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+P 0
+U
+P 4
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+P 4
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 4
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+J
+S 2
+U
+U
+S 1
+A
+S 2
+U
+U
+S 0
+S 1
+J
+S 2
+U
+U
+J
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 4
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+P 4
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 4
+S 1
+J
+S 2
+U
+U
+S 0
+P 4
+S 1
+J
+S 2
+U
+P 4
+P 4
+S 1
+S 2
+S 0
+S 1
+J
+S 2
+U
+J
+J
+J
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 4
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+P 4
+S 1
+J
+S 2
+U
+U
+P 4
+S 2
+S 0
+P 4
+S 1
+P 4
+S 2
+S 0
+S 1
+P 4
+S 2
+P 4
+S 0
+P 4
+S 1
+P 4
+S 2
+P 4
+U
+S 1
+S 2
+S 0
+P 4
+S 1
+P 4
+S 2
+U
+U
+S 0
+P 4
+S 1
+P 4
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 4
+S 2
+S 0
+P 4
+S 1
+P 4
+S 2
+U
+U
+S 0
+P 4
+S 1
+P 4
+S 2
+U
+U
+S 1
+S 2
+S 0
+P 4
+S 1
+P 4
+S 2
+U
+U
+S 0
+P 4
+S 1
+P 4
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+P 4
+S 1
+P 4
+S 2
+S 0
+S 1
+P 4
+S 2
+S 0
+P 4
+S 1
+P 4
+S 2
+U
+U
+S 0
+P 4
+S 1
+P 4
+S 2
+U
+U
+S 1
+S 2
+S 0
+P 4
+S 1
+P 4
+S 2
+U
+U
+S 0
+P 4
+S 1
+P 4
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 4
+S 2
+S 0
+P 4
+S 1
+P 4
+S 2
+U
+U
+S 0
+P 4
+S 1
+P 4
+S 2
+U
+U
+S 1
+S 2
+S 0
+P 4
+S 1
+P 4
+S 2
+U
+U
+S 0
+P 4
+S 1
+P 4
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+A
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+J
+S 2
+S 0
+S 1
+S 2
+J
+P 4
+P 5
+P 5
+S 0
+S 1
+P 4
+P 5
+P 5
+P 5
+S 0
+S 1
+S 2
+J
+S 0
+S 1
+K
+S 2
+S 0
+S 1
+K
+P 4
+J
+S 0
+S 1
+J
+P 4
+J
+J
+S 2
+S 0
+P 4
+P 5
+S 0
+P 4
+P 5
+P 5
+S 2
+S 0
+S 1
+P 5
+S 2
+S 0
+S 1
+P 5
+S 2
+S 0
+S 1
+P 5
+S 2
+U
+U
+S 1
+P 5
+S 2
+P 9
+U
+S 0
+S 1
+P 5
+S 2
+U
+U
+S 1
+P 5
+S 2
+U
+U
+S 1
+P 5
+S 2
+S 0
+S 1
+P 5
+P 9
+P 5
+S 0
+P 9
+S 1
+P 5
+P 9
+S 0
+S 1
+P 5
+S 2
+S 0
+S 1
+S 2
+P 5
+U
+S 2
+U
+U
+S 1
+P 5
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+P 5
+U
+S 2
+U
+U
+S 1
+P 5
+S 2
+S 0
+S 1
+P 5
+P 9
+P 9
+S 0
+S 1
+P 5
+S 2
+P 9
+U
+P 9
+P 5
+S 0
+S 1
+P 5
+S 2
+S 0
+S 1
+P 5
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 5
+S 2
+S 0
+S 1
+P 5
+S 2
+U
+U
+P 9
+S 0
+S 1
+S 2
+P 5
+U
+S 2
+U
+U
+S 1
+P 5
+P 9
+S 0
+S 1
+S 2
+S 0
+S 1
+P 5
+S 2
+U
+U
+P 5
+S 0
+S 1
+P 5
+S 2
+U
+U
+P 5
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 5
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 5
+P 9
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 5
+S 2
+U
+U
+S 1
+P 5
+S 2
+S 0
+S 1
+P 5
+P 9
+P 5
+S 0
+S 1
+P 5
+P 9
+P 5
+S 1
+S 2
+S 0
+S 1
+A
+P 5
+S 1
+A
+P 5
+S 0
+S 1
+A
+P 5
+S 1
+A
+P 5
+S 2
+S 0
+P 5
+S 1
+P 5
+S 2
+S 0
+P 5
+S 1
+S 2
+P 5
+S 0
+P 5
+P 6
+S 2
+S 0
+P 5
+S 1
+P 6
+S 2
+U
+U
+S 0
+P 5
+S 1
+P 6
+S 2
+U
+U
+S 0
+P 5
+S 1
+P 6
+S 2
+S 0
+P 5
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 5
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+P 5
+S 1
+P 5
+S 2
+S 0
+P 5
+S 1
+S 2
+S 0
+P 5
+P 6
+S 0
+P 5
+S 1
+P 6
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+P 5
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 5
+S 2
+P 5
+S 0
+P 5
+S 1
+P 5
+S 2
+U
+U
+S 1
+S 2
+S 0
+P 5
+S 1
+P 6
+S 2
+U
+U
+S 0
+P 5
+S 1
+P 6
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+J
+S 2
+S 0
+S 1
+J
+S 2
+U
+U
+S 1
+J
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+J
+S 2
+U
+U
+S 1
+A
+P 5
+S 0
+S 1
+J
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+J
+J
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+J
+S 2
+U
+U
+S 1
+A
+S 2
+S 0
+S 1
+A
+P 5
+A
+S 0
+S 1
+A
+P 5
+A
+S 2
+S 0
+S 1
+S 2
+P 4
+S 0
+P 4
+P 5
+P 4
+P 5
+S 0
+S 1
+S 2
+S 0
+P 4
+P 5
+S 0
+P 4
+P 5
+P 4
+P 5
+P 5
+S 0
+S 1
+S 2
+S 0
+S 1
+J
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+J
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+J
+S 2
+U
+U
+S 1
+K
+S 2
+U
+U
+J
+S 0
+S 1
+J
+S 2
+S 0
+S 1
+J
+S 2
+U
+U
+J
+S 0
+S 1
+J
+S 2
+U
+U
+J
+J
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+P 4
+U
+P 4
+P 5
+S 0
+S 1
+S 2
+U
+U
+P 4
+P 5
+P 4
+P 5
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 4
+P 5
+P 5
+P 4
+P 5
+S 1
+A
+P 5
+S 2
+S 0
+S 1
+P 5
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+P 5
+S 2
+U
+U
+S 1
+P 5
+S 2
+P 5
+U
+S 0
+S 1
+P 5
+S 2
+U
+U
+S 1
+P 5
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 5
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 5
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 5
+S 2
+U
+U
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 5
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 5
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 5
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 5
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 5
+S 2
+U
+U
+S 1
+P 5
+S 2
+S 0
+S 1
+P 5
+S 2
+S 0
+S 1
+P 5
+P 9
+P 5
+S 0
+S 1
+P 5
+P 9
+P 5
+P 5
+S 0
+S 1
+P 5
+S 2
+S 0
+S 1
+P 5
+P 9
+P 5
+P 5
+P 5
+S 0
+S 1
+S 2
+P 5
+S 0
+S 1
+P 4
+S 2
+P 5
+S 0
+P 4
+P 5
+P 5
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 5
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 5
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 5
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 5
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 5
+S 2
+U
+U
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 5
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 5
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 5
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 5
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 5
+S 2
+U
+U
+P 5
+S 1
+S 2
+S 0
+S 1
+A
+P 5
+S 1
+A
+P 5
+S 0
+P 5
+S 1
+A
+P 5
+S 2
+S 0
+P 5
+S 1
+P 5
+S 2
+S 0
+S 1
+P 5
+S 2
+S 0
+P 5
+S 1
+P 5
+S 2
+U
+U
+S 0
+P 5
+S 1
+P 5
+S 2
+U
+U
+S 1
+S 2
+S 0
+S 1
+P 5
+S 2
+U
+U
+S 1
+P 6
+S 2
+U
+U
+S 0
+S 1
+P 5
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 5
+S 2
+S 0
+P 5
+S 1
+P 5
+S 2
+U
+U
+S 0
+P 5
+S 1
+S 2
+P 5
+U
+S 2
+U
+U
+S 1
+S 2
+S 0
+S 1
+P 5
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 5
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+P 5
+S 1
+P 5
+S 2
+S 0
+S 1
+P 5
+S 2
+S 0
+S 1
+P 5
+S 2
+P 5
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 5
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+S 0
+S 1
+P 5
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 5
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 5
+S 2
+S 0
+S 1
+P 5
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 5
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+S 0
+S 1
+P 5
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 5
+S 2
+U
+U
+S 1
+P 5
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+S 0
+S 1
+C 0
+S 2
+S 0
+S 1
+S 2
+S 0
+W 0
+P 0
+S 0
+W 0
+P 0
+S 2
+S 0
+W 0
+S 1
+P 0
+S 2
+S 0
+W 0
+S 1
+P 0
+S 2
+U
+U
+S 0
+W 0
+S 1
+P 0
+S 2
+U
+U
+S 0
+W 0
+S 1
+P 0
+S 2
+S 0
+W 0
+S 1
+P 0
+S 2
+U
+U
+S 0
+W 0
+S 1
+P 0
+S 2
+U
+P 0
+P 0
+S 0
+S 1
+S 2
+S 0
+W 0
+P 0
+S 0
+W 0
+P 0
+S 2
+S 0
+W 0
+S 1
+P 0
+S 2
+S 0
+W 0
+P 0
+S 0
+S 1
+S 2
+W 0
+U
+S 2
+W 0
+U
+P 0
+S 0
+W 0
+S 1
+P 0
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 0
+S 0
+S 1
+P 0
+S 2
+U
+U
+P 0
+P 0
+S 1
+A
+S 2
+S 0
+P 0
+J
+S 0
+P 0
+J
+S 0
+S 1
+C 0
+S 2
+S 0
+S 1
+S 2
+S 0
+W 0
+P 0
+S 0
+S 1
+S 2
+W 0
+S 0
+W 0
+P 0
+S 2
+W 0
+S 0
+W 0
+P 0
+P 0
+S 2
+S 0
+W 0
+S 1
+P 0
+S 2
+S 0
+S 1
+P 0
+S 2
+U
+U
+P 0
+S 0
+S 1
+P 0
+S 2
+U
+U
+P 0
+S 0
+S 1
+S 2
+W 0
+S 0
+W 0
+S 1
+P 0
+S 2
+W 0
+U
+S 2
+W 0
+S 0
+W 0
+S 1
+S 2
+W 0
+U
+S 2
+W 0
+U
+P 0
+P 0
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+W 0
+P 0
+S 0
+W 0
+P 0
+S 2
+S 0
+W 0
+P 0
+S 0
+W 0
+P 0
+P 0
+S 0
+S 1
+S 2
+S 0
+W 0
+P 0
+S 0
+W 0
+P 0
+S 2
+S 0
+W 0
+P 0
+S 0
+W 0
+P 0
+P 0
+S 2
+S 0
+S 1
+S 2
+S 0
+W 0
+S 1
+P 0
+S 2
+U
+U
+S 0
+W 0
+P 0
+S 2
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 0
+S 0
+S 1
+S 2
+S 0
+W 0
+P 0
+S 0
+W 0
+P 0
+S 2
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+W 0
+S 1
+P 0
+S 2
+U
+U
+P 0
+P 0
+S 1
+A
+S 2
+S 0
+P 0
+J
+J
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+W 0
+S 1
+S 2
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+W 0
+P 4
+S 0
+W 0
+P 4
+S 0
+W 0
+S 1
+S 2
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+W 0
+P 4
+S 0
+W 0
+P 4
+S 2
+S 0
+W 0
+P 4
+P 4
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 4
+S 1
+P 0
+P 4
+S 0
+S 1
+S 2
+U
+P 0
+P 4
+P 0
+P 4
+P 4
+S 0
+S 1
+S 2
+S 0
+S 1
+P 0
+P 4
+P 0
+S 0
+S 1
+P 0
+P 4
+P 0
+P 4
+P 4
+P 4
+S 0
+S 1
+S 2
+S 0
+W 0
+S 1
+S 2
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+W 0
+U
+S 2
+W 0
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+W 0
+P 4
+P 4
+S 0
+W 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+P 0
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 0
+S 2
+U
+U
+P 4
+P 4
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+P 0
+P 4
+P 0
+P 0
+P 4
+P 4
+S 0
+S 1
+P 0
+P 4
+P 4
+P 4
+S 2
+S 0
+S 1
+S 2
+S 0
+W 0
+P 4
+S 0
+W 0
+P 4
+S 2
+S 0
+W 0
+S 1
+S 2
+S 0
+W 0
+P 4
+S 0
+W 0
+P 4
+S 2
+S 0
+W 0
+S 1
+P 4
+S 2
+U
+U
+S 0
+W 0
+S 1
+P 4
+S 2
+U
+U
+S 0
+W 0
+S 1
+S 2
+S 0
+W 0
+P 4
+S 0
+W 0
+P 4
+S 2
+S 0
+W 0
+S 1
+P 4
+S 2
+U
+U
+S 0
+W 0
+S 1
+P 4
+S 2
+U
+U
+P 4
+S 0
+S 1
+S 2
+S 0
+W 0
+P 4
+S 0
+W 0
+P 4
+S 2
+S 0
+W 0
+S 1
+P 4
+S 2
+S 0
+W 0
+S 1
+P 4
+S 2
+U
+U
+S 0
+S 1
+S 2
+W 0
+U
+S 2
+W 0
+U
+S 1
+P 4
+S 2
+U
+P 4
+S 0
+W 0
+S 1
+P 4
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 4
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 4
+P 4
+S 1
+S 2
+S 0
+P 4
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+P 4
+S 1
+J
+P 4
+S 0
+P 4
+J
+P 4
+S 1
+J
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 4
+S 1
+J
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+J
+P 4
+S 1
+J
+S 2
+U
+U
+S 0
+S 1
+S 2
+S 0
+P 4
+J
+S 0
+P 4
+J
+P 4
+S 1
+J
+S 2
+S 0
+P 4
+J
+S 0
+P 4
+J
+P 4
+S 0
+P 4
+S 1
+S 2
+S 0
+P 4
+S 1
+J
+S 2
+S 0
+P 4
+J
+J
+S 0
+P 4
+J
+P 4
+S 2
+S 0
+P 4
+S 1
+P 4
+S 2
+S 0
+S 1
+P 4
+S 2
+S 0
+S 1
+P 4
+S 2
+P 4
+U
+S 1
+P 4
+S 2
+U
+U
+S 0
+S 1
+P 4
+P 8
+S 1
+P 4
+S 2
+U
+U
+S 1
+S 2
+S 0
+P 4
+S 1
+P 4
+S 2
+U
+U
+S 0
+P 4
+S 1
+P 4
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 4
+S 2
+S 0
+S 1
+P 4
+P 8
+S 1
+P 4
+S 2
+U
+U
+S 0
+S 1
+P 4
+P 8
+S 1
+P 4
+S 2
+U
+U
+S 1
+S 2
+S 0
+P 4
+S 1
+P 4
+S 2
+U
+U
+S 0
+P 4
+S 1
+P 4
+S 2
+U
+P 4
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+P 4
+S 1
+P 4
+S 2
+S 0
+S 1
+P 4
+S 2
+S 0
+P 8
+S 1
+P 4
+S 2
+U
+U
+S 0
+P 8
+S 1
+P 4
+S 2
+U
+P 8
+S 1
+P 4
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 4
+S 2
+S 0
+P 8
+S 1
+P 4
+P 8
+S 0
+P 8
+S 1
+P 4
+P 8
+S 1
+P 4
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 4
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+W 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 0
+S 2
+U
+P 0
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 0
+P 4
+S 0
+S 1
+S 2
+W 0
+S 0
+W 0
+S 1
+S 2
+W 0
+U
+S 2
+W 0
+U
+P 4
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 0
+S 0
+S 1
+S 2
+U
+P 0
+S 2
+U
+U
+P 0
+P 4
+P 4
+S 1
+S 2
+S 0
+S 1
+P 0
+P 4
+P 4
+S 0
+S 1
+P 0
+P 4
+P 4
+P 4
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+P 4
+P 4
+S 1
+S 2
+S 0
+S 1
+P 0
+P 4
+P 0
+P 0
+P 4
+S 0
+S 1
+S 2
+S 0
+W 0
+S 1
+S 2
+U
+U
+P 4
+S 0
+W 0
+S 1
+S 2
+U
+U
+P 4
+P 4
+S 1
+P 0
+P 4
+P 4
+S 1
+S 2
+S 0
+S 1
+P 0
+P 4
+P 4
+S 0
+S 1
+S 2
+P 0
+S 0
+P 0
+S 1
+P 0
+P 4
+P 4
+P 4
+P 4
+S 2
+S 0
+S 1
+S 2
+S 0
+W 0
+P 4
+S 0
+S 1
+S 2
+W 0
+S 0
+W 0
+P 4
+S 2
+W 0
+S 0
+W 0
+P 4
+P 4
+S 2
+S 0
+W 0
+S 1
+P 4
+S 2
+S 0
+S 1
+S 2
+U
+P 4
+S 2
+U
+U
+P 4
+S 0
+S 1
+P 4
+S 2
+U
+U
+P 4
+S 0
+S 1
+S 2
+W 0
+S 0
+W 0
+S 1
+S 2
+W 0
+P 4
+S 2
+W 0
+U
+S 2
+W 0
+S 0
+W 0
+S 1
+S 2
+W 0
+U
+S 2
+W 0
+U
+S 1
+P 4
+S 2
+S 0
+S 1
+P 4
+S 2
+U
+U
+P 4
+P 4
+P 4
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+W 0
+P 4
+S 0
+W 0
+P 4
+S 2
+S 0
+W 0
+P 4
+S 0
+W 0
+P 4
+P 4
+S 0
+S 1
+S 2
+S 0
+W 0
+P 4
+S 0
+W 0
+P 4
+S 2
+S 0
+W 0
+P 4
+S 0
+W 0
+P 4
+P 4
+S 2
+S 0
+S 1
+S 2
+S 0
+W 0
+S 1
+P 4
+S 2
+U
+U
+S 0
+W 0
+S 1
+P 4
+S 2
+U
+U
+S 2
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 4
+S 0
+S 1
+S 2
+S 0
+W 0
+P 4
+S 0
+W 0
+P 4
+S 2
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+W 0
+S 1
+S 2
+U
+P 4
+S 2
+U
+U
+P 4
+P 4
+S 1
+S 2
+S 0
+P 4
+S 1
+S 2
+S 0
+P 4
+J
+S 0
+P 4
+J
+P 4
+S 0
+P 4
+S 1
+S 2
+S 0
+P 4
+J
+P 4
+P 4
+S 2
+S 0
+P 4
+S 1
+P 4
+S 2
+S 0
+S 1
+P 4
+P 8
+S 1
+P 4
+S 2
+S 0
+S 1
+P 4
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 4
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 4
+P 8
+S 1
+P 4
+S 2
+S 0
+S 1
+P 4
+P 8
+S 1
+P 4
+S 2
+U
+U
+S 0
+S 1
+P 4
+P 8
+S 1
+P 4
+S 2
+U
+U
+S 0
+P 4
+S 1
+P 4
+S 2
+S 0
+S 1
+P 4
+S 2
+S 0
+P 4
+P 8
+P 4
+S 1
+P 4
+S 2
+S 0
+P 8
+S 1
+P 4
+S 2
+U
+U
+S 0
+P 8
+S 1
+P 4
+S 2
+U
+U
+S 0
+P 4
+S 1
+P 4
+S 2
+S 0
+S 1
+P 4
+P 8
+S 1
+P 4
+S 2
+U
+P 8
+S 0
+P 4
+S 1
+P 4
+P 8
+S 1
+A
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+J
+P 5
+S 1
+A
+P 5
+S 0
+S 1
+J
+P 5
+J
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+P 4
+S 2
+S 0
+P 4
+P 5
+P 4
+P 5
+S 0
+P 4
+P 5
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 5
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+P 4
+S 2
+U
+U
+S 1
+P 5
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 5
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 5
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 5
+S 2
+U
+U
+S 0
+S 1
+S 2
+S 0
+S 1
+P 4
+S 2
+U
+U
+S 1
+P 5
+S 2
+U
+U
+S 0
+S 1
+P 4
+S 2
+U
+U
+S 1
+P 5
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 5
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 5
+S 2
+U
+P 5
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 5
+P 5
+S 0
+S 1
+S 2
+S 0
+P 4
+P 5
+S 0
+P 4
+P 5
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+P 4
+S 2
+U
+U
+S 1
+P 5
+S 2
+U
+U
+S 0
+S 1
+P 4
+S 2
+U
+U
+S 1
+P 4
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 5
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 5
+S 0
+S 1
+P 5
+S 2
+U
+U
+P 5
+S 0
+S 1
+S 2
+S 0
+S 1
+P 4
+S 2
+U
+P 4
+S 1
+P 4
+S 2
+U
+U
+S 0
+P 4
+S 1
+P 4
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 5
+S 2
+S 0
+S 1
+P 5
+S 2
+U
+U
+P 5
+S 0
+S 1
+P 5
+S 2
+U
+U
+P 5
+P 5
+S 1
+S 2
+S 0
+P 5
+S 1
+A
+S 2
+S 0
+P 5
+S 1
+S 2
+P 5
+S 0
+A
+P 6
+P 5
+S 0
+P 5
+S 1
+S 2
+J
+J
+P 5
+S 0
+P 5
+S 1
+A
+S 2
+S 0
+P 5
+P 6
+S 0
+P 5
+S 1
+J
+P 5
+S 2
+S 0
+P 5
+S 1
+P 5
+S 2
+S 0
+S 1
+P 5
+S 2
+S 0
+S 1
+P 5
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 5
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+S 0
+P 5
+S 1
+P 5
+S 2
+U
+U
+S 0
+P 5
+S 1
+P 5
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 5
+S 2
+S 0
+S 1
+P 5
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 5
+P 9
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+S 0
+P 5
+S 1
+P 5
+S 2
+U
+U
+S 0
+P 5
+S 1
+P 5
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+P 5
+S 1
+P 5
+S 2
+S 0
+S 1
+P 5
+S 2
+S 0
+S 1
+P 5
+P 9
+S 1
+P 5
+S 2
+U
+U
+S 0
+S 1
+P 5
+P 9
+S 1
+P 5
+S 2
+U
+U
+S 1
+S 2
+S 0
+P 5
+S 1
+P 5
+S 2
+U
+U
+S 0
+P 5
+S 1
+P 5
+S 2
+U
+P 5
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 5
+S 2
+S 0
+P 9
+S 1
+P 5
+S 2
+U
+U
+S 0
+P 9
+S 1
+P 5
+S 2
+U
+U
+S 1
+P 5
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+S 0
+S 1
+J
+P 5
+J
+S 0
+S 1
+J
+P 5
+J
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+P 5
+P 4
+P 5
+S 0
+S 1
+P 5
+P 4
+P 5
+S 2
+S 0
+S 1
+S 2
+S 0
+P 4
+S 1
+P 4
+S 2
+U
+P 4
+P 4
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 5
+S 0
+S 1
+P 4
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+P 4
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 5
+P 5
+S 0
+S 1
+S 2
+S 0
+S 1
+P 5
+P 4
+P 5
+S 0
+S 1
+P 5
+S 2
+S 0
+P 4
+P 5
+S 0
+P 4
+P 5
+P 5
+S 2
+S 0
+S 1
+P 4
+S 2
+S 0
+S 1
+P 4
+S 2
+U
+U
+S 1
+P 5
+S 2
+U
+U
+S 0
+S 1
+P 4
+S 2
+U
+U
+S 1
+P 4
+S 2
+U
+P 5
+P 5
+S 0
+S 1
+P 4
+S 2
+S 0
+S 1
+P 4
+S 2
+U
+U
+P 5
+S 0
+S 1
+P 4
+S 2
+U
+U
+P 5
+P 5
+P 5
+S 1
+S 2
+S 0
+P 5
+S 1
+A
+S 2
+S 0
+P 5
+S 1
+J
+P 5
+P 5
+S 0
+J
+S 1
+A
+P 5
+S 2
+S 0
+P 5
+S 1
+P 5
+S 2
+S 0
+S 1
+P 5
+S 2
+S 0
+P 9
+S 1
+P 5
+P 9
+S 0
+P 9
+S 1
+P 5
+P 9
+S 1
+P 5
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 5
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 5
+P 9
+S 1
+P 5
+S 2
+S 0
+S 1
+P 5
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 5
+S 2
+U
+U
+S 1
+P 5
+S 2
+U
+U
+S 0
+P 5
+S 1
+P 5
+S 2
+S 0
+S 1
+P 5
+S 2
+P 9
+S 0
+P 5
+P 9
+S 1
+P 5
+S 2
+S 0
+S 1
+P 5
+S 2
+U
+P 9
+S 1
+P 5
+S 2
+U
+U
+S 0
+S 1
+P 5
+P 9
+S 1
+P 5
+S 2
+U
+U
+S 0
+P 5
+S 1
+P 5
+S 2
+S 0
+P 9
+S 1
+P 5
+S 2
+U
+U
+S 0
+S 1
+P 5
+P 9
+S 1
+P 5
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+P 8
+U
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+W 0
+P 8
+S 0
+W 0
+S 1
+S 2
+U
+U
+P 8
+P 8
+S 0
+S 1
+S 2
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 0
+S 2
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+P 8
+U
+W 0
+S 1
+S 2
+P 8
+S 0
+S 1
+S 2
+U
+U
+P 8
+P 8
+P 8
+S 2
+S 0
+S 1
+S 2
+S 0
+W 0
+P 8
+S 0
+W 0
+P 8
+S 2
+S 0
+W 0
+P 8
+S 0
+W 0
+P 8
+P 8
+S 0
+S 1
+S 2
+S 0
+W 0
+P 8
+W 0
+S 2
+S 0
+W 0
+P 8
+W 0
+P 8
+P 8
+S 0
+S 1
+S 2
+S 0
+W 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+P 8
+U
+P 8
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 8
+P 8
+S 0
+W 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 8
+S 0
+W 0
+S 1
+S 2
+U
+U
+P 8
+P 8
+S 2
+S 0
+W 0
+P 8
+S 0
+W 0
+P 8
+P 8
+S 2
+S 0
+S 1
+P 8
+S 2
+S 0
+S 1
+P 8
+S 2
+S 0
+W 0
+S 1
+P 8
+S 2
+U
+U
+S 0
+W 0
+S 1
+S 2
+P 8
+U
+S 2
+U
+U
+S 1
+P 8
+P 12
+S 0
+S 1
+S 2
+P 8
+W 0
+S 2
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 0
+S 1
+P 8
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+P 12
+U
+P 12
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 12
+S 1
+P 8
+S 2
+S 0
+S 1
+P 8
+S 2
+S 0
+P 12
+S 1
+P 8
+P 12
+P 12
+P 8
+S 0
+S 1
+P 8
+P 12
+P 8
+S 0
+S 1
+P 8
+S 2
+S 0
+W 0
+S 1
+P 8
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+P 12
+U
+P 12
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 12
+S 0
+W 0
+S 1
+S 2
+P 8
+S 0
+W 0
+P 8
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 8
+S 2
+S 0
+S 1
+P 8
+P 12
+P 8
+S 0
+S 1
+P 8
+S 2
+P 12
+S 0
+S 1
+P 8
+P 12
+P 12
+P 8
+S 1
+S 2
+S 0
+P 8
+S 1
+S 2
+S 0
+S 1
+S 2
+P 8
+S 0
+P 8
+S 1
+P 4
+P 8
+P 8
+S 1
+S 2
+S 0
+S 1
+P 4
+P 8
+S 1
+S 2
+P 4
+U
+P 8
+S 0
+P 4
+S 1
+S 2
+U
+U
+P 8
+P 8
+S 0
+S 1
+P 4
+P 8
+S 1
+S 2
+S 0
+S 1
+P 4
+P 8
+S 1
+S 2
+U
+U
+P 8
+S 0
+S 1
+S 2
+P 4
+U
+P 8
+S 1
+S 2
+U
+U
+S 2
+P 8
+U
+P 8
+P 8
+S 0
+P 8
+S 1
+S 2
+S 0
+S 1
+S 2
+P 4
+S 0
+P 4
+S 1
+P 4
+P 8
+P 8
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 8
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+P 8
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 8
+S 0
+S 1
+S 2
+S 0
+P 4
+S 1
+P 4
+P 8
+S 0
+P 4
+S 1
+S 2
+U
+U
+P 8
+P 8
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 8
+P 8
+S 2
+S 0
+P 8
+S 1
+P 8
+S 2
+S 0
+P 8
+S 1
+P 8
+S 2
+P 8
+S 0
+P 8
+S 1
+S 2
+P 8
+U
+S 2
+U
+U
+S 0
+P 8
+S 1
+S 2
+P 8
+S 0
+P 8
+S 1
+P 8
+S 2
+U
+U
+S 2
+S 0
+P 8
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+P 8
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+P 8
+S 1
+P 8
+S 2
+S 0
+P 8
+S 1
+S 2
+S 0
+P 8
+S 1
+P 8
+S 2
+U
+U
+S 0
+P 8
+S 1
+P 9
+S 2
+U
+U
+S 2
+S 0
+S 1
+P 8
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 8
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+P 8
+S 1
+S 2
+S 0
+P 8
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+P 8
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+W 0
+S 1
+S 2
+S 0
+W 0
+S 1
+S 2
+U
+U
+P 8
+S 0
+W 0
+S 1
+S 2
+U
+U
+P 8
+S 2
+S 0
+W 0
+P 8
+S 0
+W 0
+P 8
+S 0
+W 0
+S 1
+S 2
+S 0
+W 0
+S 1
+S 2
+U
+U
+P 8
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+P 8
+U
+S 2
+S 0
+W 0
+P 8
+S 0
+W 0
+P 8
+S 2
+S 0
+W 0
+P 8
+S 0
+W 0
+P 8
+P 8
+S 0
+S 1
+S 2
+S 0
+W 0
+S 1
+S 2
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+W 0
+P 8
+S 0
+W 0
+P 8
+S 0
+W 0
+S 1
+S 2
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+W 0
+P 8
+S 0
+W 0
+P 8
+S 2
+S 0
+W 0
+P 8
+S 0
+W 0
+P 8
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+P 8
+U
+P 8
+P 8
+S 0
+S 1
+S 2
+U
+U
+P 8
+P 8
+P 8
+P 8
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 8
+P 8
+S 0
+S 1
+S 2
+U
+U
+P 8
+P 8
+P 8
+P 8
+P 8
+S 2
+S 0
+S 1
+S 2
+P 8
+S 0
+W 0
+P 8
+S 2
+S 0
+W 0
+S 1
+S 2
+S 0
+W 0
+P 8
+S 0
+W 0
+P 8
+S 2
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+W 0
+S 1
+S 2
+S 0
+W 0
+P 8
+S 0
+W 0
+P 8
+S 2
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 8
+S 2
+S 0
+S 1
+P 8
+S 2
+S 0
+S 1
+P 8
+P 12
+P 12
+S 0
+S 1
+P 8
+P 12
+P 12
+P 8
+S 0
+S 1
+P 8
+S 2
+S 0
+S 1
+P 8
+S 2
+P 12
+U
+P 12
+S 0
+S 1
+P 8
+S 2
+U
+U
+S 1
+P 8
+P 12
+P 8
+S 0
+S 1
+S 2
+S 0
+W 0
+P 8
+S 0
+W 0
+P 8
+S 2
+S 0
+W 0
+S 1
+S 2
+S 0
+W 0
+P 8
+S 0
+W 0
+P 8
+S 2
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+W 0
+S 1
+S 2
+S 0
+W 0
+P 8
+S 0
+W 0
+P 8
+S 2
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 8
+S 2
+S 0
+S 1
+P 8
+S 2
+S 0
+S 1
+P 8
+S 2
+U
+U
+P 8
+S 0
+S 1
+P 8
+S 2
+U
+U
+P 8
+P 8
+S 0
+S 1
+P 8
+S 2
+S 0
+S 1
+P 8
+S 2
+U
+U
+P 8
+S 0
+S 1
+P 8
+S 2
+U
+U
+P 8
+P 8
+S 1
+S 2
+S 0
+P 8
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+P 4
+P 8
+S 1
+S 2
+U
+U
+P 8
+S 0
+S 1
+P 4
+P 8
+S 1
+S 2
+U
+U
+P 8
+P 8
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+P 8
+S 1
+S 2
+P 8
+U
+P 8
+S 0
+P 8
+S 1
+S 2
+U
+U
+P 8
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+P 4
+U
+P 8
+S 1
+S 2
+U
+U
+P 8
+S 0
+P 8
+S 1
+S 2
+U
+U
+P 8
+P 8
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+P 8
+S 1
+S 2
+U
+U
+P 8
+S 0
+P 8
+S 1
+S 2
+U
+U
+P 8
+P 8
+S 0
+P 8
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+P 8
+S 1
+S 2
+U
+U
+P 8
+S 0
+P 8
+S 1
+S 2
+U
+U
+P 8
+P 8
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+P 8
+S 1
+S 2
+U
+U
+P 8
+S 0
+P 8
+S 1
+S 2
+U
+U
+P 8
+S 0
+S 1
+S 2
+S 0
+P 8
+S 1
+S 2
+U
+U
+P 8
+S 0
+P 8
+S 1
+S 2
+U
+U
+P 8
+P 8
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+P 8
+S 1
+S 2
+U
+U
+P 8
+S 0
+P 8
+S 1
+S 2
+U
+U
+P 8
+P 8
+S 2
+S 0
+P 8
+S 1
+P 8
+S 2
+S 0
+S 1
+P 8
+S 2
+S 0
+P 8
+S 1
+P 8
+S 2
+U
+U
+S 0
+P 8
+S 1
+P 8
+S 2
+U
+U
+S 1
+S 2
+S 0
+P 8
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+P 8
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 8
+S 2
+S 0
+P 8
+S 1
+P 8
+S 2
+U
+U
+S 0
+P 8
+S 1
+P 8
+S 2
+U
+U
+S 1
+S 2
+S 0
+S 1
+P 8
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 8
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+P 8
+S 1
+P 8
+S 2
+S 0
+S 1
+P 8
+S 2
+S 0
+S 1
+P 8
+S 2
+P 8
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 8
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+S 0
+S 1
+P 8
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 8
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 8
+S 2
+S 0
+S 1
+P 8
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 8
+P 12
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+S 0
+S 1
+P 8
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 8
+S 2
+U
+U
+S 1
+S 2
+U
+P 8
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+P 12
+U
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+W 0
+P 12
+S 0
+W 0
+S 1
+S 2
+P 12
+U
+P 12
+P 12
+S 0
+S 1
+S 2
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 0
+S 2
+S 0
+W 0
+S 1
+S 2
+U
+U
+P 12
+W 0
+S 1
+S 2
+P 12
+S 0
+S 1
+S 2
+P 12
+U
+P 12
+P 12
+P 12
+S 2
+S 0
+S 1
+S 2
+S 0
+W 0
+P 12
+S 0
+W 0
+P 12
+S 2
+S 0
+W 0
+P 12
+S 0
+W 0
+P 12
+P 12
+S 0
+S 1
+S 2
+S 0
+W 0
+P 12
+W 0
+S 2
+S 0
+W 0
+P 12
+W 0
+P 12
+P 12
+S 0
+S 1
+S 2
+S 0
+W 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 12
+P 12
+S 0
+S 1
+S 2
+U
+U
+P 12
+P 12
+P 12
+S 0
+W 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 12
+S 0
+W 0
+P 12
+P 12
+S 2
+S 0
+W 0
+P 12
+S 0
+W 0
+P 12
+P 12
+C 2
+S 1
+S 2
+S 0
+P 12
+S 1
+S 2
+S 0
+P 12
+S 1
+S 2
+P 12
+S 0
+P 12
+S 1
+S 2
+P 12
+U
+P 12
+P 12
+S 0
+P 12
+S 1
+S 2
+S 0
+P 12
+S 1
+S 2
+U
+U
+P 12
+S 0
+S 1
+S 2
+U
+U
+P 12
+S 1
+S 2
+U
+U
+P 12
+P 12
+P 12
+S 0
+P 12
+S 1
+S 2
+S 0
+S 1
+S 2
+P 8
+S 0
+P 8
+S 1
+P 8
+P 12
+P 12
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 12
+S 1
+S 2
+U
+U
+P 12
+S 0
+S 1
+S 2
+U
+U
+P 12
+S 1
+S 2
+U
+U
+P 12
+P 12
+S 0
+S 1
+S 2
+S 0
+P 8
+S 1
+S 2
+U
+U
+P 12
+S 0
+P 12
+S 1
+S 2
+U
+U
+P 12
+P 12
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 12
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+P 12
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 12
+P 12
+S 2
+S 0
+S 1
+P 12
+S 2
+S 0
+S 1
+P 12
+S 2
+S 0
+S 1
+P 12
+W 3
+P 12
+P 12
+P 12
+P 12
+S 1
+P 12
+S 2
+S 0
+P 12
+S 1
+P 12
+S 2
+S 0
+P 12
+S 1
+P 12
+W 3
+S 0
+P 12
+S 1
+S 2
+P 12
+U
+W 3
+S 0
+P 12
+S 1
+S 2
+S 0
+P 12
+S 1
+P 12
+S 2
+U
+U
+S 0
+P 12
+S 1
+P 13
+S 2
+U
+U
+S 2
+S 0
+P 12
+S 1
+S 2
+U
+U
+W 3
+W 3
+S 0
+P 12
+S 1
+P 12
+S 2
+S 0
+P 12
+S 1
+S 2
+S 0
+P 12
+S 1
+S 2
+P 13
+U
+S 2
+U
+U
+S 0
+P 12
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 3
+S 0
+S 1
+P 12
+W 3
+S 1
+S 2
+S 0
+P 12
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 12
+W 3
+S 1
+S 2
+U
+U
+W 3
+W 3
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+W 0
+S 1
+S 2
+S 0
+W 0
+S 1
+S 2
+P 12
+U
+P 12
+S 0
+W 0
+S 1
+S 2
+U
+U
+P 12
+P 12
+S 0
+W 0
+S 1
+S 2
+S 0
+W 0
+S 1
+S 2
+U
+U
+P 12
+S 0
+W 0
+S 1
+S 2
+U
+U
+P 12
+P 12
+S 2
+S 0
+W 0
+P 12
+S 0
+W 0
+P 12
+P 12
+S 0
+S 1
+S 2
+S 0
+W 0
+S 1
+S 2
+S 0
+W 0
+S 1
+S 2
+U
+U
+P 12
+S 0
+W 0
+S 1
+S 2
+U
+U
+P 12
+P 12
+S 0
+W 0
+S 1
+S 2
+S 0
+W 0
+S 1
+S 2
+U
+U
+P 12
+S 0
+W 0
+S 1
+S 2
+U
+U
+P 12
+P 12
+S 2
+S 0
+W 0
+P 12
+P 12
+P 12
+C 2
+S 1
+S 2
+S 0
+P 12
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+P 12
+S 1
+S 2
+U
+U
+P 12
+S 0
+P 12
+S 1
+S 2
+U
+U
+P 12
+P 12
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 12
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+P 12
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 12
+S 0
+S 1
+S 2
+S 0
+P 12
+S 1
+S 2
+U
+U
+P 12
+S 0
+P 12
+S 1
+S 2
+U
+U
+P 12
+P 12
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 12
+P 12
+S 0
+P 12
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+P 12
+S 1
+S 2
+U
+U
+P 12
+S 0
+P 12
+S 1
+S 2
+U
+U
+P 12
+P 12
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+P 12
+S 1
+S 2
+U
+U
+P 12
+S 0
+P 12
+S 1
+S 2
+U
+U
+P 12
+S 0
+S 1
+S 2
+S 0
+P 12
+S 1
+S 2
+U
+U
+P 12
+S 0
+P 12
+S 1
+S 2
+U
+P 12
+P 12
+P 12
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+P 12
+S 1
+S 2
+U
+U
+P 12
+S 0
+P 12
+S 1
+S 2
+U
+U
+P 12
+P 12
+S 2
+S 0
+P 12
+S 1
+P 12
+S 2
+S 0
+S 1
+P 12
+W 3
+S 1
+S 2
+S 0
+S 1
+P 12
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 0
+S 1
+P 12
+W 3
+S 1
+S 2
+U
+U
+W 3
+W 3
+S 0
+S 1
+P 12
+W 3
+S 1
+S 2
+S 0
+S 1
+P 12
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 0
+S 1
+P 12
+W 3
+S 1
+S 2
+U
+U
+W 3
+W 3
+S 0
+S 1
+P 12
+S 2
+P 12
+S 0
+P 12
+S 1
+P 12
+W 3
+S 1
+P 12
+S 2
+S 0
+S 1
+P 12
+W 3
+S 1
+S 2
+S 0
+S 1
+P 12
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 0
+S 1
+P 12
+W 3
+S 1
+S 2
+U
+U
+W 3
+W 3
+S 0
+S 1
+P 12
+W 3
+S 1
+S 2
+S 0
+S 1
+P 12
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 0
+S 1
+P 12
+W 3
+S 1
+S 2
+U
+U
+W 3
+W 3
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 8
+P 9
+S 0
+S 1
+S 2
+U
+U
+P 8
+S 1
+S 2
+P 9
+U
+P 8
+P 8
+P 9
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+P 8
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 8
+P 9
+S 2
+S 0
+S 1
+S 2
+S 0
+P 8
+P 9
+S 0
+P 8
+P 9
+P 9
+P 9
+S 0
+S 1
+P 8
+P 9
+P 9
+P 9
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+P 8
+S 1
+S 2
+P 8
+U
+P 8
+S 0
+P 8
+S 1
+S 2
+U
+U
+P 8
+S 1
+S 2
+P 9
+S 0
+S 1
+S 2
+U
+U
+P 9
+P 9
+P 9
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 8
+S 1
+S 2
+U
+U
+P 8
+S 0
+S 1
+S 2
+U
+U
+P 8
+S 1
+S 2
+U
+U
+P 9
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 9
+P 9
+S 0
+S 1
+S 2
+U
+U
+S 2
+P 9
+U
+P 9
+P 9
+S 2
+S 0
+S 1
+P 8
+P 9
+P 9
+S 0
+P 8
+P 9
+P 9
+S 2
+S 0
+S 1
+P 9
+S 2
+S 0
+S 1
+P 9
+S 2
+S 0
+S 1
+P 9
+S 2
+U
+U
+S 1
+P 9
+P 13
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+P 9
+U
+S 2
+U
+U
+S 1
+P 9
+P 13
+S 0
+S 1
+P 9
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 9
+S 2
+P 13
+S 0
+S 1
+S 2
+U
+U
+P 13
+P 13
+S 1
+P 9
+S 2
+S 0
+S 1
+P 9
+S 2
+S 0
+P 13
+P 9
+P 13
+P 9
+S 0
+S 1
+P 9
+P 13
+P 9
+S 0
+S 1
+P 9
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+P 9
+S 2
+U
+U
+P 9
+S 0
+S 1
+P 9
+S 2
+U
+U
+P 9
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 9
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 13
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 13
+S 0
+S 1
+S 2
+S 0
+S 1
+P 9
+S 2
+U
+U
+S 1
+P 9
+S 2
+U
+U
+S 0
+S 1
+P 9
+S 2
+U
+U
+S 1
+P 9
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 9
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 13
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 13
+S 1
+P 9
+S 2
+S 0
+S 1
+P 9
+P 13
+P 9
+S 0
+S 1
+P 9
+P 13
+P 9
+S 1
+S 2
+S 0
+P 9
+S 1
+S 2
+S 0
+S 1
+S 2
+P 9
+S 0
+P 9
+P 5
+P 9
+S 1
+S 2
+S 0
+S 1
+P 5
+P 9
+S 1
+S 2
+U
+U
+P 9
+S 0
+S 1
+P 5
+P 9
+S 1
+S 2
+U
+U
+P 9
+P 9
+S 0
+S 1
+P 5
+P 9
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 9
+S 1
+S 2
+U
+U
+P 9
+S 0
+S 1
+S 2
+U
+U
+P 9
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 9
+P 9
+S 0
+P 9
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+P 5
+S 1
+P 5
+P 9
+S 0
+P 5
+S 1
+S 2
+U
+U
+P 9
+P 9
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+P 9
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 9
+S 0
+S 1
+S 2
+S 0
+P 5
+S 1
+S 2
+U
+U
+P 9
+S 0
+S 1
+P 5
+P 9
+S 1
+S 2
+U
+U
+P 9
+P 9
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+P 9
+S 0
+P 9
+S 1
+S 2
+U
+U
+P 9
+P 9
+S 2
+S 0
+P 9
+S 1
+P 9
+S 2
+S 0
+P 9
+S 1
+S 2
+S 0
+P 9
+P 10
+S 0
+P 9
+P 10
+S 2
+S 0
+P 9
+S 1
+S 2
+P 10
+U
+S 2
+U
+U
+S 0
+P 9
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+P 9
+S 1
+S 2
+S 0
+P 9
+P 10
+S 0
+P 9
+S 1
+P 10
+S 2
+P 10
+U
+S 2
+S 0
+S 1
+P 9
+S 2
+P 9
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+P 9
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+P 9
+S 1
+S 2
+S 0
+P 9
+S 1
+P 9
+P 10
+S 0
+P 9
+S 1
+P 9
+P 10
+S 2
+S 0
+P 9
+S 1
+S 2
+S 0
+P 9
+S 1
+P 10
+S 2
+U
+U
+S 0
+S 1
+P 9
+S 2
+P 9
+U
+S 1
+P 10
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 9
+S 2
+S 0
+P 9
+S 1
+P 9
+S 2
+U
+U
+S 0
+P 9
+S 1
+P 9
+S 2
+U
+U
+S 1
+S 2
+S 0
+S 1
+P 9
+S 2
+U
+U
+S 1
+P 10
+S 2
+U
+U
+S 0
+S 1
+P 9
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 8
+S 1
+S 2
+U
+U
+P 9
+S 0
+S 1
+S 2
+U
+U
+P 8
+S 1
+S 2
+U
+U
+P 9
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 9
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+P 9
+U
+P 9
+P 9
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 9
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 9
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 9
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 9
+P 9
+S 2
+S 0
+P 8
+P 9
+S 0
+S 1
+S 2
+P 8
+S 0
+P 8
+P 9
+P 8
+P 9
+P 9
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 9
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 9
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 9
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 9
+P 9
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 9
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 9
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 9
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 9
+P 9
+P 9
+P 9
+S 2
+S 0
+S 1
+P 9
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 9
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 9
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 9
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 9
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 9
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+S 0
+S 1
+P 9
+S 2
+U
+U
+P 9
+S 0
+S 1
+P 9
+S 2
+U
+U
+P 9
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 9
+S 2
+S 0
+S 1
+P 9
+S 2
+P 13
+S 0
+S 1
+P 9
+P 13
+P 9
+P 9
+S 0
+S 1
+P 9
+S 2
+S 0
+S 1
+P 9
+P 13
+P 9
+S 0
+S 1
+P 9
+P 13
+P 9
+P 9
+S 0
+S 1
+S 2
+S 0
+S 1
+P 8
+S 2
+P 9
+S 0
+S 1
+P 8
+S 2
+U
+U
+P 9
+P 9
+S 0
+S 1
+P 8
+S 2
+S 0
+S 1
+P 8
+S 2
+U
+U
+P 9
+S 0
+P 8
+P 9
+P 9
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+S 0
+S 1
+P 9
+S 2
+U
+U
+P 9
+S 0
+S 1
+P 9
+S 2
+U
+U
+P 9
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+S 0
+S 1
+P 9
+S 2
+U
+U
+P 9
+S 0
+S 1
+P 9
+S 2
+U
+U
+P 9
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+P 9
+S 2
+U
+U
+S 1
+P 9
+S 2
+S 0
+S 1
+P 9
+S 2
+S 0
+S 1
+P 9
+S 2
+P 13
+U
+P 9
+S 0
+S 1
+P 9
+S 2
+U
+U
+P 9
+P 9
+S 0
+S 1
+P 9
+S 2
+S 0
+S 1
+P 9
+S 2
+U
+U
+P 9
+P 9
+P 9
+S 1
+S 2
+S 0
+P 9
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+P 5
+P 9
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+P 9
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 9
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+P 9
+S 1
+S 2
+U
+U
+P 9
+S 0
+P 9
+S 1
+S 2
+U
+U
+P 9
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 9
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+P 9
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 9
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+P 9
+S 1
+S 2
+U
+U
+P 9
+S 0
+S 1
+S 2
+P 9
+U
+P 9
+S 1
+S 2
+U
+U
+P 9
+P 9
+S 0
+P 9
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 9
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+P 9
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 9
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 9
+S 1
+S 2
+U
+U
+S 2
+P 9
+U
+S 0
+S 1
+S 2
+U
+U
+P 9
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 9
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+P 9
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 9
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 9
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+P 9
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 9
+S 2
+S 0
+P 9
+S 1
+S 2
+S 0
+P 9
+S 1
+P 9
+S 2
+S 0
+P 9
+P 10
+S 0
+P 9
+P 10
+S 0
+P 9
+S 1
+P 9
+S 2
+S 0
+P 9
+P 10
+P 9
+S 2
+S 0
+S 1
+P 9
+S 2
+S 0
+P 9
+S 1
+S 2
+P 9
+U
+S 2
+U
+U
+S 0
+P 9
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+S 0
+S 1
+P 9
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 9
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 9
+S 2
+S 0
+S 1
+P 9
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 9
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+S 0
+S 1
+P 9
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 9
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 9
+S 2
+P 9
+S 0
+P 9
+S 1
+P 9
+S 2
+P 9
+S 0
+P 9
+S 1
+P 9
+P 13
+S 1
+P 9
+S 2
+S 0
+S 1
+P 9
+S 2
+S 0
+S 1
+P 9
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 9
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+S 0
+S 1
+P 9
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 9
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 9
+S 2
+S 0
+S 1
+P 9
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 9
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+S 0
+S 1
+P 9
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 9
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+P 12
+P 13
+S 0
+S 1
+S 2
+U
+U
+P 12
+S 1
+S 2
+P 13
+U
+P 12
+P 12
+P 13
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 12
+S 1
+S 2
+U
+U
+P 12
+S 0
+S 1
+S 2
+U
+U
+P 12
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 12
+P 13
+S 2
+S 0
+S 1
+S 2
+P 13
+S 0
+P 12
+P 13
+P 13
+P 13
+S 0
+S 1
+P 12
+P 13
+P 13
+P 13
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 12
+P 13
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+P 12
+S 1
+S 2
+U
+U
+P 12
+S 0
+P 12
+S 1
+S 2
+U
+U
+P 12
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 13
+P 13
+S 0
+S 1
+S 2
+U
+U
+P 13
+P 13
+P 13
+S 2
+S 0
+S 1
+P 12
+P 13
+P 13
+S 0
+P 12
+P 13
+P 13
+S 2
+S 0
+S 1
+P 13
+S 2
+S 0
+S 1
+P 13
+S 2
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 1
+P 13
+S 2
+S 0
+S 1
+S 2
+P 13
+U
+W 3
+S 1
+P 13
+W 3
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+P 13
+U
+W 3
+S 0
+S 1
+S 2
+S 0
+S 1
+P 13
+S 2
+P 13
+U
+P 13
+S 0
+S 1
+P 13
+S 2
+U
+U
+S 1
+P 13
+S 2
+P 13
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+W 3
+S 1
+P 13
+S 2
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+W 3
+S 1
+P 13
+S 2
+S 0
+S 1
+P 13
+S 2
+S 0
+S 1
+P 13
+W 3
+S 1
+P 13
+W 3
+S 0
+S 1
+P 13
+W 3
+S 1
+P 13
+W 3
+S 1
+P 13
+S 2
+S 0
+S 1
+P 13
+W 3
+S 1
+P 13
+W 3
+S 0
+S 1
+P 13
+W 3
+S 1
+P 13
+W 3
+S 0
+S 1
+P 13
+S 2
+S 0
+S 1
+P 13
+W 3
+S 1
+P 13
+W 3
+W 3
+S 1
+P 13
+S 2
+S 0
+S 1
+P 13
+W 3
+S 1
+P 13
+W 3
+W 3
+S 0
+S 1
+P 13
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+P 13
+S 2
+U
+U
+S 1
+P 13
+S 2
+U
+U
+S 0
+S 1
+P 13
+S 2
+U
+U
+S 1
+P 13
+S 2
+U
+U
+W 3
+S 1
+P 13
+W 3
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 13
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+P 13
+W 3
+W 3
+S 1
+S 2
+S 0
+S 1
+P 13
+S 2
+U
+U
+P 13
+S 0
+S 1
+P 13
+W 3
+P 13
+W 3
+S 1
+P 13
+S 2
+S 0
+S 1
+P 13
+W 3
+S 1
+P 13
+W 3
+S 0
+S 1
+P 13
+W 3
+S 1
+P 13
+W 3
+S 1
+S 2
+S 0
+P 13
+S 1
+S 2
+S 0
+P 13
+S 1
+S 2
+P 13
+S 0
+P 13
+S 1
+S 2
+P 13
+U
+P 13
+P 13
+S 0
+S 1
+S 2
+P 13
+S 0
+P 13
+S 1
+P 9
+P 13
+P 13
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 13
+S 1
+S 2
+U
+U
+P 13
+S 0
+S 1
+S 2
+U
+U
+P 13
+S 1
+S 2
+U
+U
+P 13
+P 13
+P 13
+S 0
+P 13
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+P 9
+S 1
+S 2
+P 9
+U
+P 13
+S 0
+P 9
+S 1
+S 2
+U
+U
+P 13
+P 13
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 13
+S 1
+S 2
+U
+U
+P 13
+S 0
+S 1
+S 2
+U
+U
+P 13
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 13
+S 0
+S 1
+S 2
+S 0
+P 13
+S 1
+S 2
+U
+U
+P 13
+S 0
+P 13
+S 1
+S 2
+U
+U
+P 13
+P 13
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 13
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+P 13
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 13
+P 13
+S 2
+S 0
+P 13
+S 1
+S 2
+P 13
+S 0
+P 13
+S 1
+P 13
+S 2
+S 0
+P 13
+P 14
+P 14
+S 2
+S 0
+P 13
+S 1
+S 2
+S 0
+P 13
+P 14
+S 0
+P 13
+P 14
+S 2
+S 0
+P 13
+S 1
+S 2
+U
+U
+W 3
+S 0
+P 13
+S 1
+S 2
+U
+U
+W 3
+S 0
+P 13
+S 1
+S 2
+S 0
+P 13
+S 1
+P 14
+S 2
+U
+U
+S 0
+P 13
+S 1
+P 14
+S 2
+U
+U
+S 2
+S 0
+S 1
+P 13
+W 3
+S 1
+S 2
+U
+U
+W 3
+W 3
+S 0
+P 13
+S 1
+S 2
+S 0
+P 13
+S 1
+P 13
+P 14
+S 0
+P 13
+S 1
+P 13
+S 2
+P 14
+S 0
+P 13
+P 14
+S 2
+S 0
+S 1
+P 13
+W 3
+S 1
+S 2
+S 0
+S 1
+P 13
+S 2
+P 13
+U
+S 1
+P 14
+S 2
+U
+U
+S 0
+S 1
+P 13
+S 2
+U
+U
+S 1
+S 2
+P 14
+U
+S 2
+U
+U
+W 3
+S 0
+S 1
+P 13
+W 3
+S 1
+S 2
+S 0
+S 1
+P 13
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 13
+W 3
+S 1
+S 2
+U
+U
+W 3
+W 3
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 12
+S 1
+S 2
+U
+U
+P 12
+S 0
+S 1
+S 2
+U
+U
+P 12
+S 1
+S 2
+U
+U
+P 13
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 13
+P 13
+S 0
+S 1
+S 2
+U
+U
+P 13
+P 13
+P 13
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 12
+S 1
+S 2
+U
+U
+P 13
+S 0
+S 1
+S 2
+U
+U
+P 12
+S 1
+S 2
+U
+U
+P 13
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 13
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 13
+P 13
+S 2
+S 0
+P 12
+P 13
+P 13
+P 13
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+P 12
+U
+S 1
+S 2
+U
+U
+P 13
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 13
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 13
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 13
+P 13
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 13
+S 0
+S 1
+S 2
+U
+U
+P 13
+S 1
+S 2
+U
+P 13
+P 13
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 13
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 13
+P 13
+P 13
+P 13
+S 2
+S 0
+S 1
+S 2
+P 13
+S 0
+S 1
+P 13
+S 2
+S 0
+S 1
+P 13
+S 2
+P 13
+U
+P 13
+S 0
+S 1
+P 13
+S 2
+U
+U
+P 13
+P 13
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+P 13
+U
+W 3
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+W 3
+S 1
+S 2
+S 0
+S 1
+P 13
+W 3
+P 13
+S 0
+S 1
+P 13
+W 3
+P 13
+W 3
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+W 3
+S 1
+S 2
+S 0
+S 1
+P 13
+W 3
+P 13
+S 0
+S 1
+P 13
+W 3
+P 13
+W 3
+S 1
+P 13
+S 2
+S 0
+S 1
+P 13
+W 3
+P 13
+S 0
+S 1
+P 13
+W 3
+P 13
+S 0
+S 1
+S 2
+S 0
+S 1
+P 13
+S 2
+S 0
+S 1
+P 12
+S 2
+U
+U
+P 13
+S 0
+S 1
+P 12
+S 2
+U
+U
+P 13
+P 13
+S 0
+S 1
+P 12
+S 2
+S 0
+S 1
+P 12
+S 2
+U
+U
+P 13
+S 0
+S 1
+P 12
+S 2
+U
+U
+P 13
+P 13
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+W 3
+S 1
+S 2
+S 0
+S 1
+P 13
+W 3
+P 13
+S 0
+S 1
+P 13
+W 3
+P 13
+W 3
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+W 3
+S 1
+S 2
+S 0
+S 1
+P 13
+W 3
+P 13
+S 0
+S 1
+P 13
+W 3
+P 13
+W 3
+S 1
+P 13
+S 2
+S 0
+S 1
+P 13
+W 3
+P 13
+S 0
+S 1
+P 13
+W 3
+P 13
+S 1
+S 2
+S 0
+P 13
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+P 13
+S 1
+S 2
+U
+U
+P 13
+S 0
+P 13
+S 1
+S 2
+U
+U
+P 13
+P 13
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+P 13
+S 0
+P 13
+S 1
+S 2
+P 13
+U
+P 13
+S 0
+S 1
+S 2
+S 0
+P 13
+S 1
+S 2
+U
+U
+P 13
+S 0
+P 13
+S 1
+S 2
+U
+U
+P 13
+P 13
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+P 13
+S 1
+S 2
+U
+U
+P 13
+S 0
+P 13
+S 1
+S 2
+U
+U
+P 13
+P 13
+S 0
+P 13
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+P 13
+S 1
+S 2
+U
+U
+P 13
+S 0
+P 13
+S 1
+S 2
+U
+U
+P 13
+P 13
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+P 13
+S 1
+S 2
+U
+U
+P 13
+S 0
+P 13
+S 1
+S 2
+U
+U
+P 13
+S 0
+S 1
+S 2
+S 0
+P 13
+S 1
+S 2
+U
+U
+P 13
+S 0
+P 13
+S 1
+S 2
+U
+U
+P 13
+P 13
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+P 13
+S 1
+S 2
+U
+U
+P 13
+S 0
+P 13
+S 1
+S 2
+U
+U
+P 13
+P 13
+S 2
+S 0
+P 13
+S 1
+S 2
+S 0
+P 13
+S 1
+P 13
+S 2
+S 0
+P 13
+P 14
+S 0
+P 13
+S 1
+P 13
+S 2
+U
+U
+S 0
+P 13
+S 1
+P 13
+S 2
+S 0
+P 13
+S 1
+P 13
+S 2
+U
+U
+S 0
+P 13
+S 1
+P 13
+S 2
+U
+U
+S 2
+S 0
+S 1
+P 13
+W 3
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+W 3
+S 0
+S 1
+S 2
+P 13
+S 0
+P 13
+S 1
+P 13
+W 3
+W 3
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+W 3
+S 0
+S 1
+P 13
+S 2
+S 0
+P 13
+S 1
+P 13
+W 3
+S 0
+P 13
+S 1
+P 13
+W 3
+S 1
+S 2
+S 0
+P 13
+S 1
+P 13
+S 2
+S 0
+P 13
+S 1
+P 13
+S 2
+U
+U
+S 0
+P 13
+S 1
+P 13
+S 2
+U
+U
+S 0
+P 13
+S 1
+P 13
+S 2
+S 0
+P 13
+S 1
+P 13
+S 2
+U
+U
+P 13
+S 2
+S 0
+S 1
+S 2
+S 0
+P 13
+S 1
+P 13
+W 3
+S 0
+P 13
+S 1
+P 13
+W 3
+W 3
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+W 3
+S 0
+S 1
+S 2
+S 0
+P 13
+S 1
+P 13
+W 3
+S 0
+P 13
+S 1
+P 13
+W 3
+W 3
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+W 3
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+W 0
+S 1
+S 2
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 8
+S 0
+W 0
+S 1
+S 2
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 8
+P 8
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 8
+P 8
+S 0
+S 1
+S 2
+U
+U
+P 8
+P 8
+P 8
+P 8
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 8
+P 4
+S 0
+S 1
+P 4
+P 8
+P 4
+P 8
+P 8
+P 8
+S 0
+S 1
+S 2
+S 0
+W 0
+S 1
+S 2
+S 0
+W 0
+S 1
+S 2
+U
+U
+P 8
+S 0
+S 1
+S 2
+W 0
+U
+S 2
+W 0
+U
+S 1
+S 2
+U
+U
+P 8
+P 8
+S 0
+W 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 8
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+P 4
+P 8
+P 8
+P 8
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+P 4
+P 8
+P 4
+S 0
+S 1
+P 4
+P 8
+P 4
+P 8
+P 8
+S 0
+S 1
+P 4
+P 8
+P 8
+P 8
+S 2
+S 0
+S 1
+S 2
+S 0
+W 0
+P 8
+S 0
+W 0
+P 8
+S 2
+S 0
+W 0
+S 1
+S 2
+S 0
+W 0
+P 8
+S 0
+W 0
+P 8
+S 2
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+W 0
+S 1
+S 2
+S 0
+W 0
+P 8
+S 0
+W 0
+P 8
+S 2
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+W 0
+S 1
+S 2
+U
+P 8
+S 2
+U
+U
+S 1
+P 8
+S 2
+S 0
+S 1
+P 8
+S 2
+S 0
+S 1
+P 8
+S 2
+U
+U
+P 8
+S 0
+S 1
+P 8
+S 2
+U
+P 8
+P 8
+P 8
+P 8
+S 0
+S 1
+S 2
+S 0
+W 0
+P 8
+S 0
+W 0
+P 8
+S 2
+S 0
+W 0
+S 1
+S 2
+S 0
+W 0
+P 8
+S 0
+S 1
+P 8
+S 2
+W 0
+U
+P 8
+S 2
+S 0
+W 0
+S 1
+P 8
+S 2
+U
+U
+S 0
+S 1
+S 2
+W 0
+U
+S 2
+W 0
+U
+S 1
+P 8
+S 2
+U
+U
+S 0
+W 0
+S 1
+S 2
+S 0
+S 1
+P 8
+S 2
+U
+U
+P 8
+P 8
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 8
+S 2
+U
+P 8
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 8
+P 8
+S 1
+S 2
+S 0
+P 8
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+P 8
+S 1
+S 2
+U
+U
+P 8
+S 0
+P 8
+S 1
+S 2
+U
+U
+P 8
+P 8
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+P 8
+S 1
+S 2
+U
+U
+P 8
+S 0
+P 8
+S 1
+S 2
+U
+U
+P 8
+S 0
+S 1
+S 2
+S 0
+P 8
+S 1
+S 2
+U
+P 8
+P 8
+P 8
+P 8
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+P 8
+S 1
+S 2
+U
+U
+P 8
+S 0
+P 8
+S 1
+S 2
+U
+U
+P 8
+P 8
+S 0
+P 8
+S 1
+S 2
+S 0
+P 8
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+P 8
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+P 8
+S 1
+S 2
+U
+U
+P 8
+S 0
+P 8
+S 1
+S 2
+U
+U
+P 8
+S 0
+P 8
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 8
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+P 8
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+P 8
+S 1
+S 2
+U
+U
+P 8
+S 0
+P 8
+S 1
+S 2
+U
+U
+P 8
+P 8
+S 2
+S 0
+S 1
+P 8
+S 2
+P 8
+S 0
+P 8
+S 1
+P 8
+P 12
+S 1
+P 8
+S 2
+S 0
+S 1
+P 8
+S 2
+S 0
+S 1
+P 8
+P 12
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 8
+P 12
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+S 0
+S 1
+P 8
+S 2
+U
+U
+S 1
+P 8
+S 2
+U
+U
+S 0
+S 1
+P 8
+S 2
+U
+P 8
+S 1
+P 8
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 8
+S 2
+S 0
+S 1
+P 8
+P 12
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+P 12
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+S 0
+P 8
+S 1
+P 8
+S 2
+U
+U
+S 0
+P 8
+S 1
+P 8
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 8
+S 2
+S 0
+P 8
+S 1
+P 8
+P 12
+S 0
+P 8
+S 1
+P 8
+P 12
+S 1
+P 8
+S 2
+S 0
+S 1
+P 8
+S 2
+S 0
+P 12
+S 1
+S 2
+U
+U
+P 12
+S 0
+P 12
+S 1
+S 2
+U
+U
+P 12
+S 1
+S 2
+S 0
+P 8
+S 1
+P 8
+S 2
+U
+U
+S 0
+P 8
+S 1
+P 8
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 8
+S 2
+S 0
+P 12
+S 1
+S 2
+U
+P 12
+P 12
+P 12
+S 1
+S 2
+S 0
+P 8
+S 1
+P 8
+S 2
+U
+U
+P 8
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+W 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+P 8
+S 1
+P 4
+P 8
+S 0
+S 1
+S 2
+U
+U
+P 8
+S 1
+P 4
+P 8
+P 8
+S 0
+S 1
+S 2
+W 0
+S 0
+W 0
+S 1
+S 2
+W 0
+U
+P 8
+P 8
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 8
+P 4
+S 0
+S 1
+S 2
+U
+U
+P 8
+P 4
+P 8
+P 8
+S 1
+S 2
+S 0
+S 1
+P 4
+P 8
+P 8
+S 0
+S 1
+P 4
+P 8
+P 8
+P 8
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+W 0
+S 1
+S 2
+U
+U
+P 8
+S 0
+W 0
+S 1
+S 2
+U
+U
+P 8
+P 8
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+P 4
+P 8
+P 4
+S 0
+S 1
+P 4
+P 8
+P 4
+P 8
+S 0
+S 1
+S 2
+S 0
+W 0
+S 1
+S 2
+U
+U
+P 8
+S 0
+W 0
+S 1
+S 2
+U
+U
+P 8
+P 8
+S 1
+S 2
+S 0
+P 4
+P 8
+S 0
+S 1
+P 4
+P 8
+P 8
+P 8
+P 8
+P 8
+S 2
+S 0
+S 1
+S 2
+S 0
+W 0
+P 8
+S 0
+S 1
+S 2
+W 0
+S 0
+W 0
+P 8
+S 2
+W 0
+S 0
+W 0
+P 8
+P 8
+S 2
+S 0
+W 0
+S 1
+P 8
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 8
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 8
+S 0
+S 1
+S 2
+W 0
+S 0
+W 0
+S 1
+S 2
+W 0
+U
+S 2
+W 0
+U
+S 2
+W 0
+S 0
+W 0
+S 1
+S 2
+W 0
+U
+S 2
+W 0
+U
+S 1
+P 8
+S 2
+S 0
+S 1
+P 8
+S 2
+U
+U
+P 8
+S 0
+S 1
+P 8
+S 2
+U
+P 8
+P 8
+P 8
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+W 0
+P 8
+S 0
+W 0
+P 8
+S 2
+S 0
+W 0
+P 8
+S 0
+W 0
+P 8
+P 8
+S 0
+S 1
+S 2
+S 0
+W 0
+P 8
+S 0
+W 0
+P 8
+S 2
+S 0
+W 0
+P 8
+S 0
+W 0
+P 8
+P 8
+S 2
+S 0
+S 1
+S 2
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+W 0
+S 1
+P 8
+S 2
+U
+U
+S 2
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 8
+S 0
+S 1
+S 2
+S 0
+W 0
+S 1
+P 8
+S 2
+U
+P 8
+S 0
+W 0
+P 8
+S 2
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+W 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 8
+P 8
+S 1
+S 2
+S 0
+P 8
+S 1
+S 2
+S 0
+P 8
+S 1
+S 2
+S 0
+P 8
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+P 8
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+P 8
+S 1
+S 2
+U
+P 9
+P 8
+S 0
+P 8
+P 9
+S 0
+P 8
+S 1
+S 2
+S 0
+P 8
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+P 8
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 8
+P 8
+S 0
+P 8
+S 1
+S 2
+S 0
+P 8
+S 1
+S 2
+S 0
+P 8
+S 1
+S 2
+U
+U
+P 8
+S 0
+P 8
+S 1
+S 2
+U
+P 8
+P 8
+P 8
+P 8
+P 8
+S 2
+S 0
+S 1
+P 8
+S 2
+S 0
+P 8
+S 1
+P 8
+P 12
+S 0
+P 8
+S 1
+P 8
+P 12
+S 1
+P 8
+S 2
+S 0
+S 1
+P 8
+P 12
+S 1
+P 8
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+P 12
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 8
+P 12
+S 1
+P 8
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 12
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+P 12
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 8
+S 2
+S 0
+P 8
+S 1
+P 8
+S 2
+P 12
+S 0
+P 8
+P 12
+P 8
+S 1
+P 8
+S 2
+S 0
+S 1
+P 8
+P 12
+S 1
+P 8
+S 2
+S 0
+P 12
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+P 12
+S 1
+P 8
+S 2
+U
+U
+S 0
+S 1
+P 8
+P 12
+S 1
+P 8
+S 2
+S 0
+P 12
+S 1
+P 8
+P 12
+P 12
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+W 0
+S 1
+S 2
+S 0
+W 0
+S 1
+S 2
+U
+U
+P 12
+S 0
+W 0
+S 1
+S 2
+U
+U
+P 12
+P 12
+S 0
+W 0
+S 1
+S 2
+S 0
+W 0
+S 1
+S 2
+U
+U
+P 12
+S 0
+W 0
+S 1
+S 2
+U
+U
+P 12
+P 12
+P 12
+P 12
+S 0
+S 1
+S 2
+S 0
+W 0
+S 1
+S 2
+S 0
+W 0
+S 1
+S 2
+U
+U
+P 12
+S 0
+S 1
+S 2
+W 0
+U
+P 12
+S 1
+S 2
+U
+U
+P 12
+P 12
+S 0
+W 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 12
+S 1
+S 2
+U
+U
+P 12
+S 0
+S 1
+S 2
+U
+U
+P 12
+S 1
+S 2
+U
+U
+P 12
+P 12
+P 12
+P 12
+C 2
+S 1
+S 2
+S 0
+P 12
+S 1
+S 2
+S 0
+P 12
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+P 12
+S 1
+S 2
+U
+U
+P 12
+S 0
+P 12
+S 1
+S 2
+U
+U
+P 12
+S 0
+P 12
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 12
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+P 12
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+P 12
+S 1
+S 2
+U
+U
+P 12
+S 0
+P 12
+S 1
+S 2
+U
+U
+P 12
+P 12
+S 0
+P 12
+S 1
+S 2
+S 0
+P 12
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 12
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+P 12
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+P 12
+S 1
+S 2
+U
+U
+P 12
+S 0
+P 12
+S 1
+S 2
+U
+U
+P 12
+S 0
+P 12
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 12
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+P 12
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+P 12
+S 1
+S 2
+U
+P 13
+P 12
+S 0
+P 12
+P 13
+P 12
+S 2
+S 0
+S 1
+P 12
+S 2
+S 0
+P 12
+S 1
+P 12
+W 3
+S 0
+P 12
+S 1
+P 12
+W 3
+S 1
+P 12
+S 2
+S 0
+S 1
+P 12
+W 3
+S 1
+S 2
+S 0
+S 1
+P 12
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 0
+S 1
+P 12
+W 3
+S 1
+S 2
+U
+U
+W 3
+W 3
+S 0
+S 1
+P 12
+W 3
+S 1
+S 2
+S 0
+S 1
+P 12
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 0
+S 1
+P 12
+W 3
+S 1
+S 2
+U
+P 12
+W 3
+W 3
+S 0
+S 1
+P 12
+S 2
+S 0
+P 12
+S 1
+P 12
+W 3
+S 0
+P 12
+S 1
+P 12
+W 3
+S 1
+P 12
+S 2
+S 0
+S 1
+P 12
+W 3
+S 1
+S 2
+S 0
+S 1
+P 12
+W 3
+S 1
+P 12
+W 3
+S 0
+S 1
+P 12
+S 2
+W 3
+U
+S 1
+P 12
+S 2
+W 3
+U
+W 3
+S 0
+S 1
+P 12
+W 3
+S 1
+S 2
+S 0
+S 1
+P 12
+S 2
+U
+U
+S 1
+P 12
+S 2
+U
+U
+S 0
+P 12
+S 1
+P 12
+S 2
+U
+U
+W 3
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+W 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 12
+S 1
+S 2
+U
+P 8
+P 12
+S 0
+S 1
+S 2
+U
+U
+P 12
+S 1
+P 8
+P 12
+P 12
+S 0
+S 1
+S 2
+W 0
+S 0
+W 0
+S 1
+S 2
+W 0
+U
+P 12
+P 12
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 12
+P 8
+S 0
+S 1
+S 2
+U
+U
+P 12
+P 8
+P 12
+P 12
+P 12
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+W 0
+S 1
+S 2
+U
+U
+P 12
+S 0
+W 0
+S 1
+S 2
+U
+P 12
+P 12
+P 12
+P 12
+S 0
+S 1
+S 2
+S 0
+W 0
+P 12
+P 12
+P 12
+P 12
+S 2
+P 12
+S 0
+S 1
+P 12
+S 2
+S 0
+W 0
+P 12
+S 0
+W 0
+P 12
+P 12
+P 12
+C 2
+S 1
+S 2
+S 0
+P 12
+S 1
+S 2
+S 0
+P 12
+S 1
+S 2
+S 0
+P 12
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+P 12
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 12
+S 0
+P 12
+S 1
+S 2
+S 0
+P 12
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+P 12
+S 1
+S 2
+U
+U
+P 12
+P 12
+P 12
+S 0
+P 12
+S 1
+S 2
+S 0
+P 12
+S 1
+S 2
+S 0
+P 12
+S 1
+S 2
+U
+U
+P 12
+P 12
+P 12
+P 12
+P 12
+S 2
+S 0
+S 1
+P 12
+S 2
+S 0
+P 12
+S 1
+P 12
+W 3
+S 0
+S 1
+P 12
+S 2
+W 3
+S 0
+P 12
+S 1
+P 12
+W 3
+S 1
+P 12
+S 2
+W 3
+S 0
+S 1
+P 12
+W 3
+S 1
+P 12
+W 3
+S 1
+P 12
+S 2
+S 0
+S 1
+P 12
+W 3
+S 1
+S 2
+S 0
+P 12
+S 1
+P 12
+S 2
+U
+U
+S 0
+P 12
+S 1
+P 12
+S 2
+U
+U
+W 3
+S 0
+S 1
+P 12
+S 2
+W 3
+S 0
+S 1
+P 12
+W 3
+S 1
+S 2
+W 3
+U
+W 3
+S 1
+P 12
+S 2
+W 3
+S 0
+S 1
+S 2
+W 3
+U
+W 3
+S 1
+S 2
+W 3
+U
+W 3
+S 0
+S 1
+P 12
+S 2
+S 0
+S 1
+P 12
+S 2
+S 0
+P 12
+S 1
+P 12
+W 3
+S 0
+P 12
+S 1
+P 12
+W 3
+S 1
+P 12
+S 2
+S 0
+S 1
+P 12
+W 3
+S 1
+P 12
+W 3
+S 0
+S 1
+P 12
+W 3
+S 1
+P 12
+W 3
+S 0
+S 1
+P 12
+S 2
+S 0
+P 12
+S 1
+P 12
+W 3
+S 0
+P 12
+S 1
+P 12
+W 3
+S 1
+P 12
+S 2
+S 0
+S 1
+P 12
+W 3
+S 1
+P 12
+W 3
+S 0
+S 1
+P 12
+W 3
+S 1
+P 12
+W 3
+S 1
+P 12
+S 2
+S 0
+S 1
+P 12
+S 2
+S 0
+S 1
+P 12
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 0
+S 1
+P 12
+W 3
+S 1
+P 12
+W 3
+S 1
+P 12
+S 2
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 0
+S 1
+P 12
+S 2
+S 0
+S 1
+P 12
+W 3
+S 1
+P 12
+W 3
+S 0
+S 1
+P 12
+W 3
+S 1
+P 12
+W 3
+S 1
+P 12
+S 2
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 0
+S 1
+P 12
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 9
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+P 9
+S 1
+S 2
+U
+U
+P 9
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 9
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 9
+P 9
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 9
+S 1
+S 2
+U
+U
+P 9
+S 0
+S 1
+S 2
+U
+U
+P 9
+S 1
+S 2
+U
+P 9
+P 9
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 9
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 9
+P 9
+P 9
+S 1
+S 2
+S 0
+S 1
+S 2
+P 9
+S 0
+S 1
+P 5
+P 9
+P 5
+P 9
+P 9
+S 0
+S 1
+S 2
+S 0
+S 1
+P 5
+P 9
+P 5
+S 0
+S 1
+P 5
+P 9
+P 5
+P 9
+P 9
+P 9
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 9
+P 9
+S 0
+S 1
+S 2
+U
+U
+P 9
+P 9
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 9
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+P 5
+P 9
+P 9
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+P 9
+P 9
+P 9
+P 9
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 5
+P 9
+S 0
+S 1
+S 2
+U
+U
+P 9
+S 1
+P 5
+P 9
+P 9
+P 9
+S 1
+S 2
+S 0
+S 1
+P 5
+P 9
+P 9
+S 0
+S 1
+P 5
+P 9
+P 9
+P 9
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+P 8
+S 2
+S 0
+P 8
+P 9
+S 0
+P 8
+P 9
+P 9
+S 0
+S 1
+P 8
+S 2
+S 0
+P 8
+P 9
+P 8
+P 9
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+S 0
+S 1
+P 9
+S 2
+U
+U
+P 9
+S 0
+S 1
+P 9
+S 2
+U
+P 9
+P 9
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 9
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 9
+S 2
+U
+U
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 9
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 9
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 9
+S 2
+U
+U
+P 9
+S 0
+S 1
+S 2
+S 0
+P 8
+P 9
+S 0
+P 8
+P 9
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+P 8
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 8
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 9
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 9
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 9
+S 0
+S 1
+S 2
+S 0
+S 1
+P 8
+S 2
+U
+U
+S 1
+S 2
+U
+P 8
+S 2
+U
+U
+S 0
+S 1
+P 8
+S 2
+U
+U
+S 1
+P 8
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 9
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 9
+S 0
+S 1
+P 9
+S 2
+U
+U
+P 9
+P 9
+S 1
+S 2
+S 0
+P 9
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+P 9
+S 1
+S 2
+U
+U
+P 9
+S 0
+P 9
+S 1
+S 2
+U
+U
+P 9
+P 9
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 9
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+P 9
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+S 0
+P 9
+S 1
+S 2
+U
+U
+P 9
+S 0
+P 9
+S 1
+S 2
+U
+U
+P 9
+P 9
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 9
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+P 9
+S 1
+S 2
+U
+U
+P 10
+P 9
+S 0
+P 9
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+P 9
+S 1
+S 2
+U
+U
+P 9
+S 0
+P 9
+S 1
+S 2
+U
+P 9
+P 9
+P 9
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+P 9
+S 1
+S 2
+U
+U
+P 10
+S 0
+P 9
+S 1
+S 2
+U
+U
+P 10
+S 0
+P 9
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+P 9
+S 1
+S 2
+U
+U
+P 10
+S 0
+P 9
+S 1
+S 2
+U
+U
+P 10
+P 9
+S 2
+S 0
+S 1
+P 9
+S 2
+S 0
+P 9
+S 1
+P 9
+S 2
+S 0
+P 9
+S 1
+P 9
+P 13
+P 13
+S 0
+P 9
+S 1
+P 9
+P 13
+S 1
+P 9
+S 2
+S 0
+S 1
+P 9
+S 2
+S 0
+S 1
+P 9
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 9
+S 2
+U
+P 13
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+S 0
+S 1
+P 9
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 9
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 9
+S 2
+S 0
+S 1
+P 9
+P 13
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 9
+P 13
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+S 0
+S 1
+P 9
+S 2
+U
+U
+S 1
+S 2
+U
+P 9
+S 2
+U
+U
+S 0
+S 1
+P 9
+S 2
+U
+U
+S 1
+P 9
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 9
+S 2
+S 0
+P 9
+S 1
+P 9
+P 13
+S 0
+P 9
+S 1
+P 9
+P 13
+S 1
+P 9
+S 2
+S 0
+S 1
+P 9
+S 2
+S 0
+S 1
+P 9
+P 13
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+P 13
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+S 0
+S 1
+P 9
+S 2
+U
+U
+S 1
+P 9
+S 2
+U
+U
+S 0
+P 9
+S 1
+P 9
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 9
+S 2
+S 0
+P 13
+S 1
+S 2
+U
+U
+S 2
+U
+P 13
+S 0
+P 13
+S 1
+S 2
+U
+U
+P 13
+S 1
+S 2
+S 0
+P 9
+S 1
+P 9
+S 2
+U
+U
+S 0
+P 9
+S 1
+P 9
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 9
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 9
+P 5
+S 0
+S 1
+S 2
+U
+U
+P 9
+P 5
+P 9
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 9
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+P 9
+S 1
+S 2
+U
+U
+P 9
+P 9
+S 1
+S 2
+S 0
+S 1
+P 5
+P 9
+P 5
+S 0
+S 1
+P 5
+P 9
+P 5
+P 9
+P 9
+S 1
+S 2
+S 0
+S 1
+P 5
+P 9
+P 9
+P 9
+P 9
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 9
+S 1
+S 2
+U
+U
+P 9
+S 0
+S 1
+S 2
+U
+U
+P 9
+S 1
+S 2
+U
+U
+P 9
+P 9
+S 1
+P 5
+P 9
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 9
+S 1
+S 2
+U
+P 5
+P 9
+S 0
+S 1
+S 2
+U
+U
+P 9
+S 1
+P 5
+P 9
+P 9
+S 1
+S 2
+S 0
+S 1
+P 5
+P 9
+P 9
+P 9
+P 9
+P 9
+P 9
+S 2
+S 0
+S 1
+S 2
+S 0
+P 8
+P 9
+S 0
+S 1
+P 9
+P 8
+P 9
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+P 8
+S 2
+U
+U
+S 1
+P 8
+S 2
+U
+U
+S 0
+P 8
+S 1
+P 8
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 9
+S 2
+S 0
+S 1
+P 9
+S 2
+U
+U
+P 9
+P 9
+S 0
+S 1
+S 2
+S 0
+P 8
+S 1
+P 8
+S 2
+U
+P 8
+P 8
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 9
+P 9
+S 0
+S 1
+S 2
+S 0
+S 1
+P 9
+P 8
+P 9
+S 0
+S 1
+P 9
+S 2
+S 0
+P 8
+P 9
+S 0
+P 8
+P 9
+P 9
+S 2
+S 0
+S 1
+P 8
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 9
+S 2
+U
+U
+P 9
+S 0
+S 1
+P 8
+S 2
+S 0
+S 1
+P 8
+S 2
+U
+U
+P 9
+S 0
+S 1
+P 8
+S 2
+U
+U
+P 9
+P 9
+P 9
+S 1
+S 2
+S 0
+P 9
+S 1
+S 2
+S 0
+P 9
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+P 9
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+P 9
+P 10
+S 0
+P 9
+P 10
+S 0
+P 9
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 9
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+P 9
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 10
+P 9
+S 0
+P 9
+S 1
+S 2
+S 0
+P 9
+S 1
+S 2
+S 0
+P 9
+S 1
+S 2
+U
+U
+S 2
+U
+P 10
+S 0
+P 9
+S 1
+S 2
+U
+U
+P 10
+S 2
+P 10
+S 0
+P 9
+P 10
+S 0
+P 9
+S 1
+S 2
+S 0
+P 9
+S 1
+S 2
+U
+U
+P 10
+S 0
+P 9
+S 1
+S 2
+U
+U
+P 10
+P 9
+P 9
+S 2
+S 0
+S 1
+P 9
+S 2
+S 0
+P 9
+S 1
+P 9
+P 13
+S 0
+P 9
+S 1
+P 9
+P 13
+S 1
+P 9
+S 2
+S 0
+S 1
+P 9
+S 2
+S 0
+P 13
+S 1
+S 2
+U
+P 13
+P 13
+P 13
+S 1
+P 9
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 9
+P 13
+S 1
+P 9
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+P 13
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 9
+S 2
+S 0
+P 9
+S 1
+P 9
+P 13
+S 0
+P 9
+S 1
+P 9
+S 2
+S 0
+P 9
+P 13
+S 0
+P 9
+S 1
+P 9
+P 13
+S 1
+P 9
+S 2
+S 0
+S 1
+P 9
+P 13
+S 1
+P 9
+S 2
+S 0
+S 1
+P 9
+P 13
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+P 13
+S 1
+S 2
+U
+P 9
+S 2
+U
+U
+S 0
+S 1
+P 9
+P 13
+S 1
+P 9
+S 2
+S 0
+P 13
+S 1
+P 9
+S 2
+U
+U
+S 0
+P 13
+S 1
+P 9
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 13
+P 13
+S 0
+S 1
+S 2
+U
+U
+P 13
+P 13
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 13
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+P 13
+S 1
+S 2
+U
+U
+P 13
+P 13
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 13
+P 13
+S 0
+S 1
+S 2
+U
+U
+P 13
+P 13
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 13
+S 1
+S 2
+U
+U
+P 13
+S 0
+S 1
+S 2
+U
+U
+P 13
+S 1
+S 2
+U
+U
+P 13
+P 13
+P 13
+P 13
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 13
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 13
+S 1
+S 2
+U
+U
+P 13
+S 0
+S 1
+S 2
+U
+U
+P 13
+S 1
+S 2
+U
+U
+P 13
+P 13
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 13
+P 13
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 13
+S 1
+S 2
+U
+P 9
+P 13
+S 0
+S 1
+S 2
+U
+U
+P 13
+S 1
+P 9
+P 13
+P 13
+P 13
+P 13
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+P 12
+S 2
+S 0
+S 1
+P 12
+S 2
+U
+U
+P 13
+S 0
+S 1
+P 12
+S 2
+U
+P 12
+P 13
+P 13
+S 0
+S 1
+P 12
+S 2
+S 0
+P 12
+P 13
+S 0
+P 12
+P 13
+P 13
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+W 3
+S 1
+S 2
+S 0
+S 1
+P 13
+W 3
+P 13
+S 0
+S 1
+P 13
+W 3
+P 13
+W 3
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+W 3
+S 1
+S 2
+S 0
+S 1
+P 13
+W 3
+P 13
+S 0
+S 1
+P 13
+W 3
+P 13
+W 3
+S 1
+P 13
+S 2
+S 0
+S 1
+P 13
+W 3
+P 13
+P 13
+S 0
+S 1
+S 2
+S 0
+S 1
+P 12
+S 2
+S 0
+P 12
+P 13
+P 12
+P 13
+S 0
+P 12
+P 13
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 0
+S 1
+S 2
+U
+U
+S 2
+W 3
+U
+S 1
+S 2
+U
+U
+S 2
+W 3
+U
+W 3
+S 1
+S 2
+S 0
+S 1
+P 13
+W 3
+P 13
+P 13
+W 3
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+P 12
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 12
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 3
+S 1
+P 13
+W 3
+P 13
+S 1
+S 2
+S 0
+P 13
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+P 13
+S 1
+S 2
+U
+U
+P 13
+S 0
+P 13
+S 1
+S 2
+U
+U
+P 13
+P 13
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+P 13
+S 1
+S 2
+U
+U
+S 2
+P 13
+U
+S 0
+P 13
+S 1
+S 2
+U
+U
+P 14
+S 0
+S 1
+S 2
+S 0
+P 13
+S 1
+S 2
+U
+U
+P 13
+S 0
+P 13
+S 1
+S 2
+U
+P 13
+P 13
+P 13
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+P 13
+S 1
+S 2
+U
+U
+P 14
+S 0
+P 13
+S 1
+S 2
+U
+U
+P 14
+P 13
+S 0
+P 13
+S 1
+S 2
+S 0
+P 13
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+P 13
+S 1
+S 2
+U
+U
+P 14
+S 0
+P 13
+S 1
+S 2
+U
+P 14
+P 14
+S 0
+P 13
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+P 13
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+P 13
+P 14
+S 0
+P 13
+P 14
+P 13
+S 2
+S 0
+S 1
+P 13
+S 2
+S 0
+P 13
+S 1
+P 13
+W 3
+S 0
+P 13
+S 1
+P 13
+W 3
+S 1
+P 13
+S 2
+S 0
+S 1
+S 2
+S 0
+P 13
+S 1
+P 13
+W 3
+S 0
+P 13
+S 1
+P 13
+W 3
+W 3
+S 1
+S 2
+S 0
+S 1
+P 13
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 0
+S 1
+P 13
+W 3
+S 1
+S 2
+U
+U
+W 3
+W 3
+S 0
+S 1
+S 2
+S 0
+P 13
+S 1
+P 13
+W 3
+S 0
+P 13
+S 1
+P 13
+W 3
+W 3
+S 1
+S 2
+S 0
+S 1
+P 13
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 0
+S 1
+P 13
+W 3
+S 1
+S 2
+U
+U
+W 3
+W 3
+S 0
+S 1
+P 13
+S 2
+S 0
+P 13
+S 1
+P 13
+W 3
+S 0
+S 1
+P 13
+W 3
+S 1
+P 13
+W 3
+S 1
+P 13
+S 2
+S 0
+S 1
+P 13
+W 3
+S 1
+S 2
+S 0
+S 1
+P 13
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 0
+S 1
+P 13
+S 2
+W 3
+U
+S 1
+S 2
+U
+P 13
+S 2
+W 3
+U
+W 3
+S 0
+S 1
+P 13
+W 3
+S 1
+S 2
+S 0
+S 1
+P 13
+S 2
+U
+U
+S 1
+P 13
+S 2
+U
+U
+S 0
+S 1
+P 13
+S 2
+U
+U
+S 1
+P 13
+S 2
+U
+U
+W 3
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 13
+S 0
+S 1
+S 2
+U
+U
+P 13
+S 1
+S 2
+U
+U
+P 13
+P 13
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 13
+P 13
+S 0
+S 1
+S 2
+U
+U
+P 13
+P 9
+P 13
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 13
+S 1
+S 2
+U
+U
+P 13
+S 0
+S 1
+S 2
+U
+U
+P 13
+S 1
+S 2
+U
+U
+P 13
+P 13
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+P 9
+P 13
+P 9
+P 13
+P 13
+P 13
+P 13
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 13
+S 1
+S 2
+U
+U
+P 13
+S 0
+S 1
+S 2
+U
+U
+P 13
+P 13
+P 13
+P 13
+P 13
+P 13
+P 13
+S 2
+S 0
+S 1
+S 2
+S 0
+P 12
+P 13
+S 0
+S 1
+P 13
+P 12
+P 13
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+P 12
+S 2
+U
+U
+S 1
+S 2
+U
+P 12
+S 2
+U
+U
+S 0
+S 1
+P 12
+S 2
+U
+U
+S 1
+P 12
+S 2
+U
+U
+W 3
+S 1
+P 13
+W 3
+S 0
+S 1
+S 2
+S 0
+S 1
+P 12
+S 2
+U
+U
+S 1
+P 12
+S 2
+U
+U
+S 0
+S 1
+P 12
+S 2
+U
+P 12
+S 1
+P 12
+S 2
+U
+U
+S 2
+W 3
+S 0
+S 1
+S 2
+W 3
+U
+W 3
+S 1
+S 2
+W 3
+U
+W 3
+P 13
+P 13
+S 0
+S 1
+S 2
+S 0
+S 1
+P 13
+P 12
+P 13
+S 0
+S 1
+P 13
+S 2
+P 12
+S 0
+P 12
+P 13
+P 13
+S 2
+S 0
+S 1
+S 2
+S 0
+P 12
+P 13
+P 12
+S 2
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+P 13
+W 3
+P 13
+S 0
+S 1
+P 12
+S 2
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+P 13
+W 3
+S 0
+S 1
+S 2
+U
+U
+W 3
+P 13
+P 13
+P 13
+S 1
+S 2
+S 0
+P 13
+S 1
+S 2
+S 0
+P 13
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 13
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+P 13
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 14
+S 0
+P 13
+S 1
+S 2
+S 0
+P 13
+S 1
+S 2
+U
+U
+P 14
+S 0
+P 13
+S 1
+S 2
+U
+U
+P 14
+P 14
+P 13
+S 0
+P 13
+S 1
+S 2
+S 0
+P 13
+S 1
+S 2
+S 0
+P 13
+S 1
+S 2
+U
+U
+P 14
+S 0
+P 13
+S 1
+S 2
+U
+U
+P 14
+S 2
+S 0
+P 13
+P 14
+P 13
+S 0
+P 13
+S 1
+S 2
+S 0
+P 13
+S 1
+S 2
+U
+P 14
+P 14
+S 0
+P 13
+P 14
+P 13
+P 13
+S 2
+S 0
+S 1
+P 13
+S 2
+S 0
+S 1
+P 13
+W 3
+S 1
+P 13
+W 3
+S 0
+S 1
+P 13
+S 2
+W 3
+S 0
+P 13
+S 1
+P 13
+W 3
+S 1
+P 13
+S 2
+W 3
+S 0
+S 1
+P 13
+W 3
+S 1
+P 13
+W 3
+S 1
+P 13
+S 2
+S 0
+S 1
+P 13
+W 3
+S 1
+S 2
+S 0
+S 1
+P 13
+S 2
+U
+P 13
+S 1
+P 13
+S 2
+U
+U
+S 0
+P 13
+S 1
+P 13
+S 2
+U
+U
+W 3
+S 0
+S 1
+P 13
+S 2
+W 3
+S 0
+S 1
+S 2
+W 3
+P 13
+W 3
+S 1
+S 2
+W 3
+U
+W 3
+S 1
+S 2
+S 0
+P 13
+S 1
+P 13
+S 2
+U
+U
+P 13
+S 2
+W 3
+S 0
+S 1
+S 2
+W 3
+U
+W 3
+S 1
+S 2
+W 3
+U
+W 3
+S 0
+S 1
+P 13
+S 2
+S 0
+S 1
+P 13
+S 2
+S 0
+P 13
+S 1
+P 13
+W 3
+S 0
+P 13
+S 1
+P 13
+W 3
+S 1
+P 13
+S 2
+S 0
+S 1
+P 13
+W 3
+S 1
+P 13
+W 3
+S 0
+S 1
+P 13
+W 3
+S 1
+P 13
+W 3
+S 0
+S 1
+P 13
+S 2
+S 0
+S 1
+P 13
+W 3
+S 1
+P 13
+W 3
+S 0
+S 1
+P 13
+W 3
+S 1
+P 13
+W 3
+S 1
+P 13
+S 2
+S 0
+S 1
+P 13
+W 3
+S 1
+P 13
+W 3
+S 0
+S 1
+P 13
+W 3
+S 1
+P 13
+W 3
+S 1
+P 13
+S 2
+S 0
+S 1
+P 13
+S 2
+S 0
+S 1
+P 13
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 0
+S 1
+P 13
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 1
+P 13
+S 2
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 0
+S 1
+P 13
+S 2
+S 0
+S 1
+P 13
+W 3
+S 1
+P 13
+W 3
+S 0
+S 1
+P 13
+W 3
+S 1
+P 13
+W 3
+S 1
+P 13
+S 2
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 0
+S 1
+S 2
+U
+P 13
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+A
+S 2
+J
+S 0
+A
+P 2
+S 1
+S 2
+S 0
+J
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+J
+S 1
+W 2
+S 2
+P 2
+U
+S 0
+J
+S 1
+W 2
+S 2
+U
+U
+P 2
+S 1
+S 2
+S 0
+S 1
+W 2
+S 2
+U
+U
+S 1
+W 2
+S 2
+U
+U
+S 0
+S 1
+W 2
+S 2
+U
+U
+S 1
+W 2
+S 2
+U
+U
+P 2
+S 0
+S 1
+S 2
+S 0
+J
+S 1
+W 2
+S 2
+U
+U
+W 2
+P 2
+S 1
+S 2
+S 0
+S 1
+W 2
+S 2
+U
+U
+S 1
+W 2
+S 2
+U
+U
+W 2
+S 2
+S 0
+P 2
+S 1
+S 2
+P 2
+U
+P 2
+S 0
+S 1
+S 2
+P 2
+U
+P 2
+S 1
+S 2
+U
+U
+P 2
+P 2
+S 0
+S 1
+A
+P 2
+S 1
+S 2
+S 0
+S 1
+W 2
+P 2
+S 1
+W 2
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 2
+S 1
+S 2
+U
+U
+P 2
+S 0
+S 1
+S 2
+U
+U
+P 2
+S 1
+S 2
+U
+U
+P 2
+S 0
+S 1
+W 2
+S 2
+S 0
+J
+S 1
+S 2
+U
+J
+P 2
+S 0
+J
+S 1
+W 2
+P 2
+S 1
+W 2
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 2
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+W 2
+P 2
+S 1
+W 2
+S 2
+U
+U
+P 2
+S 2
+S 0
+P 2
+S 1
+S 2
+S 0
+P 2
+S 1
+P 2
+S 2
+P 2
+S 0
+P 2
+P 3
+S 0
+P 2
+S 1
+P 2
+P 3
+S 2
+S 0
+P 2
+S 1
+P 3
+S 2
+S 0
+P 2
+P 3
+S 0
+S 1
+P 2
+S 2
+P 2
+U
+S 1
+P 3
+S 2
+U
+U
+S 0
+P 2
+S 1
+P 3
+S 2
+S 0
+S 1
+P 2
+S 2
+U
+U
+S 1
+P 3
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 3
+S 2
+U
+U
+S 0
+P 2
+S 1
+S 2
+S 0
+P 2
+S 1
+P 2
+P 3
+S 0
+P 2
+P 3
+S 2
+S 0
+P 2
+S 1
+P 3
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 2
+S 2
+S 0
+P 2
+S 1
+P 2
+S 2
+U
+U
+S 0
+P 2
+S 1
+P 2
+S 2
+U
+U
+S 1
+S 2
+S 0
+S 1
+P 2
+S 2
+U
+U
+P 3
+S 0
+S 1
+P 2
+S 2
+U
+U
+P 3
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+A
+S 2
+S 0
+A
+P 2
+S 0
+A
+P 2
+S 1
+S 2
+S 0
+S 1
+A
+P 2
+S 1
+S 2
+S 0
+S 1
+W 2
+S 2
+S 0
+J
+S 1
+W 2
+P 2
+S 0
+K
+S 1
+W 2
+P 2
+S 1
+W 2
+S 2
+S 0
+S 1
+W 2
+S 2
+P 2
+U
+S 1
+W 2
+S 2
+U
+U
+S 0
+S 1
+W 2
+S 2
+U
+U
+S 1
+W 2
+S 2
+U
+U
+S 0
+S 1
+W 2
+S 2
+S 0
+K
+S 1
+W 2
+P 2
+J
+S 1
+W 2
+S 2
+S 0
+S 1
+W 2
+S 2
+U
+U
+S 1
+W 2
+S 2
+U
+U
+S 0
+S 1
+W 2
+S 2
+U
+U
+S 1
+W 2
+S 2
+U
+U
+S 2
+P 2
+S 0
+P 2
+S 1
+S 2
+S 0
+P 2
+S 1
+S 2
+P 2
+U
+P 2
+S 0
+P 2
+S 1
+S 2
+U
+U
+P 2
+P 2
+S 0
+S 1
+A
+P 2
+S 1
+S 2
+S 0
+S 1
+W 2
+J
+S 1
+W 2
+S 2
+S 0
+S 1
+W 2
+S 2
+U
+U
+S 1
+W 2
+S 2
+U
+U
+S 0
+J
+S 1
+W 2
+S 2
+U
+U
+S 0
+S 1
+W 2
+K
+S 1
+W 2
+S 2
+S 0
+J
+S 1
+W 2
+S 2
+U
+U
+S 0
+J
+S 1
+W 2
+S 2
+U
+J
+S 2
+S 0
+P 2
+S 1
+S 2
+S 0
+P 2
+S 1
+S 2
+U
+U
+P 2
+S 0
+P 2
+S 1
+S 2
+U
+U
+P 2
+P 2
+S 0
+P 2
+S 1
+S 2
+S 0
+P 2
+S 1
+S 2
+U
+U
+P 2
+S 0
+P 2
+S 1
+S 2
+U
+U
+P 2
+P 2
+S 2
+S 0
+P 2
+S 1
+S 2
+S 0
+P 2
+P 3
+P 2
+S 2
+S 0
+S 1
+P 2
+S 2
+S 0
+P 2
+S 1
+P 2
+S 2
+U
+U
+S 0
+P 2
+S 1
+P 2
+S 2
+U
+U
+S 1
+S 2
+S 0
+S 1
+P 2
+S 2
+U
+U
+S 1
+P 3
+S 2
+U
+U
+S 0
+S 1
+P 2
+S 2
+U
+U
+S 1
+P 3
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 2
+S 2
+S 0
+P 2
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+P 2
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+S 0
+S 1
+P 2
+S 2
+U
+U
+S 1
+P 3
+S 2
+U
+U
+S 0
+S 1
+P 2
+S 2
+U
+U
+S 1
+P 3
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+P 2
+S 1
+P 2
+S 2
+S 0
+S 1
+P 2
+S 2
+S 0
+S 1
+P 2
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 2
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+S 0
+S 1
+P 2
+S 2
+U
+U
+S 1
+S 2
+P 3
+U
+S 2
+U
+U
+S 0
+S 1
+P 2
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 2
+S 2
+S 0
+S 1
+P 2
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 2
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+S 0
+S 1
+P 2
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 2
+S 2
+U
+P 2
+S 1
+P 2
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+J
+P 6
+P 6
+S 0
+S 1
+S 2
+J
+S 0
+J
+S 1
+J
+P 6
+S 2
+S 0
+S 1
+J
+P 6
+P 6
+S 0
+S 1
+P 5
+P 6
+P 6
+P 6
+S 2
+S 0
+S 1
+P 6
+S 2
+S 0
+S 1
+P 6
+S 2
+S 0
+S 1
+P 6
+S 2
+U
+U
+S 1
+P 6
+P 10
+S 0
+S 1
+P 6
+S 2
+U
+U
+S 1
+P 6
+P 10
+S 1
+P 6
+S 2
+P 6
+S 0
+P 10
+P 6
+S 0
+S 1
+P 6
+S 2
+S 0
+S 1
+P 6
+S 2
+U
+U
+S 1
+P 6
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 6
+S 2
+U
+U
+S 1
+P 6
+P 10
+P 6
+S 0
+S 1
+P 6
+S 2
+S 0
+S 1
+P 6
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+P 6
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 6
+S 2
+S 0
+S 1
+P 6
+P 10
+P 10
+S 0
+S 1
+P 6
+S 2
+U
+U
+P 10
+S 0
+S 1
+S 2
+P 6
+S 0
+S 1
+P 6
+S 2
+U
+U
+P 6
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 6
+S 2
+S 0
+S 1
+P 6
+S 2
+U
+U
+P 10
+S 0
+S 1
+P 6
+S 2
+U
+U
+S 1
+P 6
+P 10
+P 6
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+P 6
+S 1
+S 2
+S 0
+P 6
+P 2
+P 2
+P 6
+S 0
+P 6
+S 1
+P 2
+P 6
+P 6
+S 1
+S 2
+S 0
+S 1
+P 2
+P 6
+S 1
+S 2
+S 0
+S 1
+P 2
+P 6
+S 1
+S 2
+U
+U
+P 6
+S 0
+S 1
+S 2
+U
+U
+S 2
+P 6
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 6
+S 0
+S 1
+S 2
+P 2
+S 0
+P 2
+S 1
+P 2
+S 2
+U
+U
+P 6
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 6
+P 6
+S 0
+S 1
+S 2
+S 0
+P 6
+S 1
+P 2
+P 6
+S 0
+P 6
+S 1
+P 2
+P 6
+P 6
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+P 2
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+P 2
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 6
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+P 6
+S 1
+S 2
+U
+U
+P 6
+S 0
+P 6
+S 1
+S 2
+U
+U
+P 6
+S 0
+S 1
+S 2
+S 0
+S 1
+P 2
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 2
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 6
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 6
+S 1
+S 2
+U
+U
+P 6
+S 0
+S 1
+S 2
+U
+U
+P 6
+S 1
+S 2
+U
+U
+P 6
+P 6
+S 2
+S 0
+P 6
+S 1
+S 2
+S 0
+P 6
+S 1
+P 6
+S 2
+S 0
+P 6
+P 7
+S 0
+P 6
+P 7
+S 0
+P 6
+S 1
+P 6
+P 7
+S 2
+S 0
+P 6
+S 1
+P 7
+S 2
+S 0
+P 6
+S 1
+P 7
+S 2
+U
+U
+S 0
+S 1
+P 6
+S 2
+P 6
+U
+S 1
+P 7
+S 2
+U
+U
+S 0
+P 6
+S 1
+P 7
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+P 7
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+P 6
+S 1
+S 2
+S 0
+P 6
+S 1
+P 6
+P 7
+S 0
+P 6
+P 7
+S 2
+S 0
+S 1
+P 6
+S 2
+P 6
+S 0
+P 6
+S 1
+P 6
+S 2
+U
+U
+S 1
+S 2
+S 0
+S 1
+P 6
+S 2
+P 7
+U
+P 7
+S 0
+S 1
+P 6
+S 2
+U
+U
+P 7
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 6
+S 2
+S 0
+P 6
+S 1
+P 6
+S 2
+U
+U
+S 0
+P 6
+S 1
+S 2
+P 6
+U
+S 2
+U
+U
+S 1
+S 2
+S 0
+S 1
+P 6
+S 2
+U
+U
+S 1
+P 7
+S 2
+U
+U
+S 0
+S 1
+P 6
+S 2
+U
+U
+S 1
+P 7
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+J
+S 1
+S 2
+J
+S 0
+A
+P 6
+P 6
+S 0
+S 1
+A
+S 2
+S 0
+A
+S 1
+A
+P 6
+S 0
+A
+S 1
+A
+P 6
+S 1
+S 2
+S 0
+A
+S 1
+J
+P 6
+S 0
+A
+S 1
+J
+P 6
+P 6
+S 2
+S 0
+S 1
+S 2
+S 0
+J
+P 6
+S 0
+P 5
+P 6
+P 5
+P 6
+S 0
+S 1
+S 2
+S 0
+P 5
+P 6
+P 6
+P 5
+P 6
+P 6
+S 0
+S 1
+S 2
+S 0
+S 1
+A
+S 2
+S 0
+A
+S 1
+A
+P 6
+S 0
+A
+S 1
+A
+P 6
+S 1
+S 2
+S 0
+A
+S 1
+J
+P 6
+S 0
+A
+S 1
+J
+P 6
+P 6
+S 0
+S 1
+A
+S 2
+S 0
+A
+S 1
+A
+P 6
+J
+S 1
+S 2
+J
+J
+P 6
+P 6
+S 1
+S 2
+P 6
+S 0
+S 1
+S 2
+P 6
+S 0
+S 1
+J
+P 6
+P 2
+P 6
+P 6
+P 6
+S 2
+S 0
+S 1
+P 6
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+P 6
+S 2
+U
+U
+P 6
+S 0
+S 1
+P 6
+S 2
+U
+U
+P 6
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 6
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 6
+P 10
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 6
+S 2
+U
+U
+S 0
+S 1
+S 2
+S 0
+S 1
+P 6
+S 2
+U
+U
+P 6
+S 0
+S 1
+P 6
+S 2
+U
+U
+S 1
+P 6
+S 2
+P 6
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 6
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 6
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 6
+S 2
+U
+U
+P 6
+S 0
+S 1
+P 6
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+P 6
+U
+S 2
+U
+U
+S 1
+P 6
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 6
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 6
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 6
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 6
+S 2
+U
+U
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 6
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 6
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 6
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 6
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 6
+P 6
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+P 6
+S 1
+S 2
+P 2
+S 0
+P 2
+S 1
+P 2
+P 6
+P 6
+S 0
+P 6
+S 1
+S 2
+S 0
+P 2
+S 1
+P 2
+P 6
+S 0
+P 2
+S 1
+P 2
+P 6
+P 6
+P 6
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 6
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 6
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+P 6
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+P 6
+S 1
+S 2
+U
+U
+P 6
+S 0
+P 6
+S 1
+S 2
+U
+U
+P 6
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 6
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+P 6
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 6
+S 0
+S 1
+S 2
+S 0
+P 6
+S 1
+S 2
+S 0
+P 2
+S 1
+S 2
+P 2
+U
+P 6
+S 0
+P 6
+S 1
+S 2
+U
+U
+P 6
+P 6
+S 0
+P 6
+S 1
+S 2
+S 0
+P 6
+S 1
+S 2
+U
+U
+P 6
+P 6
+P 6
+P 6
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+P 6
+S 1
+S 2
+U
+U
+P 6
+S 0
+P 6
+S 1
+S 2
+U
+U
+P 6
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+P 6
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+P 6
+S 1
+S 2
+U
+U
+P 6
+S 0
+P 6
+S 1
+S 2
+U
+U
+P 6
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+P 6
+S 1
+S 2
+P 6
+S 0
+P 6
+S 1
+S 2
+U
+U
+P 6
+P 6
+S 0
+P 6
+S 1
+S 2
+S 0
+P 6
+S 1
+S 2
+U
+U
+P 6
+S 0
+P 6
+P 7
+P 6
+S 2
+S 0
+P 6
+S 1
+S 2
+S 0
+P 6
+P 7
+S 0
+P 6
+S 1
+P 6
+S 2
+P 7
+S 0
+P 6
+P 7
+S 2
+S 0
+S 1
+P 6
+S 2
+S 0
+P 6
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 6
+S 2
+P 6
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+S 0
+S 1
+P 6
+S 2
+U
+U
+S 1
+P 7
+S 2
+U
+U
+S 0
+S 1
+P 6
+S 2
+U
+U
+S 1
+P 7
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 6
+S 2
+S 0
+S 1
+P 6
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 6
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+S 0
+S 1
+P 6
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 6
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+P 6
+S 1
+P 6
+S 2
+S 0
+S 1
+P 6
+S 2
+S 0
+S 1
+P 6
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 6
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+S 0
+S 1
+P 6
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 6
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 6
+S 2
+S 0
+S 1
+P 6
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 6
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+S 0
+S 1
+P 6
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 6
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+W 2
+P 3
+P 3
+S 0
+S 1
+W 2
+S 2
+P 3
+U
+P 3
+P 3
+P 3
+S 0
+S 1
+S 2
+S 0
+S 1
+W 2
+S 2
+U
+U
+P 3
+W 2
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 2
+P 3
+S 0
+S 1
+S 2
+U
+U
+P 2
+P 3
+P 3
+P 3
+S 1
+S 2
+S 0
+P 3
+S 1
+S 2
+S 0
+P 3
+S 1
+W 2
+P 3
+P 3
+P 3
+P 3
+P 3
+S 0
+S 1
+S 2
+S 0
+S 1
+W 2
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+P 2
+U
+P 3
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 3
+P 3
+S 0
+S 1
+W 2
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 3
+S 0
+S 1
+W 2
+S 2
+U
+U
+S 1
+W 2
+P 3
+S 1
+W 2
+P 3
+P 3
+P 3
+S 2
+S 0
+S 1
+P 3
+S 2
+S 0
+S 1
+P 3
+S 2
+P 3
+S 0
+S 1
+P 3
+S 2
+P 3
+U
+P 3
+P 3
+S 0
+S 1
+P 3
+S 2
+S 0
+S 1
+P 3
+S 2
+U
+U
+P 3
+S 0
+S 1
+P 3
+S 2
+U
+U
+S 1
+P 3
+S 2
+U
+U
+P 3
+P 3
+S 0
+S 1
+P 3
+S 2
+S 0
+S 1
+P 3
+S 2
+S 0
+S 1
+P 3
+S 2
+U
+U
+S 1
+P 3
+S 2
+U
+U
+S 0
+S 1
+P 3
+S 2
+U
+U
+S 1
+P 3
+S 2
+U
+U
+S 1
+P 3
+S 2
+P 3
+S 0
+S 1
+P 3
+P 7
+P 3
+S 0
+S 1
+P 3
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 3
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 3
+S 2
+U
+U
+S 1
+P 3
+S 2
+S 0
+S 1
+P 3
+S 2
+U
+U
+P 3
+S 0
+S 1
+P 3
+S 2
+U
+U
+P 3
+P 3
+S 1
+C 1
+S 2
+S 0
+P 3
+S 1
+S 2
+S 0
+P 3
+S 1
+S 2
+S 0
+P 3
+W 1
+S 0
+P 3
+W 1
+S 2
+S 0
+P 3
+W 1
+S 0
+P 3
+W 1
+S 0
+P 3
+S 1
+S 2
+S 0
+P 3
+W 1
+W 1
+S 2
+S 0
+P 3
+W 1
+W 1
+S 2
+S 0
+P 3
+S 1
+S 2
+S 0
+P 3
+W 1
+S 0
+S 1
+P 3
+S 2
+P 3
+U
+W 1
+S 2
+S 0
+S 1
+S 2
+P 3
+U
+S 2
+U
+U
+W 1
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+S 0
+S 1
+P 3
+S 2
+P 3
+S 0
+P 3
+S 1
+P 3
+S 2
+P 3
+U
+S 1
+S 2
+S 0
+S 1
+P 3
+S 2
+U
+U
+W 1
+W 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+W 1
+S 0
+P 3
+S 1
+S 2
+S 0
+P 3
+W 1
+S 0
+P 3
+W 1
+S 2
+S 0
+S 1
+P 3
+S 2
+S 0
+P 3
+S 1
+P 3
+S 2
+U
+U
+S 0
+P 3
+S 1
+P 3
+S 2
+U
+U
+W 1
+S 0
+S 1
+P 3
+S 2
+S 0
+P 3
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+P 3
+W 1
+W 1
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+W 2
+S 2
+S 0
+S 1
+W 2
+S 2
+U
+U
+S 1
+W 2
+P 3
+S 0
+S 1
+W 2
+S 2
+U
+U
+S 1
+W 2
+P 3
+S 1
+W 2
+P 3
+S 0
+S 1
+W 2
+S 2
+S 0
+S 1
+W 2
+S 2
+U
+U
+S 1
+W 2
+P 3
+S 0
+S 1
+W 2
+S 2
+U
+U
+S 1
+W 2
+P 3
+S 1
+W 2
+P 3
+P 3
+P 3
+S 0
+S 1
+S 2
+S 0
+S 1
+W 2
+S 2
+S 0
+S 1
+W 2
+S 2
+U
+U
+S 1
+W 2
+P 3
+S 0
+S 1
+W 2
+S 2
+U
+U
+S 1
+W 2
+P 3
+S 1
+W 2
+P 3
+S 0
+S 1
+W 2
+S 2
+S 0
+S 1
+W 2
+S 2
+U
+U
+S 1
+W 2
+P 3
+S 0
+S 1
+W 2
+S 2
+U
+U
+S 1
+W 2
+P 3
+S 1
+W 2
+P 3
+P 3
+S 1
+S 2
+P 3
+S 0
+S 1
+W 2
+P 3
+P 3
+P 3
+S 2
+S 0
+S 1
+P 3
+S 2
+S 0
+S 1
+P 3
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 3
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 3
+S 2
+U
+U
+S 1
+P 3
+S 2
+S 0
+S 1
+P 3
+S 2
+U
+U
+P 3
+S 0
+S 1
+P 3
+S 2
+U
+U
+P 3
+S 0
+S 1
+P 3
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 3
+S 2
+S 0
+S 1
+P 3
+S 2
+U
+U
+P 3
+S 0
+S 1
+P 3
+S 2
+U
+U
+P 3
+P 3
+S 0
+S 1
+P 3
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+P 3
+S 2
+U
+U
+P 3
+S 0
+S 1
+P 3
+S 2
+U
+U
+P 3
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 3
+S 2
+S 0
+S 1
+P 3
+S 2
+U
+U
+P 3
+S 0
+S 1
+P 3
+S 2
+U
+U
+P 3
+S 0
+S 1
+S 2
+S 0
+S 1
+P 3
+S 2
+U
+U
+P 3
+S 0
+S 1
+P 3
+S 2
+U
+U
+P 3
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 3
+S 2
+S 0
+S 1
+P 3
+S 2
+U
+U
+P 3
+S 0
+S 1
+P 3
+S 2
+U
+P 3
+P 3
+P 3
+S 1
+C 1
+S 2
+S 0
+P 3
+S 1
+S 2
+S 0
+P 3
+W 1
+S 0
+P 3
+W 1
+S 2
+S 0
+S 1
+P 3
+S 2
+S 0
+S 1
+P 3
+S 2
+P 3
+U
+W 1
+S 0
+S 1
+P 3
+S 2
+U
+U
+W 1
+W 1
+S 0
+S 1
+P 3
+S 2
+S 0
+S 1
+P 3
+S 2
+U
+U
+W 1
+S 0
+S 1
+P 3
+S 2
+U
+U
+W 1
+W 1
+S 0
+P 3
+S 1
+S 2
+S 0
+P 3
+W 1
+P 3
+S 2
+S 0
+S 1
+P 3
+S 2
+S 0
+S 1
+P 3
+S 2
+U
+U
+W 1
+S 0
+S 1
+P 3
+S 2
+U
+U
+W 1
+W 1
+S 0
+S 1
+P 3
+S 2
+S 0
+S 1
+P 3
+S 2
+U
+U
+W 1
+S 0
+S 1
+P 3
+S 2
+U
+U
+W 1
+W 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+P 7
+S 0
+S 1
+S 2
+U
+U
+S 2
+P 7
+U
+P 7
+P 7
+P 7
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 7
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 7
+S 2
+P 7
+S 0
+S 1
+S 2
+U
+U
+P 6
+P 7
+P 7
+P 7
+P 7
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 7
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 7
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 6
+P 7
+S 0
+S 1
+S 2
+U
+U
+P 6
+P 7
+P 7
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 7
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 7
+P 7
+P 7
+P 7
+S 2
+S 0
+S 1
+P 7
+S 2
+S 0
+S 1
+P 7
+S 2
+S 0
+S 1
+P 7
+S 2
+P 11
+U
+S 1
+P 7
+P 11
+S 0
+S 1
+P 7
+S 2
+U
+U
+P 11
+S 1
+P 7
+S 2
+P 7
+S 0
+S 1
+P 7
+P 11
+P 7
+S 0
+S 1
+P 7
+S 2
+S 0
+S 1
+P 7
+S 2
+U
+U
+S 1
+P 7
+P 11
+S 0
+S 1
+S 2
+P 7
+U
+S 2
+U
+U
+S 1
+P 7
+S 2
+P 11
+U
+S 1
+P 7
+P 11
+P 7
+S 0
+S 1
+P 7
+S 2
+S 0
+S 1
+P 7
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 7
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+P 7
+U
+S 2
+U
+U
+S 1
+P 7
+S 2
+P 11
+S 0
+S 1
+P 7
+P 11
+P 11
+S 0
+S 1
+P 7
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 7
+S 2
+S 0
+S 1
+P 7
+P 11
+P 11
+S 0
+S 1
+P 7
+S 2
+U
+U
+P 11
+P 7
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+P 7
+S 1
+S 2
+S 0
+S 1
+P 3
+P 7
+P 3
+P 3
+P 7
+S 0
+P 7
+S 1
+P 3
+P 7
+P 7
+S 1
+S 2
+S 0
+S 1
+P 3
+P 7
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 7
+W 1
+S 0
+S 1
+S 2
+U
+U
+S 2
+P 7
+U
+W 1
+P 7
+S 0
+S 1
+S 2
+S 0
+P 3
+S 1
+S 2
+P 3
+U
+S 2
+U
+U
+S 0
+P 3
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 7
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+W 1
+S 2
+P 7
+W 1
+P 7
+S 0
+S 1
+S 2
+S 0
+P 7
+S 1
+P 3
+P 7
+S 0
+P 7
+S 1
+S 2
+P 3
+S 0
+P 3
+S 1
+P 3
+P 7
+P 7
+P 7
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+P 3
+S 2
+P 3
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 3
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 7
+W 1
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+S 2
+P 7
+S 0
+P 7
+W 1
+W 1
+P 7
+S 2
+S 0
+P 7
+S 1
+S 2
+S 0
+P 7
+S 1
+S 2
+S 0
+P 7
+W 1
+S 0
+P 7
+W 1
+S 2
+S 0
+P 7
+W 1
+S 0
+P 7
+W 1
+S 0
+P 7
+S 1
+S 2
+S 0
+P 7
+W 1
+W 1
+S 2
+S 0
+P 7
+W 1
+W 1
+S 2
+S 0
+P 7
+S 1
+S 2
+S 0
+P 7
+W 1
+S 0
+S 1
+P 7
+S 2
+U
+U
+W 1
+S 2
+S 0
+S 1
+S 2
+P 7
+U
+S 2
+U
+U
+W 1
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+S 0
+S 1
+P 7
+S 2
+P 7
+S 0
+P 7
+S 1
+P 7
+S 2
+U
+U
+S 1
+S 2
+S 0
+S 1
+S 2
+P 7
+U
+S 2
+U
+U
+W 1
+W 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+W 1
+S 0
+P 7
+S 1
+S 2
+S 0
+P 7
+W 1
+S 0
+P 7
+W 1
+S 2
+S 0
+S 1
+P 7
+S 2
+S 0
+P 7
+S 1
+S 2
+P 7
+U
+S 2
+U
+U
+S 0
+P 7
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+S 0
+S 1
+P 7
+S 2
+S 0
+P 7
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 7
+S 2
+U
+U
+W 1
+W 1
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 7
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 7
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 7
+P 7
+S 0
+S 1
+S 2
+U
+U
+P 7
+P 7
+P 7
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 7
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 7
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 7
+P 7
+S 0
+S 1
+S 2
+U
+U
+P 7
+P 7
+P 7
+P 7
+P 7
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 7
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 7
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+P 7
+U
+P 7
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 7
+P 7
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 7
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+P 7
+S 1
+S 2
+U
+U
+P 7
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 7
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 3
+P 7
+P 7
+P 7
+P 7
+S 2
+S 0
+S 1
+P 7
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+P 7
+S 2
+P 7
+U
+P 7
+S 0
+S 1
+P 7
+S 2
+U
+U
+P 7
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 7
+S 2
+S 0
+S 1
+P 7
+S 2
+U
+U
+S 1
+P 7
+P 11
+S 0
+S 1
+P 7
+S 2
+U
+U
+S 1
+P 7
+P 11
+S 0
+S 1
+S 2
+S 0
+S 1
+P 7
+S 2
+U
+U
+P 7
+S 0
+S 1
+P 7
+S 2
+U
+U
+P 7
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 7
+S 2
+S 0
+S 1
+P 7
+S 2
+U
+U
+S 1
+P 7
+S 2
+P 11
+U
+S 0
+S 1
+P 7
+S 2
+U
+U
+P 7
+P 7
+S 0
+S 1
+P 7
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+P 7
+S 2
+U
+U
+P 7
+S 0
+S 1
+P 7
+S 2
+U
+U
+P 7
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 7
+S 2
+S 0
+S 1
+P 7
+S 2
+U
+U
+P 7
+S 0
+S 1
+P 7
+S 2
+U
+U
+P 7
+S 0
+S 1
+S 2
+S 0
+S 1
+P 7
+S 2
+U
+U
+P 7
+S 0
+S 1
+P 7
+S 2
+U
+U
+P 7
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 7
+S 2
+S 0
+S 1
+P 7
+S 2
+U
+U
+P 7
+S 0
+S 1
+P 7
+S 2
+U
+U
+P 7
+P 7
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+P 7
+S 1
+S 2
+S 0
+P 3
+S 1
+P 3
+P 7
+S 0
+P 3
+S 1
+P 3
+P 7
+P 7
+S 0
+P 7
+S 1
+S 2
+S 0
+P 3
+S 1
+S 2
+P 3
+U
+P 7
+S 0
+S 1
+P 3
+P 7
+S 1
+S 2
+U
+U
+P 7
+P 7
+P 7
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+S 2
+S 0
+P 7
+W 1
+S 0
+P 7
+W 1
+W 1
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+S 2
+S 0
+P 7
+W 1
+S 0
+P 7
+W 1
+W 1
+S 2
+P 7
+S 0
+P 7
+W 1
+S 0
+S 1
+S 2
+S 0
+P 7
+S 1
+S 2
+S 0
+P 7
+S 1
+S 2
+U
+U
+P 7
+S 0
+P 7
+S 1
+S 2
+U
+U
+P 7
+P 7
+S 0
+P 7
+S 1
+S 2
+S 0
+P 7
+S 1
+S 2
+U
+U
+P 7
+S 0
+P 7
+S 1
+S 2
+U
+U
+P 7
+P 7
+P 7
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+S 2
+S 0
+P 7
+W 1
+S 0
+P 7
+W 1
+W 1
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+S 2
+S 0
+P 7
+W 1
+S 0
+P 7
+W 1
+W 1
+S 2
+S 0
+P 7
+W 1
+S 0
+P 7
+W 1
+S 2
+S 0
+P 7
+S 1
+S 2
+S 0
+P 7
+W 1
+S 0
+P 7
+W 1
+S 2
+S 0
+S 1
+S 2
+S 0
+P 7
+W 1
+S 0
+P 7
+W 1
+S 2
+S 0
+S 1
+P 7
+S 2
+U
+U
+W 1
+S 0
+S 1
+P 7
+S 2
+U
+U
+W 1
+W 1
+S 0
+S 1
+S 2
+S 0
+P 7
+W 1
+S 0
+P 7
+W 1
+S 2
+S 0
+S 1
+P 7
+S 2
+U
+U
+W 1
+S 0
+S 1
+S 2
+P 7
+U
+S 2
+U
+U
+W 1
+W 1
+S 0
+S 1
+P 7
+S 2
+S 0
+P 7
+S 1
+P 7
+S 2
+S 0
+P 7
+S 1
+P 7
+S 2
+P 7
+U
+S 0
+P 7
+S 1
+P 7
+S 2
+U
+U
+S 0
+P 7
+S 1
+P 7
+S 2
+S 0
+P 7
+S 1
+P 7
+S 2
+U
+U
+S 0
+P 7
+S 1
+P 7
+S 2
+U
+U
+S 1
+S 2
+S 0
+P 7
+W 1
+S 0
+P 7
+W 1
+S 2
+S 0
+S 1
+S 2
+S 0
+P 7
+W 1
+S 0
+P 7
+W 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+W 1
+S 0
+S 1
+S 2
+S 0
+P 7
+W 1
+S 0
+P 7
+W 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+W 1
+S 0
+S 1
+S 2
+S 0
+S 1
+A
+S 2
+S 0
+A
+P 2
+J
+S 1
+S 2
+S 0
+J
+S 1
+S 2
+S 0
+S 1
+W 2
+J
+S 1
+W 2
+S 2
+S 0
+J
+S 1
+W 2
+S 2
+J
+J
+S 0
+S 1
+W 2
+K
+S 1
+W 2
+S 2
+U
+U
+S 0
+S 1
+W 2
+J
+S 1
+W 2
+S 2
+S 0
+S 1
+W 2
+J
+S 1
+W 2
+S 2
+U
+U
+S 0
+S 1
+W 2
+J
+S 1
+W 2
+S 2
+U
+U
+S 2
+S 0
+P 2
+S 1
+S 2
+S 0
+P 2
+S 1
+S 2
+U
+U
+P 3
+S 0
+J
+S 1
+S 2
+U
+J
+P 3
+P 2
+S 0
+P 2
+S 1
+S 2
+S 0
+J
+P 3
+S 0
+J
+P 3
+P 2
+S 0
+J
+S 1
+S 2
+S 0
+S 1
+W 2
+J
+S 1
+W 2
+S 2
+S 0
+S 1
+W 2
+S 2
+J
+J
+S 1
+W 2
+S 2
+U
+U
+S 0
+S 1
+S 2
+W 2
+U
+S 2
+U
+U
+S 1
+S 2
+W 2
+U
+S 2
+U
+U
+S 0
+S 1
+W 2
+P 2
+S 1
+W 2
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+P 3
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 3
+S 2
+S 0
+J
+S 1
+S 2
+S 0
+J
+P 3
+P 3
+P 2
+S 0
+J
+P 3
+S 2
+S 0
+P 2
+S 1
+P 2
+S 2
+S 0
+S 1
+P 2
+S 2
+S 0
+S 1
+P 2
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 2
+S 2
+U
+U
+S 1
+S 2
+U
+P 2
+S 2
+U
+U
+S 1
+S 2
+S 0
+P 2
+S 1
+P 2
+S 2
+U
+U
+S 0
+P 2
+S 1
+P 2
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 2
+S 2
+S 0
+S 1
+P 2
+S 2
+U
+U
+S 1
+P 2
+S 2
+U
+U
+S 0
+S 1
+P 2
+S 2
+U
+U
+S 1
+P 2
+S 2
+U
+U
+S 1
+S 2
+S 0
+P 2
+S 1
+P 2
+S 2
+U
+U
+S 0
+P 2
+S 1
+P 2
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+P 2
+S 1
+P 2
+S 2
+S 0
+S 1
+P 2
+S 2
+S 0
+S 1
+P 2
+S 2
+U
+U
+S 1
+P 2
+S 2
+U
+U
+S 0
+S 1
+P 2
+S 2
+U
+U
+S 1
+P 2
+S 2
+U
+U
+S 1
+P 2
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 2
+S 2
+S 0
+S 1
+P 2
+S 2
+U
+P 6
+S 1
+P 2
+S 2
+U
+U
+S 0
+S 1
+P 2
+P 6
+S 1
+P 2
+S 2
+U
+U
+S 1
+P 2
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 2
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+J
+S 1
+S 2
+S 0
+J
+S 1
+S 2
+S 0
+S 1
+W 2
+P 2
+S 1
+W 2
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+P 3
+S 1
+S 2
+U
+U
+P 3
+S 0
+S 1
+S 2
+U
+U
+P 3
+S 1
+S 2
+U
+U
+P 3
+S 0
+P 2
+S 1
+S 2
+W 2
+S 0
+S 1
+W 2
+S 2
+W 2
+U
+S 1
+W 2
+S 2
+W 2
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 2
+S 1
+S 2
+U
+U
+P 3
+S 0
+S 1
+S 2
+U
+U
+P 2
+S 1
+S 2
+U
+P 3
+P 3
+S 2
+S 0
+J
+P 3
+S 0
+J
+S 1
+P 3
+P 2
+S 0
+J
+S 1
+S 2
+S 0
+P 2
+S 1
+S 2
+S 0
+S 1
+W 2
+S 2
+U
+U
+S 1
+W 2
+S 2
+U
+U
+S 0
+S 1
+W 2
+S 2
+U
+P 2
+S 1
+W 2
+S 2
+U
+U
+S 2
+S 0
+P 2
+P 3
+P 3
+S 0
+P 2
+S 1
+S 2
+S 0
+S 1
+W 2
+P 2
+S 1
+W 2
+S 2
+U
+U
+S 0
+P 2
+S 1
+W 2
+S 2
+U
+U
+P 3
+S 2
+S 0
+J
+S 1
+P 3
+P 2
+S 0
+P 2
+S 1
+S 2
+P 3
+S 0
+P 2
+P 3
+P 2
+S 2
+S 0
+P 2
+S 1
+P 2
+S 2
+S 0
+S 1
+P 2
+S 2
+S 0
+P 2
+S 1
+P 2
+S 2
+U
+U
+S 0
+P 2
+S 1
+P 2
+S 2
+U
+U
+S 1
+P 2
+S 2
+S 0
+S 1
+P 2
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 2
+S 2
+U
+U
+S 1
+P 2
+S 2
+U
+U
+S 0
+S 1
+P 2
+S 2
+S 0
+P 2
+S 1
+P 2
+S 2
+U
+P 6
+P 2
+S 1
+P 2
+S 2
+S 0
+S 1
+P 2
+S 2
+U
+U
+S 1
+P 2
+S 2
+U
+U
+S 0
+S 1
+P 2
+S 2
+U
+U
+S 1
+P 2
+S 2
+U
+U
+S 0
+P 2
+S 1
+P 2
+S 2
+S 0
+P 2
+S 1
+P 2
+S 2
+S 0
+S 1
+P 2
+S 2
+U
+U
+S 1
+P 2
+S 2
+U
+U
+S 0
+P 2
+S 1
+P 2
+S 2
+U
+U
+P 2
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+J
+S 1
+J
+P 6
+S 0
+J
+S 1
+K
+P 6
+P 6
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+K
+P 6
+P 2
+P 2
+P 6
+P 6
+S 0
+S 1
+J
+P 6
+P 6
+P 6
+S 0
+S 1
+J
+P 6
+S 1
+S 2
+S 0
+S 1
+J
+P 6
+P 6
+S 0
+S 1
+J
+P 6
+P 6
+P 6
+S 2
+S 0
+S 1
+P 6
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 6
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 6
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 6
+S 2
+S 0
+S 1
+P 6
+S 2
+U
+U
+P 6
+S 0
+S 1
+P 6
+S 2
+U
+U
+P 6
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 6
+S 2
+U
+U
+S 0
+S 1
+P 5
+S 2
+U
+U
+S 1
+P 6
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 6
+S 2
+S 0
+S 1
+P 6
+S 2
+U
+U
+P 6
+S 0
+S 1
+P 6
+S 2
+U
+U
+P 6
+P 6
+S 0
+S 1
+P 6
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+P 5
+S 2
+U
+U
+P 6
+S 0
+S 1
+P 5
+S 2
+U
+U
+P 6
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 6
+S 2
+S 0
+S 1
+P 6
+S 2
+U
+U
+P 6
+S 0
+S 1
+P 6
+S 2
+U
+P 6
+P 6
+S 0
+S 1
+S 2
+S 0
+S 1
+P 5
+S 2
+U
+U
+P 6
+S 0
+S 1
+P 5
+S 2
+U
+U
+P 6
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 6
+P 6
+S 1
+S 2
+S 0
+P 6
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 6
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+P 6
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+P 6
+S 1
+S 2
+U
+U
+P 6
+S 0
+P 6
+S 1
+S 2
+U
+P 6
+P 6
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 6
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+P 6
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 6
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+P 6
+S 1
+S 2
+S 0
+P 6
+P 7
+S 0
+P 6
+P 7
+P 6
+S 0
+P 6
+S 1
+S 2
+S 0
+P 6
+P 7
+P 7
+P 6
+S 0
+P 6
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+P 6
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+P 6
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 6
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 7
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 7
+S 0
+S 1
+S 2
+S 0
+P 6
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+P 6
+S 1
+S 2
+U
+U
+P 6
+P 6
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+P 7
+S 1
+S 2
+U
+U
+P 7
+S 0
+S 1
+S 2
+U
+U
+P 7
+S 1
+S 2
+U
+U
+P 7
+S 2
+S 0
+P 6
+P 7
+S 0
+P 6
+P 7
+S 2
+S 0
+S 1
+P 6
+S 2
+S 0
+P 6
+S 1
+P 6
+S 2
+P 6
+S 0
+P 6
+S 1
+P 6
+P 10
+S 0
+P 6
+S 1
+P 6
+S 2
+S 0
+P 6
+S 1
+P 6
+P 10
+S 0
+P 6
+S 1
+P 6
+P 10
+S 1
+P 6
+S 2
+S 0
+S 1
+P 6
+S 2
+S 0
+S 1
+P 6
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 6
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+S 0
+S 1
+P 6
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 6
+S 2
+U
+U
+S 1
+S 2
+U
+P 6
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 6
+S 2
+S 0
+S 1
+P 6
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 6
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+S 0
+S 1
+P 6
+S 2
+U
+U
+S 1
+P 6
+S 2
+U
+U
+S 0
+S 1
+P 6
+S 2
+U
+P 6
+S 1
+P 6
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 6
+S 2
+S 0
+P 6
+S 1
+P 6
+P 10
+S 0
+P 6
+S 1
+P 6
+P 10
+S 1
+P 6
+S 2
+S 0
+S 1
+P 6
+S 2
+S 0
+S 1
+P 6
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 6
+S 2
+U
+P 10
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+S 0
+P 6
+S 1
+P 6
+S 2
+U
+U
+S 0
+P 6
+S 1
+P 6
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 6
+S 2
+S 0
+S 1
+P 6
+P 10
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 6
+P 10
+S 1
+P 6
+S 2
+U
+U
+S 1
+S 2
+S 0
+P 6
+S 1
+P 6
+S 2
+U
+P 6
+P 6
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+S 0
+S 1
+J
+P 6
+S 1
+S 2
+S 0
+S 1
+J
+P 6
+P 6
+S 0
+J
+P 6
+P 6
+S 0
+S 1
+J
+P 6
+S 1
+S 2
+S 0
+J
+P 6
+S 0
+J
+P 6
+P 6
+S 2
+S 0
+S 1
+P 6
+S 2
+S 0
+S 1
+S 2
+S 0
+P 5
+P 6
+S 0
+P 5
+P 6
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 6
+S 2
+U
+U
+P 6
+S 0
+S 1
+P 5
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 6
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 6
+P 6
+P 6
+S 0
+S 1
+P 6
+S 2
+S 0
+S 1
+S 2
+P 5
+S 0
+P 5
+P 6
+S 2
+S 0
+S 1
+S 2
+U
+P 5
+S 2
+U
+U
+P 6
+S 0
+S 1
+P 5
+S 2
+U
+U
+P 6
+P 6
+S 0
+S 1
+P 6
+S 2
+S 0
+S 1
+P 5
+S 2
+U
+U
+P 6
+S 0
+S 1
+P 5
+S 2
+U
+U
+P 6
+P 6
+P 6
+S 1
+S 2
+S 0
+P 6
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+P 6
+S 1
+S 2
+U
+U
+P 6
+P 6
+P 6
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 6
+S 1
+S 2
+U
+U
+P 7
+S 0
+S 1
+S 2
+U
+U
+P 6
+P 7
+S 0
+P 6
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+P 7
+P 6
+P 7
+P 7
+S 2
+S 0
+P 6
+P 7
+S 0
+P 6
+S 1
+P 7
+P 6
+S 0
+P 6
+S 1
+S 2
+S 0
+P 6
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+P 6
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 7
+S 0
+P 6
+S 1
+S 2
+S 0
+P 6
+S 1
+S 2
+U
+U
+P 7
+S 0
+P 6
+S 1
+S 2
+U
+U
+P 7
+P 7
+S 2
+S 0
+P 6
+S 1
+P 7
+P 6
+S 0
+P 6
+S 1
+S 2
+S 0
+P 6
+P 7
+S 0
+P 6
+P 7
+P 6
+S 2
+S 0
+S 1
+P 6
+S 2
+S 0
+P 6
+S 1
+P 6
+P 10
+P 6
+S 1
+P 6
+S 2
+S 0
+S 1
+P 6
+S 2
+S 0
+P 10
+S 1
+P 6
+S 2
+U
+U
+S 0
+P 10
+S 1
+P 6
+S 2
+U
+U
+S 1
+P 6
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 6
+S 2
+S 0
+P 10
+S 1
+P 6
+P 10
+S 0
+P 10
+S 1
+P 6
+P 10
+S 1
+P 6
+S 2
+S 0
+S 1
+P 6
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 6
+S 2
+U
+U
+S 1
+S 2
+U
+P 6
+S 2
+U
+U
+S 0
+P 6
+S 1
+P 6
+S 2
+S 0
+S 1
+P 6
+P 10
+S 1
+P 6
+S 2
+S 0
+S 1
+P 6
+S 2
+U
+U
+S 1
+P 6
+S 2
+U
+U
+S 0
+S 1
+P 6
+S 2
+U
+U
+S 1
+P 6
+S 2
+U
+U
+S 0
+S 1
+P 6
+S 2
+S 0
+P 6
+S 1
+P 6
+P 10
+P 6
+S 1
+P 6
+S 2
+S 0
+S 1
+P 6
+S 2
+U
+P 10
+S 1
+P 6
+S 2
+U
+U
+S 0
+S 1
+P 6
+P 10
+S 1
+P 6
+S 2
+U
+U
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+W 2
+S 2
+S 0
+S 1
+W 2
+S 2
+U
+U
+S 1
+W 2
+P 3
+S 0
+S 1
+W 2
+S 2
+U
+U
+S 1
+W 2
+P 3
+S 1
+W 2
+P 3
+S 0
+S 1
+W 2
+S 2
+S 0
+S 1
+W 2
+S 2
+U
+U
+S 1
+W 2
+P 3
+S 0
+S 1
+W 2
+S 2
+U
+P 3
+S 1
+W 2
+P 3
+S 1
+W 2
+P 3
+P 3
+S 1
+S 2
+S 0
+S 1
+W 2
+P 3
+P 3
+S 0
+S 1
+W 2
+P 3
+P 3
+P 3
+S 0
+S 1
+S 2
+S 0
+S 1
+W 2
+S 2
+S 0
+S 1
+W 2
+P 3
+S 1
+W 2
+P 3
+S 0
+S 1
+S 2
+W 2
+U
+P 3
+S 1
+S 2
+W 2
+U
+P 3
+S 1
+W 2
+P 3
+S 0
+S 1
+W 2
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 3
+S 1
+S 2
+U
+U
+P 3
+S 0
+S 1
+S 2
+U
+U
+P 3
+P 3
+S 1
+W 2
+P 3
+P 3
+S 1
+S 2
+S 0
+S 1
+W 2
+P 3
+P 3
+S 0
+S 1
+W 2
+P 3
+P 3
+P 3
+S 2
+S 0
+S 1
+P 3
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+P 3
+S 2
+U
+U
+P 3
+S 0
+S 1
+P 3
+S 2
+U
+U
+P 3
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 3
+S 0
+S 1
+S 2
+S 0
+S 1
+P 3
+S 2
+U
+U
+P 3
+S 0
+S 1
+P 2
+S 2
+U
+U
+P 3
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 3
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 3
+S 2
+U
+U
+P 3
+P 3
+S 0
+S 1
+P 3
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+P 2
+S 2
+U
+U
+P 3
+S 0
+S 1
+P 2
+S 2
+U
+U
+P 3
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 3
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 3
+S 2
+U
+U
+P 3
+S 0
+S 1
+S 2
+S 0
+S 1
+P 2
+S 2
+U
+P 2
+P 3
+S 0
+P 2
+P 3
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 3
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 3
+P 3
+P 3
+S 1
+C 1
+S 2
+S 0
+P 3
+S 1
+P 3
+S 2
+S 0
+S 1
+P 3
+S 2
+S 0
+S 1
+P 3
+S 2
+U
+U
+W 1
+S 0
+S 1
+P 3
+S 2
+U
+U
+W 1
+W 1
+S 0
+S 1
+P 3
+S 2
+S 0
+S 1
+P 3
+S 2
+U
+U
+W 1
+S 0
+S 1
+P 3
+S 2
+U
+U
+W 1
+W 1
+S 0
+P 3
+S 1
+P 3
+S 2
+S 0
+S 1
+P 3
+S 2
+S 0
+S 1
+P 3
+S 2
+U
+U
+W 1
+S 0
+S 1
+P 3
+S 2
+U
+U
+S 1
+P 3
+S 2
+W 1
+U
+W 1
+S 0
+S 1
+P 3
+S 2
+S 0
+S 1
+P 3
+S 2
+U
+U
+S 1
+P 3
+S 2
+U
+U
+S 0
+S 1
+P 3
+S 2
+U
+U
+S 1
+P 3
+S 2
+U
+U
+W 1
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+W 2
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 3
+P 3
+S 0
+S 1
+S 2
+U
+U
+P 3
+P 3
+S 1
+W 2
+P 3
+S 0
+S 1
+S 2
+W 2
+S 0
+S 1
+W 2
+S 2
+W 2
+U
+S 1
+W 2
+S 2
+W 2
+U
+P 3
+S 1
+S 2
+W 2
+S 0
+S 1
+W 2
+S 2
+W 2
+U
+S 1
+W 2
+P 3
+P 3
+P 3
+S 1
+S 2
+S 0
+S 1
+W 2
+P 3
+P 3
+S 0
+S 1
+S 2
+W 2
+S 0
+S 1
+W 2
+P 3
+S 1
+W 2
+P 3
+P 3
+S 1
+S 2
+W 2
+S 0
+S 1
+W 2
+P 3
+P 3
+P 3
+P 3
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+W 2
+S 2
+U
+U
+S 1
+W 2
+S 2
+U
+U
+S 0
+S 1
+W 2
+S 2
+U
+U
+S 1
+W 2
+S 2
+U
+U
+P 3
+S 1
+S 2
+S 0
+S 1
+W 2
+S 2
+U
+U
+S 1
+W 2
+P 3
+S 0
+S 1
+W 2
+P 3
+S 1
+W 2
+P 3
+P 3
+S 0
+S 1
+S 2
+S 0
+S 1
+W 2
+S 2
+U
+U
+S 1
+W 2
+S 2
+U
+U
+S 0
+S 1
+W 2
+S 2
+U
+U
+S 1
+W 2
+P 3
+P 3
+S 1
+S 2
+S 0
+S 1
+W 2
+P 3
+S 1
+W 2
+P 3
+S 0
+S 1
+W 2
+P 3
+S 1
+W 2
+P 3
+P 3
+P 3
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+W 2
+P 3
+S 1
+W 2
+P 3
+S 0
+S 1
+W 2
+P 3
+S 1
+W 2
+P 3
+P 3
+S 1
+S 2
+S 0
+S 1
+W 2
+P 3
+P 3
+S 0
+S 1
+W 2
+P 3
+P 3
+P 3
+S 0
+S 1
+S 2
+S 0
+S 1
+W 2
+P 3
+S 1
+W 2
+P 3
+S 0
+S 1
+W 2
+P 3
+S 1
+W 2
+P 3
+P 3
+S 1
+S 2
+S 0
+S 1
+W 2
+P 3
+P 3
+S 0
+S 1
+W 2
+P 3
+P 3
+P 3
+P 3
+S 2
+S 0
+S 1
+P 3
+S 2
+S 0
+S 1
+P 3
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 3
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 3
+P 3
+S 0
+S 1
+P 3
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 3
+S 0
+S 1
+P 2
+S 2
+U
+U
+P 3
+P 3
+P 3
+S 0
+S 1
+P 3
+S 2
+S 0
+S 1
+P 3
+S 2
+S 0
+S 1
+P 2
+S 2
+U
+U
+P 3
+P 3
+P 3
+P 3
+P 3
+S 1
+C 1
+S 2
+S 0
+P 3
+S 1
+P 3
+S 2
+S 0
+S 1
+P 3
+S 2
+S 0
+S 1
+P 3
+S 2
+U
+P 7
+S 1
+P 3
+S 2
+U
+U
+S 0
+S 1
+P 3
+P 7
+S 1
+P 3
+S 2
+U
+U
+W 1
+S 0
+S 1
+P 3
+S 2
+S 0
+P 3
+S 1
+P 3
+S 2
+U
+U
+S 0
+P 3
+S 1
+P 3
+S 2
+U
+U
+S 1
+P 3
+S 2
+W 1
+S 0
+S 1
+P 3
+S 2
+W 1
+U
+W 1
+S 0
+P 3
+S 1
+S 2
+P 3
+S 0
+P 3
+S 1
+S 2
+S 0
+P 3
+W 1
+S 0
+P 3
+W 1
+P 3
+S 2
+S 0
+P 3
+S 1
+P 3
+S 2
+S 0
+S 1
+P 3
+S 2
+U
+U
+W 1
+S 0
+S 1
+P 3
+S 2
+U
+P 3
+W 1
+S 0
+P 3
+S 1
+P 3
+S 2
+S 0
+P 3
+W 1
+P 3
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 7
+S 1
+S 2
+U
+U
+P 7
+S 0
+S 1
+S 2
+U
+U
+P 7
+S 1
+S 2
+U
+P 7
+P 7
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 3
+P 7
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 3
+P 7
+P 7
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 7
+P 7
+S 0
+S 1
+S 2
+U
+U
+P 7
+P 7
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 3
+P 7
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 3
+P 7
+P 7
+S 1
+S 2
+P 7
+S 0
+S 1
+P 3
+P 7
+P 7
+P 7
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 7
+P 7
+S 0
+S 1
+S 2
+U
+U
+P 7
+P 7
+S 1
+S 2
+S 0
+S 1
+P 3
+S 2
+U
+U
+P 3
+S 0
+S 1
+P 3
+S 2
+U
+U
+P 3
+P 7
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 7
+P 7
+P 7
+S 1
+S 2
+S 0
+S 1
+P 3
+S 2
+U
+P 3
+P 3
+P 3
+P 7
+P 7
+S 1
+S 2
+S 0
+S 1
+P 3
+P 7
+P 7
+S 0
+S 1
+P 3
+P 7
+P 7
+P 7
+S 2
+S 0
+S 1
+P 7
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+P 7
+S 2
+U
+U
+P 7
+S 0
+S 1
+P 7
+S 2
+U
+U
+P 7
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 7
+S 2
+S 0
+S 1
+P 7
+S 2
+U
+U
+P 7
+S 0
+S 1
+P 7
+S 2
+U
+U
+P 7
+S 0
+S 1
+S 2
+S 0
+S 1
+P 7
+S 2
+U
+U
+P 7
+S 0
+S 1
+P 7
+S 2
+U
+U
+P 7
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 7
+S 2
+S 0
+S 1
+P 7
+S 2
+U
+P 7
+P 7
+P 7
+P 7
+S 0
+S 1
+P 7
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+P 7
+S 2
+U
+U
+P 7
+S 0
+S 1
+P 6
+S 2
+U
+U
+P 7
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 7
+S 2
+U
+U
+P 7
+S 0
+S 1
+S 2
+S 0
+S 1
+P 6
+S 2
+U
+U
+P 7
+S 0
+S 1
+P 6
+S 2
+U
+U
+P 7
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 7
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 7
+S 2
+U
+U
+P 7
+P 7
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+P 7
+S 1
+S 2
+S 0
+P 7
+S 1
+S 2
+U
+U
+P 7
+S 0
+P 7
+S 1
+S 2
+U
+P 7
+P 7
+P 7
+P 7
+P 7
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+S 2
+S 0
+P 7
+W 1
+S 0
+P 7
+W 1
+W 1
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+P 7
+W 1
+S 2
+S 0
+P 7
+W 1
+S 0
+P 7
+W 1
+W 1
+S 2
+S 0
+P 7
+W 1
+S 0
+P 7
+W 1
+S 0
+P 7
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 7
+W 1
+S 0
+S 1
+S 2
+U
+U
+P 7
+S 1
+S 2
+W 1
+U
+S 2
+W 1
+U
+S 2
+S 0
+P 7
+W 1
+S 0
+P 7
+S 1
+S 2
+W 1
+U
+P 7
+W 1
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+P 7
+P 7
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+P 7
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+P 7
+S 1
+S 2
+U
+U
+P 7
+P 7
+W 1
+S 2
+S 0
+P 7
+W 1
+S 0
+P 7
+W 1
+S 2
+S 0
+S 1
+P 7
+S 2
+S 0
+P 7
+S 1
+P 7
+S 2
+S 0
+P 7
+S 1
+P 7
+S 2
+U
+U
+S 0
+P 7
+S 1
+P 7
+S 2
+U
+U
+S 0
+P 7
+S 1
+P 7
+S 2
+S 0
+P 7
+S 1
+P 7
+S 2
+U
+U
+S 0
+P 7
+S 1
+P 7
+P 11
+S 1
+P 7
+S 2
+S 0
+S 1
+P 7
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+W 1
+S 0
+S 1
+P 7
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+W 1
+S 0
+S 1
+P 7
+S 2
+S 0
+P 7
+S 1
+P 7
+S 2
+S 0
+P 7
+S 1
+P 7
+P 11
+S 0
+P 7
+S 1
+P 7
+P 11
+S 0
+P 7
+S 1
+P 7
+P 11
+S 1
+P 7
+S 2
+S 0
+S 1
+P 7
+S 2
+S 0
+S 1
+P 7
+S 2
+U
+U
+W 1
+S 0
+S 1
+P 7
+S 2
+U
+U
+S 1
+S 2
+W 1
+U
+S 2
+W 1
+U
+W 1
+S 0
+S 1
+P 7
+S 2
+S 0
+S 1
+P 7
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 7
+S 2
+U
+P 11
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 3
+S 2
+U
+U
+P 7
+S 1
+P 3
+P 7
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 3
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 3
+P 7
+S 1
+P 3
+P 7
+P 7
+S 1
+S 2
+S 0
+S 1
+P 3
+P 7
+P 7
+S 0
+S 1
+P 3
+P 7
+P 7
+P 7
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 3
+S 0
+S 1
+S 2
+U
+U
+P 7
+P 3
+P 7
+S 1
+P 3
+P 7
+S 0
+S 1
+S 2
+S 0
+S 1
+P 3
+P 7
+P 3
+P 3
+P 7
+S 1
+P 3
+P 7
+P 7
+S 1
+S 2
+S 0
+S 1
+S 2
+P 3
+S 0
+P 3
+P 7
+P 7
+P 7
+P 7
+P 7
+S 2
+S 0
+S 1
+P 7
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+P 6
+S 2
+U
+P 6
+P 7
+S 0
+P 6
+P 7
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 7
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 7
+P 7
+S 0
+S 1
+P 7
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 7
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 7
+P 7
+P 7
+S 0
+S 1
+P 7
+S 2
+S 0
+S 1
+P 7
+S 2
+S 0
+S 1
+P 7
+S 2
+U
+U
+P 7
+S 0
+S 1
+P 6
+S 2
+U
+P 7
+P 7
+P 7
+P 7
+P 7
+S 1
+S 2
+S 0
+P 7
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+P 7
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+P 7
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 7
+W 1
+S 0
+S 1
+S 2
+S 0
+P 7
+S 1
+S 2
+U
+U
+P 7
+S 0
+P 7
+S 1
+S 2
+U
+P 7
+P 7
+P 7
+S 1
+S 2
+W 1
+S 0
+S 1
+S 2
+W 1
+U
+S 2
+W 1
+U
+W 1
+S 2
+W 1
+S 0
+S 1
+S 2
+W 1
+U
+S 2
+W 1
+U
+W 1
+S 2
+S 0
+P 7
+W 1
+S 0
+P 7
+S 1
+S 2
+W 1
+S 0
+P 7
+W 1
+S 2
+W 1
+S 0
+P 7
+W 1
+S 0
+P 7
+S 1
+S 2
+S 0
+P 7
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+S 0
+S 1
+S 2
+U
+U
+P 7
+W 1
+S 0
+P 7
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+S 2
+S 0
+S 1
+S 2
+U
+P 7
+P 7
+W 1
+S 0
+P 7
+W 1
+S 2
+S 0
+P 7
+S 1
+S 2
+S 0
+P 7
+W 1
+S 0
+P 7
+W 1
+S 2
+S 0
+P 7
+W 1
+S 0
+P 7
+W 1
+S 0
+P 7
+S 1
+S 2
+S 0
+P 7
+W 1
+S 0
+P 7
+W 1
+S 2
+S 0
+P 7
+W 1
+S 0
+P 7
+W 1
+S 2
+S 0
+S 1
+P 7
+S 2
+S 0
+P 7
+S 1
+P 7
+P 11
+S 0
+P 7
+S 1
+P 7
+P 11
+S 1
+P 7
+S 2
+S 0
+S 1
+P 7
+S 2
+S 0
+S 1
+P 7
+P 11
+S 1
+S 2
+U
+P 7
+S 2
+U
+U
+S 0
+S 1
+P 7
+P 11
+S 1
+P 7
+S 2
+U
+U
+W 1
+S 0
+S 1
+P 7
+S 2
+S 0
+P 11
+S 1
+P 7
+S 2
+U
+U
+S 0
+P 11
+S 1
+P 7
+S 2
+U
+U
+S 1
+P 7
+S 2
+W 1
+S 0
+S 1
+P 7
+S 2
+W 1
+U
+W 1
+S 0
+P 7
+S 1
+P 7
+S 2
+S 0
+S 1
+P 7
+S 2
+S 0
+P 11
+S 1
+P 7
+S 2
+U
+P 11
+S 0
+P 11
+S 1
+P 7
+P 11
+S 1
+P 7
+S 2
+S 0
+S 1
+P 7
+S 2
+U
+U
+W 1
+S 0
+S 1
+P 7
+S 2
+U
+U
+W 1
+S 0
+S 1
+P 7
+S 2
+S 0
+P 7
+P 11
+S 0
+P 7
+S 1
+P 7
+P 11
+S 1
+P 7
+S 2
+S 0
+S 1
+P 7
+S 2
+U
+U
+W 1
+S 0
+S 1
+P 7
+S 2
+U
+U
+W 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 9
+P 10
+S 0
+S 1
+S 2
+U
+U
+P 9
+P 10
+S 2
+P 10
+S 0
+P 9
+P 10
+P 10
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 10
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 10
+P 9
+P 10
+P 10
+P 10
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+P 10
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+P 9
+P 10
+S 0
+S 1
+S 2
+U
+U
+P 9
+P 10
+P 10
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 9
+P 10
+S 0
+S 1
+S 2
+U
+U
+P 9
+P 10
+S 1
+S 2
+P 10
+S 0
+S 1
+S 2
+U
+U
+P 10
+P 10
+P 10
+P 10
+P 10
+S 2
+S 0
+S 1
+P 10
+S 2
+S 0
+S 1
+P 10
+S 2
+S 0
+S 1
+P 10
+S 2
+U
+U
+P 14
+S 0
+S 1
+S 2
+P 10
+U
+S 2
+U
+U
+P 14
+S 1
+P 10
+P 14
+S 0
+S 1
+P 10
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+P 14
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 10
+P 14
+S 1
+P 10
+S 2
+S 0
+S 1
+P 10
+S 2
+S 0
+S 1
+P 10
+P 14
+P 10
+S 0
+P 14
+P 10
+P 10
+S 0
+S 1
+P 10
+P 14
+P 10
+S 0
+S 1
+P 10
+S 2
+S 0
+S 1
+S 2
+P 10
+S 0
+S 1
+P 10
+S 2
+U
+U
+P 10
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 10
+S 2
+S 0
+S 1
+S 2
+P 14
+U
+P 14
+P 14
+S 0
+S 1
+S 2
+U
+U
+P 14
+P 14
+S 0
+S 1
+S 2
+S 0
+S 1
+P 10
+S 2
+U
+U
+P 10
+S 0
+S 1
+P 10
+S 2
+U
+U
+S 1
+P 10
+S 2
+P 10
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 10
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 14
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 10
+P 14
+S 1
+P 10
+S 2
+S 0
+S 1
+P 10
+P 14
+P 10
+S 0
+S 1
+P 10
+P 14
+P 10
+S 1
+S 2
+S 0
+P 10
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+P 10
+S 1
+P 6
+P 10
+S 0
+S 1
+P 6
+P 10
+P 6
+P 10
+S 1
+S 2
+S 0
+S 1
+S 2
+P 6
+U
+P 10
+S 1
+S 2
+U
+U
+P 10
+S 0
+S 1
+S 2
+U
+U
+P 10
+S 1
+S 2
+U
+U
+P 10
+P 10
+S 0
+S 1
+S 2
+S 0
+P 6
+S 1
+P 6
+P 10
+S 0
+P 6
+S 1
+S 2
+P 6
+U
+P 10
+P 10
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 10
+S 1
+S 2
+U
+U
+S 2
+P 10
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+P 10
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 10
+P 10
+S 0
+S 1
+S 2
+S 0
+P 10
+S 1
+P 6
+P 10
+S 0
+P 10
+S 1
+P 6
+P 10
+P 10
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+P 6
+S 1
+S 2
+U
+U
+P 10
+S 0
+S 1
+P 6
+P 10
+S 1
+S 2
+U
+U
+S 2
+P 10
+U
+P 10
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 10
+S 0
+S 1
+S 2
+S 0
+S 1
+P 6
+P 10
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+P 10
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 10
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+P 10
+S 1
+S 2
+U
+U
+P 10
+S 0
+P 10
+S 1
+S 2
+U
+U
+P 10
+P 10
+S 2
+S 0
+P 10
+S 1
+S 2
+S 0
+P 10
+S 1
+P 10
+S 2
+S 0
+P 10
+P 11
+P 11
+S 0
+P 10
+S 1
+P 10
+P 11
+S 2
+S 0
+P 10
+S 1
+P 11
+S 2
+S 0
+P 10
+S 1
+P 11
+S 2
+U
+U
+S 0
+S 1
+S 2
+P 10
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+P 10
+S 1
+S 2
+P 11
+S 0
+S 1
+P 10
+S 2
+U
+U
+P 11
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+P 10
+S 1
+S 2
+S 0
+P 10
+P 11
+S 0
+P 10
+P 11
+S 2
+S 0
+S 1
+P 10
+S 2
+S 0
+P 10
+S 1
+P 10
+S 2
+U
+U
+S 0
+P 10
+S 1
+P 10
+S 2
+U
+U
+S 1
+S 2
+S 0
+S 1
+P 10
+S 2
+U
+U
+S 1
+P 11
+S 2
+U
+U
+S 0
+S 1
+P 11
+S 2
+U
+U
+S 1
+P 11
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 10
+S 2
+S 0
+P 10
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+P 10
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 11
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 11
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 9
+S 1
+S 2
+U
+U
+P 10
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 10
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 10
+P 10
+S 0
+S 1
+S 2
+U
+U
+P 10
+P 10
+P 10
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 10
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 10
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 10
+P 10
+S 0
+S 1
+S 2
+U
+U
+S 2
+P 10
+U
+P 10
+P 10
+P 10
+P 10
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 10
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 10
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+P 10
+U
+P 10
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 10
+P 10
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 10
+S 0
+S 1
+S 2
+U
+U
+P 10
+S 1
+S 2
+U
+U
+P 10
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 10
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 10
+P 10
+P 10
+P 10
+S 2
+S 0
+S 1
+P 10
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+P 10
+S 2
+U
+U
+S 1
+P 10
+S 2
+U
+U
+S 0
+S 1
+S 2
+P 10
+U
+S 2
+U
+U
+S 1
+P 10
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 10
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 10
+P 14
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 10
+P 14
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 10
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 10
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 10
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 10
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 10
+S 2
+U
+U
+S 1
+P 10
+S 2
+S 0
+S 1
+P 10
+P 14
+P 10
+S 0
+S 1
+P 10
+S 2
+P 14
+S 0
+S 1
+P 10
+P 14
+P 10
+P 10
+S 0
+S 1
+P 10
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 10
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 10
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 10
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 10
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 10
+S 2
+U
+U
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 10
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 10
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 10
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 10
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 10
+S 2
+U
+U
+P 10
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+P 10
+S 1
+S 2
+S 0
+P 6
+S 1
+P 6
+P 10
+S 0
+P 6
+S 1
+P 6
+P 10
+P 10
+S 0
+P 10
+S 1
+S 2
+S 0
+P 6
+S 1
+P 6
+P 10
+P 10
+P 10
+P 10
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 10
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+P 10
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 10
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+P 10
+U
+P 10
+S 1
+S 2
+U
+U
+P 10
+S 0
+S 1
+S 2
+U
+U
+P 10
+S 1
+S 2
+U
+U
+P 10
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 10
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+P 10
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 10
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 10
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+P 10
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 10
+S 0
+P 10
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 10
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+P 10
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 10
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 10
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+P 10
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 10
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+P 10
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 10
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 10
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+P 10
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+P 10
+S 0
+P 10
+S 1
+S 2
+P 10
+S 0
+P 10
+P 11
+P 10
+S 2
+S 0
+P 10
+S 1
+S 2
+S 0
+P 10
+S 1
+P 10
+S 2
+P 11
+S 0
+P 10
+P 11
+S 0
+P 10
+S 1
+P 10
+S 2
+S 0
+P 10
+P 11
+S 0
+P 10
+P 11
+S 2
+S 0
+S 1
+P 10
+S 2
+S 0
+S 1
+P 10
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 10
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+S 0
+P 10
+S 1
+P 10
+S 2
+U
+U
+S 0
+P 10
+S 1
+P 10
+S 2
+U
+U
+S 2
+S 0
+S 1
+P 10
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 10
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 10
+S 2
+S 0
+P 10
+S 1
+P 10
+S 2
+P 10
+S 0
+P 10
+S 1
+P 10
+S 2
+U
+U
+S 0
+P 10
+S 1
+P 10
+S 2
+S 0
+P 10
+S 1
+P 10
+S 2
+U
+U
+S 0
+P 10
+S 1
+P 10
+P 14
+S 1
+S 2
+S 0
+P 10
+S 1
+P 10
+S 2
+S 0
+P 10
+S 1
+P 10
+S 2
+P 11
+U
+S 0
+P 10
+S 1
+P 10
+S 2
+U
+U
+S 0
+P 10
+S 1
+P 10
+S 2
+S 0
+P 10
+S 1
+P 10
+S 2
+U
+U
+P 10
+S 2
+S 0
+S 1
+S 2
+S 0
+P 10
+S 1
+P 10
+S 2
+U
+U
+S 0
+P 10
+S 1
+P 10
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+S 0
+P 10
+S 1
+P 10
+S 2
+U
+U
+S 0
+P 10
+S 1
+P 10
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+P 10
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+P 13
+U
+P 13
+P 14
+S 0
+S 1
+S 2
+U
+U
+P 13
+P 14
+S 2
+P 14
+S 0
+P 13
+P 14
+P 14
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 13
+P 14
+S 0
+S 1
+S 2
+U
+U
+S 2
+P 13
+U
+S 1
+S 2
+P 14
+U
+P 14
+P 13
+P 14
+P 14
+P 14
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 14
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+P 14
+U
+S 2
+P 13
+S 0
+P 13
+P 14
+P 14
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+P 13
+P 14
+S 0
+S 1
+S 2
+U
+U
+P 13
+P 14
+P 14
+P 14
+P 14
+S 2
+S 0
+S 1
+P 14
+S 2
+S 0
+S 1
+P 14
+S 2
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+P 14
+U
+W 3
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 1
+P 14
+S 2
+S 0
+S 1
+P 14
+W 3
+S 1
+P 14
+W 3
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+P 14
+W 3
+S 0
+S 1
+S 2
+P 14
+S 0
+S 1
+P 14
+S 2
+U
+U
+P 14
+S 2
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+W 3
+S 1
+P 14
+S 2
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+P 14
+U
+W 3
+W 3
+S 1
+P 14
+S 2
+S 0
+S 1
+P 14
+S 2
+S 0
+S 1
+P 14
+W 3
+S 1
+P 14
+W 3
+S 0
+S 1
+P 14
+W 3
+S 1
+P 14
+W 3
+S 1
+P 14
+S 2
+S 0
+S 1
+P 14
+W 3
+S 1
+P 14
+W 3
+S 0
+S 1
+P 14
+W 3
+P 14
+S 0
+S 1
+P 14
+S 2
+S 0
+S 1
+P 14
+W 3
+S 1
+P 14
+W 3
+W 3
+S 1
+P 14
+S 2
+S 0
+S 1
+P 14
+W 3
+P 14
+W 3
+S 0
+S 1
+P 14
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+P 14
+S 2
+U
+U
+S 1
+P 14
+S 2
+P 14
+U
+S 0
+S 1
+P 14
+S 2
+U
+U
+S 1
+P 14
+S 2
+U
+U
+W 3
+S 1
+P 14
+W 3
+S 0
+S 1
+S 2
+S 0
+S 1
+P 14
+S 2
+U
+U
+S 1
+P 14
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+P 14
+W 3
+W 3
+S 1
+P 14
+W 3
+S 1
+P 14
+S 2
+S 0
+S 1
+P 14
+W 3
+S 1
+P 14
+W 3
+S 0
+S 1
+P 14
+W 3
+P 14
+S 1
+S 2
+S 0
+P 14
+S 1
+S 2
+S 0
+P 14
+S 1
+S 2
+P 14
+S 0
+S 1
+S 2
+P 14
+U
+P 14
+S 1
+S 2
+U
+U
+P 14
+P 14
+S 0
+S 1
+S 2
+P 14
+S 0
+P 10
+S 1
+S 2
+U
+U
+P 14
+P 14
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 14
+S 1
+S 2
+U
+U
+P 14
+S 0
+S 1
+S 2
+U
+U
+P 14
+S 1
+S 2
+U
+U
+P 14
+P 14
+P 14
+S 0
+P 14
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+P 10
+S 1
+S 2
+U
+U
+P 14
+S 0
+S 1
+P 10
+P 14
+S 1
+S 2
+U
+U
+P 14
+P 14
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 14
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+P 14
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 14
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 14
+S 1
+S 2
+U
+U
+P 14
+S 0
+S 1
+S 2
+U
+U
+P 14
+S 1
+S 2
+U
+U
+P 14
+P 14
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 14
+P 14
+S 2
+S 0
+P 14
+S 1
+S 2
+S 0
+P 14
+S 1
+P 14
+S 2
+S 0
+P 14
+P 15
+P 15
+S 0
+P 14
+S 1
+P 14
+P 15
+S 2
+S 0
+P 14
+S 1
+P 15
+S 2
+S 0
+S 1
+P 14
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 0
+S 1
+S 2
+P 14
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 0
+S 1
+P 14
+S 2
+P 14
+W 3
+S 1
+S 2
+S 0
+S 1
+P 14
+S 2
+U
+U
+S 1
+P 15
+S 2
+P 15
+U
+S 0
+S 1
+P 14
+S 2
+U
+U
+S 1
+P 15
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+W 3
+S 0
+P 14
+S 1
+S 2
+S 0
+P 14
+P 15
+S 0
+P 14
+S 1
+P 14
+S 2
+P 15
+S 0
+P 14
+P 15
+S 2
+S 0
+S 1
+P 14
+W 3
+S 1
+S 2
+S 0
+S 1
+S 2
+P 15
+U
+S 2
+U
+U
+S 1
+P 15
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 15
+S 2
+U
+U
+W 3
+S 0
+S 1
+S 2
+P 14
+S 0
+P 14
+S 1
+P 14
+W 3
+W 3
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+W 3
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 13
+P 14
+S 0
+S 1
+S 2
+U
+U
+P 13
+P 14
+S 1
+S 2
+S 0
+S 1
+S 2
+P 14
+U
+P 14
+P 14
+S 0
+S 1
+S 2
+U
+U
+P 14
+P 14
+P 14
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+P 13
+U
+P 14
+S 0
+S 1
+S 2
+U
+U
+P 14
+P 14
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 14
+P 14
+S 0
+S 1
+S 2
+U
+U
+P 14
+P 14
+P 14
+P 14
+P 14
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 14
+P 14
+S 0
+S 1
+S 2
+U
+U
+P 14
+P 14
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 14
+P 14
+S 0
+S 1
+S 2
+U
+U
+P 14
+P 14
+P 14
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 14
+P 14
+S 0
+S 1
+S 2
+U
+U
+P 14
+P 14
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 14
+P 14
+S 0
+S 1
+S 2
+U
+U
+P 14
+P 14
+P 14
+P 14
+P 14
+S 2
+S 0
+S 1
+P 14
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+P 14
+W 3
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+P 14
+W 3
+W 3
+S 1
+S 2
+S 0
+S 1
+P 14
+W 3
+P 14
+S 0
+S 1
+P 14
+W 3
+P 14
+W 3
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+P 14
+W 3
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+P 14
+U
+W 3
+W 3
+S 1
+S 2
+S 0
+S 1
+P 14
+W 3
+P 14
+S 0
+S 1
+P 14
+W 3
+P 14
+W 3
+S 1
+P 14
+S 2
+S 0
+S 1
+P 14
+W 3
+P 14
+S 0
+S 1
+P 14
+W 3
+P 14
+S 0
+S 1
+S 2
+S 0
+S 1
+P 14
+S 2
+S 0
+S 1
+P 14
+S 2
+P 14
+U
+P 14
+S 0
+S 1
+P 14
+S 2
+U
+U
+P 14
+P 14
+S 0
+S 1
+P 14
+S 2
+S 0
+S 1
+P 14
+S 2
+U
+U
+P 14
+S 0
+S 1
+P 13
+S 2
+U
+U
+P 14
+P 14
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+W 3
+S 1
+S 2
+S 0
+S 1
+P 14
+W 3
+P 14
+S 0
+S 1
+P 14
+W 3
+P 14
+W 3
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+W 3
+S 1
+S 2
+S 0
+S 1
+P 14
+W 3
+P 14
+S 0
+S 1
+P 14
+W 3
+P 14
+W 3
+S 1
+P 14
+S 2
+S 0
+S 1
+P 14
+W 3
+P 14
+S 0
+S 1
+P 14
+W 3
+P 14
+S 1
+S 2
+S 0
+P 14
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 14
+S 1
+S 2
+U
+U
+P 14
+S 0
+S 1
+S 2
+U
+U
+P 14
+S 1
+S 2
+U
+U
+P 14
+P 14
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+P 14
+S 1
+S 2
+U
+U
+P 14
+S 0
+P 14
+S 1
+S 2
+U
+U
+P 14
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 14
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+P 14
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 14
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+P 14
+S 1
+S 2
+U
+U
+P 14
+S 0
+P 14
+S 1
+S 2
+U
+U
+P 14
+P 14
+S 0
+P 14
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 14
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+P 14
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 14
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 14
+S 1
+S 2
+U
+U
+S 2
+P 14
+U
+S 0
+S 1
+S 2
+U
+U
+P 14
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 14
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+P 14
+P 14
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 14
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 14
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+P 14
+S 1
+S 2
+U
+U
+P 15
+P 14
+S 2
+S 0
+S 1
+P 14
+S 2
+P 14
+S 0
+P 14
+S 1
+P 14
+W 3
+S 1
+S 2
+S 0
+P 14
+S 1
+P 14
+S 2
+S 0
+P 14
+P 15
+S 0
+P 14
+P 15
+S 0
+P 14
+S 1
+P 14
+S 2
+S 0
+P 14
+S 1
+P 15
+S 2
+P 15
+U
+S 0
+P 14
+S 1
+P 15
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+S 0
+P 14
+S 1
+P 14
+W 3
+S 0
+P 14
+S 1
+P 14
+W 3
+W 3
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+W 3
+S 0
+S 1
+S 2
+S 0
+P 14
+S 1
+P 14
+W 3
+S 0
+P 14
+S 1
+P 14
+W 3
+W 3
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+W 3
+S 0
+S 1
+P 14
+S 2
+S 0
+P 14
+S 1
+P 14
+W 3
+S 0
+P 14
+S 1
+P 14
+W 3
+S 1
+S 2
+S 0
+P 14
+S 1
+P 14
+S 2
+S 0
+P 14
+S 1
+P 14
+S 2
+U
+U
+S 0
+P 14
+S 1
+P 14
+S 2
+U
+U
+S 0
+P 14
+S 1
+P 14
+S 2
+S 0
+P 14
+S 1
+P 14
+S 2
+U
+U
+S 0
+P 14
+S 1
+P 14
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+S 0
+P 14
+S 1
+P 14
+W 3
+S 0
+P 14
+S 1
+P 14
+W 3
+W 3
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+W 3
+S 0
+S 1
+S 2
+S 0
+P 14
+S 1
+P 14
+W 3
+S 0
+P 14
+S 1
+P 14
+W 3
+W 3
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+W 3
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+P 11
+S 0
+S 1
+S 2
+P 11
+U
+P 10
+P 11
+P 11
+P 11
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 11
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 11
+S 2
+P 11
+S 0
+P 10
+P 11
+P 11
+P 11
+P 11
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 11
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 11
+S 2
+S 0
+S 1
+S 2
+P 10
+U
+P 10
+P 11
+S 0
+S 1
+S 2
+U
+U
+P 10
+P 11
+P 11
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 11
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+P 11
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 10
+P 11
+S 0
+S 1
+S 2
+U
+U
+P 11
+P 11
+P 11
+P 11
+P 11
+S 2
+S 0
+S 1
+P 11
+S 2
+S 0
+S 1
+P 11
+S 2
+S 0
+S 1
+P 11
+P 15
+P 15
+S 0
+S 1
+S 2
+P 11
+U
+S 2
+U
+U
+P 15
+S 1
+P 11
+P 15
+S 0
+S 1
+P 11
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 15
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 15
+S 1
+P 11
+P 15
+S 1
+P 11
+S 2
+S 0
+S 1
+P 11
+S 2
+P 11
+S 0
+P 15
+P 11
+P 11
+S 0
+S 1
+P 11
+P 15
+P 11
+S 0
+S 1
+P 11
+S 2
+S 0
+S 1
+P 11
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 11
+P 15
+S 0
+S 1
+S 2
+S 0
+S 1
+P 11
+S 2
+U
+U
+P 11
+S 0
+S 1
+P 11
+S 2
+U
+U
+P 11
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 11
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 15
+P 15
+S 0
+S 1
+S 2
+U
+U
+P 15
+P 15
+S 1
+P 11
+S 2
+S 0
+S 1
+P 11
+P 15
+P 11
+S 0
+S 1
+P 11
+P 15
+P 11
+S 1
+S 2
+S 0
+S 1
+S 2
+P 11
+S 0
+P 11
+S 1
+S 2
+S 0
+P 11
+P 7
+P 7
+P 11
+P 11
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+P 11
+S 1
+P 7
+P 11
+S 0
+P 7
+S 1
+P 7
+P 11
+P 11
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 11
+W 1
+S 0
+S 1
+S 2
+U
+U
+P 11
+W 1
+P 11
+S 0
+S 1
+S 2
+S 0
+P 7
+S 1
+S 2
+U
+U
+P 11
+S 0
+P 7
+S 1
+S 2
+U
+U
+P 11
+P 11
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 11
+W 1
+W 1
+P 11
+P 11
+S 0
+S 1
+S 2
+S 0
+P 11
+S 1
+P 7
+P 11
+S 0
+P 11
+S 1
+S 2
+P 7
+S 0
+P 7
+S 1
+P 7
+P 11
+P 11
+P 11
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+P 7
+P 11
+S 1
+S 2
+U
+U
+S 2
+P 11
+U
+S 0
+S 1
+S 2
+P 7
+U
+P 11
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 11
+W 1
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 11
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+P 11
+W 1
+P 11
+W 1
+P 11
+S 2
+S 0
+P 11
+S 1
+S 2
+S 0
+P 11
+S 1
+S 2
+S 0
+P 11
+W 1
+S 0
+P 11
+W 1
+S 2
+S 0
+P 11
+W 1
+S 0
+P 11
+W 1
+S 0
+P 11
+S 1
+S 2
+S 0
+P 11
+W 1
+W 1
+S 2
+S 0
+P 11
+W 1
+W 1
+S 2
+S 0
+P 11
+S 1
+S 2
+S 0
+S 1
+P 11
+S 2
+P 11
+U
+W 1
+S 0
+S 1
+S 2
+P 11
+U
+S 2
+U
+U
+W 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+S 0
+S 1
+P 11
+S 2
+S 0
+P 11
+S 1
+P 11
+S 2
+P 11
+U
+S 0
+P 11
+S 1
+S 2
+P 11
+U
+S 2
+U
+U
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+W 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+W 1
+S 0
+P 11
+S 1
+S 2
+S 0
+P 11
+W 1
+S 0
+P 11
+W 1
+S 2
+S 0
+S 1
+P 11
+S 2
+S 0
+P 11
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+P 11
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+S 0
+S 1
+S 2
+S 0
+P 11
+S 1
+P 11
+S 2
+U
+U
+S 0
+P 11
+W 1
+S 2
+S 0
+S 1
+P 11
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 11
+S 2
+U
+U
+W 1
+W 1
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 11
+P 11
+S 0
+S 1
+S 2
+U
+U
+P 11
+P 11
+S 1
+S 2
+P 11
+S 0
+S 1
+S 2
+P 11
+U
+P 11
+P 11
+P 11
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 11
+P 11
+S 0
+S 1
+S 2
+U
+U
+P 11
+P 11
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 11
+P 11
+S 0
+S 1
+S 2
+U
+U
+P 11
+P 11
+P 11
+P 11
+P 11
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 11
+P 11
+S 0
+S 1
+S 2
+U
+U
+P 11
+P 11
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 11
+P 11
+S 0
+S 1
+S 2
+U
+U
+P 11
+P 11
+P 11
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 11
+P 11
+S 0
+S 1
+S 2
+U
+U
+P 11
+P 11
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 11
+P 11
+S 0
+S 1
+S 2
+U
+U
+P 11
+P 11
+P 11
+P 11
+P 11
+S 2
+S 0
+S 1
+P 11
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+P 11
+S 2
+U
+U
+P 11
+S 0
+S 1
+P 11
+S 2
+U
+U
+P 11
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 11
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 15
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 11
+P 15
+S 0
+S 1
+S 2
+S 0
+S 1
+P 11
+S 2
+U
+U
+S 1
+P 11
+S 2
+U
+U
+S 0
+S 1
+P 11
+S 2
+U
+U
+S 1
+P 11
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 11
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 11
+P 15
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 11
+P 15
+S 1
+P 11
+S 2
+S 0
+S 1
+P 11
+P 15
+P 11
+P 11
+S 0
+S 1
+P 11
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 11
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 11
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 11
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 11
+S 2
+P 15
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 11
+S 2
+U
+U
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 11
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 11
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 11
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 11
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+P 11
+S 2
+U
+U
+P 11
+P 11
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+P 11
+S 1
+S 2
+S 0
+P 7
+S 1
+P 7
+P 11
+S 0
+P 7
+S 1
+S 2
+U
+U
+P 11
+P 11
+S 0
+P 11
+S 1
+S 2
+S 0
+P 11
+S 1
+S 2
+U
+U
+P 11
+S 0
+P 11
+S 1
+S 2
+U
+U
+P 11
+P 11
+P 11
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+P 11
+W 1
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+S 2
+P 11
+S 0
+P 11
+W 1
+W 1
+P 11
+S 0
+S 1
+S 2
+S 0
+P 11
+S 1
+S 2
+S 0
+P 11
+S 1
+S 2
+U
+U
+P 11
+S 0
+P 11
+S 1
+S 2
+U
+U
+P 11
+P 11
+S 0
+P 11
+S 1
+S 2
+S 0
+P 11
+S 1
+S 2
+U
+U
+P 11
+P 11
+P 11
+P 11
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+S 2
+S 0
+P 11
+W 1
+S 0
+P 11
+W 1
+W 1
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+S 2
+S 0
+P 11
+W 1
+S 0
+P 11
+W 1
+W 1
+S 2
+S 0
+P 11
+W 1
+S 0
+P 11
+W 1
+S 2
+S 0
+S 1
+P 11
+S 2
+P 11
+S 0
+P 11
+S 1
+P 11
+S 2
+S 0
+P 11
+S 1
+P 11
+S 2
+P 11
+U
+S 0
+P 11
+S 1
+P 11
+S 2
+U
+U
+S 1
+S 2
+S 0
+P 11
+W 1
+S 0
+P 11
+W 1
+S 2
+S 0
+S 1
+S 2
+S 0
+P 11
+W 1
+S 0
+P 11
+W 1
+S 2
+S 0
+S 1
+S 2
+P 11
+U
+S 2
+U
+U
+W 1
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+W 1
+S 0
+S 1
+S 2
+S 0
+P 11
+W 1
+S 0
+P 11
+W 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+W 1
+S 0
+S 1
+P 11
+S 2
+S 0
+P 11
+S 1
+P 11
+S 2
+S 0
+P 11
+S 1
+P 11
+S 2
+U
+U
+S 0
+P 11
+S 1
+P 11
+S 2
+U
+U
+S 0
+P 11
+S 1
+P 11
+S 2
+S 0
+P 11
+S 1
+P 11
+S 2
+U
+U
+S 0
+P 11
+S 1
+P 11
+S 2
+U
+U
+S 1
+S 2
+S 0
+P 11
+W 1
+S 0
+P 11
+W 1
+S 2
+S 0
+S 1
+S 2
+S 0
+P 11
+W 1
+S 0
+P 11
+W 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+W 1
+S 0
+S 1
+S 2
+S 0
+P 11
+W 1
+S 0
+P 11
+W 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+W 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+P 15
+S 0
+S 1
+S 2
+P 15
+U
+P 14
+P 15
+P 15
+P 15
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 14
+P 15
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 15
+P 15
+P 15
+P 15
+P 15
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 15
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 15
+S 2
+P 14
+S 0
+P 14
+P 15
+P 15
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 15
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 15
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 14
+P 15
+S 0
+S 1
+S 2
+U
+U
+P 14
+P 15
+P 15
+P 15
+P 15
+S 2
+S 0
+S 1
+P 15
+S 2
+S 0
+S 1
+P 15
+S 2
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+P 15
+U
+W 3
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 1
+P 15
+S 2
+S 0
+S 1
+P 15
+W 3
+S 1
+P 15
+W 3
+S 0
+S 1
+S 2
+P 15
+U
+W 3
+S 1
+P 15
+W 3
+S 0
+S 1
+S 2
+P 15
+S 0
+S 1
+P 15
+S 2
+P 15
+U
+P 15
+S 2
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+W 3
+S 1
+P 15
+S 2
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+P 15
+W 3
+W 3
+S 1
+P 15
+S 2
+S 0
+S 1
+P 15
+S 2
+S 0
+S 1
+P 15
+W 3
+S 1
+P 15
+W 3
+S 0
+S 1
+P 15
+W 3
+S 1
+P 15
+W 3
+S 1
+P 15
+S 2
+S 0
+S 1
+P 15
+W 3
+P 15
+S 0
+S 1
+P 15
+W 3
+P 15
+S 0
+S 1
+P 15
+S 2
+S 0
+S 1
+P 15
+W 3
+S 1
+P 15
+W 3
+W 3
+S 1
+P 15
+S 2
+S 0
+S 1
+P 15
+W 3
+P 15
+W 3
+S 0
+S 1
+P 15
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+P 15
+S 2
+U
+U
+P 15
+S 0
+S 1
+P 15
+S 2
+U
+U
+P 15
+W 3
+S 1
+P 15
+W 3
+S 0
+S 1
+S 2
+S 0
+S 1
+P 15
+S 2
+U
+U
+S 1
+P 15
+S 2
+U
+U
+S 0
+S 1
+P 15
+W 3
+S 1
+P 15
+W 3
+W 3
+S 1
+P 15
+W 3
+S 1
+P 15
+S 2
+S 0
+S 1
+P 15
+W 3
+P 15
+S 0
+S 1
+P 15
+W 3
+P 15
+S 1
+S 2
+S 0
+P 15
+S 1
+S 2
+S 0
+P 15
+S 1
+S 2
+S 0
+P 15
+W 1
+S 0
+S 1
+S 2
+P 15
+U
+P 15
+W 1
+P 15
+S 0
+S 1
+S 2
+S 0
+P 15
+S 1
+S 2
+U
+U
+P 15
+S 0
+S 1
+P 11
+P 15
+S 1
+S 2
+U
+U
+P 15
+P 15
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 15
+W 1
+W 1
+P 15
+S 2
+S 0
+P 15
+S 1
+P 15
+S 2
+S 0
+P 15
+W 1
+P 15
+P 15
+S 0
+P 15
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+P 11
+U
+P 15
+S 1
+S 2
+U
+U
+P 15
+S 0
+S 1
+S 2
+U
+U
+P 15
+S 1
+S 2
+U
+U
+P 15
+P 15
+W 1
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 15
+S 1
+S 2
+U
+U
+P 15
+S 0
+S 1
+S 2
+U
+U
+P 15
+W 1
+P 15
+W 1
+P 15
+C 3
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 15
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 15
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 14
+P 15
+S 0
+S 1
+S 2
+U
+U
+P 15
+P 15
+P 15
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 15
+P 15
+S 0
+S 1
+S 2
+U
+U
+P 15
+P 15
+P 15
+P 15
+P 15
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 15
+P 15
+S 0
+S 1
+S 2
+U
+U
+P 15
+P 15
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 15
+P 15
+S 0
+S 1
+S 2
+U
+U
+P 15
+P 15
+P 15
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 15
+P 15
+S 0
+S 1
+S 2
+U
+P 15
+P 15
+P 15
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 15
+P 15
+S 0
+S 1
+S 2
+U
+U
+P 15
+P 15
+P 15
+P 15
+P 15
+S 2
+S 0
+S 1
+P 15
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+P 15
+U
+W 3
+S 1
+P 15
+W 3
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+P 15
+W 3
+W 3
+S 1
+P 15
+W 3
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+P 15
+W 3
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+P 15
+W 3
+W 3
+S 1
+P 15
+W 3
+S 1
+P 15
+S 2
+S 0
+S 1
+P 15
+W 3
+P 15
+S 0
+S 1
+P 15
+W 3
+P 15
+S 0
+S 1
+P 15
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+P 15
+W 3
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+P 15
+W 3
+W 3
+S 1
+P 15
+W 3
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+P 15
+W 3
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+P 15
+W 3
+W 3
+S 1
+P 15
+W 3
+S 1
+P 15
+S 2
+S 0
+S 1
+P 15
+W 3
+P 15
+P 15
+S 1
+S 2
+S 0
+P 15
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 15
+W 1
+S 0
+S 1
+S 2
+U
+U
+P 15
+W 1
+P 15
+W 1
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 15
+W 1
+S 0
+S 1
+S 2
+U
+U
+P 15
+W 1
+P 15
+W 1
+P 15
+S 0
+P 15
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 15
+W 1
+S 0
+S 1
+S 2
+U
+U
+P 15
+W 1
+P 15
+W 1
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 15
+W 1
+S 0
+S 1
+S 2
+U
+U
+P 15
+W 1
+P 15
+W 1
+S 2
+P 15
+S 0
+P 15
+W 1
+C 3
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 10
+P 10
+S 0
+S 1
+S 2
+U
+U
+P 10
+P 10
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 10
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 10
+P 10
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 10
+P 10
+S 0
+S 1
+S 2
+U
+U
+P 10
+P 10
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 10
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 6
+P 10
+P 10
+P 10
+P 10
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 10
+P 10
+S 0
+S 1
+S 2
+U
+P 10
+P 10
+P 10
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 10
+S 1
+P 6
+P 10
+S 0
+S 1
+S 2
+U
+U
+P 10
+S 1
+P 6
+P 10
+P 10
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 10
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 10
+P 6
+S 0
+S 1
+S 2
+U
+U
+P 10
+P 6
+P 10
+P 10
+P 10
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+P 9
+S 2
+P 10
+S 0
+P 9
+P 10
+P 10
+S 0
+S 1
+P 9
+S 2
+S 0
+P 9
+P 10
+S 0
+P 9
+P 10
+P 10
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 10
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 10
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 10
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 10
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 10
+S 2
+U
+P 10
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 10
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 10
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 10
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 10
+S 0
+S 1
+S 2
+U
+P 10
+S 2
+U
+U
+P 10
+P 10
+S 0
+S 1
+S 2
+S 0
+P 9
+P 10
+S 0
+S 1
+P 10
+P 9
+P 10
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 10
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+P 9
+S 2
+U
+U
+S 1
+P 10
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 10
+S 2
+S 0
+S 1
+P 10
+S 2
+U
+U
+P 10
+S 0
+S 1
+P 10
+S 2
+U
+U
+P 10
+S 0
+S 1
+S 2
+S 0
+S 1
+P 9
+S 2
+U
+U
+S 1
+P 10
+S 2
+U
+U
+S 0
+S 1
+P 9
+S 2
+U
+U
+P 10
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 10
+S 2
+S 0
+S 1
+P 10
+S 2
+U
+P 10
+P 10
+P 10
+P 10
+S 1
+S 2
+S 0
+P 10
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 10
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+P 10
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 10
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 10
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+P 10
+S 1
+S 2
+U
+U
+S 2
+U
+P 11
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+P 10
+P 10
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+P 10
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 10
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 10
+S 1
+S 2
+U
+U
+P 11
+S 0
+S 1
+S 2
+U
+U
+P 10
+S 1
+S 2
+U
+U
+P 11
+S 2
+S 0
+P 10
+S 1
+S 2
+S 0
+P 10
+P 11
+P 11
+P 10
+S 0
+P 10
+P 11
+S 0
+P 10
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+P 10
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+P 10
+S 1
+S 2
+U
+U
+P 10
+P 10
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 10
+S 1
+S 2
+U
+U
+P 11
+S 0
+S 1
+S 2
+U
+U
+P 10
+S 1
+S 2
+U
+U
+P 11
+S 0
+S 1
+S 2
+S 0
+P 10
+S 1
+S 2
+U
+U
+P 10
+S 0
+P 10
+S 1
+S 2
+U
+U
+P 10
+P 10
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 10
+S 1
+S 2
+U
+P 11
+P 11
+S 0
+S 1
+S 2
+U
+U
+P 10
+P 11
+S 2
+S 0
+P 10
+P 11
+S 0
+P 10
+P 11
+S 2
+S 0
+S 1
+P 10
+S 2
+S 0
+P 10
+S 1
+P 10
+S 2
+S 0
+P 10
+S 1
+P 10
+P 14
+S 0
+P 10
+S 1
+P 10
+P 14
+S 0
+P 10
+S 1
+P 10
+S 2
+S 0
+P 10
+S 1
+P 10
+P 14
+P 14
+S 1
+P 10
+S 2
+S 0
+S 1
+S 2
+S 0
+P 10
+S 1
+P 10
+S 2
+U
+U
+S 0
+P 10
+S 1
+P 10
+S 2
+U
+P 10
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+S 0
+S 1
+P 10
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 10
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 10
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+S 0
+S 1
+P 10
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 10
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 10
+S 2
+S 0
+P 10
+S 1
+P 10
+P 14
+S 0
+P 10
+S 1
+P 10
+P 14
+S 1
+P 10
+S 2
+S 0
+S 1
+P 10
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 14
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+P 14
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+S 0
+S 1
+P 10
+S 2
+U
+U
+S 1
+P 10
+S 2
+U
+U
+S 0
+S 1
+P 10
+S 2
+U
+U
+S 1
+P 10
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 10
+S 2
+S 0
+S 1
+S 2
+U
+P 14
+P 14
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+P 14
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+S 0
+S 1
+P 10
+S 2
+U
+U
+S 1
+P 10
+S 2
+U
+U
+S 0
+P 10
+S 1
+P 10
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 10
+P 10
+S 1
+S 2
+S 0
+S 1
+P 6
+P 10
+P 6
+S 0
+S 1
+P 6
+P 10
+P 6
+P 10
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 10
+S 0
+S 1
+S 2
+U
+U
+P 10
+S 1
+S 2
+U
+U
+P 10
+P 10
+S 1
+P 6
+P 10
+P 10
+P 10
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 10
+S 1
+S 2
+U
+P 6
+P 10
+S 0
+S 1
+S 2
+U
+U
+P 10
+S 1
+P 6
+P 10
+P 10
+S 1
+S 2
+P 6
+S 0
+P 6
+P 10
+P 10
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 10
+P 6
+S 0
+S 1
+S 2
+U
+U
+P 10
+S 1
+P 6
+P 10
+P 10
+P 10
+P 10
+P 10
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+P 10
+P 9
+P 10
+P 10
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+P 9
+S 2
+U
+U
+P 10
+S 0
+S 1
+P 9
+S 2
+U
+U
+P 10
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 10
+S 0
+S 1
+S 2
+S 0
+P 9
+P 10
+S 0
+P 9
+P 10
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 10
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 10
+S 2
+U
+P 10
+P 10
+P 10
+S 0
+S 1
+P 10
+S 2
+S 0
+S 1
+P 9
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 10
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 10
+P 10
+S 0
+S 1
+S 2
+S 0
+P 9
+P 10
+P 10
+S 2
+S 0
+S 1
+S 2
+U
+P 9
+S 2
+U
+U
+P 10
+S 0
+S 1
+P 9
+S 2
+U
+U
+P 10
+P 10
+P 10
+S 1
+S 2
+S 0
+P 10
+S 1
+S 2
+S 0
+P 10
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+P 11
+P 10
+P 11
+P 11
+S 0
+P 10
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+P 11
+P 11
+S 2
+S 0
+P 10
+S 1
+P 11
+P 10
+S 0
+P 10
+S 1
+P 11
+P 10
+S 0
+P 10
+S 1
+S 2
+S 0
+P 10
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 10
+S 1
+S 2
+U
+U
+P 11
+S 0
+S 1
+S 2
+U
+P 10
+P 10
+S 1
+S 2
+U
+U
+P 11
+P 11
+S 0
+P 10
+S 1
+S 2
+S 0
+P 10
+S 1
+S 2
+U
+U
+P 11
+S 0
+P 10
+S 1
+S 2
+U
+U
+P 11
+P 11
+S 2
+S 0
+P 10
+S 1
+P 11
+P 10
+S 0
+P 10
+S 1
+S 2
+S 0
+P 10
+P 11
+S 0
+P 10
+P 11
+P 10
+S 2
+S 0
+S 1
+P 10
+S 2
+S 0
+P 10
+S 1
+P 10
+P 14
+S 0
+P 10
+S 1
+P 10
+P 14
+S 1
+P 10
+S 2
+S 0
+S 1
+P 10
+S 2
+S 0
+P 14
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+P 14
+S 1
+S 2
+U
+U
+P 14
+S 1
+S 2
+S 0
+P 10
+S 1
+P 10
+S 2
+U
+U
+P 10
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 10
+S 2
+S 0
+P 14
+S 1
+S 2
+U
+P 14
+P 14
+P 14
+S 1
+P 10
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 10
+S 2
+S 0
+P 10
+S 1
+P 10
+P 14
+S 0
+P 10
+S 1
+P 10
+S 2
+S 0
+P 10
+P 14
+S 0
+P 10
+P 14
+S 1
+P 10
+S 2
+S 0
+S 1
+P 10
+P 14
+S 1
+P 10
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 10
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+P 10
+P 14
+S 1
+P 10
+S 2
+S 0
+S 1
+P 10
+P 14
+S 1
+P 10
+S 2
+U
+U
+S 0
+P 14
+S 1
+P 10
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 14
+P 14
+S 0
+S 1
+S 2
+U
+U
+P 14
+P 14
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 14
+P 14
+S 0
+S 1
+S 2
+U
+U
+P 14
+P 14
+P 14
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+P 14
+P 14
+P 14
+P 14
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 14
+P 14
+S 0
+S 1
+S 2
+U
+U
+P 14
+P 14
+P 14
+P 14
+P 14
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 14
+P 14
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 14
+P 14
+S 0
+S 1
+S 2
+U
+U
+P 14
+P 14
+P 14
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 14
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 14
+P 14
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 14
+P 14
+S 0
+S 1
+S 2
+U
+U
+P 14
+P 10
+P 14
+P 14
+P 14
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+P 13
+S 2
+S 0
+S 1
+P 13
+S 2
+U
+U
+P 14
+S 0
+S 1
+P 13
+S 2
+U
+U
+P 14
+P 14
+S 0
+S 1
+P 13
+S 2
+S 0
+S 1
+P 13
+S 2
+U
+U
+P 14
+S 0
+P 13
+P 14
+P 14
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+W 3
+S 1
+P 14
+W 3
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+W 3
+S 1
+P 14
+W 3
+P 14
+S 0
+S 1
+S 2
+S 0
+S 1
+P 13
+S 2
+S 0
+P 13
+P 14
+S 0
+P 13
+P 14
+P 14
+S 0
+P 13
+P 14
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+P 14
+W 3
+S 0
+S 1
+S 2
+U
+U
+S 2
+W 3
+U
+S 1
+P 14
+S 2
+W 3
+U
+W 3
+S 1
+P 14
+W 3
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 14
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+P 13
+S 2
+U
+U
+S 1
+P 14
+S 2
+U
+U
+W 3
+S 1
+P 14
+W 3
+P 14
+S 1
+S 2
+S 0
+P 14
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+P 14
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+P 14
+S 1
+S 2
+U
+U
+S 2
+U
+P 14
+P 14
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 14
+S 1
+S 2
+U
+U
+P 15
+S 0
+S 1
+S 2
+U
+U
+P 14
+S 1
+S 2
+U
+U
+P 15
+S 0
+S 1
+S 2
+S 0
+P 14
+S 1
+S 2
+U
+U
+P 14
+S 0
+P 14
+S 1
+S 2
+U
+U
+P 14
+P 14
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 14
+S 1
+S 2
+U
+U
+P 15
+S 0
+S 1
+S 2
+U
+U
+P 14
+S 1
+S 2
+U
+U
+P 15
+S 2
+P 14
+S 0
+P 14
+P 15
+S 0
+P 14
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+P 14
+S 1
+S 2
+U
+U
+P 14
+S 0
+P 14
+S 1
+S 2
+U
+U
+P 14
+P 14
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 14
+P 15
+S 0
+S 1
+S 2
+U
+U
+P 14
+P 15
+S 0
+S 1
+S 2
+S 0
+P 14
+S 1
+S 2
+U
+U
+P 14
+P 14
+P 14
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+P 15
+P 14
+P 15
+P 15
+S 2
+S 0
+P 14
+P 15
+S 0
+P 14
+S 1
+P 15
+P 14
+S 2
+S 0
+S 1
+P 14
+S 2
+S 0
+P 14
+S 1
+P 14
+W 3
+S 0
+P 14
+S 1
+P 14
+W 3
+S 1
+S 2
+S 0
+P 14
+S 1
+P 14
+S 2
+S 0
+P 14
+S 1
+P 14
+S 2
+U
+U
+S 0
+P 14
+S 1
+P 14
+S 2
+U
+P 14
+P 14
+S 2
+S 0
+S 1
+S 2
+S 0
+P 14
+S 1
+P 14
+W 3
+S 0
+P 14
+S 1
+P 14
+W 3
+W 3
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+W 3
+S 0
+S 1
+S 2
+S 0
+P 14
+S 1
+P 14
+W 3
+S 0
+P 14
+S 1
+P 14
+W 3
+W 3
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 0
+S 1
+S 2
+U
+P 14
+W 3
+S 1
+S 2
+U
+U
+W 3
+W 3
+S 0
+S 1
+P 14
+S 2
+S 0
+S 1
+P 14
+W 3
+S 1
+P 14
+W 3
+S 0
+S 1
+P 14
+W 3
+S 1
+P 14
+W 3
+S 1
+P 14
+S 2
+S 0
+S 1
+S 2
+S 0
+P 14
+S 1
+P 14
+W 3
+S 0
+P 14
+S 1
+P 14
+S 2
+W 3
+U
+W 3
+S 1
+S 2
+S 0
+S 1
+P 14
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 0
+S 1
+P 14
+S 2
+W 3
+U
+S 1
+S 2
+U
+U
+S 2
+W 3
+U
+W 3
+S 0
+S 1
+S 2
+S 0
+P 14
+S 1
+P 14
+S 2
+U
+U
+P 14
+W 3
+S 1
+S 2
+S 0
+S 1
+P 14
+S 2
+U
+U
+S 1
+S 2
+U
+P 14
+S 2
+U
+U
+S 0
+S 1
+P 14
+S 2
+U
+U
+S 1
+P 14
+S 2
+U
+U
+W 3
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 14
+S 1
+S 2
+U
+U
+P 14
+S 0
+S 1
+S 2
+U
+U
+P 14
+S 1
+S 2
+U
+U
+P 14
+P 14
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+P 10
+P 14
+P 10
+S 0
+S 1
+P 10
+P 14
+P 10
+P 14
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 14
+S 1
+S 2
+U
+U
+P 14
+S 0
+S 1
+S 2
+U
+U
+P 14
+S 1
+S 2
+U
+U
+P 14
+P 14
+P 14
+P 14
+P 14
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 14
+P 14
+S 0
+S 1
+S 2
+U
+P 14
+P 14
+P 14
+P 14
+P 14
+P 14
+P 14
+P 14
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+P 14
+P 13
+P 14
+S 0
+S 1
+P 14
+P 13
+P 14
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+P 13
+S 2
+U
+U
+S 1
+P 14
+S 2
+U
+P 14
+S 0
+S 1
+P 13
+S 2
+U
+U
+P 14
+W 3
+P 14
+S 0
+S 1
+S 2
+S 0
+S 1
+P 13
+S 2
+U
+U
+P 14
+S 0
+S 1
+P 13
+S 2
+U
+U
+P 14
+S 2
+W 3
+S 0
+S 1
+S 2
+W 3
+U
+W 3
+S 1
+P 14
+W 3
+P 14
+P 14
+S 0
+S 1
+P 14
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+P 13
+S 2
+U
+P 13
+P 14
+S 0
+P 13
+P 14
+S 2
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+P 14
+W 3
+S 0
+S 1
+S 2
+U
+U
+W 3
+P 14
+P 14
+S 0
+S 1
+S 2
+S 0
+P 13
+P 14
+S 0
+P 13
+P 14
+S 2
+S 0
+S 1
+S 2
+U
+U
+W 3
+P 14
+S 0
+S 1
+S 2
+U
+U
+W 3
+P 14
+P 14
+P 14
+S 1
+S 2
+S 0
+P 14
+S 1
+S 2
+S 0
+P 14
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 15
+P 15
+S 0
+P 14
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 15
+S 0
+S 1
+S 2
+U
+U
+P 14
+S 1
+S 2
+U
+U
+P 15
+P 15
+S 2
+S 0
+P 14
+S 1
+P 15
+P 14
+S 0
+P 14
+S 1
+P 15
+P 14
+S 0
+P 14
+S 1
+S 2
+S 0
+P 14
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 14
+S 1
+S 2
+U
+U
+P 15
+S 0
+P 14
+S 1
+S 2
+U
+U
+P 15
+P 15
+S 0
+P 14
+S 1
+S 2
+S 0
+P 14
+P 15
+P 15
+P 15
+S 2
+S 0
+P 14
+S 1
+S 2
+P 15
+S 0
+P 14
+P 15
+P 14
+P 14
+S 2
+S 0
+S 1
+P 14
+S 2
+S 0
+S 1
+P 14
+W 3
+S 1
+P 14
+W 3
+S 0
+S 1
+P 14
+S 2
+W 3
+S 0
+S 1
+P 14
+W 3
+S 1
+P 14
+W 3
+S 1
+P 14
+S 2
+W 3
+S 0
+S 1
+P 14
+W 3
+S 1
+P 14
+W 3
+S 1
+P 14
+S 2
+S 0
+S 1
+P 14
+W 3
+S 1
+S 2
+S 0
+S 1
+P 14
+S 2
+U
+U
+S 1
+P 14
+S 2
+U
+U
+S 0
+S 1
+P 14
+S 2
+U
+U
+S 1
+P 14
+S 2
+U
+U
+W 3
+S 0
+S 1
+P 14
+S 2
+W 3
+S 0
+S 1
+S 2
+W 3
+U
+W 3
+S 1
+S 2
+W 3
+U
+W 3
+S 1
+S 2
+S 0
+P 14
+S 1
+P 14
+S 2
+U
+U
+S 0
+P 14
+S 1
+P 14
+S 2
+U
+P 14
+S 2
+W 3
+S 0
+S 1
+S 2
+W 3
+U
+W 3
+S 1
+S 2
+W 3
+U
+W 3
+S 0
+S 1
+P 14
+S 2
+S 0
+S 1
+P 14
+S 2
+S 0
+S 1
+P 14
+W 3
+S 1
+P 14
+W 3
+S 0
+S 1
+P 14
+W 3
+S 1
+P 14
+W 3
+S 1
+P 14
+S 2
+S 0
+S 1
+P 14
+W 3
+S 1
+P 14
+W 3
+S 0
+S 1
+P 14
+W 3
+S 1
+P 14
+W 3
+S 0
+S 1
+P 14
+S 2
+S 0
+S 1
+P 14
+W 3
+S 1
+P 14
+W 3
+S 0
+S 1
+P 14
+W 3
+S 1
+P 14
+W 3
+S 1
+P 14
+S 2
+S 0
+S 1
+P 14
+W 3
+S 1
+P 14
+W 3
+S 0
+S 1
+P 14
+W 3
+S 1
+P 14
+W 3
+S 1
+P 14
+S 2
+S 0
+S 1
+P 14
+S 2
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 0
+S 1
+P 14
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 1
+P 14
+S 2
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 0
+S 1
+P 14
+S 2
+S 0
+S 1
+P 14
+W 3
+S 1
+S 2
+U
+P 14
+W 3
+S 0
+S 1
+P 14
+W 3
+S 1
+P 14
+W 3
+S 1
+P 14
+S 2
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+U
+U
+W 3
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 11
+P 11
+S 0
+S 1
+S 2
+U
+U
+P 11
+P 11
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 11
+S 1
+S 2
+P 11
+U
+P 11
+S 0
+S 1
+S 2
+U
+U
+P 11
+S 1
+P 7
+P 11
+P 11
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 11
+P 11
+S 0
+S 1
+S 2
+U
+P 11
+P 11
+P 11
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 11
+S 1
+P 7
+P 11
+S 0
+S 1
+S 2
+U
+U
+P 11
+S 1
+P 7
+P 11
+P 11
+P 11
+P 11
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 11
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 11
+P 7
+S 0
+S 1
+S 2
+U
+P 7
+P 11
+P 7
+P 11
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 11
+P 11
+S 1
+S 2
+S 0
+S 1
+P 7
+P 11
+P 7
+S 0
+S 1
+P 7
+P 11
+P 7
+P 11
+P 11
+P 11
+S 2
+S 0
+S 1
+P 11
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 11
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 11
+S 2
+U
+P 11
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 11
+S 2
+S 0
+S 1
+P 11
+S 2
+U
+U
+P 11
+S 0
+S 1
+P 11
+S 2
+U
+U
+P 11
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 11
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 11
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 11
+S 2
+S 0
+S 1
+P 11
+S 2
+U
+U
+P 11
+S 0
+S 1
+P 11
+S 2
+U
+U
+P 11
+P 11
+S 0
+S 1
+P 11
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 11
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 11
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 11
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+P 10
+S 2
+U
+U
+P 11
+S 0
+S 1
+P 10
+S 2
+U
+U
+P 11
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 11
+S 2
+U
+U
+P 11
+P 11
+S 1
+S 2
+S 0
+P 11
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 11
+W 1
+S 0
+S 1
+S 2
+U
+U
+P 11
+W 1
+S 2
+S 0
+P 11
+W 1
+S 0
+P 11
+W 1
+W 1
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 11
+W 1
+S 0
+S 1
+S 2
+U
+U
+P 11
+W 1
+S 2
+S 0
+P 11
+W 1
+S 0
+P 11
+W 1
+W 1
+S 2
+S 0
+P 11
+W 1
+S 0
+P 11
+W 1
+S 0
+P 11
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 11
+W 1
+S 0
+S 1
+S 2
+U
+P 11
+P 11
+S 1
+S 2
+W 1
+U
+S 2
+W 1
+U
+P 11
+W 1
+S 0
+S 1
+S 2
+S 0
+P 11
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+P 11
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 11
+W 1
+S 2
+S 0
+P 11
+W 1
+S 0
+P 11
+W 1
+S 2
+S 0
+S 1
+P 11
+S 2
+S 0
+P 11
+S 1
+P 11
+S 2
+S 0
+S 1
+P 11
+P 15
+S 1
+P 11
+S 2
+U
+U
+S 0
+P 15
+S 1
+P 11
+S 2
+U
+P 15
+S 0
+P 11
+S 1
+P 11
+S 2
+S 0
+P 15
+S 1
+P 11
+P 15
+S 0
+P 15
+S 1
+P 11
+P 15
+S 1
+S 2
+S 0
+P 11
+W 1
+P 11
+S 2
+S 0
+S 1
+S 2
+S 0
+P 11
+W 1
+S 0
+P 11
+W 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+W 1
+S 0
+S 1
+S 2
+S 0
+P 11
+W 1
+S 0
+P 11
+W 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+W 1
+S 0
+S 1
+P 11
+S 2
+S 0
+P 11
+S 1
+P 11
+S 2
+S 0
+P 15
+S 1
+P 11
+P 15
+P 15
+S 0
+P 11
+S 1
+P 11
+P 15
+S 1
+P 11
+S 2
+S 0
+S 1
+S 2
+S 0
+P 11
+W 1
+P 11
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+W 1
+U
+S 2
+W 1
+U
+W 1
+S 0
+S 1
+P 11
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+P 15
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+P 15
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 11
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 11
+P 11
+S 1
+P 7
+P 11
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 11
+S 1
+P 7
+P 11
+S 0
+S 1
+S 2
+U
+U
+P 11
+S 1
+P 7
+P 11
+P 11
+S 1
+P 7
+P 11
+P 11
+P 11
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 11
+P 7
+S 0
+S 1
+S 2
+U
+U
+P 11
+P 7
+P 11
+S 1
+S 2
+S 0
+P 7
+P 11
+P 11
+P 11
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+P 7
+P 11
+S 1
+P 7
+P 11
+S 0
+S 1
+P 7
+P 11
+P 11
+P 11
+P 11
+P 11
+P 11
+S 2
+S 0
+S 1
+P 11
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+P 10
+S 2
+U
+U
+P 11
+S 0
+S 1
+P 10
+S 2
+U
+U
+P 11
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+P 11
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 11
+P 11
+S 0
+S 1
+S 2
+S 0
+S 1
+P 10
+S 2
+U
+P 10
+P 11
+P 11
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 11
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 11
+P 11
+P 11
+S 0
+S 1
+P 11
+S 2
+S 0
+S 1
+P 11
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 11
+S 0
+S 1
+P 11
+S 2
+U
+U
+P 11
+P 11
+P 11
+P 11
+S 1
+S 2
+S 0
+P 11
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+P 11
+S 1
+S 2
+U
+U
+S 2
+U
+P 11
+S 0
+P 11
+S 1
+S 2
+U
+U
+P 11
+P 11
+W 1
+S 0
+S 1
+S 2
+S 0
+P 11
+S 1
+S 2
+U
+U
+P 11
+P 11
+P 11
+S 1
+S 2
+W 1
+S 0
+S 1
+S 2
+W 1
+U
+S 2
+W 1
+U
+W 1
+S 2
+W 1
+S 0
+S 1
+S 2
+W 1
+U
+S 2
+W 1
+P 11
+W 1
+S 2
+S 0
+P 11
+W 1
+S 0
+P 11
+S 1
+S 2
+W 1
+S 0
+P 11
+W 1
+S 2
+W 1
+S 0
+P 11
+W 1
+S 0
+P 11
+S 1
+S 2
+S 0
+P 11
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 11
+W 1
+S 0
+S 1
+S 2
+U
+U
+P 11
+W 1
+S 0
+P 11
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+P 11
+W 1
+S 2
+S 0
+P 11
+W 1
+S 0
+P 11
+W 1
+S 2
+S 0
+P 11
+S 1
+S 2
+S 0
+P 11
+W 1
+S 0
+P 11
+W 1
+S 2
+S 0
+P 11
+W 1
+S 0
+P 11
+W 1
+S 0
+P 11
+S 1
+S 2
+S 0
+P 11
+W 1
+S 0
+P 11
+W 1
+S 2
+S 0
+P 11
+W 1
+S 0
+P 11
+W 1
+S 2
+S 0
+S 1
+P 11
+S 2
+S 0
+P 11
+S 1
+P 11
+P 15
+S 0
+P 11
+S 1
+P 11
+P 15
+S 1
+P 11
+S 2
+S 0
+S 1
+P 11
+S 2
+S 0
+S 1
+S 2
+U
+P 15
+P 15
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+P 15
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+S 0
+S 1
+P 11
+S 2
+S 0
+P 15
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+P 15
+S 1
+S 2
+U
+U
+S 2
+U
+P 15
+S 1
+P 11
+S 2
+W 1
+S 0
+S 1
+S 2
+W 1
+U
+S 2
+W 1
+U
+W 1
+S 0
+S 1
+P 11
+S 2
+S 0
+P 11
+S 1
+P 11
+P 15
+S 0
+P 11
+S 1
+P 11
+S 2
+P 15
+S 0
+S 1
+P 11
+P 15
+P 15
+S 1
+P 11
+S 2
+S 0
+S 1
+P 11
+S 2
+S 0
+P 15
+S 1
+P 11
+P 15
+P 15
+S 1
+P 11
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+S 0
+S 1
+S 2
+U
+P 11
+S 2
+U
+U
+W 1
+S 0
+S 1
+P 11
+P 15
+S 1
+P 11
+S 2
+S 0
+S 1
+P 11
+S 2
+U
+U
+W 1
+S 0
+S 1
+P 11
+S 2
+U
+U
+W 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 15
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 15
+P 15
+S 0
+S 1
+S 2
+U
+U
+P 15
+P 15
+P 15
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 15
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 15
+P 15
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 15
+P 15
+S 0
+S 1
+S 2
+U
+U
+P 15
+P 15
+P 15
+P 15
+P 15
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 15
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 15
+P 15
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 15
+P 15
+S 0
+S 1
+S 2
+U
+U
+P 15
+P 11
+P 15
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 1
+S 2
+U
+U
+P 15
+S 0
+S 1
+S 2
+U
+U
+P 15
+S 1
+S 2
+U
+U
+P 15
+P 15
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+P 11
+P 15
+P 11
+S 0
+S 1
+P 11
+P 15
+P 11
+P 15
+P 15
+P 15
+S 2
+S 0
+S 1
+P 15
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+P 15
+W 3
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+P 15
+W 3
+W 3
+S 1
+P 15
+W 3
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+P 15
+W 3
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+P 15
+W 3
+W 3
+S 1
+P 15
+W 3
+P 15
+S 0
+S 1
+P 15
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+W 3
+S 1
+P 15
+W 3
+S 0
+S 1
+S 2
+U
+U
+S 2
+W 3
+U
+P 15
+W 3
+S 1
+P 15
+W 3
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 15
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+P 15
+W 3
+P 15
+P 15
+S 1
+S 2
+S 0
+P 15
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 15
+W 1
+S 0
+S 1
+S 2
+U
+U
+P 15
+W 1
+P 15
+W 1
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 15
+W 1
+S 0
+S 1
+S 2
+U
+P 15
+P 15
+W 1
+P 15
+W 1
+S 2
+S 0
+P 15
+W 1
+S 0
+P 15
+W 1
+S 0
+P 15
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+P 15
+W 1
+S 0
+P 15
+S 1
+S 2
+W 1
+U
+S 2
+W 1
+U
+P 15
+W 1
+S 0
+S 1
+S 2
+S 0
+P 15
+S 1
+S 2
+U
+U
+S 2
+U
+U
+S 0
+P 15
+S 1
+S 2
+U
+U
+P 15
+P 15
+W 1
+S 2
+S 0
+P 15
+W 1
+S 0
+P 15
+W 1
+C 3
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 15
+S 1
+S 2
+U
+U
+P 15
+S 0
+S 1
+S 2
+U
+U
+P 15
+S 1
+S 2
+U
+U
+P 15
+P 15
+P 15
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 15
+S 1
+S 2
+U
+U
+P 15
+S 0
+S 1
+S 2
+U
+U
+P 15
+P 15
+P 15
+P 15
+P 15
+P 15
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 15
+P 15
+P 15
+P 15
+P 15
+P 15
+P 15
+P 15
+S 2
+S 0
+S 1
+P 15
+S 2
+S 0
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+P 14
+S 2
+U
+U
+P 15
+S 0
+S 1
+P 14
+S 2
+U
+U
+P 15
+W 3
+P 15
+S 0
+S 1
+S 2
+S 0
+S 1
+P 14
+S 2
+U
+U
+P 15
+S 0
+S 1
+P 14
+S 2
+U
+U
+P 15
+S 2
+W 3
+S 0
+S 1
+S 2
+W 3
+U
+W 3
+P 15
+P 15
+P 15
+S 0
+S 1
+P 15
+S 2
+S 0
+S 1
+P 15
+S 2
+S 0
+S 1
+S 2
+U
+U
+W 3
+P 15
+S 0
+S 1
+S 2
+U
+P 15
+W 3
+P 15
+P 15
+S 0
+S 1
+P 15
+S 2
+S 0
+S 1
+P 15
+W 3
+P 15
+P 15
+P 15
+S 1
+P 15
+S 2
+P 15
+S 0
+P 15
+S 1
+P 15
+S 2
+S 0
+P 15
+S 1
+P 15
+W 3
+S 0
+P 15
+S 1
+P 15
+W 3
+S 1
+S 2
+S 0
+P 15
+S 1
+S 2
+S 0
+S 1
+S 2
+S 0
+P 15
+S 1
+S 2
+U
+U
+P 15
+S 0
+P 15
+S 1
+S 2
+U
+U
+P 15
+P 15
+W 1
+S 0
+P 15
+S 1
+S 2
+W 1
+S 0
+S 1
+S 2
+W 1
+U
+S 2
+W 1
+U
+W 1
+S 2
+W 1
+S 0
+S 1
+S 2
+W 1
+U
+P 15
+W 1
+S 2
+S 0
+P 15
+W 1
+S 0
+P 15
+S 1
+S 2
+W 1
+S 0
+P 15
+W 1
+S 2
+W 1
+S 0
+P 15
+W 1
+S 0
+P 15
+S 1
+S 2
+S 0
+P 15
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+P 15
+W 1
+S 0
+P 15
+W 1
+S 0
+P 15
+S 1
+S 2
+S 0
+S 1
+S 2
+U
+U
+S 2
+U
+U
+W 1
+S 0
+S 1
+S 2
+U
+U
+P 15
+W 1
+S 2
+S 0
+P 15
+W 1
+S 0
+P 15
+W 1
+S 2
+S 0
+P 15
+S 1
+S 2
+S 0
+P 15
+W 1
+S 0
+P 15
+W 1
+S 2
+S 0
+P 15
+W 1
+S 0
+P 15
+W 1
+S 0
+P 15
+S 1
+S 2
+S 0
+P 15
+W 1
+S 0
+P 15
+W 1
+S 2
+S 0
+P 15
+W 1
+S 0
+P 15
+W 1
+C 3
